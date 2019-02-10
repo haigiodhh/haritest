@@ -1,0 +1,3710 @@
+[
+    {
+        "CaseA": "Toi",
+        "CaseB": "Mưa",
+        "CaseC": "Nắng",
+        "CaseD": "Râm",
+        "Question": "Điền tiếp vào câu tục ngữ sau: \"Chớp đông nhay nháy, gà gáy thì ....\"?",
+        "TrueCase": 2,
+        "_id": 1
+    },
+    {
+        "CaseA": "Ngô Thanh Vân",
+        "CaseB": "Phi Thanh Vân",
+        "CaseC": "Nguyễn Thanh Vân",
+        "CaseD": "Đặng Thanh Vân",
+        "Question": "Bài hát \"Da nâu\" do ca sĩ nào thể hiện?",
+        "TrueCase": 2,
+        "_id": 2
+    },
+    {
+        "CaseA": "Điện thoại",
+        "CaseB": "Máy tính",
+        "CaseC": "Quạt",
+        "CaseD": "Đồng hồ",
+        "Question": "Trong các thiết bị sau, thiết bị nào thường dùng để tạo ra gió?",
+        "TrueCase": 3,
+        "_id": 3
+    },
+    {
+        "CaseA": "Họa sĩ",
+        "CaseB": "Họa tiết",
+        "CaseC": "Họa mi",
+        "CaseD": "Họa bì",
+        "Question": "Danh từ nào sau đây là tên một loài chim?",
+        "TrueCase": 3,
+        "_id": 4
+    },
+    {
+        "CaseA": "TH TrueMilk",
+        "CaseB": "Cô Gái Hà Lan",
+        "CaseC": "Vinamilk",
+        "CaseD": "Hòa Phát",
+        "Question": "Trong các nhãn hiệu sau, đâu không phải là nhãn hiệu sữa?",
+        "TrueCase": 4,
+        "_id": 5
+    },
+    {
+        "CaseA": "Cầu Kiến",
+        "CaseB": "Cầu Mây",
+        "CaseC": "Cầu Lông",
+        "CaseD": "Khúc Côn Cầu",
+        "Question": "Đâu không phải là tên một môn thể thao?",
+        "TrueCase": 1,
+        "_id": 6
+    },
+    {
+        "CaseA": "Nổi",
+        "CaseB": "Nhảy",
+        "CaseC": "Lặn",
+        "CaseD": "Bơi",
+        "Question": "Điền tiếp vào câu thành ngữ để chỉ vẻ đẹp: \"Chim sa cá ....\"?",
+        "TrueCase": 3,
+        "_id": 7
+    },
+    {
+        "CaseA": "Sợ",
+        "CaseB": "Chạy",
+        "CaseC": "Trốn",
+        "CaseD": "Tắm",
+        "Question": "Điền tiếp vào câu thành ngữ: \"Cơn đằng đông vừa trông vừa ...\"?",
+        "TrueCase": 2,
+        "_id": 8
+    },
+    {
+        "CaseA": "10",
+        "CaseB": "20",
+        "CaseC": "30",
+        "CaseD": "40",
+        "Question": "Alibaba và bao nhiêu tên cướp?",
+        "TrueCase": 4,
+        "_id": 9
+    },
+    {
+        "CaseA": "Con voi",
+        "CaseB": "Củ khoai",
+        "CaseC": "Đầu gối",
+        "CaseD": "Hộp đường",
+        "Question": "Điền tiếp vào câu thành ngữ: \"Con kiến mà kiện ...\"?",
+        "TrueCase": 2,
+        "_id": 10
+    },
+    {
+        "CaseA": "Bánh quy",
+        "CaseB": "Bánh Bao",
+        "CaseC": "Bánh xe",
+        "CaseD": "Bánh mật",
+        "Question": "Thứ nào sau đây không ăn được?",
+        "TrueCase": 3,
+        "_id": 11
+    },
+    {
+        "CaseA": "Nói",
+        "CaseB": "Ngủ",
+        "CaseC": "No",
+        "CaseD": "Vóc",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Ăn ... học hay\"?",
+        "TrueCase": 4,
+        "_id": 12
+    },
+    {
+        "CaseA": "Vợ",
+        "CaseB": "Cô gái",
+        "CaseC": "Láng giềng",
+        "CaseD": "Đồ cổ",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Bán anh em xa mua ... gần\"?",
+        "TrueCase": 3,
+        "_id": 13
+    },
+    {
+        "CaseA": "Người bán phấn",
+        "CaseB": "Người buôn hương",
+        "CaseC": "Người buôn bán hàng mã",
+        "CaseD": "Cô gái làng chơi",
+        "Question": "Câu tục ngữ: \"Bán phấn buôn hương\" để chỉ?",
+        "TrueCase": 4,
+        "_id": 14
+    },
+    {
+        "CaseA": "Áo dài",
+        "CaseB": "Áo giấy",
+        "CaseC": "Áo lụa",
+        "CaseD": "Áo gió",
+        "Question": "Điền vào chỗ trống: \"Đi với bụt mặc áo cà sa, đi với ma mặc áo ...\"?",
+        "TrueCase": 2,
+        "_id": 15
+    },
+    {
+        "CaseA": "Gặp toàn hàng ngon",
+        "CaseB": "Mệt rũ chân tay",
+        "CaseC": "Học một sàng khôn",
+        "CaseD": "Vớ toàn điều xui",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Đi một ngày đàng, ...\"?",
+        "TrueCase": 3,
+        "_id": 16
+    },
+    {
+        "CaseA": "Thơm",
+        "CaseB": "Lành",
+        "CaseC": "Vuông",
+        "CaseD": "No",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Đói cho sạch, rách cho ...\"?",
+        "TrueCase": 1,
+        "_id": 17
+    },
+    {
+        "CaseA": "Ăn nhạt",
+        "CaseB": "Khát nước",
+        "CaseC": "Ăn cay",
+        "CaseD": "Chết đói",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Đời cha ăn mặn, đời con ...\"?",
+        "TrueCase": 2,
+        "_id": 18
+    },
+    {
+        "CaseA": "Trong",
+        "CaseB": "Xanh",
+        "CaseC": "Vinh",
+        "CaseD": "Sướng",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Chết ... còn hơn sống nhục\"?",
+        "TrueCase": 3,
+        "_id": 19
+    },
+    {
+        "CaseA": "Bà già",
+        "CaseB": "Công an",
+        "CaseC": "Thương binh",
+        "CaseD": "Nông dân",
+        "Question": "Điền tiếp vào câu thành ngữ: \"Kẻ cắp gặp ...\"?",
+        "TrueCase": 1,
+        "_id": 20
+    },
+    {
+        "CaseA": "Đen",
+        "CaseB": "Trắng",
+        "CaseC": "Sáng",
+        "CaseD": "Sứt",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Lo bò ... răng\"?",
+        "TrueCase": 2,
+        "_id": 21
+    },
+    {
+        "CaseA": "Học ngu",
+        "CaseB": "Dạy ai",
+        "CaseC": "Làm nên",
+        "CaseD": "Đi chơi",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Không thầy đố mày ...\"?",
+        "TrueCase": 3,
+        "_id": 22
+    },
+    {
+        "CaseA": "Vườn",
+        "CaseB": "Trường",
+        "CaseC": "Cửa",
+        "CaseD": "Chợ",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Khôn nhà, dại ...\"?",
+        "TrueCase": 4,
+        "_id": 23
+    },
+    {
+        "CaseA": "Axit",
+        "CaseB": "Bazo",
+        "CaseC": "Máu đào",
+        "CaseD": "Nước thánh",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Một giọt ... hơn ao nước lã\"?",
+        "TrueCase": 3,
+        "_id": 24
+    },
+    {
+        "CaseA": "Ruồi",
+        "CaseB": "Gián",
+        "CaseC": "Ong",
+        "CaseD": "Hoa",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Mật ngọt chết ...\"?",
+        "TrueCase": 1,
+        "_id": 25
+    },
+    {
+        "CaseA": "Cái tát",
+        "CaseB": "Thang thuốc bổ",
+        "CaseC": "Quả đấm",
+        "CaseD": "Cái liếc",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Một nụ cười bằng mười ...\"?",
+        "TrueCase": 2,
+        "_id": 26
+    },
+    {
+        "CaseA": "Mồ",
+        "CaseB": "Đồng",
+        "CaseC": "Rừng",
+        "CaseD": "Nhà",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Mèo mả gà ...\"?",
+        "TrueCase": 2,
+        "_id": 27
+    },
+    {
+        "CaseA": "Nhục",
+        "CaseB": "Lành",
+        "CaseC": "Tức",
+        "CaseD": "Hận",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Một điều nhịn, chín điều ...\"?",
+        "TrueCase": 2,
+        "_id": 28
+    },
+    {
+        "CaseA": "Thì sướng",
+        "CaseB": "Thì ướt",
+        "CaseC": "Đá mòn",
+        "CaseD": "Thành sông",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Nước chảy ...\"?",
+        "TrueCase": 3,
+        "_id": 29
+    },
+    {
+        "CaseA": "Chứng",
+        "CaseB": "Vở",
+        "CaseC": "Ebook",
+        "CaseD": "Google",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Nói có sách, mách có ...\"?",
+        "TrueCase": 1,
+        "_id": 30
+    },
+    {
+        "CaseA": "Tiếng Việt",
+        "CaseB": "Tiếng Nôm ",
+        "CaseC": "Tiếng Anh ",
+        "CaseD": "Tiếng Hán",
+        "Question": "Tập thơ Nhật ký trong tù được Hồ Chí Minh viết bằng tiếng gì?",
+        "TrueCase": 4,
+        "_id": 31
+    },
+    {
+        "CaseA": "Đẹp ",
+        "CaseB": "Sang ",
+        "CaseC": " Bẩn ",
+        "CaseD": "Bền",
+        "Question": "Thành ngữ thường dạy: \"Ăn chắc mặc ...\". Từ trong dấu \"...\"  là gì?",
+        "TrueCase": 4,
+        "_id": 32
+    },
+    {
+        "CaseA": "Ghẹ",
+        "CaseB": "Cua",
+        "CaseC": "Ngỗng",
+        "CaseD": "Heo",
+        "Question": "Người ta thường nói: \"Nói ngang như ...\"?",
+        "TrueCase": 2,
+        "_id": 33
+    },
+    {
+        "CaseA": "Em, chị",
+        "CaseB": "Chị, em",
+        "CaseC": "Chị",
+        "CaseD": "Em",
+        "Question": "Điền từ còn thiếu thích hợp: \"Thuý Kiều là ... , ... là Thuý Vân\"?",
+        "TrueCase": 2,
+        "_id": 34
+    },
+    {
+        "CaseA": "Chó ",
+        "CaseB": "Mèo",
+        "CaseC": "Tôm ",
+        "CaseD": "Cua",
+        "Question": "Người ta thường nói: \"Chủ vắng nhà, gà vọc niêu ...\"?",
+        "TrueCase": 3,
+        "_id": 35
+    },
+    {
+        "CaseA": "Xuân ",
+        "CaseB": "Hạ ",
+        "CaseC": "Thu ",
+        "CaseD": "Đông ",
+        "Question": "Ở Việt Nam, mùa nào nóng nhất trong năm?",
+        "TrueCase": 2,
+        "_id": 36
+    },
+    {
+        "CaseA": "Ngựa ",
+        "CaseB": "Lừa ",
+        "CaseC": "Chó ",
+        "CaseD": "Trâu ",
+        "Question": "Trong các con vật sau đây, con nào được người ta kéo cày?",
+        "TrueCase": 4,
+        "_id": 37
+    },
+    {
+        "CaseA": "Gà ",
+        "CaseB": "Vịt ",
+        "CaseC": "Chim ",
+        "CaseD": "Ngỗng ",
+        "Question": "Con vật nào sau đây biết bay?",
+        "TrueCase": 3,
+        "_id": 38
+    },
+    {
+        "CaseA": "Tết Nguyên Đán ",
+        "CaseB": "Tết Nguyên Tiêu ",
+        "CaseC": "Tết Trung Thu ",
+        "CaseD": "Tết Hàn thực",
+        "Question": "Tết gì trẻ em đốt đèn đi chơi khắp phố phường, xóm làng?",
+        "TrueCase": 3,
+        "_id": 39
+    },
+    {
+        "CaseA": "Tiên ",
+        "CaseB": "Kim ",
+        "CaseC": "Người ",
+        "CaseD": "Cao ",
+        "Question": "Tục ngữ có câu: \"Có công mài sắt, có ngày nên ...\"?",
+        "TrueCase": 2,
+        "_id": 40
+    },
+    {
+        "CaseA": "Quan ",
+        "CaseB": "Vua ",
+        "CaseC": "Nước ",
+        "CaseD": "Dân ",
+        "Question": "Điền vào câu tục ngữ sau: \"Phép ... thua lệ làng\"?",
+        "TrueCase": 2,
+        "_id": 41
+    },
+    {
+        "CaseA": "Ngọt ",
+        "CaseB": "Cay ",
+        "CaseC": "Mặn ",
+        "CaseD": "Nhiều ",
+        "Question": "Điền vào câu tục ngữ sau: \"Đời cha ăn ..., đời con khát nước\"?",
+        "TrueCase": 3,
+        "_id": 42
+    },
+    {
+        "CaseA": "Bụng ",
+        "CaseB": "Tâm ",
+        "CaseC": "Lòng ",
+        "CaseD": "Trí ",
+        "Question": "Điền vào câu ca dao sau: \"Thức lâu mới biết đêm dài, ở lâu mới biết ... người chẳng ngay\"?",
+        "TrueCase": 3,
+        "_id": 43
+    },
+    {
+        "CaseA": "Chặt ",
+        "CaseB": "Chắc ",
+        "CaseC": "Bền ",
+        "CaseD": "Lỏng ",
+        "Question": "Điền vào chỗ trống: \"Ăn bằng gói ...\"?",
+        "TrueCase": 2,
+        "_id": 44
+    },
+    {
+        "CaseA": "Chơi ",
+        "CaseB": "Ăn ",
+        "CaseC": "Ở ",
+        "CaseD": "Nghĩ ",
+        "Question": "Điền vào chỗ trống: \"... đến nơi, làm đến chốn\"?",
+        "TrueCase": 2,
+        "_id": 45
+    },
+    {
+        "CaseA": "Tát ",
+        "CaseB": "Đánh ",
+        "CaseC": "Đấm ",
+        "CaseD": "Đá ",
+        "Question": "Điền vào chỗ trống: \"Còn nước còn ...\"?",
+        "TrueCase": 1,
+        "_id": 46
+    },
+    {
+        "CaseA": "Cá ",
+        "CaseB": "Chuột ",
+        "CaseC": "Ếch ",
+        "CaseD": "Nhái ",
+        "Question": "Điền vào chỗ trống: \"Chim sa ... lặn\"?",
+        "TrueCase": 1,
+        "_id": 47
+    },
+    {
+        "CaseA": "Đông ",
+        "CaseB": "Vắng",
+        "CaseC": "Vui ",
+        "CaseD": "Xôm ",
+        "Question": "Điền vào chỗ trống: \"Không mợ thì chợ vẫn ...\"?",
+        "TrueCase": 1,
+        "_id": 48
+    },
+    {
+        "CaseA": "Tuần ",
+        "CaseB": "Tháng ",
+        "CaseC": "Năm ",
+        "CaseD": "Giờ ",
+        "Question": "Điền vào chỗ trống: \"Ngày lành ... tốt\"?",
+        "TrueCase": 2,
+        "_id": 49
+    },
+    {
+        "CaseA": "Mới ",
+        "CaseB": "Thì ",
+        "CaseC": "Sẽ ",
+        "CaseD": "Là ",
+        "Question": "Điền vào chỗ trống: \"Có chí ... nên\"?",
+        "TrueCase": 2,
+        "_id": 50
+    },
+    {
+        "CaseA": "Vô nhân thập toàn ",
+        "CaseB": "Nhân vô thập toàn ",
+        "CaseC": "Thập toàn nhân vô",
+        "CaseD": "Thập toàn vô nhân ",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 2,
+        "_id": 51
+    },
+    {
+        "CaseA": "Nước ",
+        "CaseB": "Lá ",
+        "CaseC": "Cá",
+        "CaseD": "Bể ",
+        "Question": "Thành ngữ thường nói: \"Ao sâu tốt ...\" . Hãy điền vào từ còn thiếu?",
+        "TrueCase": 3,
+        "_id": 52
+    },
+    {
+        "CaseA": "Màu vàng",
+        "CaseB": "Màu đen",
+        "CaseC": "Màu nâu ",
+        "CaseD": "Màu đỏ",
+        "Question": "Tóc người Việt Nam đa số có màu gì?",
+        "TrueCase": 2,
+        "_id": 53
+    },
+    {
+        "CaseA": "Nghệ An",
+        "CaseB": "Nghệ Tĩnh",
+        "CaseC": "Hà Tĩnh",
+        "CaseD": "Hà Nội",
+        "Question": "Quê hương của Bác Hồ?",
+        "TrueCase": 1,
+        "_id": 54
+    },
+    {
+        "CaseA": "Gà ",
+        "CaseB": "Bò ",
+        "CaseC": "Khỉ ",
+        "CaseD": "Mèo ",
+        "Question": "Người ta thường nói: \"Lơ ngơ như ... đội nón\"?",
+        "TrueCase": 2,
+        "_id": 55
+    },
+    {
+        "CaseA": "Xuân ",
+        "CaseB": "Hạ ",
+        "CaseC": "Thu ",
+        "CaseD": "Đông",
+        "Question": "Tết cổ truyền cùa người Việt Nam diễn ra vào mùa nào trong năm?",
+        "TrueCase": 1,
+        "_id": 56
+    },
+    {
+        "CaseA": "Lừa ",
+        "CaseB": "Ngựa ",
+        "CaseC": "Lạc đà ",
+        "CaseD": "Báo ",
+        "Question": "Trong các con vật sau đây, con nào dữ tợn nhất?",
+        "TrueCase": 4,
+        "_id": 57
+    },
+    {
+        "CaseA": "Ngựa ",
+        "CaseB": "Chó ",
+        "CaseC": "Mèo ",
+        "CaseD": "Lợn ",
+        "Question": "Trong các con vật sau đây, con nào thường được nuôi trong sở thú?",
+        "TrueCase": 1,
+        "_id": 58
+    },
+    {
+        "CaseA": "Cha ",
+        "CaseB": "Ba ",
+        "CaseC": "Bố ",
+        "CaseD": "Ai ",
+        "Question": "Điền vào chỗ trống: \"Trời mưa bong bóng phập phồng, mẹ đi lấy chồng con ở với ...\"?",
+        "TrueCase": 4,
+        "_id": 59
+    },
+    {
+        "CaseA": "Cây bạch đàn",
+        "CaseB": "Cây me tây ",
+        "CaseC": "Cây đa ",
+        "CaseD": "Cây lúa ",
+        "Question": "Trong các loài cây sau đây, loài cây nào sống lâu năm nhất?",
+        "TrueCase": 3,
+        "_id": 60
+    },
+    {
+        "CaseA": "Tôm ",
+        "CaseB": "Bò ",
+        "CaseC": "Cua ",
+        "CaseD": "Nghêu ",
+        "Question": "Con vật nào sau đây khác với 3 con còn lại?",
+        "TrueCase": 2,
+        "_id": 61
+    },
+    {
+        "CaseA": "Cỏ ",
+        "CaseB": "Nết ",
+        "CaseC": "Tính ",
+        "CaseD": "Cây",
+        "Question": "Điền vào câu tục ngữ sau: \"Cha mẹ sinh con, trời sinh ...\"?",
+        "TrueCase": 3,
+        "_id": 62
+    },
+    {
+        "CaseA": "Trái táo ",
+        "CaseB": "Trái gấc",
+        "CaseC": "Trái dưa hấu",
+        "CaseD": "Trái ấu ",
+        "Question": "Điền vào câu tục ngữ sau: \"Thương nhau ... cũng tròn, ghét nhau  trái bồ hòn cũng méo\"?",
+        "TrueCase": 4,
+        "_id": 63
+    },
+    {
+        "CaseA": "Biếng ",
+        "CaseB": "Lười ",
+        "CaseC": "Hỏng ",
+        "CaseD": "Liều",
+        "Question": "Điền vào chỗ trống: \"Ăn bơ làm ...\"?",
+        "TrueCase": 1,
+        "_id": 64
+    },
+    {
+        "CaseA": "Lâu ",
+        "CaseB": "Số ",
+        "CaseC": "Phận ",
+        "CaseD": "Kiếp ",
+        "Question": "Điền vào chỗ trống: \"Ăn đời ở ...\"?",
+        "TrueCase": 4,
+        "_id": 65
+    },
+    {
+        "CaseA": "Họ ",
+        "CaseB": "Cháu ",
+        "CaseC": "Mẹ ",
+        "CaseD": "Chú ",
+        "Question": "Điền vào chỗ trống: \"Con ông ... cha\"?",
+        "TrueCase": 2,
+        "_id": 66
+    },
+    {
+        "CaseA": "Mặt trời ",
+        "CaseB": "Trăng ",
+        "CaseC": "Bóng ",
+        "CaseD": "Dây tóc ",
+        "Question": "Điền vào chỗ trống: \"Có ... quên đèn\"?",
+        "TrueCase": 2,
+        "_id": 67
+    },
+    {
+        "CaseA": "Độc ",
+        "CaseB": "Xà ",
+        "CaseC": "Địa ",
+        "CaseD": "Lành ",
+        "Question": "Điền vào chỗ trống: \"Khẩu phật tâm ...\"?",
+        "TrueCase": 2,
+        "_id": 68
+    },
+    {
+        "CaseA": "Tay ",
+        "CaseB": "Chân ",
+        "CaseC": "Sỏi ",
+        "CaseD": "Lửa ",
+        "Question": "Điền vào chỗ trống: \"Ném đá giấu ...\"?",
+        "TrueCase": 1,
+        "_id": 69
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Beo ",
+        "CaseC": "Báo ",
+        "CaseD": "Hùm ",
+        "Question": "Điền vào chỗ trống: \"... chết để da, người ta chết để tiếng\"?",
+        "TrueCase": 4,
+        "_id": 70
+    },
+    {
+        "CaseA": "Hữu danh vô thực",
+        "CaseB": "Danh hữu thực vô ",
+        "CaseC": "Hữu danh thực vô ",
+        "CaseD": "Danh hữu vô thực",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 1,
+        "_id": 71
+    },
+    {
+        "CaseA": "Ai ",
+        "CaseB": "Tôi ",
+        "CaseC": "Nấy ",
+        "CaseD": "Phải ",
+        "Question": "Thành ngữ có câu: \"Ai làm, ... chịu\". Từ còn thiếu là?",
+        "TrueCase": 3,
+        "_id": 72
+    },
+    {
+        "CaseA": "Ông ngoại",
+        "CaseB": "Ông cố",
+        "CaseC": "Ông sơ",
+        "CaseD": "Ông nội",
+        "Question": "Cha ruột của cha chúng ta gọi là gì?",
+        "TrueCase": 4,
+        "_id": 73
+    },
+    {
+        "CaseA": "Thanh Hoá",
+        "CaseB": "Nghệ Tĩnh",
+        "CaseC": "Hà Tĩnh",
+        "CaseD": "Nghệ An",
+        "Question": "Huyện Nam Đàn thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 4,
+        "_id": 74
+    },
+    {
+        "CaseA": "Cháu ",
+        "CaseB": "Bà ",
+        "CaseC": "Ông ",
+        "CaseD": "Con ",
+        "Question": "Điền vào câu tục ngữ sau: \"Gậy ông đập lưng ...\"?",
+        "TrueCase": 3,
+        "_id": 75
+    },
+    {
+        "CaseA": "Muối ăn ",
+        "CaseB": "Đường ",
+        "CaseC": "Tinh bột ",
+        "CaseD": "Xà phòng ",
+        "Question": "Trong các chất sau đây, chất nào mặn nhất?",
+        "TrueCase": 1,
+        "_id": 76
+    },
+    {
+        "CaseA": "Hổ",
+        "CaseB": "Sói ",
+        "CaseC": "Tê giác ",
+        "CaseD": "Hươu ",
+        "Question": "Trong các con vật sau đây, con nào hiền nhất?",
+        "TrueCase": 4,
+        "_id": 77
+    },
+    {
+        "CaseA": "Chó ",
+        "CaseB": "Mèo ",
+        "CaseC": "Lợn ",
+        "CaseD": "Ngựa ",
+        "Question": "Trong các con vật sau đây, con nào thường được nuôi để lấy thịt?",
+        "TrueCase": 3,
+        "_id": 78
+    },
+    {
+        "CaseA": "Đũa ",
+        "CaseB": "Công ",
+        "CaseC": "Tiền ",
+        "CaseD": "Oán ",
+        "Question": "Người ta thường nói: \"Cứu vật thì vật trả ân, cứu nhân thì nhân trả ...\"?",
+        "TrueCase": 4,
+        "_id": 79
+    },
+    {
+        "CaseA": "Cây me tây ",
+        "CaseB": "Cây đa ",
+        "CaseC": "Cây lúa ",
+        "CaseD": "Cây cao su ",
+        "Question": "Trong các loài cây sau đây, loài cây nào được xem là cây lương thực?",
+        "TrueCase": 3,
+        "_id": 80
+    },
+    {
+        "CaseA": "Tôm ",
+        "CaseB": "Sò ",
+        "CaseC": "Nghêu ",
+        "CaseD": "Ngao ",
+        "Question": "Con vật nào sau đây khác với 3 con còn lại?",
+        "TrueCase": 1,
+        "_id": 81
+    },
+    {
+        "CaseA": "Dùi ",
+        "CaseB": "Đục ",
+        "CaseC": "Kìm ",
+        "CaseD": "Kim ",
+        "Question": "Điền vào câu tục ngữ sau: \"Có công mài sắt, có ngày nên ...\"?",
+        "TrueCase": 4,
+        "_id": 82
+    },
+    {
+        "CaseA": "Lạnh ",
+        "CaseB": "Trống ",
+        "CaseC": "Quạnh ",
+        "CaseD": "Xấu ",
+        "Question": "Điền vào câu tục ngữ sau: \"Vắng đàn ông ... nhà, vắng đàn bà quạnh bếp\"?",
+        "TrueCase": 3,
+        "_id": 83
+    },
+    {
+        "CaseA": "Đậu ",
+        "CaseB": "Bụi ",
+        "CaseC": "Chợ ",
+        "CaseD": "Quán nét",
+        "Question": "Điền vào chỗ trống: \"Ăn bờ ở ...\"?",
+        "TrueCase": 2,
+        "_id": 84
+    },
+    {
+        "CaseA": "Chơi ",
+        "CaseB": "Có",
+        "CaseC": "Rồi",
+        "CaseD": "Chán ",
+        "Question": "Điền vào chỗ trống: \"Ăn không ngồi ...\"?",
+        "TrueCase": 3,
+        "_id": 85
+    },
+    {
+        "CaseA": "Bẩn ",
+        "CaseB": "Hỏng ",
+        "CaseC": "Rầu ",
+        "CaseD": "Đổ ",
+        "Question": "Điền vào chỗ trống: \"Con sâu làm ... nồi canh\"?",
+        "TrueCase": 3,
+        "_id": 86
+    },
+    {
+        "CaseA": "Nhà ",
+        "CaseB": "Bếp ",
+        "CaseC": "Chợ ",
+        "CaseD": "Búa",
+        "Question": "Điền vào chỗ trống: \"Đầu đường xó ...\"?",
+        "TrueCase": 3,
+        "_id": 87
+    },
+    {
+        "CaseA": "Khôn ",
+        "CaseB": "Ngốc ",
+        "CaseC": "Dại ",
+        "CaseD": "Khờ ",
+        "Question": "Điền vào chỗ trống: \"Khôn nhà ... chợ\"?",
+        "TrueCase": 3,
+        "_id": 88
+    },
+    {
+        "CaseA": "Nhị ",
+        "CaseB": "Tam ",
+        "CaseC": "Bán ",
+        "CaseD": "Mua ",
+        "Question": "Điền vào chỗ trống: \"Nhất tự vi sư, ... tự vi sư\"?",
+        "TrueCase": 3,
+        "_id": 89
+    },
+    {
+        "CaseA": "Vô đơn hoạ chí",
+        "CaseB": "Hoạ vô đơn chí",
+        "CaseC": "Hoạ vô chí đơn ",
+        "CaseD": "Vô hoạ chí đơn ",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 2,
+        "_id": 90
+    },
+    {
+        "CaseA": "Chân tay ",
+        "CaseB": "Đầu tóc",
+        "CaseC": "Mồ côi ",
+        "CaseD": "Họ hàng",
+        "Question": "Thành ngữ có câu: \"Anh em như thể ...\". Hãy điền vào từ còn thiếu?",
+        "TrueCase": 1,
+        "_id": 91
+    },
+    {
+        "CaseA": "Tối",
+        "CaseB": "Sáng",
+        "CaseC": "Cháy",
+        "CaseD": "Đốt",
+        "Question": "Điền vào từ còn thiếu: \"Gần mực thì đen. Gần đèn thì ...\"?",
+        "TrueCase": 2,
+        "_id": 92
+    },
+    {
+        "CaseA": "Hà Tĩnh",
+        "CaseB": "Hà Nam",
+        "CaseC": "Hà Nội",
+        "CaseD": "Tp. Hồ Chí Minh",
+        "Question": "Hồ Gươm ở đâu?",
+        "TrueCase": 3,
+        "_id": 93
+    },
+    {
+        "CaseA": "Trở ",
+        "CaseB": "Tình ",
+        "CaseC": "Biệt",
+        "CaseD": "Lòng ",
+        "Question": "Người ta thường nói: \"Xa mặt cách ...\"?",
+        "TrueCase": 4,
+        "_id": 94
+    },
+    {
+        "CaseA": "Muối ăn ",
+        "CaseB": "Nước mưa ",
+        "CaseC": "Nước biển ",
+        "CaseD": "Đường ",
+        "Question": "Trong các chất sau đây, chất nào ngọt nhất?",
+        "TrueCase": 4,
+        "_id": 95
+    },
+    {
+        "CaseA": "Lừa ",
+        "CaseB": "Ngựa ",
+        "CaseC": "Hươu ",
+        "CaseD": "Hổ ",
+        "Question": "Trong các con vật sau đây, con nào có nanh vuốt?",
+        "TrueCase": 4,
+        "_id": 96
+    },
+    {
+        "CaseA": "Lợn ",
+        "CaseB": "Chó ",
+        "CaseC": "Ngựa ",
+        "CaseD": "Lừa ",
+        "Question": "Trong các con vật sau đây, con nào thường được nuôi trong nhà?",
+        "TrueCase": 2,
+        "_id": 97
+    },
+    {
+        "CaseA": "Đại bàng ",
+        "CaseB": "Biển Đông ",
+        "CaseC": "Suối sông ",
+        "CaseD": "Biển cả ",
+        "Question": "Điền từ còn thiếu: \"Công cha như núi ngất trời, nghĩa mẹ như nước ngời ngời ...\"?",
+        "TrueCase": 2,
+        "_id": 98
+    },
+    {
+        "CaseA": "Cây me tây ",
+        "CaseB": "Cây bông ",
+        "CaseC": "Cây bạch đàn ",
+        "CaseD": "Cây cao su ",
+        "Question": "Trong các loài cây sau đây, loài cây nào cho mủ để sản xuất săm xe?",
+        "TrueCase": 4,
+        "_id": 99
+    },
+    {
+        "CaseA": "70 độ C",
+        "CaseB": "80 độ C ",
+        "CaseC": "90 độ C ",
+        "CaseD": "100 độ C",
+        "Question": "Nước tinh khiết sôi ở bao nhiêu độ?",
+        "TrueCase": 4,
+        "_id": 100
+    },
+    {
+        "CaseA": "Vàng ",
+        "CaseB": "Bạc ",
+        "CaseC": "Tiền ",
+        "CaseD": "Kim cương ",
+        "Question": "Điền vào câu tục ngữ sau: \"Có ... mua tiên cũng được\"?",
+        "TrueCase": 3,
+        "_id": 101
+    },
+    {
+        "CaseA": "Mình ",
+        "CaseB": "Ta ",
+        "CaseC": "Xưa ",
+        "CaseD": "Quen ",
+        "Question": "Điền vào câu tục ngữ sau: \"Ta về ta tắm ao ... , dù trong dù đục ao nhà vẫn hơn\"?",
+        "TrueCase": 2,
+        "_id": 102
+    },
+    {
+        "CaseA": "Câu ",
+        "CaseB": "Tiếng ",
+        "CaseC": "Lời ",
+        "CaseD": "Vần ",
+        "Question": "Điền vào chỗ trống: \"Ăn bớt đọi, nói bớt ...\"?",
+        "TrueCase": 3,
+        "_id": 103
+    },
+    {
+        "CaseA": "Tốt ",
+        "CaseB": "Sướng ",
+        "CaseC": "Nhiều ",
+        "CaseD": "Yên ",
+        "Question": "Điền vào chỗ trống: \"Ăn không ngon, ngủ không ...\"?",
+        "TrueCase": 4,
+        "_id": 104
+    },
+    {
+        "CaseA": "Như thế ",
+        "CaseB": "Đó ",
+        "CaseC": "Khác ",
+        "CaseD": "Nấy ",
+        "Question": "Điền vào chỗ trống: \"Cha nào con ...\"?",
+        "TrueCase": 4,
+        "_id": 105
+    },
+    {
+        "CaseA": "To ",
+        "CaseB": "Rộng ",
+        "CaseC": "Xa",
+        "CaseD": "Cao",
+        "Question": "Điền vào chỗ trống: \"Đất rộng trời ...\"?",
+        "TrueCase": 4,
+        "_id": 106
+    },
+    {
+        "CaseA": "Bọc ",
+        "CaseB": "Dán ",
+        "CaseC": "Giúp ",
+        "CaseD": "Đùm ",
+        "Question": "Điền vào chỗ trống: \"Lá lành ... lá rách\"?",
+        "TrueCase": 4,
+        "_id": 107
+    },
+    {
+        "CaseA": "Dẹt ",
+        "CaseB": "Bẹp ",
+        "CaseC": "Vuông ",
+        "CaseD": "Dài ",
+        "Question": "Điền vào chỗ trống: \"Ở bầu thì tròn, ở ống thì ...\"?",
+        "TrueCase": 4,
+        "_id": 108
+    },
+    {
+        "CaseA": "Khẩu xà tâm phật ",
+        "CaseB": "Khẩu xà phật tâm ",
+        "CaseC": "Tâm xà phật khẩu",
+        "CaseD": "Tâm phật khẩu xà",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 1,
+        "_id": 109
+    },
+    {
+        "CaseA": "Xu",
+        "CaseB": "Hào",
+        "CaseC": "Cắc",
+        "CaseD": "Đồng",
+        "Question": "Đơn vị tiền tệ của người Việt Nam hiện đang sử dụng là gì?",
+        "TrueCase": 4,
+        "_id": 110
+    },
+    {
+        "CaseA": "Tổng bí thư",
+        "CaseB": "Chủ tịch nước",
+        "CaseC": "Thủ tướng",
+        "CaseD": "Nhà ngoại gia",
+        "Question": "Hồ Chí Minh từng là gì đối với đất nước Việt Nam?",
+        "TrueCase": 2,
+        "_id": 111
+    },
+    {
+        "CaseA": "Lãng phí",
+        "CaseB": "Tham những",
+        "CaseC": "Tiết kiệm",
+        "CaseD": "Tham ô",
+        "Question": "Đâu là điều nên học hỏi ở Bác Hồ?",
+        "TrueCase": 3,
+        "_id": 112
+    },
+    {
+        "CaseA": "Đi ",
+        "CaseB": "Ra ",
+        "CaseC": "Đến ",
+        "CaseD": "Vô ",
+        "Question": "Điền vào chỗ trống: \"Công cha như núi Thái Sơn. Nghĩa mẹ như nước trong nguồn chảy ...\"?",
+        "TrueCase": 2,
+        "_id": 113
+    },
+    {
+        "CaseA": "Quả cam ",
+        "CaseB": "Quả mận ",
+        "CaseC": "Quả ớt",
+        "CaseD": " Quả chanh ",
+        "Question": "Trong các loại quả sau đây, quả nào chua nhất?",
+        "TrueCase": 4,
+        "_id": 114
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Báo ",
+        "CaseC": "Sư Tử ",
+        "CaseD": "Voi ",
+        "Question": "Trong các con vật sau đây, con nào được gọi là chúa sơn lâm?",
+        "TrueCase": 1,
+        "_id": 115
+    },
+    {
+        "CaseA": "Chim đại bàng ",
+        "CaseB": "Chim bồ câu ",
+        "CaseC": "Chim sơn ca ",
+        "CaseD": "Chim chích choè ",
+        "Question": "Trong các loài chim sau đây, loài chim nào có khả năng đưa thư?",
+        "TrueCase": 2,
+        "_id": 116
+    },
+    {
+        "CaseA": "Sự đùm bọc",
+        "CaseB": "Sự nhẫn nại ",
+        "CaseC": "Sự nhường nhịn ",
+        "CaseD": "Sự oán hận ",
+        "Question": "Câu chuyện bó đũa muốn khuyên ta điều gì?",
+        "TrueCase": 1,
+        "_id": 117
+    },
+    {
+        "CaseA": "Cây xương rồng ",
+        "CaseB": "Cây bạch đàn ",
+        "CaseC": "Cây đậu tương ",
+        "CaseD": "Cây cao su ",
+        "Question": "Trong các loài cây sau đây, loài cây nào có khả năng sống ở sa mạc?",
+        "TrueCase": 1,
+        "_id": 118
+    },
+    {
+        "CaseA": "Ló ",
+        "CaseB": "Bó ",
+        "CaseC": "Có ",
+        "CaseD": "Giống ",
+        "Question": "Điền vào câu tục ngữ sau: \"Cái khó ... cái khôn\"?",
+        "TrueCase": 1,
+        "_id": 119
+    },
+    {
+        "CaseA": "Thạch sùng ",
+        "CaseB": "Thằn lằn ",
+        "CaseC": "Nòng nọc ",
+        "CaseD": "Ấu trùng ",
+        "Question": "Điền vào câu tục ngữ sau: \"Con có cha như nhà có nóc, con không cha như ... đứt đuôi\"?",
+        "TrueCase": 3,
+        "_id": 120
+    },
+    {
+        "CaseA": "Cha ",
+        "CaseB": "Mẹ ",
+        "CaseC": "Ông ",
+        "CaseD": "Bà ",
+        "Question": "Điền vào câu tục ngữ sau: \"Trẻ cậy ..., già cậy con\"?",
+        "TrueCase": 1,
+        "_id": 121
+    },
+    {
+        "CaseA": "Kém ",
+        "CaseB": "Thua ",
+        "CaseC": "Xin ",
+        "CaseD": "Xén ",
+        "Question": "Điền vào chỗ trống: \"Ăn bớt ăn ...\"?",
+        "TrueCase": 4,
+        "_id": 122
+    },
+    {
+        "CaseA": "Ra ",
+        "CaseB": "Mãi",
+        "CaseC": "Tốt ",
+        "CaseD": "Ổn",
+        "Question": "Điền vào chỗ trống: \"Ăn nên làm ...\"?",
+        "TrueCase": 1,
+        "_id": 123
+    },
+    {
+        "CaseA": "Ráo ",
+        "CaseB": "Khô ",
+        "CaseC": "Đất ",
+        "CaseD": "Nẻ ",
+        "Question": "Điền vào chỗ trống: \"Chân ướt chân ...\"?",
+        "TrueCase": 1,
+        "_id": 124
+    },
+    {
+        "CaseA": "Súng ",
+        "CaseB": "Pháo ",
+        "CaseC": "Còi ",
+        "CaseD": "Đại bác ",
+        "Question": "Điền vào chỗ trống: \"Điếc không sợ ...\"?",
+        "TrueCase": 1,
+        "_id": 125
+    },
+    {
+        "CaseA": "Cội ",
+        "CaseB": "Gốc ",
+        "CaseC": "Nhà ",
+        "CaseD": "Bến ",
+        "Question": "Điền vào chỗ trống: \"Lá rụng về ...\"?",
+        "TrueCase": 1,
+        "_id": 126
+    },
+    {
+        "CaseA": "Cầu ",
+        "CaseB": "Sông ",
+        "CaseC": "Suối ",
+        "CaseD": "Đường ",
+        "Question": "Điền vào chỗ trống: \"Qua ... rút ván\"?",
+        "TrueCase": 1,
+        "_id": 127
+    },
+    {
+        "CaseA": "Nem công chả phượng ",
+        "CaseB": "Phượng chả nem công ",
+        "CaseC": "Chả phượng nem công ",
+        "CaseD": "Chả phượng công nem ",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 1,
+        "_id": 128
+    },
+    {
+        "CaseA": "09.09",
+        "CaseB": "03.08",
+        "CaseC": "08.03",
+        "CaseD": "20.10",
+        "Question": "Trong các ngày dưới đấy, ngày nào là ngày quốc tế phụ nữ?",
+        "TrueCase": 3,
+        "_id": 129
+    },
+    {
+        "CaseA": "Tết Nguyên Tiêu",
+        "CaseB": "Tết Trung Thu ",
+        "CaseC": "Tết Hàn Thực ",
+        "CaseD": "Tết Nguyên Đán ",
+        "Question": "Ngày 0101 âm lịch là ngày gì của người Việt Nam?",
+        "TrueCase": 4,
+        "_id": 130
+    },
+    {
+        "CaseA": "Việt Nam",
+        "CaseB": "Campuchia",
+        "CaseC": "Phillippines",
+        "CaseD": "Indonesia",
+        "Question": "Quần đảo Hoàng Sa và quần đảo Trường Sa thuộc chủ quyền của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 131
+    },
+    {
+        "CaseA": "Sốt rét",
+        "CaseB": "AIDS",
+        "CaseC": "Phong",
+        "CaseD": "Sởi ",
+        "Question": "Một trong những căn bệnh chưa có thuốc đặc trị hiện nay?",
+        "TrueCase": 2,
+        "_id": 132
+    },
+    {
+        "CaseA": "Quả mận ",
+        "CaseB": "Quả xoài ",
+        "CaseC": "Quả bưởi ",
+        "CaseD": "Quả hạnh ",
+        "Question": "Trong các quả sau đây, quả nào to hơn các quả còn lại?",
+        "TrueCase": 3,
+        "_id": 133
+    },
+    {
+        "CaseA": "Trâu ",
+        "CaseB": "Dê rừng ",
+        "CaseC": "Voi ",
+        "CaseD": "Hổ ",
+        "Question": "Trong các con vật sau đây, con nào có ngà?",
+        "TrueCase": 3,
+        "_id": 134
+    },
+    {
+        "CaseA": "Chim se sẽ ",
+        "CaseB": "Chim bồ câu ",
+        "CaseC": "Chim sơn ca ",
+        "CaseD": "Chim gõ kiến ",
+        "Question": "Trong các loài chim sau đây, loài chim nào có tiếng hót thánh thót nhất?",
+        "TrueCase": 3,
+        "_id": 135
+    },
+    {
+        "CaseA": "Hà Tĩnh ",
+        "CaseB": "Hà Nam ",
+        "CaseC": "Hà Nội ",
+        "CaseD": "Hà Đông ",
+        "Question": "Thủ đô của nước Việt Nam tên là gì?",
+        "TrueCase": 3,
+        "_id": 136
+    },
+    {
+        "CaseA": "Cây me tây ",
+        "CaseB": "Cây bạch đàn ",
+        "CaseC": "Cây phượng ",
+        "CaseD": "Cây dương sỉ ",
+        "Question": "Trong các loài cây sau đây, loài cây nào là biểu tượng của tuổi học sinh?",
+        "TrueCase": 3,
+        "_id": 137
+    },
+    {
+        "CaseA": "Cái tốt ",
+        "CaseB": "Cái xấu ",
+        "CaseC": "Cái đẹp ",
+        "CaseD": "Cái ngu ",
+        "Question": "Điền vào câu tục ngữ sau: \"Cái nết đánh chết ...\"?",
+        "TrueCase": 3,
+        "_id": 138
+    },
+    {
+        "CaseA": "Vì ",
+        "CaseB": "Do ",
+        "CaseC": "Cho ",
+        "CaseD": "Tại ",
+        "Question": "Điền vào câu tục ngữ sau: \"Con hư ... mẹ, cháu hư tại bà\"?",
+        "TrueCase": 4,
+        "_id": 139
+    },
+    {
+        "CaseA": "Chợ bắc ",
+        "CaseB": "Chợ búa ",
+        "CaseC": "Chợ đông ",
+        "CaseD": "Người ta ",
+        "Question": "Điền vào chỗ trống: \"Trai khôn tìm vợ ...., gái khôn tìm chồng giữa chốn ba quân\"?",
+        "TrueCase": 3,
+        "_id": 140
+    },
+    {
+        "CaseA": "Niêu ",
+        "CaseB": "Nồi ",
+        "CaseC": "Bát ",
+        "CaseD": "Xoong ",
+        "Question": "Điền vào chỗ trống: \"Ăn cháo đá ...\"?",
+        "TrueCase": 3,
+        "_id": 141
+    },
+    {
+        "CaseA": "Trả ",
+        "CaseB": "Nuốt ",
+        "CaseC": "Làm ",
+        "CaseD": "Giữ ",
+        "Question": "Điền vào chỗ trống: \"Ăn miếng ... miếng\"?",
+        "TrueCase": 1,
+        "_id": 142
+    },
+    {
+        "CaseA": "Tay ",
+        "CaseB": "Đá ",
+        "CaseC": "Sỏi ",
+        "CaseD": "Cát ",
+        "Question": "Điền vào chỗ trống: \"Chân cứng ... mềm\"?",
+        "TrueCase": 2,
+        "_id": 143
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Tiên ",
+        "CaseC": "Tiền ",
+        "CaseD": "Báo",
+        "Question": "Điền vào chỗ trống: \"Được voi đòi ...\"?",
+        "TrueCase": 2,
+        "_id": 144
+    },
+    {
+        "CaseA": "Hát ",
+        "CaseB": "Nói ",
+        "CaseC": "Cười ",
+        "CaseD": "Khóc ",
+        "Question": "Điền vào chỗ trống: \"Lời ăn tiếng ...\"?",
+        "TrueCase": 2,
+        "_id": 145
+    },
+    {
+        "CaseA": "Cạnh ",
+        "CaseB": "Ngoài ",
+        "CaseC": "Trong",
+        "CaseD": "Gần ",
+        "Question": "Điền vào chỗ trống: \"Ruột để ... da\"?",
+        "TrueCase": 2,
+        "_id": 146
+    },
+    {
+        "CaseA": "Cử lưỡng tiện nhất",
+        "CaseB": "Nhất cử lưỡng tiện ",
+        "CaseC": "Tiện cử nhất lưỡng ",
+        "CaseD": "Tiện cử lượng nhất",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 2,
+        "_id": 147
+    },
+    {
+        "CaseA": "08/03",
+        "CaseB": "07/07",
+        "CaseC": "08/03",
+        "CaseD": "14/02",
+        "Question": "Trong các ngày dưới đấy, ngày nào là ngày lễ tình yêu Valentine?",
+        "TrueCase": 4,
+        "_id": 148
+    },
+    {
+        "CaseA": "Hidro",
+        "CaseB": "Nitơ",
+        "CaseC": "Oxi",
+        "CaseD": "Clo ",
+        "Question": "Khí nào cần thiết cho sự sống của con người?",
+        "TrueCase": 3,
+        "_id": 149
+    },
+    {
+        "CaseA": "Trận bán kết",
+        "CaseB": "Trận chung kết",
+        "CaseC": "Trận tranh hạng 3",
+        "CaseD": "Trận play  off ",
+        "Question": "Trận nào được coi là trận đấu cuối cùng của một giải đấu?",
+        "TrueCase": 2,
+        "_id": 150
+    },
+    {
+        "CaseA": "Bò ",
+        "CaseB": "Trâu ",
+        "CaseC": "Ngựa ",
+        "CaseD": "Lừa ",
+        "Question": "Loài vật nào không có hàm răng trên?",
+        "TrueCase": 2,
+        "_id": 151
+    },
+    {
+        "CaseA": "Hạ, đông, xuân, thu ",
+        "CaseB": "Xuân, hạ, thu, đông ",
+        "CaseC": "Xuân, hạ, đông, xuân ",
+        "CaseD": "Xuân, thu, hạ, đông ",
+        "Question": "Cho biết thứ tự nào sau đây là đúng nhất?",
+        "TrueCase": 2,
+        "_id": 152
+    },
+    {
+        "CaseA": "Chó ",
+        "CaseB": "Voi ",
+        "CaseC": "Rùa ",
+        "CaseD": "Rắn ",
+        "Question": "Trong các con vật sau đây, con nào không di chuyển bằng chân?",
+        "TrueCase": 4,
+        "_id": 153
+    },
+    {
+        "CaseA": "Chim khách ",
+        "CaseB": "Chim bồ câu ",
+        "CaseC": "Chim sáo ",
+        "CaseD": "Chim cú mèo ",
+        "Question": "Trong các loài chim sau đây, loài chim nào hót trước nhà báo hiệu nhà sắp có khách?",
+        "TrueCase": 1,
+        "_id": 154
+    },
+    {
+        "CaseA": "Hai ",
+        "CaseB": "Ba ",
+        "CaseC": "Năm ",
+        "CaseD": "Đứa ",
+        "Question": "Điền vào chỗ trống: \"Gia đình chỉ một ... con, ấm no hạnh phúc nước non mạnh giàu\"?",
+        "TrueCase": 1,
+        "_id": 155
+    },
+    {
+        "CaseA": "Cây me tây ",
+        "CaseB": "Cây phượng ",
+        "CaseC": "Cây bàng ",
+        "CaseD": "Cây xương rồng ",
+        "Question": "Loài cây nào sau đây hầu như là không có lá?",
+        "TrueCase": 4,
+        "_id": 156
+    },
+    {
+        "CaseA": "Óc ",
+        "CaseB": "Tai ",
+        "CaseC": "Tay ",
+        "CaseD": "Tóc ",
+        "Question": "Điền vào câu tục ngữ sau: \"Cái răng, cái ... là góc con người\"?",
+        "TrueCase": 4,
+        "_id": 157
+    },
+    {
+        "CaseA": "Khóc",
+        "CaseB": "Mếu ",
+        "CaseC": "Cười ",
+        "CaseD": "Giận",
+        "Question": "Điền vào chỗ trống: \"Cười người chớ vội cười lâu. Cười người hôm trước, hôm sau người ...\"?",
+        "TrueCase": 3,
+        "_id": 158
+    },
+    {
+        "CaseA": "Thức ăn ",
+        "CaseB": "Cơm ",
+        "CaseC": "Hơn ",
+        "CaseD": "Xôi ",
+        "Question": "Điền vào câu tục ngữ sau: \"Nhà sạch thì mát, bát sạch ngon ...\"?",
+        "TrueCase": 2,
+        "_id": 159
+    },
+    {
+        "CaseA": "Sau ",
+        "CaseB": "Trước ",
+        "CaseC": "Cùng ",
+        "CaseD": "Bên ",
+        "Question": "Điền vào chỗ trống: \"Ăn cơm ... kẻng\"?",
+        "TrueCase": 2,
+        "_id": 160
+    },
+    {
+        "CaseA": "Lắm ",
+        "CaseB": "Nhiều ",
+        "CaseC": "Trắng ",
+        "CaseD": "Ngon ",
+        "Question": "Điền vào chỗ trống: \"Ăn ... mặc trơn\"?",
+        "TrueCase": 3,
+        "_id": 161
+    },
+    {
+        "CaseA": "Cào cào ",
+        "CaseB": "Bọ ngựa",
+        "CaseC": "Châu chấu ",
+        "CaseD": "Bươm bướm ",
+        "Question": "Điền vào chỗ trống: \"... đá xe\"?",
+        "TrueCase": 3,
+        "_id": 162
+    },
+    {
+        "CaseA": "Ao ",
+        "CaseB": "Bát ",
+        "CaseC": "Giếng ",
+        "CaseD": "Hồ ",
+        "Question": "Điền vào chỗ trống: \"Ếch ngồi đáy ...\"?",
+        "TrueCase": 3,
+        "_id": 163
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Báo ",
+        "CaseC": "Sói ",
+        "CaseD": "Thỏ ",
+        "Question": "Điền vào chỗ trống: \"Lòng lang dạ ...\"?",
+        "TrueCase": 3,
+        "_id": 164
+    },
+    {
+        "CaseA": "Con trai ",
+        "CaseB": "Gà mái ",
+        "CaseC": "Con gái  ",
+        "CaseD": "Lợn nái",
+        "Question": "Điền vào chỗ trống: \"Ruộng sâu trâu nái không bằng ... đầu lòng\"?",
+        "TrueCase": 3,
+        "_id": 165
+    },
+    {
+        "CaseA": "Uống nguồn nhớ nước",
+        "CaseB": "Uống nước nhớ nguồn",
+        "CaseC": "Uống nước nhớ nguồn ",
+        "CaseD": "Nước uống nhớ nguồn",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 3,
+        "_id": 166
+    },
+    {
+        "CaseA": "Tày",
+        "CaseB": "Nùng",
+        "CaseC": "Khơme",
+        "CaseD": "Kinh",
+        "Question": "Ở Việt Nam, dân tộc nào có số người đông nhất?",
+        "TrueCase": 4,
+        "_id": 167
+    },
+    {
+        "CaseA": "Thuốc lá ",
+        "CaseB": "Ma tuý",
+        "CaseC": "Rượu ",
+        "CaseD": "Nước cam",
+        "Question": "Chất nào không gây hại cho sức khoẻ con người trong các chất sau đây?",
+        "TrueCase": 4,
+        "_id": 168
+    },
+    {
+        "CaseA": "Hồ Chí Minh ",
+        "CaseB": "Võ Nguyên Giáp",
+        "CaseC": "Phạm Văn Đồng",
+        "CaseD": "Trần Đức Lương",
+        "Question": "\"Không có việc gì khó. Chỉ sợ lòng không bền\" là 2 câu thơ của tác giả nào?",
+        "TrueCase": 1,
+        "_id": 169
+    },
+    {
+        "CaseA": "1 giờ ",
+        "CaseB": "12 giờ ",
+        "CaseC": "24 giờ ",
+        "CaseD": "36 giờ ",
+        "Question": "Trái đất tự quay quanh mình mất bao nhiêu giờ?",
+        "TrueCase": 3,
+        "_id": 170
+    },
+    {
+        "CaseA": "Sao ",
+        "CaseB": "Hoa ",
+        "CaseC": "Mưa ",
+        "CaseD": "Trăng ",
+        "Question": "\"Trong tù không rượu cũng không ...\". Hãy điền tiếp vào từ còn thiếu?",
+        "TrueCase": 2,
+        "_id": 171
+    },
+    {
+        "CaseA": "Bướm ",
+        "CaseB": "Châu chấu ",
+        "CaseC": "Bọ hung ",
+        "CaseD": "Ong ",
+        "Question": "Trong các con vật sau đây, con nào biết xây tổ?",
+        "TrueCase": 4,
+        "_id": 172
+    },
+    {
+        "CaseA": "Chim se sẽ ",
+        "CaseB": "Chim gõ kiến ",
+        "CaseC": "Chim cú mèo ",
+        "CaseD": "Chim chích choè ",
+        "Question": "Trong các loài chim sau đây, loài chim nào có khuôn mặt giống loài mèo?",
+        "TrueCase": 3,
+        "_id": 173
+    },
+    {
+        "CaseA": "Một ",
+        "CaseB": "Hai ",
+        "CaseC": "Ba ",
+        "CaseD": "Bốn ",
+        "Question": "Điền vào chỗ trống: \"Dù gái hay trai, chỉ ... là đủ\"?",
+        "TrueCase": 2,
+        "_id": 174
+    },
+    {
+        "CaseA": "Nghề thợ mộc ",
+        "CaseB": "Nghề xây dựng ",
+        "CaseC": "Nghề may ",
+        "CaseD": "Nghề nông ",
+        "Question": "Nói đến bai, xi măng, gạch, ..., người ta liên tưởng đến nghề nghiệp gì?",
+        "TrueCase": 2,
+        "_id": 175
+    },
+    {
+        "CaseA": "Ốc",
+        "CaseB": "Ếch ",
+        "CaseC": "Hến ",
+        "CaseD": "Cóc ",
+        "Question": "Điền vào câu sau: \"Câm như ...\"?",
+        "TrueCase": 3,
+        "_id": 176
+    },
+    {
+        "CaseA": "Một ",
+        "CaseB": "Hai ",
+        "CaseC": "Bảy ",
+        "CaseD": "Mười ",
+        "Question": "Điền vào câu tục ngữ sau: \"Đi một ngày đàng học ... sàng khôn\"?",
+        "TrueCase": 1,
+        "_id": 177
+    },
+    {
+        "CaseA": "Ba",
+        "CaseB": "Ngũ ",
+        "CaseC": "Tam ",
+        "CaseD": "Lục ",
+        "Question": "Điền vào câu tục ngữ sau: \"Nhất nước, nhì phân, ... cần, tứ giống\"?",
+        "TrueCase": 3,
+        "_id": 178
+    },
+    {
+        "CaseA": "Sung ",
+        "CaseB": "Mơ ",
+        "CaseC": "Me ",
+        "CaseD": "Bông ",
+        "Question": "Điền vào chỗ trống: \"Ăn cây táo, rào cây ...\"?",
+        "TrueCase": 1,
+        "_id": 179
+    },
+    {
+        "CaseA": "Tươi",
+        "CaseB": "Thiu ",
+        "CaseC": "Bẩn ",
+        "CaseD": "Gỏi ",
+        "Question": "Điền vào chỗ trống: \"Ăn ... nuốt sống\"?",
+        "TrueCase": 1,
+        "_id": 180
+    },
+    {
+        "CaseA": "Mèo ",
+        "CaseB": "Chó ",
+        "CaseC": "Lợn ",
+        "CaseD": "Chuột ",
+        "Question": "Điền vào chỗ trống: \"Cháy nhà mới ra mặt ...\"?",
+        "TrueCase": 4,
+        "_id": 181
+    },
+    {
+        "CaseA": "Nát ",
+        "CaseB": "Bẩn ",
+        "CaseC": "Ướt ",
+        "CaseD": "Rách ",
+        "Question": "Điền vào chỗ trống: \"Giấy ... phải giữa lấy lề\"?",
+        "TrueCase": 4,
+        "_id": 182
+    },
+    {
+        "CaseA": "Trâu ",
+        "CaseB": "Ngựa",
+        "CaseC": "Bò ",
+        "CaseD": "Chó ",
+        "Question": "Điền vào chỗ trống: \"Lên voi xuống ...\"?",
+        "TrueCase": 4,
+        "_id": 183
+    },
+    {
+        "CaseA": "Thời ",
+        "CaseB": "Tuổi ",
+        "CaseC": "Lứa ",
+        "CaseD": "Lúc ",
+        "Question": "Điền vào chỗ trống: \"Sông có khúc, người có ...\"?",
+        "TrueCase": 4,
+        "_id": 184
+    },
+    {
+        "CaseA": "Hỏng xôi bỏng không ",
+        "CaseB": "Xôi bỏng hỏng không ",
+        "CaseC": "Xôi không bỏng hỏng",
+        "CaseD": "Xôi hỏng bỏng không ",
+        "Question": "Hãy chọn thứ tự đúng của một câu thành ngữ?",
+        "TrueCase": 4,
+        "_id": 185
+    },
+    {
+        "CaseA": "Nguyễn Ái Quốc",
+        "CaseB": "Nguyễn Tất Thành",
+        "CaseC": "Nguyễn Sinh Cung",
+        "CaseD": "Hồ Chí Minh ",
+        "Question": "Bác Hồ kính yêu của dân tộc Việt Nam tên thật là gì?",
+        "TrueCase": 3,
+        "_id": 186
+    },
+    {
+        "CaseA": "7Up",
+        "CaseB": "Sting",
+        "CaseC": "Dr.Thanh",
+        "CaseD": "Rượu",
+        "Question": "Uống loại nước nào say đât rất có hại cho sức khoẻ?",
+        "TrueCase": 4,
+        "_id": 187
+    },
+    {
+        "CaseA": "Tôn Đức Thắng",
+        "CaseB": "Võ Nguyên Giáp",
+        "CaseC": "Phan Văn Khải",
+        "CaseD": "Lê Khả Phiêu",
+        "Question": "Ai từng là chủ tịch nước Cộng hoà xã hội chủ nghĩa Việt Nam?",
+        "TrueCase": 1,
+        "_id": 188
+    },
+    {
+        "CaseA": "Châu lục ",
+        "CaseB": "Đảo ",
+        "CaseC": "Lục địa ",
+        "CaseD": "Vịnh ",
+        "Question": "Cái gì lớn nhất dưới đây?",
+        "TrueCase": 3,
+        "_id": 189
+    },
+    {
+        "CaseA": "Phúc, Thọ, Lộc ",
+        "CaseB": "Thọ, Phúc, Lộc",
+        "CaseC": "Phúc, Lộc, Thọ ",
+        "CaseD": "Lộc, Phúc, Thọ ",
+        "Question": "3 điều tốt lành của người Trung Quốc theo thứ tự nào sau đây là đúng?",
+        "TrueCase": 3,
+        "_id": 190
+    },
+    {
+        "CaseA": "Bướm ",
+        "CaseB": "Ong ",
+        "CaseC": "Nhền nhện ",
+        "CaseD": "Châu chấu ",
+        "Question": "Trong các con vật sau đây, con nào biết giăng tơ?",
+        "TrueCase": 3,
+        "_id": 191
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Bò ",
+        "CaseC": "Lợn ",
+        "CaseD": "Chó",
+        "Question": "Trong các con vật sau đây, con nào được người nông dân lợi dụng sức kéo?",
+        "TrueCase": 2,
+        "_id": 192
+    },
+    {
+        "CaseA": "Cam ",
+        "CaseB": "Bưởi ",
+        "CaseC": "Mướp ",
+        "CaseD": "Chanh ",
+        "Question": "Trong các loại quả sau đây, quả nào khác với các quả còn lại?",
+        "TrueCase": 3,
+        "_id": 193
+    },
+    {
+        "CaseA": "Nồi ",
+        "CaseB": "Giàn ",
+        "CaseC": "Chuồng ",
+        "CaseD": "Bàn ",
+        "Question": "Ca dao có câu: \"Bầu ơi thương lấy bí cùng.Tuy rằng khác giống nhưng chung một ...\"?",
+        "TrueCase": 2,
+        "_id": 194
+    },
+    {
+        "CaseA": "Gió ",
+        "CaseB": "Nắng ",
+        "CaseC": "Chết ngồi",
+        "CaseD": "Chết đứng ",
+        "Question": "Điền vào câu tục ngữ sau: \"Cây ngay không sợ ...\"?",
+        "TrueCase": 4,
+        "_id": 195
+    },
+    {
+        "CaseA": "Nhấc",
+        "CaseB": "Bốc ",
+        "CaseC": "Múc",
+        "CaseD": "Gắp ",
+        "Question": "Điền vào câu tục ngữ sau: \"Không ăn ... bỏ cho người\"?",
+        "TrueCase": 4,
+        "_id": 196
+    },
+    {
+        "CaseA": "Rằm ",
+        "CaseB": "Khô ",
+        "CaseC": "Lụt ",
+        "CaseD": "Mưa ",
+        "Question": "Điền vào câu tục ngữ sau: \"Trăng quầng thị hạn, trăng tán thì ...\"?",
+        "TrueCase": 4,
+        "_id": 197
+    },
+    {
+        "CaseA": "Rau ",
+        "CaseB": "Đậu ",
+        "CaseC": "Chay ",
+        "CaseD": "Xôi ",
+        "Question": "Điền vào chỗ trống: \"Ăn ... niệm phật\"?",
+        "TrueCase": 3,
+        "_id": 198
+    },
+    {
+        "CaseA": "Uống ",
+        "CaseB": "Mặc  ",
+        "CaseC": "Ngủ ",
+        "CaseD": "Chơi ",
+        "Question": "Điền vào chỗ trống: \"Ăn sung ... sướng\"?",
+        "TrueCase": 2,
+        "_id": 199
+    },
+    {
+        "CaseA": "Lồng ",
+        "CaseB": "Chuồng ",
+        "CaseC": "Tổ ",
+        "CaseD": "Ổ ",
+        "Question": "Điền vào chỗ trống: \"Cá chậu chim ...\"?",
+        "TrueCase": 1,
+        "_id": 200
+    },
+    {
+        "CaseA": "Ông ",
+        "CaseB": "Bà ",
+        "CaseC": "Cháu ",
+        "CaseD": "Con ",
+        "Question": "Điền vào chỗ trống: \"Gậy ông đập lưng ...\"?",
+        "TrueCase": 1,
+        "_id": 201
+    },
+    {
+        "CaseA": "Ruộng ",
+        "CaseB": "Ao ",
+        "CaseC": "Sông ",
+        "CaseD": "Suối ",
+        "Question": "Điền vào chỗ trống: \"Lên bờ xuống ...\"?",
+        "TrueCase": 1,
+        "_id": 202
+    },
+    {
+        "CaseA": "Vị ",
+        "CaseB": "Cảng ",
+        "CaseC": "Đăng ",
+        "CaseD": "Dương ",
+        "Question": "Điền vào chỗ trống: Sơn hào hải ...?",
+        "TrueCase": 1,
+        "_id": 203
+    },
+    {
+        "CaseA": "Đầu lộ diện xuất",
+        "CaseB": "Xuất diện lộ đầu ",
+        "CaseC": "Xuất đầu lộ diện ",
+        "CaseD": "Diện lộ đầu xuất ",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 3,
+        "_id": 204
+    },
+    {
+        "CaseA": "Việt Nam",
+        "CaseB": "Brazil",
+        "CaseC": "Mexico",
+        "CaseD": "Canada",
+        "Question": "Quốc kỳ có hình lá phong là quốc kỳ của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 205
+    },
+    {
+        "CaseA": "Làm việc",
+        "CaseB": "Âm nhạc",
+        "CaseC": "Học tập",
+        "CaseD": "Mê tín dị đoan",
+        "Question": "Yếu tố nào sau đây không cần cho cuộc sống con người?",
+        "TrueCase": 4,
+        "_id": 206
+    },
+    {
+        "CaseA": "24/12",
+        "CaseB": "22/12",
+        "CaseC": "23/12",
+        "CaseD": "21/12",
+        "Question": "Đâu là ngày lễ Giáng Sinh?",
+        "TrueCase": 1,
+        "_id": 207
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "1 chồng sách + 2 chồng sách = ..?.. chồng sách?",
+        "TrueCase": 1,
+        "_id": 208
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Malaysia ",
+        "CaseC": "Lào ",
+        "CaseD": "Philippines ",
+        "Question": "Việt Nam giáp với Campuchia, Trung Quốc và quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 209
+    },
+    {
+        "CaseA": "Thỏ ",
+        "CaseB": "Dê ",
+        "CaseC": "Rắn ",
+        "CaseD": "Lươn ",
+        "Question": "Trong các con vật sau đây, con nào có thể cắn chết người?",
+        "TrueCase": 3,
+        "_id": 210
+    },
+    {
+        "CaseA": "Mèo ",
+        "CaseB": "Sư tử ",
+        "CaseC": "Khỉ ",
+        "CaseD": "Cá voi ",
+        "Question": "Trong các con vật sau đây, con nào khôn ngoan và thông minh nhất?",
+        "TrueCase": 3,
+        "_id": 211
+    },
+    {
+        "CaseA": "Bầu ",
+        "CaseB": "Bí ",
+        "CaseC": "Cà rốt ",
+        "CaseD": "Bưởi ",
+        "Question": "Trong các loại quả sau đây, quả nào khác với các quả còn lại?",
+        "TrueCase": 3,
+        "_id": 212
+    },
+    {
+        "CaseA": "Ta ",
+        "CaseB": "Bạn ",
+        "CaseC": "Nhau ",
+        "CaseD": "Tin ",
+        "Question": "Người đời thường dạy: \"Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng ...\". Hãy điền từ còn thiếu?",
+        "TrueCase": 3,
+        "_id": 213
+    },
+    {
+        "CaseA": "Ướt ",
+        "CaseB": "Khô ",
+        "CaseC": "Hoa ",
+        "CaseD": "Cối ",
+        "Question": "Điền vào câu tục ngữ sau: \"Cây ... không trái, gái độc không con\"?",
+        "TrueCase": 2,
+        "_id": 214
+    },
+    {
+        "CaseA": "Khôn, dại ",
+        "CaseB": "Dại, khôn ",
+        "CaseC": "Thông minh, dại",
+        "CaseD": "Dại, thông minh",
+        "Question": "Điền vào câu tục ngữ sau: \"Đồng tiền đi trước là đồng tiền ... , đồng tiền đi sau là đồng tiền ...\"?",
+        "TrueCase": 1,
+        "_id": 215
+    },
+    {
+        "CaseA": "Giàu ",
+        "CaseB": "Sang ",
+        "CaseC": "Quý ",
+        "CaseD": "Vinh ",
+        "Question": "Điền vào câu tục ngữ sau: \"Thấy người ... bắt quàng làm họ\"?",
+        "TrueCase": 2,
+        "_id": 216
+    },
+    {
+        "CaseA": "Chắc ",
+        "CaseB": "Nhiều ",
+        "CaseC": "Chật ",
+        "CaseD": "Ít",
+        "Question": "Điền vào chỗ trống: \"Ăn ... mặc bền\"?",
+        "TrueCase": 1,
+        "_id": 217
+    },
+    {
+        "CaseA": "Cóc ",
+        "CaseB": "Vịt ",
+        "CaseC": "Cá ",
+        "CaseD": "Tôm ",
+        "Question": "Điền vào chỗ trống: \"Bắt ... bỏ đĩa\"?",
+        "TrueCase": 1,
+        "_id": 218
+    },
+    {
+        "CaseA": "Kim cương ",
+        "CaseB": "Vàng ",
+        "CaseC": "Bạc ",
+        "CaseD": "Đồng ",
+        "Question": "Điền vào chỗ trống: \"Cành ... lá ngọc\"?",
+        "TrueCase": 2,
+        "_id": 219
+    },
+    {
+        "CaseA": "Mồi ",
+        "CaseB": "Trứng ",
+        "CaseC": "Con ",
+        "CaseD": "Tổ ",
+        "Question": "Điền vào chỗ trống: \"Giao ... cho ác\"?",
+        "TrueCase": 2,
+        "_id": 220
+    },
+    {
+        "CaseA": "Lòng ",
+        "CaseB": "Tâm ",
+        "CaseC": "Thân ",
+        "CaseD": "Nhân ",
+        "Question": "Điền vào chỗ trống: \"Lực bất tòng ...\"?",
+        "TrueCase": 2,
+        "_id": 221
+    },
+    {
+        "CaseA": "Được ",
+        "CaseB": "Mất ",
+        "CaseC": "Tốt",
+        "CaseD": "Đau ",
+        "Question": "Điền vào chỗ trống: \"Thuốc đắng giã tật, sự thật ... lòng\"?",
+        "TrueCase": 2,
+        "_id": 222
+    },
+    {
+        "CaseA": "Tre mọc măng già",
+        "CaseB": "Tre già măng mọc ",
+        "CaseC": "Măng mọc tre già",
+        "CaseD": "Măng già tre học ",
+        "Question": "Thứ tự nào sau đây đúng với một câu thành ngữ?",
+        "TrueCase": 2,
+        "_id": 223
+    },
+    {
+        "CaseA": "11",
+        "CaseB": "10",
+        "CaseC": "22",
+        "CaseD": "20",
+        "Question": "Trong một trận bóng đá, mỗi đội có bao nhiêu cầu thủ chính thức trên sân?",
+        "TrueCase": 1,
+        "_id": 224
+    },
+    {
+        "CaseA": "Tóc ",
+        "CaseB": "Răng ",
+        "CaseC": "Trái tim",
+        "CaseD": "Móng ",
+        "Question": "Bộ phận nào sau đây là quan trọng đối với sự sống của con người?",
+        "TrueCase": 3,
+        "_id": 225
+    },
+    {
+        "CaseA": "22/12",
+        "CaseB": "23/12",
+        "CaseC": "24/12",
+        "CaseD": "26/12",
+        "Question": "Ngày thành lập Quân đội Nhân dân Việt Nam?",
+        "TrueCase": 1,
+        "_id": 226
+    },
+    {
+        "CaseA": "Lợn ",
+        "CaseB": "Kiến ",
+        "CaseC": "Khỉ ",
+        "CaseD": "Chuột",
+        "Question": "Điền vào cây tục ngữ sau: \"Đầu voi đuôi ...\"?",
+        "TrueCase": 4,
+        "_id": 227
+    },
+    {
+        "CaseA": "Myanmar ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Singapore ",
+        "CaseD": "Campuchia ",
+        "Question": "Việt Nam giáp với Trung Quốc, Lào và quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 228
+    },
+    {
+        "CaseA": "Hươu ",
+        "CaseB": "Nai ",
+        "CaseC": "Hổ ",
+        "CaseD": "Ngựa vằn ",
+        "Question": "Trong các con vật sau đây, con nào có thể chiến thắng các con vật còn lại?",
+        "TrueCase": 3,
+        "_id": 229
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Báo ",
+        "CaseC": "Rắn ",
+        "CaseD": "Chó sói ",
+        "Question": "Trong các con vật sau đây, con nào nuốt chửng con mồi mà không cần nhai?",
+        "TrueCase": 3,
+        "_id": 230
+    },
+    {
+        "CaseA": "Cam ",
+        "CaseB": "Quýt ",
+        "CaseC": "Bưởi",
+        "CaseD": "Dưa hấu ",
+        "Question": "Trong các loại quả sau đây, quả nào khác với các quả còn lại?",
+        "TrueCase": 4,
+        "_id": 231
+    },
+    {
+        "CaseA": "Chảo ",
+        "CaseB": "Bếp ",
+        "CaseC": "Hướng ",
+        "CaseD": "Bạn ",
+        "Question": "Có câu: \"Ăn trông nồi, ngồi trông ....\"?",
+        "TrueCase": 3,
+        "_id": 232
+    },
+    {
+        "CaseA": "Gió ",
+        "CaseB": "Nước ",
+        "CaseC": "Nắng ",
+        "CaseD": "Mưa ",
+        "Question": "Điền vào câu tục ngữ sau: \"Cây muốn lặng mà ... chẳng ngừng\"?",
+        "TrueCase": 1,
+        "_id": 233
+    },
+    {
+        "CaseA": "Hướng ",
+        "CaseB": "Chí ",
+        "CaseC": "Phương",
+        "CaseD": "Số ",
+        "Question": "Điền vào câu tục ngữ sau: \"Hoạ vô đơn ..., phúc bắt trùng lai\"?",
+        "TrueCase": 2,
+        "_id": 234
+    },
+    {
+        "CaseA": "Báo ",
+        "CaseB": "Ôn ",
+        "CaseC": "Nhân ",
+        "CaseD": "Đáp ",
+        "Question": "Điền vào chỗ trống: \"Ác giả ác ...\"?",
+        "TrueCase": 1,
+        "_id": 235
+    },
+    {
+        "CaseA": "Ngọt ",
+        "CaseB": "Chát ",
+        "CaseC": "Đắng ",
+        "CaseD": "Nhạt ",
+        "Question": "Điền vào chỗ trống: \"Ngậm ... nuốt cay\"?",
+        "TrueCase": 3,
+        "_id": 236
+    },
+    {
+        "CaseA": "Nhảy ",
+        "CaseB": "Đi ",
+        "CaseC": "Bước ",
+        "CaseD": "Ngồi ",
+        "Question": "Điền vào chỗ trống: \"Bước thấp ... cao\"?",
+        "TrueCase": 3,
+        "_id": 237
+    },
+    {
+        "CaseA": "Táo ",
+        "CaseB": "Cáo ",
+        "CaseC": "Đáo ",
+        "CaseD": "Sáo ",
+        "Question": "Điền vào chỗ trống: \"Chạy đôn chạy ...\"?",
+        "TrueCase": 3,
+        "_id": 238
+    },
+    {
+        "CaseA": "Cát ",
+        "CaseB": "Sỏi ",
+        "CaseC": "Đất ",
+        "CaseD": "Trăng ",
+        "Question": "Điền vào chỗ trống: \"Gần ... xa trời\"?",
+        "TrueCase": 3,
+        "_id": 239
+    },
+    {
+        "CaseA": "Hát ",
+        "CaseB": "Nói ",
+        "CaseC": "Chữ ",
+        "CaseD": "Văn ",
+        "Question": "Điền vào chỗ trống: \"Muốn sang phải bắt cầu Kiều, muốn con hay ... phải yêu lấy thầy\"?",
+        "TrueCase": 3,
+        "_id": 240
+    },
+    {
+        "CaseA": "Hết ",
+        "CaseB": "Cạn ",
+        "CaseC": "Kiệt ",
+        "CaseD": "Tàn ",
+        "Question": "Điền vào chỗ trống: \"Sức cùng lực ...\"?",
+        "TrueCase": 3,
+        "_id": 241
+    },
+    {
+        "CaseA": "Bất tỉnh nhân sự ",
+        "CaseB": "Bất khả xâm phạm ",
+        "CaseC": "Bất đắc kỳ tử",
+        "CaseD": "Bất di bất dịch ",
+        "Question": "Câu nào sau đây chỉ người ở trạng thái mê man không biết gì?",
+        "TrueCase": 1,
+        "_id": 242
+    },
+    {
+        "CaseA": "19/05/1880",
+        "CaseB": "19/05/1890",
+        "CaseC": "09/05/1890",
+        "CaseD": "05/09/1890",
+        "Question": "Hồ Chí Minh sinh vào ngày tháng năm nào?",
+        "TrueCase": 2,
+        "_id": 243
+    },
+    {
+        "CaseA": "Tổ trưởng ",
+        "CaseB": "Lớp trưởng",
+        "CaseC": "Chủ nhiệm",
+        "CaseD": "Lớp phó",
+        "Question": "Người đứng đầu một lớp học gọi là gì?",
+        "TrueCase": 2,
+        "_id": 244
+    },
+    {
+        "CaseA": "Vui ",
+        "CaseB": "Cười ",
+        "CaseC": "Đùa ",
+        "CaseD": "Nở ",
+        "Question": "\"Vì mây cho núi lên trời. Vì cơn gió thổi hoa ... với trăng\". Hãy điền vào chỗ trống trong câu ca dao trên?",
+        "TrueCase": 2,
+        "_id": 245
+    },
+    {
+        "CaseA": "60",
+        "CaseB": "600",
+        "CaseC": "360 ",
+        "CaseD": "3600",
+        "Question": "Một giờ có bao nhiêu giây?",
+        "TrueCase": 4,
+        "_id": 246
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Campuchia ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Philippines ",
+        "Question": "Đất nước phía Đông của Việt Nam là quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 247
+    },
+    {
+        "CaseA": "Mèo ",
+        "CaseB": "Ngựa ",
+        "CaseC": "Nai ",
+        "CaseD": "Dê",
+        "Question": "Trong các con vật sau đây, con nào thường được nuôi ở nhà?",
+        "TrueCase": 1,
+        "_id": 248
+    },
+    {
+        "CaseA": "Cá sấu ",
+        "CaseB": "Hải cẩu ",
+        "CaseC": "Chó săn",
+        "CaseD": "Rùa biển ",
+        "Question": "Trong các con vật sau đây, con nào sống trên cạn?",
+        "TrueCase": 3,
+        "_id": 249
+    },
+    {
+        "CaseA": "Chanh ",
+        "CaseB": "Táo ",
+        "CaseC": "Ớt",
+        "CaseD": "Mận ",
+        "Question": "Trong các loại sau đây, quả nào cay nhất?",
+        "TrueCase": 3,
+        "_id": 250
+    },
+    {
+        "CaseA": "Khoai ",
+        "CaseB": "Cơm ",
+        "CaseC": "Chay ",
+        "CaseD": "Hồng ",
+        "Question": "Điền vào chỗ trống: \"Ăn quả nhớ kẻ trồng cây. Ăn ... nhớ kẻ cho dây mà trồng\"?",
+        "TrueCase": 1,
+        "_id": 251
+    },
+    {
+        "CaseA": "Suốt đời ",
+        "CaseB": "Suốt ngày ",
+        "CaseC": "Ba đời ",
+        "CaseD": "Bốn đời  ",
+        "Question": "Điền vào câu tục ngữ sau: \"Chẳng ai giàu ba họ, chẳng ai khó ...\"?",
+        "TrueCase": 3,
+        "_id": 252
+    },
+    {
+        "CaseA": "Hai ",
+        "CaseB": "Ba ",
+        "CaseC": "Bốn ",
+        "CaseD": "Năm ",
+        "Question": "Điền vào câu tục ngữ sau: \"Khôn ... năm dại một giờ\"?",
+        "TrueCase": 2,
+        "_id": 253
+    },
+    {
+        "CaseA": "Dựng",
+        "CaseB": "Gây ",
+        "CaseC": "Lạc ",
+        "CaseD": "Tác ",
+        "Question": "Điền vào chỗ trống: \"An cư ... nghiệp\"?",
+        "TrueCase": 3,
+        "_id": 254
+    },
+    {
+        "CaseA": "Tôm ",
+        "CaseB": "Cá ",
+        "CaseC": "Rươi",
+        "CaseD": "Cua ",
+        "Question": "Điền vào chỗ trống: \"Ăn cắp như ...\"?",
+        "TrueCase": 3,
+        "_id": 255
+    },
+    {
+        "CaseA": "Không ",
+        "CaseB": "Khó ",
+        "CaseC": "Dễ ",
+        "CaseD": "Bất",
+        "Question": "Điền vào chỗ trống: \"... phân thắng bại\"?",
+        "TrueCase": 4,
+        "_id": 256
+    },
+    {
+        "CaseA": "Hét ",
+        "CaseB": "Khóc ",
+        "CaseC": "Thét ",
+        "CaseD": "Hú ",
+        "Question": "Điền vào chỗ trống: \"Chim kêu vượn ...\"?",
+        "TrueCase": 4,
+        "_id": 257
+    },
+    {
+        "CaseA": "Đức ",
+        "CaseB": "Tốt ",
+        "CaseC": "Quỷ ",
+        "CaseD": "Nghĩa ",
+        "Question": "Điền vào chỗ trống: \"Giả nhân giả ...\"?",
+        "TrueCase": 4,
+        "_id": 258
+    },
+    {
+        "CaseA": "Quýt ",
+        "CaseB": "Đào ",
+        "CaseC": "Ổi ",
+        "CaseD": "Sung ",
+        "Question": "Điền vào chỗ trống: \"Ngồi chờ ... rụng\"?",
+        "TrueCase": 4,
+        "_id": 259
+    },
+    {
+        "CaseA": "Mày ",
+        "CaseB": "Tao ",
+        "CaseC": "Nó ",
+        "CaseD": "Bay ",
+        "Question": "Điền vào chỗ trống: \"Sống chết mặc ...\"?",
+        "TrueCase": 4,
+        "_id": 260
+    },
+    {
+        "CaseA": "Những ngày trăng mật ",
+        "CaseB": "Hết học kỳ một",
+        "CaseC": "Thời gian thử việc",
+        "CaseD": "Thời gian mang thai ",
+        "Question": "9 tháng 10 ngày chỉ điều gì?",
+        "TrueCase": 4,
+        "_id": 261
+    },
+    {
+        "CaseA": "19/05/1890",
+        "CaseB": "15/09/1980",
+        "CaseC": "09/02/1969",
+        "CaseD": "02/09/1969",
+        "Question": "Hồ Chí Minh mất vào ngày tháng năm nào?",
+        "TrueCase": 4,
+        "_id": 262
+    },
+    {
+        "CaseA": "Ấn Độ",
+        "CaseB": "Mỹ",
+        "CaseC": "Nga",
+        "CaseD": "Trung Quốc",
+        "Question": "Quốc gia nào có dân số đông nhất thế giới?",
+        "TrueCase": 4,
+        "_id": 263
+    },
+    {
+        "CaseA": "Văn xuôi ",
+        "CaseB": "Truyện cổ dân gian ",
+        "CaseC": "Truyện ngắn ",
+        "CaseD": "Văn vần ",
+        "Question": "Trong thể loại nào sau đây, ta thường gặp nhiều câu rút gọn?",
+        "TrueCase": 3,
+        "_id": 264
+    },
+    {
+        "CaseA": "60 ",
+        "CaseB": "600",
+        "CaseC": "360",
+        "CaseD": "3600",
+        "Question": "Một phút có bao nhiêu giây?",
+        "TrueCase": 1,
+        "_id": 265
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Singapore",
+        "Question": "Đất nước phía Nam của Việt Nam là đất nước nào?",
+        "TrueCase": 4,
+        "_id": 266
+    },
+    {
+        "CaseA": "Nhái ",
+        "CaseB": "Ếch ",
+        "CaseC": "Cóc ",
+        "CaseD": "Ễnh ương ",
+        "Question": "Trong các con vật sau đây, con nào được xem là cậu ông trời?",
+        "TrueCase": 3,
+        "_id": 267
+    },
+    {
+        "CaseA": "Chó sói ",
+        "CaseB": "Gấu ",
+        "CaseC": "Hươu ",
+        "CaseD": "Ngựa vằn",
+        "Question": "Trong các con vật sau đây, con nào có sừng?",
+        "TrueCase": 3,
+        "_id": 268
+    },
+    {
+        "CaseA": "Cà chua",
+        "CaseB": "Bầu ",
+        "CaseC": "Bưởi ",
+        "CaseD": "Táo ",
+        "Question": "Trong các loại quả sau đây, quả nào ngọt nhất?",
+        "TrueCase": 4,
+        "_id": 269
+    },
+    {
+        "CaseA": "Rau ",
+        "CaseB": "Cây ",
+        "CaseC": "Sâu ",
+        "CaseD": "Lá ",
+        "Question": "Người ta thường nói: \"Vạch lá tìm ...\"?",
+        "TrueCase": 3,
+        "_id": 270
+    },
+    {
+        "CaseA": "Sữa mẹ ",
+        "CaseB": "Nước mát ",
+        "CaseC": "Nước lã ",
+        "CaseD": "Nước giếng",
+        "Question": "Điền vào câu tục ngữ sau: \"Chị em dâu như bầu ...\"?",
+        "TrueCase": 3,
+        "_id": 271
+    },
+    {
+        "CaseA": "Đố ",
+        "CaseB": "Thách",
+        "CaseC": "Sao ",
+        "CaseD": "Chắc",
+        "Question": "Điền vào câu tục ngữ sau: \"Không thầy ... mày làm nên\"?",
+        "TrueCase": 1,
+        "_id": 272
+    },
+    {
+        "CaseA": "Số ",
+        "CaseB": "Cư ",
+        "CaseC": "Bài ",
+        "CaseD": "Phận ",
+        "Question": "Điền vào chỗ trống: \"An ... thủ thường\"?",
+        "TrueCase": 4,
+        "_id": 273
+    },
+    {
+        "CaseA": "Uống ",
+        "CaseB": "Sống ",
+        "CaseC": "Chơi ",
+        "CaseD": "Ở ",
+        "Question": "Điền vào chỗ trống: \"Ăn cần ... kiệm\"?",
+        "TrueCase": 4,
+        "_id": 274
+    },
+    {
+        "CaseA": "Dạ ",
+        "CaseB": "Người ",
+        "CaseC": "Đầu ",
+        "CaseD": "Cổ ",
+        "Question": "Điền vào chỗ trống: \"Bụng làm ... chịu\"?",
+        "TrueCase": 1,
+        "_id": 275
+    },
+    {
+        "CaseA": "Gió ",
+        "CaseB": "Nắng ",
+        "CaseC": "Mưa ",
+        "CaseD": "Lũ ",
+        "Question": "Điền vào chỗ trống: \"Cây muốn lặng mà ... chẳng ngừng\"?",
+        "TrueCase": 1,
+        "_id": 276
+    },
+    {
+        "CaseA": "Gấm ",
+        "CaseB": "Vải ",
+        "CaseC": "Lụa ",
+        "CaseD": "Tầm ",
+        "Question": "Điền vào chỗ trống: \"Giang sơn ... vóc\"?",
+        "TrueCase": 1,
+        "_id": 277
+    },
+    {
+        "CaseA": "Làm ",
+        "CaseB": "Chơi ",
+        "CaseC": "Ăn ",
+        "CaseD": "Uống ",
+        "Question": "Điền vào chỗ trống: \"Nói một đằng, ... một nẻo\"?",
+        "TrueCase": 1,
+        "_id": 278
+    },
+    {
+        "CaseA": "Sức ",
+        "CaseB": "Của ",
+        "CaseC": "Tiền ",
+        "CaseD": "Lực ",
+        "Question": "Điền vào chỗ trống: \"Uổng công phí ...\"?",
+        "TrueCase": 1,
+        "_id": 279
+    },
+    {
+        "CaseA": "Ăn hay học vóc",
+        "CaseB": "Ăn vóc học hay ",
+        "CaseC": "Học hay ăn vóc",
+        "CaseD": "Học vóc ăn hay ",
+        "Question": "Thứ tự nào đúng nhất trong các thứ tự sau?",
+        "TrueCase": 2,
+        "_id": 280
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6",
+        "Question": "Thế giới có bao nhiêu châu lục có người sinh sống?",
+        "TrueCase": 3,
+        "_id": 281
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Nga",
+        "CaseC": "Ấn Độ",
+        "CaseD": "Brazil",
+        "Question": "Tính đến năm 2011, quốc gia nào có dân số đứng thứ hai trên thế giới?",
+        "TrueCase": 3,
+        "_id": 282
+    },
+    {
+        "CaseA": "Bình Dương ",
+        "CaseB": "Hải Dương ",
+        "CaseC": "Bình Định ",
+        "CaseD": "Bình Thuận ",
+        "Question": "Tỉnh nào sau đây ở miền Bắc nước ta?",
+        "TrueCase": 2,
+        "_id": 283
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "10",
+        "CaseC": "100",
+        "CaseD": "1000",
+        "Question": "Một thập kỷ có bao nhiêu năm ?",
+        "TrueCase": 2,
+        "_id": 284
+    },
+    {
+        "CaseA": "Malaysia ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Myanmar ",
+        "CaseD": "Camphuchia ",
+        "Question": "Đất nước nằm phía nam của Việt Nam là đất nước nào?",
+        "TrueCase": 1,
+        "_id": 285
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Voi ",
+        "CaseC": "Cá mập ",
+        "CaseD": "Cá voi xanh ",
+        "Question": "Trong các con vật sau đây, con nào to nhất?",
+        "TrueCase": 4,
+        "_id": 286
+    },
+    {
+        "CaseA": "Khỉ ",
+        "CaseB": "Hổ ",
+        "CaseC": "Nai ",
+        "CaseD": "Chó sói",
+        "Question": "Trong các con vật sau đây, con nào có khả năng leo trèo?",
+        "TrueCase": 1,
+        "_id": 287
+    },
+    {
+        "CaseA": "Quả chuối ",
+        "CaseB": "Quả táo ",
+        "CaseC": "Quả dưa hấu ",
+        "CaseD": "Quả táo ",
+        "Question": "Nhắc đến Mai An Tiêm, người ta nghĩ đến quả gì?",
+        "TrueCase": 3,
+        "_id": 288
+    },
+    {
+        "CaseA": "Tưới ",
+        "CaseB": "Chăm ",
+        "CaseC": "Trồng ",
+        "CaseD": "Đào ",
+        "Question": "Điền vào câu tục ngữ sau: \"Ăn quả nhớ kẻ ... cây\"?",
+        "TrueCase": 3,
+        "_id": 289
+    },
+    {
+        "CaseA": "Khen ",
+        "CaseB": "Chê ",
+        "CaseC": "Vui ",
+        "CaseD": "Nâng ",
+        "Question": "Điền vào câu tục ngữ sau: \"Chị ngã, em ...\"?",
+        "TrueCase": 4,
+        "_id": 290
+    },
+    {
+        "CaseA": "Núi ",
+        "CaseB": "Non ",
+        "CaseC": "Đồi ",
+        "CaseD": "Đâu",
+        "Question": "Điền vào chỗ trống sau: \"Một cây làm chẳng nên ..., ba cây chụm lại nên hòn núi cao\"?",
+        "TrueCase": 2,
+        "_id": 291
+    },
+    {
+        "CaseA": "Binh ",
+        "CaseB": "Quân ",
+        "CaseC": "Ngữ ",
+        "CaseD": "Mạng ",
+        "Question": "Điền vào chỗ trống: \"Án ... bất động\"?",
+        "TrueCase": 1,
+        "_id": 292
+    },
+    {
+        "CaseA": "Ai ",
+        "CaseB": "Kẻ ",
+        "CaseC": "Lão ",
+        "CaseD": "Bà ",
+        "Question": "Điền vào chỗ trống: \"Ăn quả nhớ ... trồng cây\"?",
+        "TrueCase": 2,
+        "_id": 293
+    },
+    {
+        "CaseA": "Không ",
+        "CaseB": "Bách ",
+        "CaseC": "Trăm",
+        "CaseD": "Chăm ",
+        "Question": "Điền vào chỗ trống: \"... chiến bách thắng\"?",
+        "TrueCase": 2,
+        "_id": 294
+    },
+    {
+        "CaseA": "Lá ",
+        "CaseB": "Cánh ",
+        "CaseC": "Mông ",
+        "CaseD": "Má ",
+        "Question": "Điền vào chỗ trống: \"Con nhà tông không giống lông cũng giống ...\"?",
+        "TrueCase": 2,
+        "_id": 295
+    },
+    {
+        "CaseA": "Trái ",
+        "CaseB": "Quả ",
+        "CaseC": "Hạt ",
+        "CaseD": "Vỏ ",
+        "Question": "Điền vào chỗ trống: \"Gieo nhân nào gặt ... nấy\"?",
+        "TrueCase": 2,
+        "_id": 296
+    },
+    {
+        "CaseA": "Trong ",
+        "CaseB": "Đục ",
+        "CaseC": "Bẩn ",
+        "CaseD": "Sạch ",
+        "Question": "Điền vào chỗ trống: \"Nước ... thả câu\"?",
+        "TrueCase": 2,
+        "_id": 297
+    },
+    {
+        "CaseA": "Trăm ",
+        "CaseB": "Vạn ",
+        "CaseC": "Mọi ",
+        "CaseD": "Triệu",
+        "Question": "Điền vào chỗ trống: \"... sự khởi đầu nan\"?",
+        "TrueCase": 2,
+        "_id": 298
+    },
+    {
+        "CaseA": "Rau nấy sâu nào",
+        "CaseB": "Nấy sâu nào rau ",
+        "CaseC": "Sâu nào rau nấy ",
+        "CaseD": "Rau nào sâu nấy",
+        "Question": "Trong các thứ tự sau đây, thứ tự nào đúng với một câu thành ngữ?",
+        "TrueCase": 4,
+        "_id": 299
+    },
+    {
+        "CaseA": "Hoa hướng dương",
+        "CaseB": "Hoa tulip",
+        "CaseC": "Hoa Phăng",
+        "CaseD": "Hoa hồng",
+        "Question": "Loài hoa nào là biểu tượng của tình yêu?",
+        "TrueCase": 4,
+        "_id": 300
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4 ",
+        "Question": "Dân số của đất nước Trung Quốc đứng thứ mấy thế giới?",
+        "TrueCase": 1,
+        "_id": 301
+    },
+    {
+        "CaseA": "Hoa sen",
+        "CaseB": "Chiếc nón ",
+        "CaseC": "Ngôi sao ",
+        "CaseD": "Hoa mai ",
+        "Question": "Quốc kỳ Việt nam có hình gì?",
+        "TrueCase": 3,
+        "_id": 302
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6",
+        "Question": "Miền Bắc Việt Nam có bao nhiêu mùa trong năm?",
+        "TrueCase": 2,
+        "_id": 303
+    },
+    {
+        "CaseA": "Brunei ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Lào ",
+        "CaseD": "Thái Lan ",
+        "Question": "Đất nước nằm phía Tây Nam nước ta là đất nước nào?",
+        "TrueCase": 1,
+        "_id": 304
+    },
+    {
+        "CaseA": "Điều 1 ",
+        "CaseB": "Điều 2",
+        "CaseC": "Điều 3 ",
+        "CaseD": "Điều 4 ",
+        "Question": "\"Yêu tổ quốc, yêu đồng bào\" là điều dạy thứ mấy trong 5 điều Bác Hồ dạy?",
+        "TrueCase": 1,
+        "_id": 305
+    },
+    {
+        "CaseA": "Hai ",
+        "CaseB": "Ba ",
+        "CaseC": "Bốn ",
+        "CaseD": "Năm ",
+        "Question": "Điền vào chỗ trống: \"Một cây làm chẳng nên non, ... cây chụm lại nên hòn núi cao\"? ",
+        "TrueCase": 2,
+        "_id": 306
+    },
+    {
+        "CaseA": "Bảy ",
+        "CaseB": "Tám ",
+        "CaseC": "Chín ",
+        "CaseD": "Mười",
+        "Question": "Điền vào chỗ trống: \"Một nụ cười bằng ... thang thuốc bổ\"?",
+        "TrueCase": 4,
+        "_id": 307
+    },
+    {
+        "CaseA": "Khách ",
+        "CaseB": "Con ",
+        "CaseC": "Bà ",
+        "CaseD": "Chị ",
+        "Question": "Điền vào câu tục ngữ sau: \"Dâu là ..., rể là khách\"?",
+        "TrueCase": 2,
+        "_id": 308
+    },
+    {
+        "CaseA": "Làm càn ",
+        "CaseB": "Làm phách ",
+        "CaseC": "Làm giàu ",
+        "CaseD": "Làm lớn ",
+        "Question": "Điền vào câu tục ngữ sau: \"Có chí làm quan, có gan ...\"?",
+        "TrueCase": 3,
+        "_id": 309
+    },
+    {
+        "CaseA": "Ốm",
+        "CaseB": "Bị thương ",
+        "CaseC": "Bệnh ",
+        "CaseD": "Đau ",
+        "Question": "Điền vào câu tục ngữ sau: \"Một con ngựa ..., cả tàu bỏ cỏ\"?",
+        "TrueCase": 4,
+        "_id": 310
+    },
+    {
+        "CaseA": "Chống ",
+        "CaseB": "Chèo ",
+        "CaseC": "Kéo ",
+        "CaseD": "Kèo ",
+        "Question": "Điền vào chỗ trống: \"Anh em cột ...\"?",
+        "TrueCase": 2,
+        "_id": 311
+    },
+    {
+        "CaseA": "Mơ ",
+        "CaseB": "Ngửa",
+        "CaseC": "Sấp ",
+        "CaseD": "Mộng ",
+        "Question": "Điền vào chỗ trống: \"Ăn chay nằm ...\"?",
+        "TrueCase": 4,
+        "_id": 312
+    },
+    {
+        "CaseA": "Bốn ",
+        "CaseB": "Tám ",
+        "CaseC": "Bảy",
+        "CaseD": "Năm ",
+        "Question": "Điền vào chỗ trống: \"Ba chìm ... nổi\"?",
+        "TrueCase": 3,
+        "_id": 313
+    },
+    {
+        "CaseA": "Mồ hôi ",
+        "CaseB": "Nước ",
+        "CaseC": "Lệ ",
+        "CaseD": "Nước mắt ",
+        "Question": "Điền vào chỗ trống trong câu nói: \"Chưa thấy quan tài chưa đổ ...\"?",
+        "TrueCase": 3,
+        "_id": 314
+    },
+    {
+        "CaseA": "Lũ ",
+        "CaseB": "Mưa ",
+        "CaseC": "Bão ",
+        "CaseD": "Cát ",
+        "Question": "Điền vào chỗ trống: \"Gieo gió gặt ...\"?",
+        "TrueCase": 3,
+        "_id": 315
+    },
+    {
+        "CaseA": "Nhị ",
+        "CaseB": "Bất ",
+        "CaseC": "Lưỡng ",
+        "CaseD": "Lương ",
+        "Question": "Điền vào chỗ trống: \"Nhất cử ... tiện\"?",
+        "TrueCase": 3,
+        "_id": 316
+    },
+    {
+        "CaseA": "Người khác ",
+        "CaseB": "Dì bác ",
+        "CaseC": "Chú bác ",
+        "CaseD": "Hàng xóm ",
+        "Question": "Điền vào chỗ trống: \"Việc nhà thì nhác, việc ... thì siêng\"?",
+        "TrueCase": 3,
+        "_id": 317
+    },
+    {
+        "CaseA": "Trước",
+        "CaseB": "Sau ",
+        "CaseC": "Theo ",
+        "CaseD": "Khi",
+        "Question": "Hoàn thành vào dấu  để câu sau có nghĩa: \"Anh em khinh trước làng nước khinh ...\"?",
+        "TrueCase": 2,
+        "_id": 318
+    },
+    {
+        "CaseA": "Tiếng Anh",
+        "CaseB": "Tiếng Hoa",
+        "CaseC": "Tiếng Pháp",
+        "CaseD": "Tiếng Việt",
+        "Question": "Ngôn ngữ chính thức của người Việt Nam?",
+        "TrueCase": 4,
+        "_id": 319
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4 ",
+        "Question": "Tính đến năm 2011, dân số của nước Ấn Độ đứng thứ mấy thế giới?",
+        "TrueCase": 2,
+        "_id": 320
+    },
+    {
+        "CaseA": "11",
+        "CaseB": "12",
+        "CaseC": "13",
+        "CaseD": "14",
+        "Question": "Theo lịch âm Việt Nam, có bao nhiêu con giáp?",
+        "TrueCase": 2,
+        "_id": 321
+    },
+    {
+        "CaseA": "30 độ ",
+        "CaseB": "90 độ ",
+        "CaseC": "120 độ ",
+        "CaseD": "180 độ ",
+        "Question": "Vào lúc 8 giờ đúng, kim giờ và kim phút tạo thành góc bao nhiêu độ?",
+        "TrueCase": 3,
+        "_id": 322
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Campuchia ",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Malaysia ",
+        "Question": "Đảo Phú Quốc ở vịnh Thái Lan thuộc chủ quyền của quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 323
+    },
+    {
+        "CaseA": "Điều 1 ",
+        "CaseB": "Điều 2",
+        "CaseC": "Điều 4 ",
+        "CaseD": "Điều 5 ",
+        "Question": "\"Học tập tốt, lao động tốt\" là điều dạy thứ mấy trong 5 điều Bác Hồ dạy?",
+        "TrueCase": 2,
+        "_id": 324
+    },
+    {
+        "CaseA": "Đàn ",
+        "CaseB": "Bầy ",
+        "CaseC": "Tàu ",
+        "CaseD": "Dòng ",
+        "Question": "Điền vào chỗ trống: \"Một con ngựa đau, cả ... không ăn cỏ\"?",
+        "TrueCase": 3,
+        "_id": 325
+    },
+    {
+        "CaseA": "Thay ",
+        "CaseB": "Bông",
+        "CaseC": "Hạt ",
+        "CaseD": "Mây ",
+        "Question": "Điền vào chỗ trống: \"Gạo đem vào giã bao đau đớn, gạo giã xong rồi trắng tựa ...\"?",
+        "TrueCase": 2,
+        "_id": 326
+    },
+    {
+        "CaseA": "Chân ",
+        "CaseB": "Mắt",
+        "CaseC": "Tai ",
+        "CaseD": "Mũi ",
+        "Question": "Điền vào câu thành ngữ sau: \"Đàn gảy ... trâu\"?",
+        "TrueCase": 3,
+        "_id": 327
+    },
+    {
+        "CaseA": "Đàn bà ",
+        "CaseB": "Đàn ông ",
+        "CaseC": "Trẻ em ",
+        "CaseD": "Con người ",
+        "Question": "Điền vào chỗ trốn trong câu: \"Bánh mì phải có ba tê, ... phải có máu dê trong người\"?",
+        "TrueCase": 2,
+        "_id": 328
+    },
+    {
+        "CaseA": "Thương ",
+        "CaseB": "Yêu ",
+        "CaseC": "Mến",
+        "CaseD": "Giúp ",
+        "Question": "Điền vào câu ca dao sau: \"Nhiễu điều phủ lấy giá gương. Người trong một nước phải ... nhau cùng\"?",
+        "TrueCase": 1,
+        "_id": 329
+    },
+    {
+        "CaseA": "Văn ",
+        "CaseB": "Tài ",
+        "CaseC": "Võ ",
+        "CaseD": "Công ",
+        "Question": "Điền vào chỗ trống: \"Anh hùng không có đất dụng ...\"?",
+        "TrueCase": 3,
+        "_id": 330
+    },
+    {
+        "CaseA": "Đứng ",
+        "CaseB": "Ngồi ",
+        "CaseC": "Nằm ",
+        "CaseD": "Quỳ",
+        "Question": "Điền vào chỗ trống: \"Ăn chực ... chờ\"?",
+        "TrueCase": 3,
+        "_id": 331
+    },
+    {
+        "CaseA": "Ích ",
+        "CaseB": "Tâm ",
+        "CaseC": "Nghĩa ",
+        "CaseD": "Sự ",
+        "Question": "Điền vào chỗ trống: \"Bình an vô ...\"?",
+        "TrueCase": 4,
+        "_id": 332
+    },
+    {
+        "CaseA": "Hơn ",
+        "CaseB": "Bằng ",
+        "CaseC": "Kém ",
+        "CaseD": "Bù ",
+        "Question": "Điền vào chỗ trống: \"Cần cù ... thông minh\"?",
+        "TrueCase": 4,
+        "_id": 333
+    },
+    {
+        "CaseA": "Bằng ",
+        "CaseB": "Hơn ",
+        "CaseC": "Thể ",
+        "CaseD": "Tày ",
+        "Question": "Điền vào chỗ trống: \"Học thầy không ... học bạn\"?",
+        "TrueCase": 4,
+        "_id": 334
+    },
+    {
+        "CaseA": "Núi ",
+        "CaseB": "Đồi ",
+        "CaseC": "Sỏi ",
+        "CaseD": "Đá ",
+        "Question": "Điền vào chỗ trống: \"Nước chảy ...  mòn\"?",
+        "TrueCase": 4,
+        "_id": 335
+    },
+    {
+        "CaseA": "Táo ",
+        "CaseB": "Dứa ",
+        "CaseC": "Quất ",
+        "CaseD": "Chanh ",
+        "Question": "Điền vào chỗ trống: \"Vắt ... bỏ vỏ\"?",
+        "TrueCase": 4,
+        "_id": 336
+    },
+    {
+        "CaseA": "Chờ ",
+        "CaseB": "Đợi ",
+        "CaseC": "Mong ",
+        "CaseD": "Trông ",
+        "Question": "Điền vào chỗ trống trong câu ca dao: \"Thuyền về có nhớ bến chăng. Bến thì một dạ khăng khăng ... thuyền\"?",
+        "TrueCase": 2,
+        "_id": 337
+    },
+    {
+        "CaseA": "Hà mã",
+        "CaseB": "Lợn ",
+        "CaseC": "Nhím ",
+        "CaseD": "Hổ",
+        "Question": "Loài động vật nào có nét giống loài mèo?",
+        "TrueCase": 4,
+        "_id": 338
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Tính đến năm 2011, Indonesia là quốc gia có dân số đứng thứ mấy thế giới?",
+        "TrueCase": 4,
+        "_id": 339
+    },
+    {
+        "CaseA": "Ớt ",
+        "CaseB": "Tỏi ",
+        "CaseC": "Hành ",
+        "CaseD": "Gừng ",
+        "Question": "Người ta thường nói: \"... càng già càng cay\"?",
+        "TrueCase": 4,
+        "_id": 340
+    },
+    {
+        "CaseA": "-2 ",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "3",
+        "Question": "Kết quả của phép tính 1 - 3 ?",
+        "TrueCase": 1,
+        "_id": 341
+    },
+    {
+        "CaseA": "Rùa ",
+        "CaseB": "Chó ",
+        "CaseC": "Mèo",
+        "CaseD": "Thỏ ",
+        "Question": "Trong các con vật sau đây, con nào chạy nhanh nhất?",
+        "TrueCase": 4,
+        "_id": 342
+    },
+    {
+        "CaseA": "Điều 2 ",
+        "CaseB": "Điều 3 ",
+        "CaseC": "Điều 4 ",
+        "CaseD": "Điều 5 ",
+        "Question": "Đoàn kết tốt, kỷ luật tốt là điều dạy thứ mấy trong 5 điều Bác Hồ dạy?",
+        "TrueCase": 2,
+        "_id": 343
+    },
+    {
+        "CaseA": "Sao ",
+        "CaseB": "Trăng ",
+        "CaseC": "Mây ",
+        "CaseD": "Pin ",
+        "Question": "Điền vào chỗ trống: \"Đèn khoe đèn tỏ hơn ..., đèn ra trước gió còn chăng hỡi đèn\"?",
+        "TrueCase": 2,
+        "_id": 344
+    },
+    {
+        "CaseA": "Làm ra ",
+        "CaseB": "Làm ăn ",
+        "CaseC": "Làm nên ",
+        "CaseD": "Làm hơn ",
+        "Question": "Người ta thường nói: \"Không thầy đố mày ...\"?",
+        "TrueCase": 3,
+        "_id": 345
+    },
+    {
+        "CaseA": "Vợ ",
+        "CaseB": "Ba ",
+        "CaseC": "Mẹ ",
+        "CaseD": "Con ",
+        "Question": "Điền vào câu tục ngữ sau: \"Giàu vì bạn, sang vì ...\"?",
+        "TrueCase": 1,
+        "_id": 346
+    },
+    {
+        "CaseA": "Một ",
+        "CaseB": "Hai ",
+        "CaseC": "Ba ",
+        "CaseD": "Bốn ",
+        "Question": "Có câu: \"Nhất gái lớn hai, nhất trai lớn ...\"?",
+        "TrueCase": 1,
+        "_id": 347
+    },
+    {
+        "CaseA": "Sai ",
+        "CaseB": "Lành ",
+        "CaseC": "Tốt",
+        "CaseD": "Nhường ",
+        "Question": "Điền vào câu tục ngữ sau: \"Một điều nhịn, chín điều ...\"?",
+        "TrueCase": 2,
+        "_id": 348
+    },
+    {
+        "CaseA": "Làm nên ",
+        "CaseB": "Xây ",
+        "CaseC": "Tạo ",
+        "CaseD": "Gây dựng ",
+        "Question": "Điền vào chỗ trống: \"Anh hùng ... thời thế\"?",
+        "TrueCase": 3,
+        "_id": 349
+    },
+    {
+        "CaseA": "No ",
+        "CaseB": "Đói ",
+        "CaseC": "Đủ ",
+        "CaseD": "Đầy ",
+        "Question": "Điền vào chỗ trống: \"Ăn chưa ... lo chưa tới\"?",
+        "TrueCase": 1,
+        "_id": 350
+    },
+    {
+        "CaseA": "Mặt ",
+        "CaseB": "Đầu ",
+        "CaseC": "Người ",
+        "CaseD": "Chân ",
+        "Question": "Điền vào chỗ trống: \"Bán ... cho đất, bán lưng cho trời\"?",
+        "TrueCase": 1,
+        "_id": 351
+    },
+    {
+        "CaseA": "Đứng ",
+        "CaseB": "Ngồi ",
+        "CaseC": "Nằm ",
+        "CaseD": "Bệnh",
+        "Question": "Điền vào chỗ trống: \"Cây ngay không sợ chết ...\"?",
+        "TrueCase": 1,
+        "_id": 352
+    },
+    {
+        "CaseA": "Tử ",
+        "CaseB": "Con ",
+        "CaseC": "Chính ",
+        "CaseD": "Nhỏ ",
+        "Question": "Điền vào chỗ trống: \"Hổ phụ sinh hổ ...\"?",
+        "TrueCase": 1,
+        "_id": 353
+    },
+    {
+        "CaseA": "Vịt ",
+        "CaseB": "Gà ",
+        "CaseC": "Bò ",
+        "CaseD": "Khỉ ",
+        "Question": "Điền vào chỗ trống: \"Nước đổ đầu ...\"?",
+        "TrueCase": 1,
+        "_id": 354
+    },
+    {
+        "CaseA": "Diện ",
+        "CaseB": "Mặt ",
+        "CaseC": "Chân ",
+        "CaseD": "Tay ",
+        "Question": "Điền vào chỗ trống trong câu nói: \"Xuất đầu lộ ...\"?",
+        "TrueCase": 1,
+        "_id": 355
+    },
+    {
+        "CaseA": "Thuyền ",
+        "CaseB": "Buồm",
+        "CaseC": "Đàn ",
+        "CaseD": "Võng ",
+        "Question": "Điền vào chỗ trống trong câu ca dao: \"Còn cha còn mẹ thì hơn. Không cha không mẹ như ... đứt dây\"?",
+        "TrueCase": 3,
+        "_id": 356
+    },
+    {
+        "CaseA": "Châu Phi",
+        "CaseB": "Châu Âu",
+        "CaseC": "Châu Á",
+        "CaseD": "Châu Mỹ",
+        "Question": "Việt Nam là quốc gia thuộc châu lục nào?",
+        "TrueCase": 3,
+        "_id": 357
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Việt Nam",
+        "CaseC": "Thái Lan",
+        "CaseD": "Sudan",
+        "Question": "Tính đến năm 2011, quốc gia nào có dân số đứng thứ 13 trên thế giới?",
+        "TrueCase": 2,
+        "_id": 358
+    },
+    {
+        "CaseA": "1 vạn ",
+        "CaseB": "1 triệu ",
+        "CaseC": "1 tỉ",
+        "CaseD": "1 nghìn tỉ ",
+        "Question": "Kết quả của phép tính: 1000 x 1000 x 1000?",
+        "TrueCase": 3,
+        "_id": 359
+    },
+    {
+        "CaseA": "Bác ",
+        "CaseB": "Chú ",
+        "CaseC": "Ông anh họ",
+        "CaseD": "Ông ngoại",
+        "Question": "Bố của dì ruột gọi là gì?",
+        "TrueCase": 4,
+        "_id": 360
+    },
+    {
+        "CaseA": "Thỏ ",
+        "CaseB": "Dê ",
+        "CaseC": "Chó ",
+        "CaseD": "Rùa ",
+        "Question": "Trong các con vật sau đây, con nào chạy chậm nhất?",
+        "TrueCase": 4,
+        "_id": 361
+    },
+    {
+        "CaseA": "Điều 1 ",
+        "CaseB": "Điều 2 ",
+        "CaseC": "Điều 3 ",
+        "CaseD": "Điều 4 ",
+        "Question": "\"Giữ gìn vệ sinh thật tốt\" là điều dạy thứ mấy trong 5 điều Bác Hồ dạy?",
+        "TrueCase": 4,
+        "_id": 362
+    },
+    {
+        "CaseA": "Mây ",
+        "CaseB": "Đèn ",
+        "CaseC": "Sao ",
+        "CaseD": "Mờ ",
+        "Question": "Điền vào chỗ trống: \"Trăng khoe trăng tỏ hơn ... , cớ sao trăng phải chịu luồn đám mây\"?",
+        "TrueCase": 2,
+        "_id": 363
+    },
+    {
+        "CaseA": "Quốc tế ca",
+        "CaseB": "Quốc ca",
+        "CaseC": "Lá xanh ",
+        "CaseD": "Đồng chí ",
+        "Question": "\"Đoàn quân Việt Nam đi trong lòng cứu quốc\" là câu hát trong bài hát nào?",
+        "TrueCase": 2,
+        "_id": 364
+    },
+    {
+        "CaseA": "Canh ",
+        "CaseB": "Cái ",
+        "CaseC": "Rau",
+        "CaseD": "Củ ",
+        "Question": "Điền vào câu tục ngữ sau: \"Khôn ăn ..., dại ăn nước\"?",
+        "TrueCase": 2,
+        "_id": 365
+    },
+    {
+        "CaseA": "Tin thể thao ",
+        "CaseB": "Thời sự ",
+        "CaseC": "Thị trường chứng khoán ",
+        "CaseD": "Vì an ninh tổ quốc",
+        "Question": "Vào lúc 19h, trên VTV3 đài truyền hình Việt Nam có chương trình gì?",
+        "TrueCase": 2,
+        "_id": 366
+    },
+    {
+        "CaseA": "Mẹ ",
+        "CaseB": "Cha ",
+        "CaseC": "Vợ ",
+        "CaseD": "Chị ",
+        "Question": "Điền vào câu tục ngữ sau: \"Nhà khó cậy ... hiền, nước loạn nhờ tướng giỏi\"?",
+        "TrueCase": 3,
+        "_id": 367
+    },
+    {
+        "CaseA": "Đục ",
+        "CaseB": "Trong ",
+        "CaseC": "Lũ ",
+        "CaseD": "Cả ",
+        "Question": "Điền vào chỗ trống: \"Ao sâu nước ...\"?",
+        "TrueCase": 4,
+        "_id": 368
+    },
+    {
+        "CaseA": "Nhà ",
+        "CaseB": "Chuồng ",
+        "CaseC": "Phòng ",
+        "CaseD": "Chồng ",
+        "Question": "Điền vào chỗ trống: \"Ăn chung máng, ở chung ...\"?",
+        "TrueCase": 2,
+        "_id": 369
+    },
+    {
+        "CaseA": "Vẫn ",
+        "CaseB": "Còn ",
+        "CaseC": "Sẽ ",
+        "CaseD": "Luôn",
+        "Question": "Điền vào câu nói: \"Có ... hơn không\"?",
+        "TrueCase": 2,
+        "_id": 370
+    },
+    {
+        "CaseA": "Đắng ",
+        "CaseB": "Bùi ",
+        "CaseC": "Cay ",
+        "CaseD": "Chua ",
+        "Question": "Điền vào chỗ trống: \"Chia sẻ ngọt ...\"?",
+        "TrueCase": 2,
+        "_id": 371
+    },
+    {
+        "CaseA": "Chín ",
+        "CaseB": "Mười ",
+        "CaseC": "Bảy ",
+        "CaseD": "Tám ",
+        "Question": "Điền vào chỗ trống: \"Học một biết ...\"?",
+        "TrueCase": 2,
+        "_id": 372
+    },
+    {
+        "CaseA": "Ngô ",
+        "CaseB": "Khoai ",
+        "CaseC": "Sắn ",
+        "CaseD": "Lúa ",
+        "Question": "Điền vào chỗ trống: \"Nước đổ lá ...\"?",
+        "TrueCase": 2,
+        "_id": 373
+    },
+    {
+        "CaseA": "Láng giềng ",
+        "CaseB": "Họ hàng ",
+        "CaseC": "Người nhà ",
+        "CaseD": "Người ngoài ",
+        "Question": "Điền vào chỗ trống: \"Yêu ai yêu cả đường đi, ghét ai ghét cả tông ti ...\"?",
+        "TrueCase": 2,
+        "_id": 374
+    },
+    {
+        "CaseA": "Thua ",
+        "CaseB": "Hay",
+        "CaseC": "Hơn ",
+        "CaseD": "Bằng ",
+        "Question": "Thành ngữ có câu: \"chết vinh còn ... sống nhục\". Từ trong dấu \"...\" là gì?",
+        "TrueCase": 3,
+        "_id": 375
+    },
+    {
+        "CaseA": "Tạm biệt ",
+        "CaseB": "Xin chào",
+        "CaseC": "Cảm ơn ",
+        "CaseD": "Thân ái",
+        "Question": "Từ Hello trong tiếng anh có nghĩa là gì?",
+        "TrueCase": 2,
+        "_id": 376
+    },
+    {
+        "CaseA": "Thanh niên",
+        "CaseB": "Thiếu niên",
+        "CaseC": "Thiếu nhi",
+        "CaseD": "Trung niên",
+        "Question": "Trẻ em đang học mẫu giáo được gọi là gì?",
+        "TrueCase": 3,
+        "_id": 377
+    },
+    {
+        "CaseA": "Nòng nọc ",
+        "CaseB": "Lăng quăng ",
+        "CaseC": "Giòi ",
+        "CaseD": "Nhộng",
+        "Question": "Con gì sẽ hoá thành muỗi khi trưởng thành?",
+        "TrueCase": 2,
+        "_id": 378
+    },
+    {
+        "CaseA": "Ươn ",
+        "CaseB": "Ôi ",
+        "CaseC": "Thối ",
+        "CaseD": "Hỏng ",
+        "Question": "Điền vào chỗ trống: \"Cá không ăn muối cá ... .Con cãi cha mẹ, trăm đường con hư\"?",
+        "TrueCase": 1,
+        "_id": 379
+    },
+    {
+        "CaseA": "Rùa ",
+        "CaseB": "Ốc",
+        "CaseC": "Rắn ",
+        "CaseD": "Ếch ",
+        "Question": "Trong các con vật sau đây, con nào di chuyển chậm nhất?",
+        "TrueCase": 2,
+        "_id": 380
+    },
+    {
+        "CaseA": "Điều 2 ",
+        "CaseB": "Điều 3 ",
+        "CaseC": "Điều 4 ",
+        "CaseD": "Điều 5 ",
+        "Question": "\"Khiêm tốn, thật thà, dũng cảm\" là điều dạy thứ mấy trong 5 điều Bác Hồ dạy?",
+        "TrueCase": 4,
+        "_id": 381
+    },
+    {
+        "CaseA": "Chay ",
+        "CaseB": "Nem ",
+        "CaseC": "Khoai ",
+        "CaseD": "Cá ",
+        "Question": "Người ta thường nói: \"Ông ăn chả, bà ăn ...\"?",
+        "TrueCase": 2,
+        "_id": 382
+    },
+    {
+        "CaseA": "Mương ",
+        "CaseB": "Sông ",
+        "CaseC": "Ao ",
+        "CaseD": "Nước ",
+        "Question": "Điền vào chỗ trống: \"Con cò mà đi ăn đêm, đậu phải cành mềm lộn cổ xuống ...\"?",
+        "TrueCase": 3,
+        "_id": 383
+    },
+    {
+        "CaseA": "Canh ",
+        "CaseB": "Cái ",
+        "CaseC": "Nước ",
+        "CaseD": "Rau ",
+        "Question": "Điền vào câu tục ngữ sau: \"Khôn ăn cái, dại ăn ...\"?",
+        "TrueCase": 3,
+        "_id": 384
+    },
+    {
+        "CaseA": "Là",
+        "CaseB": "Như",
+        "CaseC": "Bằng ",
+        "CaseD": "Có",
+        "Question": "Điền vào câu sau:  \"Anh em ... thể tay chân\"?",
+        "TrueCase": 2,
+        "_id": 385
+    },
+    {
+        "CaseA": "Giúp đỡ",
+        "CaseB": "Đỡ đần ",
+        "CaseC": "Gánh cùng ",
+        "CaseD": "Đỡ giùm ",
+        "Question": "Điền vào chỗ trống: \"Rách lành đùm bọc, dở hay ...\"?",
+        "TrueCase": 2,
+        "_id": 386
+    },
+    {
+        "CaseA": "Sâu ",
+        "CaseB": "Nông ",
+        "CaseC": "Rộng ",
+        "CaseD": "Tù ",
+        "Question": "Điền vào chỗ trống: \" Ao ... nước đọng\"?",
+        "TrueCase": 4,
+        "_id": 387
+    },
+    {
+        "CaseA": "Vua ",
+        "CaseB": "Chúa ",
+        "CaseC": "Quan ",
+        "CaseD": "Chùa ",
+        "Question": "Điền vào chỗ trống: \"Ăn cơm ..., múa tối ngày\"?",
+        "TrueCase": 2,
+        "_id": 388
+    },
+    {
+        "CaseA": "Thật ",
+        "CaseB": "Sai ",
+        "CaseC": "Tật ",
+        "CaseD": "Tội",
+        "Question": "Điền vào chỗ trống: \"Có ... giật mình\"?",
+        "TrueCase": 3,
+        "_id": 389
+    },
+    {
+        "CaseA": "Sướng ",
+        "CaseB": "Tốt ",
+        "CaseC": "Nhục ",
+        "CaseD": "Chán ",
+        "Question": "Điền vào chỗ trống: \"Chết vinh còn hơn sống ...\"?",
+        "TrueCase": 3,
+        "_id": 390
+    },
+    {
+        "CaseA": "Đỏ ",
+        "CaseB": "Xanh ",
+        "CaseC": "Hồng ",
+        "CaseD": "Vàng ",
+        "Question": "Điền vào chỗ trống: \"... nhan bạc phận\"?",
+        "TrueCase": 3,
+        "_id": 391
+    },
+    {
+        "CaseA": "Chim ",
+        "CaseB": "Dĩn ",
+        "CaseC": "Ong ",
+        "CaseD": "Muỗi ",
+        "Question": "Điền vào chỗ trống: \"Nuôi ... tay áo\"?",
+        "TrueCase": 3,
+        "_id": 392
+    },
+    {
+        "CaseA": "Đập ",
+        "CaseB": "Gậy ",
+        "CaseC": "Vọt ",
+        "CaseD": "Đấm ",
+        "Question": "Điền vào chỗ trống: \"Yêu cho roi cho ... , ghét cho ngọt cho bùi\"?",
+        "TrueCase": 3,
+        "_id": 393
+    },
+    {
+        "CaseA": "Ba ",
+        "CaseB": "Cha ",
+        "CaseC": "Mẹ ",
+        "CaseD": "Má ",
+        "Question": " Thành ngữ thường nói: \"Con hơn ... nhà có phúc\". Từ trong dấu \"...\" là từ gì?",
+        "TrueCase": 2,
+        "_id": 394
+    },
+    {
+        "CaseA": "N",
+        "CaseB": "V",
+        "CaseC": "S",
+        "CaseD": "L",
+        "Question": "Bản đồ đất nước Việt Nam có hình chữ gì?",
+        "TrueCase": 3,
+        "_id": 395
+    },
+    {
+        "CaseA": "Thiếu nhi",
+        "CaseB": "Thiếu niên",
+        "CaseC": "Thanh niên",
+        "CaseD": "Trung niên",
+        "Question": "Sinh viên được gọi là gì?",
+        "TrueCase": 3,
+        "_id": 396
+    },
+    {
+        "CaseA": "Anotpen ",
+        "CaseB": "Anophene Ano ",
+        "CaseC": "Halophen ",
+        "CaseD": "Hanoten ",
+        "Question": "Tên một loài muỗi thường truyền bệnh sốt rét?",
+        "TrueCase": 1,
+        "_id": 397
+    },
+    {
+        "CaseA": "Xuân ",
+        "CaseB": "Hạ ",
+        "CaseC": "Thu ",
+        "CaseD": "Đông ",
+        "Question": "Ở Việt Nam, mùa nào lạnh nhất trong năm?",
+        "TrueCase": 4,
+        "_id": 398
+    },
+    {
+        "CaseA": "Rắn ",
+        "CaseB": "Thỏ ",
+        "CaseC": "Dê ",
+        "CaseD": "Cừu ",
+        "Question": "Trong các con vật sau đây, con nào di chuyển nhanh nhất?",
+        "TrueCase": 2,
+        "_id": 399
+    },
+    {
+        "CaseA": "Sắt ",
+        "CaseB": "Vàng ",
+        "CaseC": "Bông gòn ",
+        "CaseD": "Bằng nhau ",
+        "Question": "1kg sắt, 1kg vàng, 1kg bông gòn, cái nào nặng nhất?",
+        "TrueCase": 4,
+        "_id": 400
+    },
+    {
+        "CaseA": "Con gà ",
+        "CaseB": "Con chim ",
+        "CaseC": "Con vịt ",
+        "CaseD": "Con bồ ",
+        "Question": "Con gì có cánh, mà không biết bay, ngày xuống ao chơi, đêm về đẻ trứng?",
+        "TrueCase": 3,
+        "_id": 401
+    },
+    {
+        "CaseA": "Con Cua",
+        "CaseB": "Con Cá",
+        "CaseC": "Con Tôm",
+        "CaseD": "Con Mực",
+        "Question": "Con gì tám cẳng hai càng?",
+        "TrueCase": 1,
+        "_id": 402
+    },
+    {
+        "CaseA": "Dữ ",
+        "CaseB": "Lành ",
+        "CaseC": "Hiền ",
+        "CaseD": "May ",
+        "Question": "Điền vào chỗ trống: \"Ở hiền gặp ...\"?",
+        "TrueCase": 2,
+        "_id": 403
+    },
+    {
+        "CaseA": "Láng giềng ",
+        "CaseB": "Hàng xóm ",
+        "CaseC": "Giếng làng ",
+        "CaseD": "Khóm giềng",
+        "Question": "Điền vào câu tục ngữ sau: \"Bán anh em xa mua ... gần\"?",
+        "TrueCase": 1,
+        "_id": 404
+    },
+    {
+        "CaseA": "Tướng ",
+        "CaseB": "Vua ",
+        "CaseC": "Quốc sư ",
+        "CaseD": "Thái tử ",
+        "Question": "Điền vào câu tục ngữ sau: \"Nhà khó cậy vợ hiền, nước loạn nhờ ... giỏi\"?",
+        "TrueCase": 1,
+        "_id": 405
+    },
+    {
+        "CaseA": "Chăn ",
+        "CaseB": "Mền ",
+        "CaseC": "Áo ",
+        "CaseD": "Tất ",
+        "Question": "Điền vào chỗ trống: \"... ấm cơm no\"?",
+        "TrueCase": 3,
+        "_id": 406
+    },
+    {
+        "CaseA": "Cóc",
+        "CaseB": "Nhái ",
+        "CaseC": "Ếch ",
+        "CaseD": "Sóc",
+        "Question": "Điền vào chỗ trống: \"Ăn cơm lừa thóc, ăn ... bỏ gan\"?",
+        "TrueCase": 1,
+        "_id": 407
+    },
+    {
+        "CaseA": "Dân ",
+        "CaseB": "Quân ",
+        "CaseC": "Vua",
+        "CaseD": "Quan ",
+        "Question": "Điền vào chỗ trống: \"Con nhà lính, tính nhà ...\"?",
+        "TrueCase": 4,
+        "_id": 408
+    },
+    {
+        "CaseA": " Bò ",
+        "CaseB": "Thỏ",
+        "CaseC": "Ba ba ",
+        "CaseD": "Rùa ",
+        "Question": "Điền vào chỗ trống: Chậm như ...?",
+        "TrueCase": 4,
+        "_id": 409
+    },
+    {
+        "CaseA": "Dân",
+        "CaseB": "Quê ",
+        "CaseC": "Sông ",
+        "CaseD": "Nhà ",
+        "Question": "Điền vào chỗ trống: Ích nước lợi ...?",
+        "TrueCase": 4,
+        "_id": 410
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Chó ",
+        "CaseC": "Voi ",
+        "CaseD": "Khỉ ",
+        "Question": "Điền vào chỗ trống: Nuôi ... dòm nhà?",
+        "TrueCase": 4,
+        "_id": 411
+    },
+    {
+        "CaseA": "Bệnh ",
+        "CaseB": "Tội ",
+        "CaseC": "Thù ",
+        "CaseD": "Tật",
+        "Question": "Điền vào chỗ trống: Tiền mất ... mang?",
+        "TrueCase": 4,
+        "_id": 412
+    }
+]

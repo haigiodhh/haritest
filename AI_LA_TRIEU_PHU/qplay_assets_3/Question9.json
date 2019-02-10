@@ -1,0 +1,3476 @@
+[
+    {
+        "CaseA": "Hoàng Thùy Linh",
+        "CaseB": "Minh Hương",
+        "CaseC": "Thanh Vân",
+        "CaseD": "Thanh Hương",
+        "Question": "Diễn viên đóng vai Vàng anh trong phần 1 của Nhật ký vàng anh là?",
+        "TrueCase": 2,
+        "_id": 1
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "8",
+        "CaseC": "16",
+        "CaseD": "32",
+        "Question": "Bộ Nhiễm sắc thể của Ruồi dấm(2n) bằng bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 2
+    },
+    {
+        "CaseA": "Hưng Yên",
+        "CaseB": "Bắc Ninh",
+        "CaseC": "Lạng Sơn",
+        "CaseD": "Quảng Ninh",
+        "Question": "Thứ nhất kinh kì, thứ nhì Phố Hiến. Phố Hiến là địa danh thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 3
+    },
+    {
+        "CaseA": "6",
+        "CaseB": "30",
+        "CaseC": "70",
+        "CaseD": "90",
+        "Question": "Tích của 3 số nguyên tố liên tiếp là 1 số chẵn. Hỏi tích đó bằng bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 4
+    },
+    {
+        "CaseA": "Đại Việt",
+        "CaseB": "Đại Cồ Việt",
+        "CaseC": "Đại Ngu",
+        "CaseD": "Vạn Xuân",
+        "Question": "Quốc hiệu nước ta thời nhà Hồ là?",
+        "TrueCase": 3,
+        "_id": 5
+    },
+    {
+        "CaseA": "FIDE",
+        "CaseB": "FIVB",
+        "CaseC": "IBAF",
+        "CaseD": "ITTF",
+        "Question": "Liên đoàn bóng chày quốc tế gọi tắt là gì?",
+        "TrueCase": 3,
+        "_id": 6
+    },
+    {
+        "CaseA": "Jakarta Indonesia ",
+        "CaseB": "Băng Cốc Thái Lan ",
+        "CaseC": "Tokyo Nhật Bản ",
+        "CaseD": "Pusan Hàn Quốc",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1958?",
+        "TrueCase": 3,
+        "_id": 7
+    },
+    {
+        "CaseA": "FC Barcelona",
+        "CaseB": "Ajax Amsterdam ",
+        "CaseC": "Sao đỏ Belgrade",
+        "CaseD": "AC Milan ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1992?",
+        "TrueCase": 1,
+        "_id": 8
+    },
+    {
+        "CaseA": "Liverpool FC",
+        "CaseB": "Leeds United",
+        "CaseC": "Ajax Amsterdam ",
+        "CaseD": "AS Saint Etienne",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1972?",
+        "TrueCase": 3,
+        "_id": 9
+    },
+    {
+        "CaseA": "1961",
+        "CaseB": "1962",
+        "CaseC": "1963",
+        "CaseD": "1964",
+        "Question": "Bóng đá Việt Nam gia nhập FIFA vào năm nào?",
+        "TrueCase": 4,
+        "_id": 10
+    },
+    {
+        "CaseA": "Trần Thánh Tông ",
+        "CaseB": "Lý Nhân Tông ",
+        "CaseC": "Lý Thánh Tông",
+        "CaseD": "Quang Trung ",
+        "Question": "Hoàng Đế nào ở nước ta đã đặt tên nước là Đại Việt?",
+        "TrueCase": 3,
+        "_id": 11
+    },
+    {
+        "CaseA": "68",
+        "CaseB": "69 ",
+        "CaseC": "70",
+        "CaseD": "71",
+        "Question": "Điền tiếp vào dãy số sau: 0, 1, 2, 5, 12, 29, ?",
+        "TrueCase": 3,
+        "_id": 12
+    },
+    {
+        "CaseA": "Phật giáo ",
+        "CaseB": "Đạo giáo ",
+        "CaseC": "Nho giáo ",
+        "CaseD": "Lão giáo ",
+        "Question": "Hệ tư tưởng và đạo đức chính thống của giai cấp phong kiến Trung Quốc là?",
+        "TrueCase": 3,
+        "_id": 13
+    },
+    {
+        "CaseA": "Bắc Trung Bộ ",
+        "CaseB": "Duyên hải Nam Trung Bộ ",
+        "CaseC": "Tây Nguyên ",
+        "CaseD": "Đông Nam Bộ ",
+        "Question": "Hồ Tiêu được trồng nhiều nhất ở?",
+        "TrueCase": 4,
+        "_id": 14
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Nam Phi ",
+        "CaseC": "Mông Cổ ",
+        "CaseD": "Australia ",
+        "Question": "Ở quốc gia nào, đi săn không cần giấy phép?",
+        "TrueCase": 4,
+        "_id": 15
+    },
+    {
+        "CaseA": "Estonia",
+        "CaseB": "Ethiopia",
+        "CaseC": "Fiji",
+        "CaseD": "El Salvador",
+        "Question": "Addis Ababa là thủ đô nước nào?",
+        "TrueCase": 2,
+        "_id": 16
+    },
+    {
+        "CaseA": "Ả Rập ",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Iraq ",
+        "Question": "Tiểu thuyết Nghìn lẻ một đêm của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 17
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": " ",
+        "CaseC": "Pháp ",
+        "CaseD": "Hàn Quốc ",
+        "Question": "Tại nước nào người ta đón năm mới bằng cách vừa ăn mì ống vừa nghe tiếng chuông điểm 108 hồi liên tiếp?",
+        "TrueCase": 1,
+        "_id": 18
+    },
+    {
+        "CaseA": "Nguyễn Thành Trung ",
+        "CaseB": "Nguyễn Trung Tín ",
+        "CaseC": "Phạm Tuân ",
+        "CaseD": "Nguyễn Trung Trực",
+        "Question": " Người Việt Nam đầu tiên bay vào vũ trụ?",
+        "TrueCase": 3,
+        "_id": 19
+    },
+    {
+        "CaseA": "300 hòn đảo ",
+        "CaseB": "200 hòn đảo ",
+        "CaseC": "100 hòn đảo ",
+        "CaseD": "400 hòn đảo ",
+        "Question": "Vịnh Hạ Long được UNESCO công nhận là kỳ quan thiên nhiên của thế giới với hơn bao nhiêu hòn đảo?",
+        "TrueCase": 1,
+        "_id": 20
+    },
+    {
+        "CaseA": "1959",
+        "CaseB": "1962",
+        "CaseC": "1963",
+        "CaseD": "1965",
+        "Question": "Vòng chung kết cúp bóng đá châu Phi lần thứ 4 diễn ra vào năm nào?",
+        "TrueCase": 3,
+        "_id": 21
+    },
+    {
+        "CaseA": "Burkina Faso ",
+        "CaseB": "Nam Phi ",
+        "CaseC": "Trung Phi ",
+        "CaseD": "Ai Cập ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 21 là quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 22
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Singapore ",
+        "CaseC": "Malaysia ",
+        "CaseD": "Lào ",
+        "Question": "SEA  Games lần thứ 19 năm 1997, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 23
+    },
+    {
+        "CaseA": "Hồng Hải ",
+        "CaseB": "Hắc Hải ",
+        "CaseC": "Biển Caxpi ",
+        "CaseD": "Bắc Băng Dương ",
+        "Question": "Kênh đào Suez là con kênh nối lền Địa Trung Hải với biển nào?",
+        "TrueCase": 1,
+        "_id": 24
+    },
+    {
+        "CaseA": "Iceland ",
+        "CaseB": "Australia ",
+        "CaseC": "Hawaii",
+        "CaseD": "Iran ",
+        "Question": "Về mùa hạ ở châu Á có trung tâm áp thấp ở đâu?",
+        "TrueCase": 4,
+        "_id": 25
+    },
+    {
+        "CaseA": "FIVB",
+        "CaseB": "FIDE",
+        "CaseC": "FIFA",
+        "CaseD": "IAAF",
+        "Question": "Liên đoàn điền kinh thế giới gọi tắt là gì?",
+        "TrueCase": 4,
+        "_id": 26
+    },
+    {
+        "CaseA": "Tokyo Nhật  Bản",
+        "CaseB": "Băng Cốc Thái Lan",
+        "CaseC": "Bắc Kinh Trung Quốc",
+        "CaseD": "Manila Philippines",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1954?",
+        "TrueCase": 4,
+        "_id": 27
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "Bayer Leverkusen",
+        "CaseC": "FC Barcelona",
+        "CaseD": "Sao đỏ Belgrade",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1991?",
+        "TrueCase": 4,
+        "_id": 28
+    },
+    {
+        "CaseA": "SL Benfica",
+        "CaseB": "Panatinaikos",
+        "CaseC": "Inter Milan ",
+        "CaseD": "Ajax Amsterdam ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1971?",
+        "TrueCase": 4,
+        "_id": 29
+    },
+    {
+        "CaseA": "Almeida ",
+        "CaseB": "Gaston Merlo",
+        "CaseC": "Kesley Alves ",
+        "CaseD": "Amaobi Uzowuru",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2008?",
+        "TrueCase": 1,
+        "_id": 30
+    },
+    {
+        "CaseA": "Thăng Long ",
+        "CaseB": "Hàng Bông ",
+        "CaseC": "Trường An ",
+        "CaseD": "Tràng Tiền ",
+        "Question": "Ở Hà Nội và Huế đều có 1 tên phố và 1 tên cầu giống nhau là gì?",
+        "TrueCase": 4,
+        "_id": 31
+    },
+    {
+        "CaseA": "Hải vương tinh ",
+        "CaseB": "Mộc tinh ",
+        "CaseC": "Hoả tinh ",
+        "CaseD": "Thổ tinh ",
+        "Question": "Hành tinh nào có 4 vệ tinh nổi tiếng được Galile phát hiện ra?",
+        "TrueCase": 2,
+        "_id": 32
+    },
+    {
+        "CaseA": "Trần Thủ Độ ",
+        "CaseB": "Trần Quốc Tuấn ",
+        "CaseC": "Trần Quốc Toản ",
+        "CaseD": "Trần Nguyên Hãn ",
+        "Question": "Câu nói:\" Nếu bệ hạ muốn hàng giặc trước hãy chém đầu thần rồi hãy hàng\" là câu nói của ai?",
+        "TrueCase": 2,
+        "_id": 33
+    },
+    {
+        "CaseA": "Xuất nhập khẩu ",
+        "CaseB": "Bưu chính viễn thông ",
+        "CaseC": "Vận tải thuỷ ",
+        "CaseD": "Du lịch sinh thái ",
+        "Question": "Ngành nào  trong các ngành sau đây không phải là ngành dịch vụ chủ yếu?",
+        "TrueCase": 2,
+        "_id": 34
+    },
+    {
+        "CaseA": "Hà Lan ",
+        "CaseB": "Anh ",
+        "CaseC": "Đan Mạch ",
+        "CaseD": "Thuỵ Điển ",
+        "Question": "Hamplet là Hoàng tử của Vương quốc nào?",
+        "TrueCase": 3,
+        "_id": 35
+    },
+    {
+        "CaseA": "Fiji",
+        "CaseB": "Phần Lan ",
+        "CaseC": "Pháp ",
+        "CaseD": "El Salvador ",
+        "Question": "Suva là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 36
+    },
+    {
+        "CaseA": "50.000",
+        "CaseB": "100.000",
+        "CaseC": "150.000 ",
+        "CaseD": "200.000",
+        "Question": "Tim bạn đập trung bình bao nhiêu lần một ngày?",
+        "TrueCase": 2,
+        "_id": 37
+    },
+    {
+        "CaseA": "Úc ",
+        "CaseB": "Pháp ",
+        "CaseC": "Tây Ban Nha ",
+        "CaseD": "Canada",
+        "Question": "Ở nước nào mà người ta ăn 12 quả nho vào lúc đồng hồ báo hiệu thời khắc giao thừa, mỗi quả cho một nhịp chuông của đồng hồ?",
+        "TrueCase": 3,
+        "_id": 38
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Myanmar ",
+        "Question": "Chùa Vàng nằm ở quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 39
+    },
+    {
+        "CaseA": "65",
+        "CaseB": "85",
+        "CaseC": "55",
+        "CaseD": "75",
+        "Question": "Diện tích đất đai ở Việt Nam được xếp hạng bao nhiêu trên thế giới?",
+        "TrueCase": 1,
+        "_id": 40
+    },
+    {
+        "CaseA": "1988 ",
+        "CaseB": "1990 ",
+        "CaseC": "1992",
+        "CaseD": "1996 ",
+        "Question": "Vòng chung kết cúp bóng đá châu Phi lần thứ 20 diễn ra vào năm nào?",
+        "TrueCase": 4,
+        "_id": 41
+    },
+    {
+        "CaseA": "Ghana và Nigieria ",
+        "CaseB": "Ai Cập ",
+        "CaseC": "Nam Phi ",
+        "CaseD": "Bờ Biển Ngà ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 22 là quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 42
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Lào ",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Brunei ",
+        "Question": "SEA  Games lần thứ 20 năm 1999, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 43
+    },
+    {
+        "CaseA": "Vàng ",
+        "CaseB": "Bạch kim ",
+        "CaseC": "Bạc ",
+        "CaseD": "Nhôm ",
+        "Question": "Kim loại nào sau đây không bao giờ được tìm thấy ở dạng tự do trong thiên nhiên?",
+        "TrueCase": 4,
+        "_id": 44
+    },
+    {
+        "CaseA": "FIFA",
+        "CaseB": "FIVB",
+        "CaseC": "ITTF",
+        "CaseD": "FIDE",
+        "Question": "Liên đoàn bóng bàn thế giới gọi tắt là gì?",
+        "TrueCase": 3,
+        "_id": 45
+    },
+    {
+        "CaseA": "Manila Philippines",
+        "CaseB": "Tokyo Nhật Bản",
+        "CaseC": "New Dehli Ấn Độ ",
+        "CaseD": "Hiroshima Nhật Bản",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1951?",
+        "TrueCase": 3,
+        "_id": 46
+    },
+    {
+        "CaseA": "Sao đỏ Belgrade",
+        "CaseB": "Manchester United ",
+        "CaseC": "Valencia FC",
+        "CaseD": "AC Milan ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1990?",
+        "TrueCase": 4,
+        "_id": 47
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "Feyenood Rotterdam ",
+        "CaseC": "Bayern Munich",
+        "CaseD": "Real Madrid",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1970?",
+        "TrueCase": 2,
+        "_id": 48
+    },
+    {
+        "CaseA": "Gaston Merlo",
+        "CaseB": "Lazaro de Souza",
+        "CaseC": "Kesley Alves ",
+        "CaseD": "Almeida",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2007?",
+        "TrueCase": 4,
+        "_id": 49
+    },
+    {
+        "CaseA": "Lá cây gạo ",
+        "CaseB": "Lá ngô đồng ",
+        "CaseC": "Lá cây đa",
+        "CaseD": "Lá mít ",
+        "Question": "Trong văn chương cổ điển, người xưa coi lá cây nào báo hiệu mua thu đến?",
+        "TrueCase": 2,
+        "_id": 50
+    },
+    {
+        "CaseA": "Sao Thổ ",
+        "CaseB": "Sao Thiên Vương ",
+        "CaseC": "Sao Hải Vương ",
+        "CaseD": "Trái đất ",
+        "Question": "Hành tinh nào sau đây lớn thứ 3 trong hệ mặt trời?",
+        "TrueCase": 2,
+        "_id": 51
+    },
+    {
+        "CaseA": "Nhà Lê ",
+        "CaseB": "Trịnh  Nguyên phân tranh ",
+        "CaseC": "Nhà Nguyễn ",
+        "CaseD": "Tây Sơn ",
+        "Question": "Các công trình kiến trúc nổi tiếng ở Huế còn lại đến ngày nay đã được xây dựng dưới thời?",
+        "TrueCase": 3,
+        "_id": 52
+    },
+    {
+        "CaseA": "Thừa Thiên  Huế",
+        "CaseB": "Khánh Hoà ",
+        "CaseC": "Quảng Nam ",
+        "CaseD": "Quảng Ngãi ",
+        "Question": "Huyện đảo Trường Sa thuộc tỉnh thành phố nào của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 53
+    },
+    {
+        "CaseA": "Lào Cai ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Đắc Lắc ",
+        "CaseD": "Lai Châu",
+        "Question": "Tỉnh nào ở Việt Nam cách xa biển nhất?",
+        "TrueCase": 4,
+        "_id": 54
+    },
+    {
+        "CaseA": "Phần Lan ",
+        "CaseB": "Hà Lan ",
+        "CaseC": "Pháp ",
+        "CaseD": "Anh ",
+        "Question": "Helsinki là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 55
+    },
+    {
+        "CaseA": "Rừng nhiệt đới ",
+        "CaseB": "Rừng Taiga ",
+        "CaseC": "Rừng Amazon ",
+        "CaseD": "Rừng Tonga ",
+        "Question": "Cây xanh ở đâu nhiều nhất?",
+        "TrueCase": 2,
+        "_id": 56
+    },
+    {
+        "CaseA": "Những mảnh bát đĩa vỡ ",
+        "CaseB": "Hoa trắng ",
+        "CaseC": "Băng rôn ",
+        "CaseD": "Hoa đỏ ",
+        "Question": "Người Đan Mạch luôn muốn sáng ngày 1.1 Tết khi mở cửa ra, trước cửa nhà họ là đầy?",
+        "TrueCase": 1,
+        "_id": 57
+    },
+    {
+        "CaseA": "Louis Pasteur",
+        "CaseB": "Hipocrates",
+        "CaseC": "Hoa Đà ",
+        "CaseD": "Alexxandre Yerin",
+        "Question": "Ai được xem là ông tổ của ngành Y?",
+        "TrueCase": 2,
+        "_id": 58
+    },
+    {
+        "CaseA": "Trà Giang ",
+        "CaseB": "Tuệ Minh ",
+        "CaseC": "Thanh Tú ",
+        "CaseD": "Hoàng Minh ",
+        "Question": "Diễn viên nữ chính trong phim Vĩ tuyến 17 ngày và đêm?",
+        "TrueCase": 1,
+        "_id": 59
+    },
+    {
+        "CaseA": "Etiopia ",
+        "CaseB": "Ghana",
+        "CaseC": "Tuynisia ",
+        "CaseD": "Sudan ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 3?",
+        "TrueCase": 1,
+        "_id": 60
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Malaysia ",
+        "CaseC": "Myanmar",
+        "CaseD": "Indonesia ",
+        "Question": "SEA  Games lần thứ 1 năm 1959, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 61
+    },
+    {
+        "CaseA": "Brunei ",
+        "CaseB": "Lào ",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Malaysia ",
+        "Question": "SEA  Games lần thứ 21 năm 2001, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 62
+    },
+    {
+        "CaseA": "Real Madrid",
+        "CaseB": "AC Milan",
+        "CaseC": "Manchester United",
+        "CaseD": "Ajax Amstesdam",
+        "Question": "Câu lạc bộ bóng đá châu Âu nào từng 9 lần đoạt cúp C1 châu Âu?",
+        "TrueCase": 1,
+        "_id": 63
+    },
+    {
+        "CaseA": "FIDE",
+        "CaseB": "FIFA",
+        "CaseC": "FIVB",
+        "CaseD": "ITTF",
+        "Question": "Liên đoàn bóng chuyền thế giới gọi tắt là gì?",
+        "TrueCase": 3,
+        "_id": 64
+    },
+    {
+        "CaseA": "FC Bayern Munich",
+        "CaseB": "Ajax Amsterdam",
+        "CaseC": "Barcelona",
+        "CaseD": "Valencia FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2009?",
+        "TrueCase": 3,
+        "_id": 65
+    },
+    {
+        "CaseA": "Olympique de Marseille ",
+        "CaseB": "Borussia Dormund",
+        "CaseC": "AC Milan ",
+        "CaseD": "FC Barcelona",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1989?",
+        "TrueCase": 3,
+        "_id": 66
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "Aston Villa",
+        "CaseC": "Bacelona FC",
+        "CaseD": "Hamburger",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1969?",
+        "TrueCase": 1,
+        "_id": 67
+    },
+    {
+        "CaseA": "Almeida",
+        "CaseB": "Elenido de Jesus",
+        "CaseC": "Lê Công Vinh ",
+        "CaseD": "Nguyễn Vũ Phong",
+        "Question": " Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2006?",
+        "TrueCase": 2,
+        "_id": 68
+    },
+    {
+        "CaseA": "Biển ",
+        "CaseB": "Đồng bằng ",
+        "CaseC": "Đồi núi ",
+        "CaseD": "Băng tuyết ",
+        "Question": "Hà Lan và Đan Mạch là 2 quốc gia có địa hình 100 là gì?",
+        "TrueCase": 2,
+        "_id": 69
+    },
+    {
+        "CaseA": "Bình Thuận ",
+        "CaseB": "Bình Định ",
+        "CaseC": "Đồng Tháp ",
+        "CaseD": "Nam Định ",
+        "Question": "Bánh Ít lá gai là đặc sản của vùng nào của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 70
+    },
+    {
+        "CaseA": "Môngôlôit ",
+        "CaseB": "Nêgrôit",
+        "CaseC": "Ơrôpêôít ",
+        "CaseD": "Nêgrôit, Ơrôpêôit",
+        "Question": "Dân cư châu Âu chủ yếu thuộc chủng tộc sau đây?",
+        "TrueCase": 3,
+        "_id": 71
+    },
+    {
+        "CaseA": "Ngân hàng ",
+        "CaseB": "Sao chổi ",
+        "CaseC": "Hành tinh ",
+        "CaseD": "Thiên hà ",
+        "Question": "Vật thể không phát sáng và quay quanh một ngôi sao khác gọi là gì?",
+        "TrueCase": 3,
+        "_id": 72
+    },
+    {
+        "CaseA": "Ngủ ",
+        "CaseB": "Tránh nắng ",
+        "CaseC": "Trốn kẻ thù ",
+        "CaseD": "Thư giãn ",
+        "Question": "Đà điểu giấu đầu vào cát để làm gì?",
+        "TrueCase": 3,
+        "_id": 73
+    },
+    {
+        "CaseA": "Gambia",
+        "CaseB": "Gabon",
+        "CaseC": "Ghana",
+        "CaseD": "Guam",
+        "Question": "Libreville là thủ đô của quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 74
+    },
+    {
+        "CaseA": "1067Km",
+        "CaseB": "2667Km",
+        "CaseC": "2767Km",
+        "CaseD": "2067Km",
+        "Question": "Đường biên giới giữa Việt Nam và Lào là bao nhiêu?",
+        "TrueCase": 4,
+        "_id": 75
+    },
+    {
+        "CaseA": "Brazil",
+        "CaseB": "Tây Ban Nha ",
+        "CaseC": "Chile ",
+        "CaseD": "Venezuela ",
+        "Question": "Để chúc mừng năm mới, người nước nào sẽ đi ra biển, nhảy qua 7 con sóng và ném hoa xuống biển?",
+        "TrueCase": 1,
+        "_id": 76
+    },
+    {
+        "CaseA": "Philippines",
+        "CaseB": "Việt Nam ",
+        "CaseC": "Indonesia",
+        "CaseD": "Malaysia",
+        "Question": "Nước nào trồng nhiều dừa nhất trên thế giới?",
+        "TrueCase": 1,
+        "_id": 77
+    },
+    {
+        "CaseA": "Mã Lai ",
+        "CaseB": "Thái Lai ",
+        "CaseC": "Nam Ấn ",
+        "CaseD": "Chăm ",
+        "Question": "Tháp Chàm chịu ảnh hưởng của kiến trúc nào?",
+        "TrueCase": 3,
+        "_id": 78
+    },
+    {
+        "CaseA": "Ghana",
+        "CaseB": "Sudan",
+        "CaseC": "Carmeroon",
+        "CaseD": "Nigieria",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 4?",
+        "TrueCase": 1,
+        "_id": 79
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Myanmar ",
+        "Question": "SEA  Games lần thứ 2 năm 1961, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 80
+    },
+    {
+        "CaseA": "Việt Nam ",
+        "CaseB": "Malaysia ",
+        "CaseC": "Brunei ",
+        "CaseD": "Philippines ",
+        "Question": "SEA  Games lần thứ 22 năm 2003, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 81
+    },
+    {
+        "CaseA": "Tiếng chổi tre ",
+        "CaseB": "Tự tình thứ nhất ",
+        "CaseC": "Qua đèo Ngang ",
+        "CaseD": "Đồng Chí ",
+        "Question": "Tiếng gà văng vẳng gáy trên bom là câu thơ trong bài thơ nào?",
+        "TrueCase": 2,
+        "_id": 82
+    },
+    {
+        "CaseA": "FIDE",
+        "CaseB": "ITTF",
+        "CaseC": "FIVB",
+        "CaseD": "FIFA",
+        "Question": "Liên đoàn bóng đá thế giới gọi tắt là gì?",
+        "TrueCase": 4,
+        "_id": 83
+    },
+    {
+        "CaseA": "Manchester United",
+        "CaseB": "Barcelona ",
+        "CaseC": "Real Madrid",
+        "CaseD": "Juventus ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm2008?",
+        "TrueCase": 1,
+        "_id": 84
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "PSV Endhoven ",
+        "CaseC": "Juventus ",
+        "CaseD": "Bayer Leverkusen ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1988?",
+        "TrueCase": 2,
+        "_id": 85
+    },
+    {
+        "CaseA": "Manchester United",
+        "CaseB": "Liverpool FC",
+        "CaseC": "Nottingham Forest FC",
+        "CaseD": "Celtic FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1968?",
+        "TrueCase": 1,
+        "_id": 86
+    },
+    {
+        "CaseA": "Lê Công Vinh",
+        "CaseB": "Kesley Alves",
+        "CaseC": "Almeida ",
+        "CaseD": "Gaston Merlo",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2005?",
+        "TrueCase": 2,
+        "_id": 87
+    },
+    {
+        "CaseA": "Everest ",
+        "CaseB": "Kilimanjaro",
+        "CaseC": "Aconcagua",
+        "CaseD": "Mont Blanc",
+        "Question": "Trong các đỉnh núi sau, cái nào nằm ở châu Mỹ?",
+        "TrueCase": 3,
+        "_id": 88
+    },
+    {
+        "CaseA": "Trường Sơn ",
+        "CaseB": "Cửu Long ",
+        "CaseC": "Hà Bắc ",
+        "CaseD": "Quảng Trị",
+        "Question": "Địa danh nào được nhắc đến trong bài hát tấm áo mẹ vá năm xưa?",
+        "TrueCase": 3,
+        "_id": 89
+    },
+    {
+        "CaseA": "Châu Đại Dương ",
+        "CaseB": "Châu Âu ",
+        "CaseC": "Châu Mỹ",
+        "CaseD": "Châu Phi ",
+        "Question": "Châu lục có mật độ dân số thấp nhất thế giới là châu lục nào?",
+        "TrueCase": 1,
+        "_id": 90
+    },
+    {
+        "CaseA": "8.484 m",
+        "CaseB": "8.488 m",
+        "CaseC": "4.488 m",
+        "CaseD": "8.848 m",
+        "Question": "Ngọn núi cao nhất thế giới Everest có độ cao chính xác nhất là bao nhiêu?",
+        "TrueCase": 4,
+        "_id": 91
+    },
+    {
+        "CaseA": "18",
+        "CaseB": "28",
+        "CaseC": "38",
+        "CaseD": "48",
+        "Question": "Bộ cờ đômino tiêu chuẩn có tổng cộng bao nhiêu thanh?",
+        "TrueCase": 2,
+        "_id": 92
+    },
+    {
+        "CaseA": "Gabon",
+        "CaseB": "Ghana",
+        "CaseC": "Guam",
+        "CaseD": "Gambia",
+        "Question": "Banjul là thủ đô của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 93
+    },
+    {
+        "CaseA": "1444Km",
+        "CaseB": "4400Km",
+        "CaseC": "1400Km",
+        "CaseD": "2400Km",
+        "Question": "Đường biên giới giữa Việt Nam và Trung Quốc dài bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 94
+    },
+    {
+        "CaseA": "Thịt chó ",
+        "CaseB": "Thịt ngựa",
+        "CaseC": "Thịt dê",
+        "CaseD": "Thịt gà ",
+        "Question": "Để thể hiện sự tao nhã trong ăn uống, món ăn nào trong các món sau không bị loại bỏ ra khỏi thực đơn của các cửa hàng Hàn Quốc?",
+        "TrueCase": 1,
+        "_id": 95
+    },
+    {
+        "CaseA": "Tạo ra công cụ lao động ",
+        "CaseB": "Phát minh sinh học ",
+        "CaseC": "Phát minh hoá học ",
+        "CaseD": "Cách mạng xanh ",
+        "Question": "Điều gì đã giải quyết vấn đề về lương thực, thực phẩm cho loài người trong lịch sử?",
+        "TrueCase": 4,
+        "_id": 96
+    },
+    {
+        "CaseA": "Hmông ",
+        "CaseB": "Mường ",
+        "CaseC": "Êđê",
+        "CaseD": "Thái ",
+        "Question": "Bắt vợ là tập tục cưới xin của dân tộc nào?",
+        "TrueCase": 1,
+        "_id": 97
+    },
+    {
+        "CaseA": "Marroc ",
+        "CaseB": "Tuynisia ",
+        "CaseC": "Sudan ",
+        "CaseD": "Congo",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 5?",
+        "TrueCase": 2,
+        "_id": 98
+    },
+    {
+        "CaseA": "Malaysia ",
+        "CaseB": "Myanmar ",
+        "CaseC": "Philippines ",
+        "CaseD": "Singapore ",
+        "Question": "SEA  Games lần thứ 4 năm 1963, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 99
+    },
+    {
+        "CaseA": "Việt Nam ",
+        "CaseB": "Philippines ",
+        "CaseC": "Brunei ",
+        "CaseD": "Malaysia ",
+        "Question": "SEA  Games lần thứ 23 năm 2005, quốc gia nào đăng cai?",
+        "TrueCase": 2,
+        "_id": 100
+    },
+    {
+        "CaseA": "Fullham ",
+        "CaseB": "Everton ",
+        "CaseC": "Chelsea ",
+        "CaseD": "New Castle",
+        "Question": "Liverpool được tách ra từ đội bóng nào?",
+        "TrueCase": 2,
+        "_id": 101
+    },
+    {
+        "CaseA": "FIFA",
+        "CaseB": "FIDE",
+        "CaseC": "ITTF",
+        "CaseD": "FIVB",
+        "Question": "Liên đoàn cờ Vua quốc tế gọi tắt là gì?",
+        "TrueCase": 2,
+        "_id": 102
+    },
+    {
+        "CaseA": "Inter Milan ",
+        "CaseB": "UC Sampdoria",
+        "CaseC": "Valencia FC",
+        "CaseD": "AC Milan ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm2007?",
+        "TrueCase": 4,
+        "_id": 103
+    },
+    {
+        "CaseA": "FC Porto",
+        "CaseB": "Ajax Amsterdam ",
+        "CaseC": "Valencia FC",
+        "CaseD": "Bayer Leverkusen",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1987?",
+        "TrueCase": 1,
+        "_id": 104
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "Real Madrid",
+        "CaseC": "Liverpool FC",
+        "CaseD": "Celtic FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1967?",
+        "TrueCase": 4,
+        "_id": 105
+    },
+    {
+        "CaseA": "Kesley Alves ",
+        "CaseB": "Phạm Văn Quyến",
+        "CaseC": "Amaobi Uzowuru",
+        "CaseD": "Lê Công Vinh ",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2004?",
+        "TrueCase": 3,
+        "_id": 106
+    },
+    {
+        "CaseA": "Nguyễn Văn Thoại ",
+        "CaseB": "Trần Văn Thành ",
+        "CaseC": "Nguyễn Tấn Kiều ",
+        "CaseD": "Võ Duy Dương ",
+        "Question": "Họ tên thật của nhân vật Thoại Ngọc Hầu?",
+        "TrueCase": 1,
+        "_id": 107
+    },
+    {
+        "CaseA": "89 ",
+        "CaseB": "90 ",
+        "CaseC": "91",
+        "CaseD": "100",
+        "Question": "Điền tiếp vào dãy số sau: 0, 1, 5, 14, 30, 55,?",
+        "TrueCase": 3,
+        "_id": 108
+    },
+    {
+        "CaseA": "Công nghệ truyền thống ",
+        "CaseB": "Nông nghiệp ",
+        "CaseC": "Dịch vụ ",
+        "CaseD": "Công nghiệp hiện đại ",
+        "Question": "Lĩnh vực kinh tế phát triển nhất ở châu Âu là gì?",
+        "TrueCase": 3,
+        "_id": 109
+    },
+    {
+        "CaseA": "Tên một người Ấn Độ ",
+        "CaseB": "Tên một ngôi làng ",
+        "CaseC": "Tên một thành phố ",
+        "CaseD": "Tên một di tích ",
+        "Question": "Tên của ngọn núi cao nhất thế giới Everest được lấy từ đâu?",
+        "TrueCase": 1,
+        "_id": 110
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Đức ",
+        "Question": "Fecmơtuya do một người nước nào phát minh ra?",
+        "TrueCase": 1,
+        "_id": 111
+    },
+    {
+        "CaseA": "Kyrgystan",
+        "CaseB": "Kazakhstan",
+        "CaseC": "Kuwait",
+        "CaseD": "Kenya",
+        "Question": "Astana là thủ đô nước nào?",
+        "TrueCase": 2,
+        "_id": 112
+    },
+    {
+        "CaseA": "1080Km",
+        "CaseB": "2080Km",
+        "CaseC": "1880Km",
+        "CaseD": "1000Km",
+        "Question": "Đường biên giới giữa Việt Nam và Campuchia dài bao nhiêu?",
+        "TrueCase": 1,
+        "_id": 113
+    },
+    {
+        "CaseA": "Sinh lý học ",
+        "CaseB": "Toán học ",
+        "CaseC": "Hoá học ",
+        "CaseD": "Y học ",
+        "Question": "Bạn cho biết giải Nobel không trao giải cho môn nào?",
+        "TrueCase": 2,
+        "_id": 114
+    },
+    {
+        "CaseA": "Ngày khởi công ",
+        "CaseB": "Ngày hoàn thành ",
+        "CaseC": "Ngày độc lập ",
+        "CaseD": "Ngày phụ nữ 8  3 ",
+        "Question": "Bức tượng nữ thần tự do tay trái cầm một tấm bảng nhỏ trong đó có ghi ngày gì?",
+        "TrueCase": 3,
+        "_id": 115
+    },
+    {
+        "CaseA": "2 và 4",
+        "CaseB": "Nhỏ hơn 8 ",
+        "CaseC": "Lớn hơn 8 ",
+        "CaseD": "Bằng 8 ",
+        "Question": "Đất đá vôi có pH là bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 116
+    },
+    {
+        "CaseA": "Tuynisia ",
+        "CaseB": "Ghana",
+        "CaseC": "Etiopia ",
+        "CaseD": "Ai Cập ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 6?",
+        "TrueCase": 3,
+        "_id": 117
+    },
+    {
+        "CaseA": "Myanmar ",
+        "CaseB": "Malaysia ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Việt Nam ",
+        "Question": "SEA  Games lần thứ 4 năm 1965, quốc gia nào đăng cai?",
+        "TrueCase": 3,
+        "_id": 118
+    },
+    {
+        "CaseA": "Philippines ",
+        "CaseB": "Lào ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Việt Nam ",
+        "Question": "SEA  Games lần thứ 24 năm 2007, quốc gia nào đăng cai?",
+        "TrueCase": 3,
+        "_id": 119
+    },
+    {
+        "CaseA": "Ngô Phương Lan ",
+        "CaseB": "Mai Phương Thuý ",
+        "CaseC": "Trần Thuỳ Trang",
+        "CaseD": "Nguyễn Mộng Thường ",
+        "Question": "Ai là hoa hậu thế giới người Việt năm 2007?",
+        "TrueCase": 1,
+        "_id": 120
+    },
+    {
+        "CaseA": "Incheon Hàn Quốc",
+        "CaseB": "Tokyo Nhật Bản",
+        "CaseC": "Băng Cốc Thái Lan",
+        "CaseD": "New Dehli Ấn Độ",
+        "Question": "Á vận hội ASIAD năm 2014 sẽ được thành phố nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 121
+    },
+    {
+        "CaseA": "Barcelona",
+        "CaseB": "Chelsea",
+        "CaseC": "UC Sampdoria",
+        "CaseD": "Manchester City ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2006?",
+        "TrueCase": 1,
+        "_id": 122
+    },
+    {
+        "CaseA": "FC Porto",
+        "CaseB": "Steaua Bucarest",
+        "CaseC": "Inter Milan ",
+        "CaseD": "Manchester City",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1986?",
+        "TrueCase": 2,
+        "_id": 123
+    },
+    {
+        "CaseA": "Panatinaikos ",
+        "CaseB": "Inter Milan ",
+        "CaseC": "Ajax Amsterdam ",
+        "CaseD": "Real Madrid",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1966?",
+        "TrueCase": 4,
+        "_id": 124
+    },
+    {
+        "CaseA": "Ameka Achilefu ",
+        "CaseB": "Kesley Alves ",
+        "CaseC": "Almeida ",
+        "CaseD": "Lê Công Vinh ",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2003?",
+        "TrueCase": 1,
+        "_id": 125
+    },
+    {
+        "CaseA": "FAO",
+        "CaseB": "UNICEF",
+        "CaseC": "IMF",
+        "CaseD": "WTO",
+        "Question": "Tên viết tắt của tổ chức lương thực thế giới là gì?",
+        "TrueCase": 1,
+        "_id": 126
+    },
+    {
+        "CaseA": "FAO",
+        "CaseB": "IAEA",
+        "CaseC": "IMF",
+        "CaseD": "NASA",
+        "Question": "Cơ quan năng lượng nguyên tử quốc tế viết tắt là gì?",
+        "TrueCase": 2,
+        "_id": 127
+    },
+    {
+        "CaseA": "Uỷ ban nhân dân ",
+        "CaseB": "Toà án nhân dân",
+        "CaseC": " Hội đồng nhân dân ",
+        "CaseD": "Viện kiểm sát ",
+        "Question": "Cơ quan nào dưới đây là cơ quan quyền lực nhà nước?",
+        "TrueCase": 3,
+        "_id": 128
+    },
+    {
+        "CaseA": "Nguyễn Trãi ",
+        "CaseB": "Nguyễn Khuyến ",
+        "CaseC": "Nguyễn Du ",
+        "CaseD": "Nguyễn Đình Chiểu ",
+        "Question": "Thanh Hiên là tên hiệu của nhà thơ nào?",
+        "TrueCase": 3,
+        "_id": 129
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Pháp ",
+        "CaseC": "Đức ",
+        "CaseD": "Mỹ ",
+        "Question": "Thực phẩm đóng hộp do quốc gia nào phát minh ra?",
+        "TrueCase": 1,
+        "_id": 130
+    },
+    {
+        "CaseA": "Malaysia ",
+        "CaseB": "Mông Cổ ",
+        "CaseC": "Monaco ",
+        "CaseD": "Moldova ",
+        "Question": "Chisinau là thủ đô nước nào?",
+        "TrueCase": 4,
+        "_id": 131
+    },
+    {
+        "CaseA": "Biển Caspi ",
+        "CaseB": "Thái Bình Dương ",
+        "CaseC": "Biển Hồng Hải ",
+        "CaseD": "Biển Địa Trung Hải ",
+        "Question": "Biển nội địa nào rộng nhất?",
+        "TrueCase": 4,
+        "_id": 132
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Ấn Độ",
+        "CaseD": "Indonesia",
+        "Question": "Số lượng nhà truyền giáo nước nào đông nhất châu Á?",
+        "TrueCase": 3,
+        "_id": 133
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Anh ",
+        "CaseC": "Pháp ",
+        "CaseD": "Đức ",
+        "Question": "Tượng nữ thần tự do được xây ở nước nào?",
+        "TrueCase": 3,
+        "_id": 134
+    },
+    {
+        "CaseA": "Alfred Riedl",
+        "CaseB": "H. Calisto ",
+        "CaseC": "Tavares ",
+        "CaseD": "E. Sival Dido",
+        "Question": "Huấn luyện viên nào là người đầu tiên đưa đội tuyển bóng đá Việt Nam lên ngôi cao nhất khu vực Đông Nam Á?",
+        "TrueCase": 2,
+        "_id": 135
+    },
+    {
+        "CaseA": "Sudan ",
+        "CaseB": "Ghana",
+        "CaseC": "Bờ Biển Ngà ",
+        "CaseD": "Senegal ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 7 là quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 136
+    },
+    {
+        "CaseA": "Malaysia ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Indonesia ",
+        "CaseD": "Myanmar ",
+        "Question": "SEA  Games lần thứ 5 năm 1967, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 137
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Lào ",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Philippines ",
+        "Question": "SEA  Games lần thứ 25 năm 2009, quốc gia nào đăng cai?",
+        "TrueCase": 2,
+        "_id": 138
+    },
+    {
+        "CaseA": "Tp. Hồ Chí Minh ",
+        "CaseB": "Thanh Hoá ",
+        "CaseC": "Nghệ An ",
+        "CaseD": "Đắc Lắc ",
+        "Question": "Tỉnh nào có nhiều quận, huyện nhất nước ta?",
+        "TrueCase": 2,
+        "_id": 139
+    },
+    {
+        "CaseA": "Pusan Hàn Quốc",
+        "CaseB": "Tehran Iran",
+        "CaseC": "Quảng Châu Trung Quốc",
+        "CaseD": "Manila Philippines",
+        "Question": "Á vận hội ASIAD năm 2010 được thành phố nào đăng cai?",
+        "TrueCase": 3,
+        "_id": 140
+    },
+    {
+        "CaseA": "FC Porto",
+        "CaseB": "Inter Milan ",
+        "CaseC": "Panatinaikos",
+        "CaseD": "Liverpool FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2005?",
+        "TrueCase": 4,
+        "_id": 141
+    },
+    {
+        "CaseA": "Juventus",
+        "CaseB": "Sao đỏ Belgrade",
+        "CaseC": "AC Milan ",
+        "CaseD": "Valencia FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1985?",
+        "TrueCase": 1,
+        "_id": 142
+    },
+    {
+        "CaseA": "Celtic FC",
+        "CaseB": "Bayern Munich ",
+        "CaseC": "Inter Milan ",
+        "CaseD": "Manchester United ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1965?",
+        "TrueCase": 3,
+        "_id": 143
+    },
+    {
+        "CaseA": "Hồ Văn Lợi ",
+        "CaseB": "Đặng Đạo ",
+        "CaseC": "Emeka Achilefu ",
+        "CaseD": "Amaobi Uzuwuru",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2001  2002?",
+        "TrueCase": 1,
+        "_id": 144
+    },
+    {
+        "CaseA": "Danube",
+        "CaseB": "Volga ",
+        "CaseC": "Themes",
+        "CaseD": "Rhine",
+        "Question": "Sông nào dài thứ 3 ở châu Âu?",
+        "TrueCase": 4,
+        "_id": 145
+    },
+    {
+        "CaseA": "Chất trắng ",
+        "CaseB": "Chất xám ",
+        "CaseC": "Vỏ não ",
+        "CaseD": "Màng cứng ",
+        "Question": "Lớp màng ngoài cùng của màng não là gì?",
+        "TrueCase": 4,
+        "_id": 146
+    },
+    {
+        "CaseA": "Nhân dân bầu ra ",
+        "CaseB": "Chính phủ bầu ra ",
+        "CaseC": "UBND cấp trên bầu ",
+        "CaseD": "Hội đồng nhân dân ",
+        "Question": "Uỷ ban nhân dân do ai hoặc cơ quan nào dưới đây bầu ra?",
+        "TrueCase": 4,
+        "_id": 147
+    },
+    {
+        "CaseA": "Quang Trung ",
+        "CaseB": "Hùng Vương ",
+        "CaseC": "Lý Bí ",
+        "CaseD": "Nam Việt ",
+        "Question": "Vua nào đánh giặc Thanh?",
+        "TrueCase": 1,
+        "_id": 148
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Lạng Sơn ",
+        "CaseC": "Sơn La ",
+        "CaseD": "Hà Nội ",
+        "Question": "Suối Lênin ở đâu?",
+        "TrueCase": 1,
+        "_id": 149
+    },
+    {
+        "CaseA": "Châu Âu ",
+        "CaseB": "Châu Á ",
+        "CaseC": "Châu Mỹ ",
+        "CaseD": "Châu Nam Cực ",
+        "Question": "Châu lục nào có độ cao trung bình cao nhất hành tinh?",
+        "TrueCase": 4,
+        "_id": 150
+    },
+    {
+        "CaseA": "Tây Bắc ",
+        "CaseB": "Đông Bắc ",
+        "CaseC": "Tây Nguyên ",
+        "CaseD": "Bắc Trung",
+        "Question": "Vùng có tỉ lệ người biết chữ thấp nhất nước ta là?",
+        "TrueCase": 1,
+        "_id": 151
+    },
+    {
+        "CaseA": "Tokyo ",
+        "CaseB": "New York ",
+        "CaseC": "London ",
+        "CaseD": "Toronto ",
+        "Question": "Bạn cho biết tháp CN CN Tower là một ngọn tháp nổi tiếng thế giới của thành phố nào?",
+        "TrueCase": 4,
+        "_id": 152
+    },
+    {
+        "CaseA": "1999 ",
+        "CaseB": "2000 ",
+        "CaseC": "2001",
+        "CaseD": "2002 ",
+        "Question": "Phố cổ Hội An được công nhận là di sản văn hoá thế giới vào năm nào?",
+        "TrueCase": 1,
+        "_id": 153
+    },
+    {
+        "CaseA": "Brazil ",
+        "CaseB": "Áo ",
+        "CaseC": "Bồ Đào Nha",
+        "CaseD": "Đức ",
+        "Question": "Henrique Calisto là người đầu tiên đưa đội tuyển bóng đá Việt Nam lên ngôi cao nhất Đông Nam Á, ông là người nước nào?",
+        "TrueCase": 3,
+        "_id": 154
+    },
+    {
+        "CaseA": "Senegal ",
+        "CaseB": "Ai Cập ",
+        "CaseC": "Nigieria ",
+        "CaseD": "Cameroon ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 8 là quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 155
+    },
+    {
+        "CaseA": "Singapore ",
+        "CaseB": "Malaysia ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Myanmar ",
+        "Question": "SEA  Games lần thứ 6 năm 1969, quốc gia nào đăng cai?",
+        "TrueCase": 2,
+        "_id": 156
+    },
+    {
+        "CaseA": "Hy Lạp",
+        "CaseB": "La Mã",
+        "CaseC": "Thổ Nhĩ Kỳ ",
+        "CaseD": "Macedonia",
+        "Question": "Alexandors Đại đế, một trong những vị vua vĩ đại qua mọi thời đại là người nước nào?",
+        "TrueCase": 4,
+        "_id": 157
+    },
+    {
+        "CaseA": "Rừng Taiga ",
+        "CaseB": "Rừng lạnh ",
+        "CaseC": "Rừng hàn đới ",
+        "CaseD": "Rừng ôn đới ",
+        "Question": "Rừng cây lá kim xứ lạnh còn được gọi là gì?",
+        "TrueCase": 1,
+        "_id": 158
+    },
+    {
+        "CaseA": "Doha Qatar",
+        "CaseB": "Hiroshima Nhật Bản",
+        "CaseC": "Jakarta Indonesia",
+        "CaseD": "Viên Chăn Lào",
+        "Question": "Á vận hội ASIAD năm 2006 sẽ được thành phố nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 159
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "AS Monaco FC",
+        "CaseC": "FC Porto ",
+        "CaseD": "Manchester United",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2004?",
+        "TrueCase": 3,
+        "_id": 160
+    },
+    {
+        "CaseA": "Real Madrid",
+        "CaseB": "Manchester United",
+        "CaseC": "Manchester City ",
+        "CaseD": "Liverpool FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1984?",
+        "TrueCase": 4,
+        "_id": 161
+    },
+    {
+        "CaseA": "Bayern Munich",
+        "CaseB": "Real Madrid ",
+        "CaseC": "Leeds United ",
+        "CaseD": "Inter Milan ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1964?",
+        "TrueCase": 4,
+        "_id": 162
+    },
+    {
+        "CaseA": "Hồ Văn Lợi ",
+        "CaseB": "Văn Sỹ Thuỷ ",
+        "CaseC": "Vũ Minh Hiếu ",
+        "CaseD": "Đặng Đạo ",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 2000  2001?",
+        "TrueCase": 4,
+        "_id": 163
+    },
+    {
+        "CaseA": "Châu chấu",
+        "CaseB": "Cá ngựa",
+        "CaseC": "Muỗi ",
+        "CaseD": "Ong ",
+        "Question": "Loài động vật duy nhất nào mà con đực phụ trách việc mang thai và sinh nở?",
+        "TrueCase": 4,
+        "_id": 164
+    },
+    {
+        "CaseA": "Lê Lợi ",
+        "CaseB": "Lý Nam Đế ",
+        "CaseC": "Nguyễn Hoàng ",
+        "CaseD": "Lý Công Uẩn",
+        "Question": "Chùa Thiên Mụ do ai đặt tên?",
+        "TrueCase": 3,
+        "_id": 165
+    },
+    {
+        "CaseA": "Hội đồng nhân dân ",
+        "CaseB": "Viện kiểm sát ",
+        "CaseC": "Uỷ ban nhân dân ",
+        "CaseD": "Toà án nhân dân",
+        "Question": "Cơ quan nào dưới đây là cơ quan hành chính nhà nước?",
+        "TrueCase": 3,
+        "_id": 166
+    },
+    {
+        "CaseA": "Quang Trung ",
+        "CaseB": "Lý Bí ",
+        "CaseC": "Nam Việt ",
+        "CaseD": "Hùng Vương ",
+        "Question": "Vua nào dựng nước Văn Lang?",
+        "TrueCase": 4,
+        "_id": 167
+    },
+    {
+        "CaseA": "Nguyễn Đình Thi ",
+        "CaseB": "Nguyễn Khoa Điềm",
+        "CaseC": "Tố Hữu ",
+        "CaseD": "Chế Lan Viên ",
+        "Question": "Nhà thơ nào từng là Bộ trưởng Bộ Văn hoá  Thông tin?",
+        "TrueCase": 2,
+        "_id": 168
+    },
+    {
+        "CaseA": "Châu Mỹ ",
+        "CaseB": "Châu Âu ",
+        "CaseC": "Châu Phi ",
+        "CaseD": "Châu Á ",
+        "Question": "Kinh Thánh là quyển sách xuất bản đầu tiên ở đâu?",
+        "TrueCase": 2,
+        "_id": 169
+    },
+    {
+        "CaseA": "Murmansk, Nga",
+        "CaseB": "Resolute, Canada",
+        "CaseC": "Vostok Nam cực",
+        "CaseD": "Siberia Bắc cực ",
+        "Question": "Nhiệt độ thấp nhất trên thế giới 89 độ C là ở đâu?",
+        "TrueCase": 3,
+        "_id": 170
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Anh ",
+        "CaseC": "Pháp",
+        "CaseD": "Đức ",
+        "Question": "Lực lượng quân sự nước nào lớn nhất ở châu Âu?",
+        "TrueCase": 1,
+        "_id": 171
+    },
+    {
+        "CaseA": "48 Hàng Ngang ",
+        "CaseB": "48 Hàng Giấy ",
+        "CaseC": "48 Hàng Đào ",
+        "CaseD": "48 Hàng Gốm ",
+        "Question": "Nơi Bác Hồ viết bản tuyên ngôn độc lập?",
+        "TrueCase": 1,
+        "_id": 172
+    },
+    {
+        "CaseA": "Norman ",
+        "CaseB": "Pelé ",
+        "CaseC": "Lucien Laurent",
+        "CaseD": "Iriarte ",
+        "Question": "Cầu thủ ghi bàn đầu tiên  trong lịch sử World Cup là ai?",
+        "TrueCase": 3,
+        "_id": 173
+    },
+    {
+        "CaseA": "Ai Cập ",
+        "CaseB": "Bờ Biển Ngà ",
+        "CaseC": "Burkina Faso ",
+        "CaseD": "Etiopia ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 9 là quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 174
+    },
+    {
+        "CaseA": "Singapore ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Indonesia ",
+        "CaseD": "Myanmar ",
+        "Question": "SEA  Games lần thứ 7 năm 1971, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 175
+    },
+    {
+        "CaseA": "Khèn ",
+        "CaseB": "Sáo dọc ",
+        "CaseC": "Kèn đám am ",
+        "CaseD": "Sáo ngang ",
+        "Question": "Loại nhạc cụ nào sau đây còn có tên gọi là Bóp?",
+        "TrueCase": 3,
+        "_id": 176
+    },
+    {
+        "CaseA": "Quảng Trị ",
+        "CaseB": "Huế ",
+        "CaseC": "Hà Nội ",
+        "CaseD": "Hải Dương ",
+        "Question": "Liệt sĩ Đặng Thuỳ Trâm và liệt sĩ Nguyễn Văn Thạc quê quán ở đâu?",
+        "TrueCase": 3,
+        "_id": 177
+    },
+    {
+        "CaseA": "Quảng Châu Trung Quốc",
+        "CaseB": "Doha Qatar",
+        "CaseC": "Tokyo Nhật Bản",
+        "CaseD": "Pusan Hàn Quốc ",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 2002?",
+        "TrueCase": 4,
+        "_id": 178
+    },
+    {
+        "CaseA": "FC Porto ",
+        "CaseB": "Barcelona ",
+        "CaseC": "Arsenal ",
+        "CaseD": "AC Milan ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2003?",
+        "TrueCase": 4,
+        "_id": 179
+    },
+    {
+        "CaseA": "Olympique de Marseille",
+        "CaseB": "Hamburrger SV",
+        "CaseC": "Juventus",
+        "CaseD": "Barcelona",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1983?",
+        "TrueCase": 2,
+        "_id": 180
+    },
+    {
+        "CaseA": "Inter Milan ",
+        "CaseB": "Celtic",
+        "CaseC": "Ajax Amsterdam ",
+        "CaseD": "AC Milan",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm1963?",
+        "TrueCase": 4,
+        "_id": 181
+    },
+    {
+        "CaseA": "Vũ Minh Hiếu",
+        "CaseB": "Văn Sỹ Thuỷ",
+        "CaseC": "Hồ Văn Lợi ",
+        "CaseD": "Đặng Đạo ",
+        "Question": "Cầu thủ nào là vua phá lưới V  League mùa bóng năm 1999  2000?",
+        "TrueCase": 2,
+        "_id": 182
+    },
+    {
+        "CaseA": "Titanic",
+        "CaseB": "God Father",
+        "CaseC": "Casablanca",
+        "CaseD": "Citizen Kane",
+        "Question": "Hiệp hội WGAE và WGAW đã bình chọn bộ phim nào có kịch bản hay nhất mọi thời đại?",
+        "TrueCase": 3,
+        "_id": 183
+    },
+    {
+        "CaseA": "Hệ sinh thái ",
+        "CaseB": "Quần thể ",
+        "CaseC": "Loài ",
+        "CaseD": "Quần xã",
+        "Question": "Đơn vị sinh thái nào bao gồm tất cả các nhân tố vô sinh?",
+        "TrueCase": 1,
+        "_id": 184
+    },
+    {
+        "CaseA": "Chính phủ ",
+        "CaseB": "Quốc hội ",
+        "CaseC": "Toà án nhân dân ",
+        "CaseD": "Viện kiểm sát ",
+        "Question": "Cơ quan nào dưới đây là cơ quan quyền lực của nhà nước?",
+        "TrueCase": 2,
+        "_id": 185
+    },
+    {
+        "CaseA": "Gò Đống Đa",
+        "CaseB": "Đồng Xoài ",
+        "CaseC": "Xoài Mút ",
+        "CaseD": "Mộc Hoá ",
+        "Question": "Địa danh lịch sử nơi hơn 20 vạn quân Thanh bị đánh tan tác vào mùa xuân năm Kỷ Dậu 1789 là địa danh nào?",
+        "TrueCase": 1,
+        "_id": 186
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Liên Xô ",
+        "CaseC": "Pháp ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Kính thiên văn vũ trụ Hubble thuộc sở hữu của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 187
+    },
+    {
+        "CaseA": "Đại Tây Dương ",
+        "CaseB": "Bắc Băng Dương ",
+        "CaseC": "Ấn Độ Dương ",
+        "CaseD": "Thái Bình Dương ",
+        "Question": "Đại dương nào trên thế giới có nhiều vực sâu nhất?",
+        "TrueCase": 4,
+        "_id": 188
+    },
+    {
+        "CaseA": "Tp. Hồ Chí Minh ",
+        "CaseB": "Băng Cốc",
+        "CaseC": "Jakatar ",
+        "CaseD": "Phnom Penh ",
+        "Question": "Thành phố đông dân nhất Đông Nam Á?",
+        "TrueCase": 3,
+        "_id": 189
+    },
+    {
+        "CaseA": "Anh",
+        "CaseB": "Pháp",
+        "CaseC": "Đức ",
+        "CaseD": "Thuỵ Sĩ ",
+        "Question": "Nước nào có nền kinh tế lớn nhất châu Âu?",
+        "TrueCase": 3,
+        "_id": 190
+    },
+    {
+        "CaseA": "Chỉ có 1 kích cỡ ",
+        "CaseB": "Mặc vào mùa đông ",
+        "CaseC": "Làm bằng loại vải đặc biệt ",
+        "CaseD": "Không thể tự mặc ",
+        "Question": "Điều đặc biệt của Kimono  y phục truyền thống của Nhật Bản là?",
+        "TrueCase": 1,
+        "_id": 191
+    },
+    {
+        "CaseA": "Pusan Hàn Quốc ",
+        "CaseB": "Yokohama Nhật Bản ",
+        "CaseC": "Seoul Hàn Quốc ",
+        "CaseD": "Tokyo Nhật Bản ",
+        "Question": "Nơi diễn ra lễ bốc thăm vòng chung kết World Cup 2002 là ở đâu?",
+        "TrueCase": 1,
+        "_id": 192
+    },
+    {
+        "CaseA": "Marroc ",
+        "CaseB": "Cameroon ",
+        "CaseC": "Nigieria ",
+        "CaseD": "Etiopia ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 10 là quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 193
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Myanmar ",
+        "CaseC": "Malaysia ",
+        "CaseD": "Thái Lan ",
+        "Question": "SEA  Games lần thứ 8 năm 1973, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 194
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Malaysia ",
+        "Question": "Đạo Shinto là đạo lâu đời nhất của quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 195
+    },
+    {
+        "CaseA": "Hoa huệ ",
+        "CaseB": "Hoa sen ",
+        "CaseC": "Quốc kỳ Việt Nam ",
+        "CaseD": "Hoa hồng ",
+        "Question": "Anh hùng Phạm Tuân đã mang theo vật gì khi du hành ra ngoài vũ trụ?",
+        "TrueCase": 3,
+        "_id": 196
+    },
+    {
+        "CaseA": "Băng Cốc Thái Lan",
+        "CaseB": "Hiroshima Nhật Bản",
+        "CaseC": "Manila  Philippines",
+        "CaseD": "Đà Nẵng Việt Nam",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1998?",
+        "TrueCase": 1,
+        "_id": 197
+    },
+    {
+        "CaseA": "Real Madrid",
+        "CaseB": "Chelsea",
+        "CaseC": "Arsenal ",
+        "CaseD": "Panatinaikos",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2002?",
+        "TrueCase": 1,
+        "_id": 198
+    },
+    {
+        "CaseA": "Hamburger SB",
+        "CaseB": "FC Porto",
+        "CaseC": "Liverpool FC",
+        "CaseD": "Aston Villa",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1982?",
+        "TrueCase": 4,
+        "_id": 199
+    },
+    {
+        "CaseA": "SL Benfica",
+        "CaseB": "Real Madrid",
+        "CaseC": "Leeds United ",
+        "CaseD": "Celtic FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1962?",
+        "TrueCase": 1,
+        "_id": 200
+    },
+    {
+        "CaseA": "Văn Sỹ Thuỷ ",
+        "CaseB": "Lê Huỳnh Đức ",
+        "CaseC": "Hồ Văn Lợi ",
+        "CaseD": "Đặng Đạo",
+        "Question": "Cầu thủ nào là vua phá lưới giải vô địch quốc gia mùa bóng năm 1999 Giải tập huấn?",
+        "TrueCase": 1,
+        "_id": 201
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Brazil ",
+        "CaseC": "Australia ",
+        "CaseD": "Canada",
+        "Question": "Quốc gia nào có bờ biển dài nhất?",
+        "TrueCase": 4,
+        "_id": 202
+    },
+    {
+        "CaseA": "Đảng Likud ",
+        "CaseB": "Công Đảng ",
+        "CaseC": "Đảng Sephardic ",
+        "CaseD": "Đảng Đối lập",
+        "Question": "Đảng nào của Israel ủng hộ những người Do Thái ở châu Á?",
+        "TrueCase": 1,
+        "_id": 203
+    },
+    {
+        "CaseA": "Hoàng Vân ",
+        "CaseB": "Hoàng Việt",
+        "CaseC": "Đỗ Nhuận ",
+        "CaseD": "Huy Du ",
+        "Question": "Bài hát đường chúng ta đi là sáng tác âm nhạc của nhạc sĩ nào?",
+        "TrueCase": 4,
+        "_id": 204
+    },
+    {
+        "CaseA": "Hàng thứ cấp ",
+        "CaseB": "Hàng bổ sung ",
+        "CaseC": "Hàng thay thế ",
+        "CaseD": "Hàng bình thường ",
+        "Question": "Nếu giá của hàng hoá giảm và cầu về một hàng hoá khác tăng lên thì hai hàng hoá này là?",
+        "TrueCase": 2,
+        "_id": 205
+    },
+    {
+        "CaseA": "5182 m",
+        "CaseB": "1852 m",
+        "CaseC": "1582 m",
+        "CaseD": "1285 m",
+        "Question": "1 hải lý 1 dặm biển bằng bao nhiêu mét?",
+        "TrueCase": 2,
+        "_id": 206
+    },
+    {
+        "CaseA": "Địa Lý ",
+        "CaseB": "Văn Học ",
+        "CaseC": "Toán Học ",
+        "CaseD": "Lịch Sử ",
+        "Question": "Đại tướng Võ Nguyên Giáp từng là thầy giáo dạy môn học gì?",
+        "TrueCase": 4,
+        "_id": 207
+    },
+    {
+        "CaseA": "Nam Phi ",
+        "CaseB": "Sudan ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Cameroon ",
+        "Question": "Quốc gia lớn nhất châu Phi?",
+        "TrueCase": 2,
+        "_id": 208
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Pháp ",
+        "CaseC": "Mỹ ",
+        "CaseD": "Đức ",
+        "Question": "Nguồn gốc của ngày 1  5 bắt nguồn từ nước nào?",
+        "TrueCase": 3,
+        "_id": 209
+    },
+    {
+        "CaseA": "Đức ",
+        "CaseB": " ",
+        "CaseC": "Tây Ban Nha ",
+        "CaseD": "Liên Xô ",
+        "Question": "Đội bóng nào vô địch EURO lần đầu tiên?",
+        "TrueCase": 4,
+        "_id": 210
+    },
+    {
+        "CaseA": "Seoul Hàn Quốc ",
+        "CaseB": "Tokyo Nhật Bản",
+        "CaseC": "Yokohama Nhật Bản ",
+        "CaseD": "Pusan Hàn Quốc",
+        "Question": "Trận chung kết World Cup 2002 diễn ra ở đâu?",
+        "TrueCase": 3,
+        "_id": 211
+    },
+    {
+        "CaseA": "Algieria",
+        "CaseB": "Nam Phi",
+        "CaseC": "Senegal",
+        "CaseD": "Ghana",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 11 là quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 212
+    },
+    {
+        "CaseA": "Brunei ",
+        "CaseB": "Malaysia ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Indonesia ",
+        "Question": "SEA  Games lần thứ 9 năm 1975, quốc gia nào đăng cai?",
+        "TrueCase": 2,
+        "_id": 213
+    },
+    {
+        "CaseA": "Nam Cao ",
+        "CaseB": "Nguyễn Tuân ",
+        "CaseC": "Vũ Trọng Phụng ",
+        "CaseD": "Lan Khai ",
+        "Question": "Biết rồi Khổ lắm nói mãi là câu nói cửa miệng của một nhân vật trong tác phẩm của nhà văn nào?",
+        "TrueCase": 3,
+        "_id": 214
+    },
+    {
+        "CaseA": "Hồ Giáo ",
+        "CaseB": "Lương Đình Của ",
+        "CaseC": "Hà Văn Cao ",
+        "CaseD": "Trần Nguyên ",
+        "Question": "Ở Việt Nam, ai được mệnh danh là Nhà bác học của đồng ruộng?",
+        "TrueCase": 2,
+        "_id": 215
+    },
+    {
+        "CaseA": "Pusan Hàn Quốc",
+        "CaseB": "Bình Dưỡng Triều Tiên",
+        "CaseC": "Hiroshima Nhật Bản",
+        "CaseD": "Doha Qatar",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1994?",
+        "TrueCase": 3,
+        "_id": 216
+    },
+    {
+        "CaseA": "Beyer Leverkusen ",
+        "CaseB": "Panatinaikos",
+        "CaseC": "Arsenal ",
+        "CaseD": "Bayern Munich ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2001?",
+        "TrueCase": 4,
+        "_id": 217
+    },
+    {
+        "CaseA": "Bayern Munich ",
+        "CaseB": "Inter Milan ",
+        "CaseC": "Liverpool FC",
+        "CaseD": "SL Benfica",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1981?",
+        "TrueCase": 3,
+        "_id": 218
+    },
+    {
+        "CaseA": "Real Madrid",
+        "CaseB": "SL Benfica",
+        "CaseC": "Bayern Munich ",
+        "CaseD": "Celtic FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1961?",
+        "TrueCase": 2,
+        "_id": 219
+    },
+    {
+        "CaseA": "Vũ Minh Hiếu ",
+        "CaseB": "Trần Minh Chiến ",
+        "CaseC": "Nguyễn Văn Dũng ",
+        "CaseD": "Lê Huỳnh Đức ",
+        "Question": "Cầu thủ nào là vua phá lưới giải vô địch quốc gia mùa bóng năm 1998?",
+        "TrueCase": 3,
+        "_id": 220
+    },
+    {
+        "CaseA": "Ấn Độ ",
+        "CaseB": "Hungary ",
+        "CaseC": "Brazil ",
+        "CaseD": "Malaysia",
+        "Question": "Magyar là tên gọi bản địa của quốc gia nào trên thế giới?",
+        "TrueCase": 2,
+        "_id": 221
+    },
+    {
+        "CaseA": "Teohihuacan",
+        "CaseB": "Tula",
+        "CaseC": "El Tajin",
+        "CaseD": "Tabasco",
+        "Question": "Kim Tự Tháp mặt trời còn có tên gọi khác là gì?",
+        "TrueCase": 1,
+        "_id": 222
+    },
+    {
+        "CaseA": "Tiếng ve gọi hè ",
+        "CaseB": "Đi cắt lúa ",
+        "CaseC": "Tiếng quân ca",
+        "CaseD": "Khúc ca bốn mùa",
+        "Question": "Trong các bài hát dưới đây, bài nào thuộc thể loại hành khúc?",
+        "TrueCase": 3,
+        "_id": 223
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Việt Nam ",
+        "Question": "Tại cuộc thi Robot châu Á Thái Bình Dương ở Nhật năm 2002, quốc gia nào vô địch?",
+        "TrueCase": 4,
+        "_id": 224
+    },
+    {
+        "CaseA": "Sa Đéc Đồng Tháp ",
+        "CaseB": "Mộc Hoá Long An ",
+        "CaseC": "Châu Phú An Giang ",
+        "CaseD": "Kiên Lương Kiên Giang",
+        "Question": "ở Việt Nam, nghê thợ bạc được sáng lập lần đầu tiên ở đâu?",
+        "TrueCase": 1,
+        "_id": 225
+    },
+    {
+        "CaseA": "Ai Cập ",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Arập",
+        "Question": "Quốc gia đầu tiên sử dụng chữ tượng hình?",
+        "TrueCase": 1,
+        "_id": 226
+    },
+    {
+        "CaseA": "2000 ",
+        "CaseB": "3000 ",
+        "CaseC": "4000",
+        "CaseD": "5000",
+        "Question": "Việt Nam có bao nhiêu hòn đảo và bãi đá ngầm lớn nhỏ?",
+        "TrueCase": 3,
+        "_id": 227
+    },
+    {
+        "CaseA": "Ảrập Saudi ",
+        "CaseB": "Iraq ",
+        "CaseC": "Iran ",
+        "CaseD": "Hy Lạp ",
+        "Question": "Nền văn minh Babylon ngày nay thuộc đất nước nào?",
+        "TrueCase": 2,
+        "_id": 228
+    },
+    {
+        "CaseA": "Trừu tượng ",
+        "CaseB": "Ấn tượng ",
+        "CaseC": "Lập thể ",
+        "CaseD": "Lãng mạn ",
+        "Question": "Danh hoạ Picasso là người đã mở ra trường phái nào trong hội hoạ?",
+        "TrueCase": 3,
+        "_id": 229
+    },
+    {
+        "CaseA": "Brazil ",
+        "CaseB": "Anh ",
+        "CaseC": "Nam Phi ",
+        "CaseD": "Pháp ",
+        "Question": "Quốc gia nào chỉ thua Đức 1 phiếu bầu trong việc giành quyền đăng cai World Cup 2006?",
+        "TrueCase": 3,
+        "_id": 230
+    },
+    {
+        "CaseA": "Ghana",
+        "CaseB": "Nigieria ",
+        "CaseC": "Nam Phi ",
+        "CaseD": "Tuynisia ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 12 là quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 231
+    },
+    {
+        "CaseA": "Philippines ",
+        "CaseB": "Việt Nam ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Indonesia ",
+        "Question": "SEA  Games lần thứ 10 năm 1977, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 232
+    },
+    {
+        "CaseA": "Thăng Long ",
+        "CaseB": "Thái Bình ",
+        "CaseC": "Phố Hiến ",
+        "CaseD": "Bắc Ninh ",
+        "Question": "Bà già đi chợ cầu Đông, xem bói một quẻ lấy chồng lợi chăng. Cầu Đông xưa thuộc địa phương nào?",
+        "TrueCase": 1,
+        "_id": 233
+    },
+    {
+        "CaseA": "Hoa Kỳ ",
+        "CaseB": "Pháp",
+        "CaseC": "Anh ",
+        "CaseD": "Nga ",
+        "Question": "Thủ tướng nước nào từng được giải thưởng Nobel văn học?",
+        "TrueCase": 3,
+        "_id": 234
+    },
+    {
+        "CaseA": "Hiroshima Nhật Bản ",
+        "CaseB": "Băng Cốc Thái Lan",
+        "CaseC": "Hải Phòng Việt Nam ",
+        "CaseD": "Bắc Kinh Trung Quốc",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1990?",
+        "TrueCase": 4,
+        "_id": 235
+    },
+    {
+        "CaseA": "FC Beyern Munich",
+        "CaseB": "Real Madrid ",
+        "CaseC": "Arsenal ",
+        "CaseD": "AS Monaco FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 2000?",
+        "TrueCase": 2,
+        "_id": 236
+    },
+    {
+        "CaseA": "Liverpool FC",
+        "CaseB": "Nottingham Forest FC",
+        "CaseC": "Ajax Amsterdam",
+        "CaseD": "Bayern Munich ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1980?",
+        "TrueCase": 2,
+        "_id": 237
+    },
+    {
+        "CaseA": "Manchester United ",
+        "CaseB": "Arsenal ",
+        "CaseC": "Ajax Amsterdam ",
+        "CaseD": "Real Madrid",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1960?",
+        "TrueCase": 4,
+        "_id": 238
+    },
+    {
+        "CaseA": "Wemblay",
+        "CaseB": "Old Traford",
+        "CaseC": "Stade the France",
+        "CaseD": "Maracana",
+        "Question": "Sân vận động lớn nhất thế giới tên là gì?",
+        "TrueCase": 4,
+        "_id": 239
+    },
+    {
+        "CaseA": "Phong lan ",
+        "CaseB": "Mimosa",
+        "CaseC": "Đồng tiền ",
+        "CaseD": "Lekima",
+        "Question": "Hoa vàng lá bạclà tên gọi khác của loài hoa nào ở Việt Nam?",
+        "TrueCase": 2,
+        "_id": 240
+    },
+    {
+        "CaseA": "EPSON",
+        "CaseB": "IBM",
+        "CaseC": "XEROX",
+        "CaseD": "Microsoft",
+        "Question": "Công ty nào là nhà phát minh kỹ thuật in mực khô?",
+        "TrueCase": 3,
+        "_id": 241
+    },
+    {
+        "CaseA": "Đi cắt lúa ",
+        "CaseB": "Khúc ca bốn mùa ",
+        "CaseC": "Cachiusa",
+        "CaseD": "Tiếng ve gọi hè ",
+        "Question": "Câu hát giọt mưa long lanh trên những cánh hoa có trong bài hát nào?",
+        "TrueCase": 4,
+        "_id": 242
+    },
+    {
+        "CaseA": "Siêu âm ",
+        "CaseB": "Âm bổng ",
+        "CaseC": "Hạ âm ",
+        "CaseD": "Âm sắc ",
+        "Question": "Âm thanh có tần số nhỏ hơn 16 Hz gọi là gì?",
+        "TrueCase": 3,
+        "_id": 243
+    },
+    {
+        "CaseA": "1770 ",
+        "CaseB": "1880 ",
+        "CaseC": "1870 ",
+        "CaseD": "1780 ",
+        "Question": "Nghề thợ bạc được sáng lập vào năm nào?",
+        "TrueCase": 3,
+        "_id": 244
+    },
+    {
+        "CaseA": " Mộc tinh và kim kinh ",
+        "CaseB": "Thổ tinh và kim tinh ",
+        "CaseC": "Thổ tinh và mộc tinh ",
+        "CaseD": "Kim tinh và hoả tinh ",
+        "Question": "Hai hành tinh nào tự quay nhanh đến mức 1 ngày ở đó chỉ khoảng 10 giờ đồng hồ?",
+        "TrueCase": 3,
+        "_id": 245
+    },
+    {
+        "CaseA": "3.444km",
+        "CaseB": "4.444km",
+        "CaseC": "3.333km",
+        "CaseD": "4.333km",
+        "Question": "Bờ biển  Việt Nam dài khoảng bao nhiêu?",
+        "TrueCase": 1,
+        "_id": 246
+    },
+    {
+        "CaseA": "1979 ",
+        "CaseB": "1981 ",
+        "CaseC": "1982 ",
+        "CaseD": "1984 ",
+        "Question": "Thriller album của danh ca Michael Jackson, được hãng đĩa Epic phát hành năm nào?",
+        "TrueCase": 3,
+        "_id": 247
+    },
+    {
+        "CaseA": "Cairo Ai Cập ",
+        "CaseB": "Kito Ecuador",
+        "CaseC": "Jakatar Indonesia",
+        "CaseD": "Roma Italya",
+        "Question": "Thủ đô nào gần xích đạo nhất?",
+        "TrueCase": 2,
+        "_id": 248
+    },
+    {
+        "CaseA": "Thứ 4 ",
+        "CaseB": "Thứ 5",
+        "CaseC": "Thứ 6",
+        "CaseD": "Thứ 7 ",
+        "Question": "Ông Calisto là huấn luyện viên người nước ngoài thứ mấy của bóng đá Việt Nam?",
+        "TrueCase": 3,
+        "_id": 249
+    },
+    {
+        "CaseA": "Nigieria ",
+        "CaseB": "Libya ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Bờ Biển Ngà ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 13 là quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 250
+    },
+    {
+        "CaseA": "Singapore ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Myanmar ",
+        "CaseD": "Philippines ",
+        "Question": "SEA  Games lần thứ 11 năm 1979, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 251
+    },
+    {
+        "CaseA": "Xanh, vàng, đỏ ",
+        "CaseB": "Vàng, trắng, đỏ ",
+        "CaseC": "Xanh, vàng, trắng ",
+        "CaseD": "Vàng, đỏ, đen ",
+        "Question": "Lá cờ của Mặt trận dân tộc giải phóng miền Nam Việt Nam có những màu gì?",
+        "TrueCase": 1,
+        "_id": 252
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Nam Phi ",
+        "CaseC": "Anh ",
+        "CaseD": "Pháp ",
+        "Question": "Thế vận hội mùa hè năm 2012 do nước nào đăng cai?",
+        "TrueCase": 3,
+        "_id": 253
+    },
+    {
+        "CaseA": "Seoul Hàn Quốc ",
+        "CaseB": "Tehran Iran",
+        "CaseC": "Bắc Kinh Trung Quốc",
+        "CaseD": "Hiroshima Nhật Bản ",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1986?",
+        "TrueCase": 1,
+        "_id": 254
+    },
+    {
+        "CaseA": "Barcelona ",
+        "CaseB": "Chelsea ",
+        "CaseC": "Arsenal ",
+        "CaseD": "Manchester United",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1999?",
+        "TrueCase": 4,
+        "_id": 255
+    },
+    {
+        "CaseA": "Nottingham Forest FC",
+        "CaseB": "CLu Brugge",
+        "CaseC": "Manchester United ",
+        "CaseD": "Real Madrid ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1979?",
+        "TrueCase": 1,
+        "_id": 256
+    },
+    {
+        "CaseA": "Reims",
+        "CaseB": "Fiorentina ",
+        "CaseC": "Real Madrid",
+        "CaseD": "Manchester United ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1959?",
+        "TrueCase": 3,
+        "_id": 257
+    },
+    {
+        "CaseA": "Lớn ",
+        "CaseB": "Vừa ",
+        "CaseC": "Nhỏ ",
+        "CaseD": "Vừa và nhỏ ",
+        "Question": "Phần lớn các khoáng sản của nước ta có trữ lượng thuộc loại?",
+        "TrueCase": 3,
+        "_id": 258
+    },
+    {
+        "CaseA": "Louis 16",
+        "CaseB": "Charles 7",
+        "CaseC": "Louis 14",
+        "CaseD": "Philip 8",
+        "Question": "Ông vua nào của nước Pháp được xưng tôn là ông vua mặt trời?",
+        "TrueCase": 3,
+        "_id": 259
+    },
+    {
+        "CaseA": "Ong ",
+        "CaseB": "Chuồn chuồn ",
+        "CaseC": "Châu chấu ",
+        "CaseD": "Ruồi ",
+        "Question": "Loài côn trùng nào có tốc độ bay nhanh nhất 58kmh?",
+        "TrueCase": 2,
+        "_id": 260
+    },
+    {
+        "CaseA": "Đi cắt lúa ",
+        "CaseB": "Khúc ca bốn mùa ",
+        "CaseC": "Cachiusa",
+        "CaseD": "Tiếng ve gọi hè ",
+        "Question": "Câu hát cho cây vườn thêm xanh có trong bài hát nào?",
+        "TrueCase": 2,
+        "_id": 261
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Nga ",
+        "CaseD": "Mỹ ",
+        "Question": "Quốc gia tiêu thụ điện năng lớn nhất thế giới là quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 262
+    },
+    {
+        "CaseA": "Cuối XV  Đầu XVI",
+        "CaseB": "Cuối XVI  Đầu XVII",
+        "CaseC": "Cuối XVII  Đầu XVIII",
+        "CaseD": "Cuối XVIII  Đầu XIX",
+        "Question": "Thị xã Sa Đéc của tỉnh Đông Tháo được tìm thấy vào thế kỷ nào?",
+        "TrueCase": 3,
+        "_id": 263
+    },
+    {
+        "CaseA": "Mộc tinh",
+        "CaseB": " Kim tinh ",
+        "CaseC": "Thuỷ tinh ",
+        "CaseD": "Hoả tinh ",
+        "Question": "Trong hệ mặt trời hành tinh nào không có mặt trăng?",
+        "TrueCase": 2,
+        "_id": 264
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Philippines ",
+        "CaseD": "Quần đảo Hawaii",
+        "Question": "Núi lửa đang hoạt động lớn nhất thế giới hiện nay đang nằm ở đâu?",
+        "TrueCase": 4,
+        "_id": 265
+    },
+    {
+        "CaseA": "1850 ",
+        "CaseB": "1878 ",
+        "CaseC": "1915 ",
+        "CaseD": "1930 ",
+        "Question": "Lần đầu tiên chiếc còi đồng được sử dụng trong bóng đá vào năm nào?",
+        "TrueCase": 2,
+        "_id": 266
+    },
+    {
+        "CaseA": "1972 ",
+        "CaseB": "1976 ",
+        "CaseC": "1980 ",
+        "CaseD": "1984 ",
+        "Question": "Môn bắn cung được đưa vào Olympic từ năm nào?",
+        "TrueCase": 1,
+        "_id": 267
+    },
+    {
+        "CaseA": "19992000",
+        "CaseB": "20002001",
+        "CaseC": "20012002",
+        "CaseD": "20022003",
+        "Question": "Bóng đá Việt Nam chuyển lên chuyên nghiệp vào mùa bóng năm nào?",
+        "TrueCase": 2,
+        "_id": 268
+    },
+    {
+        "CaseA": "Bờ Biển Ngà ",
+        "CaseB": "Nam Phi ",
+        "CaseC": "Senegal ",
+        "CaseD": "Trung Phi ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 14 là quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 269
+    },
+    {
+        "CaseA": "Singapore ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Malaysia ",
+        "CaseD": "Myanmar ",
+        "Question": "SEA  Games lần thứ 12 năm 1981, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 270
+    },
+    {
+        "CaseA": "1948 ",
+        "CaseB": "1950 ",
+        "CaseC": "1951",
+        "CaseD": "1954 ",
+        "Question": "Á vận hội được tổ chức lần đầu tiên vào năm nào?",
+        "TrueCase": 3,
+        "_id": 271
+    },
+    {
+        "CaseA": "Gạch mộc ",
+        "CaseB": "Đất sét ",
+        "CaseC": "Đá ",
+        "CaseD": "Gỗ ",
+        "Question": "Tháp Phổ Minh được xây dựng bằng chất liệu gì?",
+        "TrueCase": 1,
+        "_id": 272
+    },
+    {
+        "CaseA": "Jakarta Indonesia",
+        "CaseB": "Tokyo Nhật Bản ",
+        "CaseC": "Seoul Hàn Quốc",
+        "CaseD": "New Dehli Ấn Độ ",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1982?",
+        "TrueCase": 4,
+        "_id": 273
+    },
+    {
+        "CaseA": "Manchester United",
+        "CaseB": "FC Porto ",
+        "CaseC": "AC Milan",
+        "CaseD": "Real Madrid ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1988?",
+        "TrueCase": 4,
+        "_id": 274
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "Bayern Munich",
+        "CaseC": "Liverpool FC",
+        "CaseD": "Malmo FF",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1978?",
+        "TrueCase": 3,
+        "_id": 275
+    },
+    {
+        "CaseA": "AC Milan ",
+        "CaseB": "Celtic FC",
+        "CaseC": "Bayern Munich ",
+        "CaseD": "Real Madrid ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1958?",
+        "TrueCase": 4,
+        "_id": 276
+    },
+    {
+        "CaseA": "Nila Amstronger ",
+        "CaseB": "Narel Amstrong",
+        "CaseC": "Neil Amstrong",
+        "CaseD": "Nicolai Amstrong",
+        "Question": "Người đầu tiên đặt chân lên mặt Trăng?",
+        "TrueCase": 3,
+        "_id": 277
+    },
+    {
+        "CaseA": "Vang vàng ",
+        "CaseB": "Vang trắng ",
+        "CaseC": "Vang đỏ ",
+        "CaseD": "Vang xanh ",
+        "Question": "Loại rượu vang nào sau đây không tồn tại?",
+        "TrueCase": 1,
+        "_id": 278
+    },
+    {
+        "CaseA": "Canada",
+        "CaseB": "Nga ",
+        "CaseC": "Mỹ ",
+        "CaseD": "Pháp ",
+        "Question": "Tháp truyền hình cao nhất thế giới hiện nay thuộc quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 279
+    },
+    {
+        "CaseA": "Nhạc rừng ",
+        "CaseB": "Hành quân ca ",
+        "CaseC": "Lên đàng ",
+        "CaseD": "Đường chúng ta đi",
+        "Question": "Nhạc sĩ Huy Du là tác giả bài hát nào?",
+        "TrueCase": 4,
+        "_id": 280
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Australia ",
+        "CaseD": "Áo ",
+        "Question": "Quốc gia nào có hàng rào thép được ghi vào sách kỉ lục thế giới?",
+        "TrueCase": 3,
+        "_id": 281
+    },
+    {
+        "CaseA": "Đồng Tháp Mười ",
+        "CaseB": "Đồng bằng sông Cửu Long ",
+        "CaseC": "Tây Nguyên ",
+        "CaseD": "Đông Nam Bộ ",
+        "Question": "Người Lục Tỉnh là từ dùng để gọi người dân ở đâu?",
+        "TrueCase": 2,
+        "_id": 282
+    },
+    {
+        "CaseA": "Trái đất ",
+        "CaseB": "Hoả tinh ",
+        "CaseC": "Thuỷ tinh ",
+        "CaseD": "Kim tinh ",
+        "Question": "Hành tinh nào có chiều quay không cùng chiều với các hành tinh còn lại?",
+        "TrueCase": 4,
+        "_id": 283
+    },
+    {
+        "CaseA": "Scandinavia",
+        "CaseB": "Balkan",
+        "CaseC": "Iberia",
+        "CaseD": "Athos",
+        "Question": "Bán đảo nào nằm ở châu Âu không cho phép phụ nữ đặt chân tới?",
+        "TrueCase": 4,
+        "_id": 284
+    },
+    {
+        "CaseA": "1930 ",
+        "CaseB": "1950 ",
+        "CaseC": "1970 ",
+        "CaseD": "1980 ",
+        "Question": "Bạn cho biết thẻ vàng, thẻ đỏ được sử dụng lần đầu tiên tại World Cup vào năm nào?",
+        "TrueCase": 3,
+        "_id": 285
+    },
+    {
+        "CaseA": "Đông Bắc Bộ ",
+        "CaseB": "Đồng bằng sông Cửu Long ",
+        "CaseC": "Duyên hải miền Trung ",
+        "CaseD": "Đồng bằng sông Hồng ",
+        "Question": "Những đầm sen, những dòng sông lấp lánh trăng sao, những xóm thôn đồng xanh trải rộng câu hát trên nói về vùng đất nào?",
+        "TrueCase": 2,
+        "_id": 286
+    },
+    {
+        "CaseA": "8",
+        "CaseB": "10 ",
+        "CaseC": "12",
+        "CaseD": "14",
+        "Question": "Bóng đá Việt Nam chuyển lên chuyên nghiệp vào mùa bóng năm 2000  2001, lúc đó có bao nhiêu đội?",
+        "TrueCase": 2,
+        "_id": 287
+    },
+    {
+        "CaseA": "Marroc ",
+        "CaseB": "Tuynisia ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Senegal",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 15 là quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 288
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Brunei ",
+        "CaseD": "Indonesia",
+        "Question": "SEA  Games lần thứ 13 năm 1983, quốc gia nào đăng cai?",
+        "TrueCase": 2,
+        "_id": 289
+    },
+    {
+        "CaseA": "33",
+        "CaseB": "34",
+        "CaseC": "35",
+        "CaseD": "36",
+        "Question": "Trong Binh pháp Tôn Tử có bao nhiêu kế sách?",
+        "TrueCase": 4,
+        "_id": 290
+    },
+    {
+        "CaseA": "Brunei ",
+        "CaseB": "Philippines ",
+        "CaseC": "Singapore ",
+        "CaseD": "Malaysia ",
+        "Question": "Nước nào ở Đông Nam Á có tên từ một vị hoàng tử Tây Ban Nha?",
+        "TrueCase": 2,
+        "_id": 291
+    },
+    {
+        "CaseA": "New Dehli Ấn Độ ",
+        "CaseB": "Băng Cốc Thái Lan ",
+        "CaseC": "Pusan Hàn Quốc ",
+        "CaseD": "Doha Qatar",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1978?",
+        "TrueCase": 2,
+        "_id": 292
+    },
+    {
+        "CaseA": "Real Madrid ",
+        "CaseB": "Liverpool FC",
+        "CaseC": "Chelsea",
+        "CaseD": "Borussia Dormud",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1997?",
+        "TrueCase": 4,
+        "_id": 293
+    },
+    {
+        "CaseA": "Nottingham Forest FC",
+        "CaseB": "Liverpool FC",
+        "CaseC": "Aston Villa",
+        "CaseD": "Juventus",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1977?",
+        "TrueCase": 2,
+        "_id": 294
+    },
+    {
+        "CaseA": "SL Benfica ",
+        "CaseB": "Inter Milan ",
+        "CaseC": "AC Milan ",
+        "CaseD": "Real Madrid ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1957?",
+        "TrueCase": 4,
+        "_id": 295
+    },
+    {
+        "CaseA": "Lý",
+        "CaseB": "Trần ",
+        "CaseC": "Nguyễn ",
+        "CaseD": "Lê ",
+        "Question": "Chùa Một Cột được xây dựng dưới thời nào?",
+        "TrueCase": 1,
+        "_id": 296
+    },
+    {
+        "CaseA": "Vangoh",
+        "CaseB": "Leonardo de Vinci",
+        "CaseC": "Rafael",
+        "CaseD": "Picaso",
+        "Question": "Tên của danh hoạ nào được đặt cho phi trường quốc tế ở Roma  ?",
+        "TrueCase": 2,
+        "_id": 297
+    },
+    {
+        "CaseA": "Tháng 3",
+        "CaseB": "Tháng 4",
+        "CaseC": "Tháng 5",
+        "CaseD": "Tháng 6",
+        "Question": "Lễ hội té nước ở Myanmar diên ra vào tháng mấy trong năm?",
+        "TrueCase": 2,
+        "_id": 298
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Indonesia ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Nước nào có sản lượng khai thác than lớn nhất trong các nước sau đây?",
+        "TrueCase": 4,
+        "_id": 299
+    },
+    {
+        "CaseA": "Biển Chết ",
+        "CaseB": "Biển Đen ",
+        "CaseC": "Biển Đỏ ",
+        "CaseD": "Biển Măngsơ ",
+        "Question": "Biển nào sâu nhất thế giới?",
+        "TrueCase": 1,
+        "_id": 300
+    },
+    {
+        "CaseA": "Tiếng chuông ",
+        "CaseB": "Thờ cúng ",
+        "CaseC": "Nói dối ",
+        "CaseD": "Cầu nguyện ",
+        "Question": "Phong tục của người Nhật Bản không thể thiếu điều gì sau đây?",
+        "TrueCase": 1,
+        "_id": 301
+    },
+    {
+        "CaseA": "Sao kim ",
+        "CaseB": "Sao hoả ",
+        "CaseC": "Sao thuỷ ",
+        "CaseD": "Sao mộc ",
+        "Question": "Hành tinh nào được khẳng định là hành tinh nóng nhất trong hệ mặt trời?",
+        "TrueCase": 1,
+        "_id": 302
+    },
+    {
+        "CaseA": "Greenwich Anh",
+        "CaseB": "Đại Tây Dương ",
+        "CaseC": "Ghana ",
+        "CaseD": "Hawaii ",
+        "Question": "Nếu bạn đang ở vĩ độ 0, kinh độ 0, bạn đang ở đâu?",
+        "TrueCase": 2,
+        "_id": 303
+    },
+    {
+        "CaseA": "Cờ trắng ",
+        "CaseB": "Cờ đỏ ",
+        "CaseC": "Cờ đen ",
+        "CaseD": "Cờ vàng ",
+        "Question": "Loại cờ hiệu nào trong thể loại đua xe công thức 1 báo hiệu xe bị loại khỏi cuộc đua và phải trở về pit ngay tức khắc?",
+        "TrueCase": 3,
+        "_id": 304
+    },
+    {
+        "CaseA": "Quân Chămpa",
+        "CaseB": "Quân Nam Hán ",
+        "CaseC": "Quân Nguyên ",
+        "CaseD": "Quân Mông ",
+        "Question": "Năm 938, Ngô Quyền đánh tan quân?",
+        "TrueCase": 2,
+        "_id": 305
+    },
+    {
+        "CaseA": "Pelé ",
+        "CaseB": "Maradona ",
+        "CaseC": "Lucien Laurent ",
+        "CaseD": "Norman ",
+        "Question": "Nhắc đến Quà tặng của Thượng đế, người ta nhớ đến cầu thủ nào?",
+        "TrueCase": 2,
+        "_id": 306
+    },
+    {
+        "CaseA": "Algieria ",
+        "CaseB": "Marroc ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Ghana",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 16 là quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 307
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Myanmar ",
+        "CaseC": "Malaysia ",
+        "CaseD": "Lào ",
+        "Question": "SEA  Games lần thứ 14 năm 1985, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 308
+    },
+    {
+        "CaseA": "Nguyễn Thị Tĩnh ",
+        "CaseB": "Nguyễn Thị Lan ",
+        "CaseC": "Đoàn Nữ Trúc Vân ",
+        "CaseD": "Phạm Đình Khánh Đoàn ",
+        "Question": "Vận động viên điền kinh nào lập được 1 hardtrick huy chương vàng cho mình tại kỳ SEA Games 22?",
+        "TrueCase": 1,
+        "_id": 309
+    },
+    {
+        "CaseA": "Thợ lặn ",
+        "CaseB": "Cảnh sát ",
+        "CaseC": "Thợ lặn cá sấu ",
+        "CaseD": "Nhà du hành vũ trụ ",
+        "Question": "Nghề nghiệp được coi là nguy hiểm nhất?",
+        "TrueCase": 4,
+        "_id": 310
+    },
+    {
+        "CaseA": "Hiroshima Nhật Bản ",
+        "CaseB": "Pusan Hàn Quốc ",
+        "CaseC": "Tehran Iran ",
+        "CaseD": "Doha Qatar",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1974?",
+        "TrueCase": 3,
+        "_id": 311
+    },
+    {
+        "CaseA": "FC Porto",
+        "CaseB": "Juventus ",
+        "CaseC": "AC Milan ",
+        "CaseD": "Barcelona",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1996?",
+        "TrueCase": 2,
+        "_id": 312
+    },
+    {
+        "CaseA": "Juventus ",
+        "CaseB": "Bayern Munich",
+        "CaseC": "Manchester United",
+        "CaseD": "Celtic FC",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1976?",
+        "TrueCase": 2,
+        "_id": 313
+    },
+    {
+        "CaseA": "Real Madrid",
+        "CaseB": "Manchester United ",
+        "CaseC": "Arsenal ",
+        "CaseD": "SL Benfica ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1956?",
+        "TrueCase": 1,
+        "_id": 314
+    },
+    {
+        "CaseA": "Nguyên Mông",
+        "CaseB": "Thanh ",
+        "CaseC": "Minh ",
+        "CaseD": "Nam Hán ",
+        "Question": "Năm 939, trên sông Bạch Đằng, Ngô Quyền đánh tan quân giặc nào?",
+        "TrueCase": 4,
+        "_id": 315
+    },
+    {
+        "CaseA": "30",
+        "CaseB": "31",
+        "CaseC": "32",
+        "CaseD": "33",
+        "Question": "Điền số tiếp theo vào dãy sau: 2, 3, 5, 9, 17,  ?",
+        "TrueCase": 4,
+        "_id": 316
+    },
+    {
+        "CaseA": "Lênin",
+        "CaseB": "Hồ Chí Minh ",
+        "CaseC": "Puskin ",
+        "CaseD": "M.Gorki ",
+        "Question": "Ai đã nói: ngôn ngữ là yếu tố đầu tiên của văn học?",
+        "TrueCase": 4,
+        "_id": 317
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Hàn Quốc ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Triều Tiên ",
+        "Question": "Nước có giá trị xuất khẩu vượt giá trị nhập khẩu cao nhất Đông Á là?",
+        "TrueCase": 3,
+        "_id": 318
+    },
+    {
+        "CaseA": "Pakistan",
+        "CaseB": "Israel",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Thổ Nhĩ Kỳ ",
+        "Question": "Biển Chết nằm ở quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 319
+    },
+    {
+        "CaseA": "Hắc Hải ",
+        "CaseB": "Biển Chết ",
+        "CaseC": "Địa Trung Hải ",
+        "CaseD": "Biển Arập ",
+        "Question": "Biển nào trên thế giới được mệnh danh là chiếc gương soi chung cho 3 châu lục?",
+        "TrueCase": 3,
+        "_id": 320
+    },
+    {
+        "CaseA": "Pháp ",
+        "CaseB": "Mỹ ",
+        "CaseC": "Đức ",
+        "CaseD": "Hà Lan ",
+        "Question": "Louis Pasteur là người nước nào?",
+        "TrueCase": 1,
+        "_id": 321
+    },
+    {
+        "CaseA": "Phương Tây ",
+        "CaseB": "Việt Nam ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Ấn Độ ",
+        "Question": "Thuật ngữ tôn giáo có nguồn gốc từ quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 322
+    },
+    {
+        "CaseA": "1890 ",
+        "CaseB": "1903 ",
+        "CaseC": "1918 ",
+        "CaseD": "1927 ",
+        "Question": "Tour de France tiếng Pháp  còn gọi là Grand Boucle là giải đua xe đạp nổi tiếng thế giới. Giải bắt đầu từ năm nào?",
+        "TrueCase": 2,
+        "_id": 323
+    },
+    {
+        "CaseA": "Bánh thuẩn ",
+        "CaseB": "Bánh bông lan ",
+        "CaseC": "Bánh tiêu ",
+        "CaseD": "Bánh kẹp ",
+        "Question": "Các loại bánh dưới đây, có một loại không là bánh nướng?",
+        "TrueCase": 3,
+        "_id": 324
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Hàn Quốc ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Ảrập Saudi ",
+        "Question": "Đội bóng châu Á nào lần đầu tiên vào đến bán kết của World Cup?",
+        "TrueCase": 2,
+        "_id": 325
+    },
+    {
+        "CaseA": "Algieria ",
+        "CaseB": "Nam Phi ",
+        "CaseC": "Trung Phi ",
+        "CaseD": "Madagasca ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 17 là quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 326
+    },
+    {
+        "CaseA": "Singapore ",
+        "CaseB": "Brunei ",
+        "CaseC": "Malaysia ",
+        "CaseD": "Thái Lan ",
+        "Question": "SEA  Games lần thứ 15 năm 1987, quốc gia nào đăng cai?",
+        "TrueCase": 3,
+        "_id": 327
+    },
+    {
+        "CaseA": "Bóng đá",
+        "CaseB": "Cầu lông ",
+        "CaseC": "Bida và Snooker ",
+        "CaseD": "Đấu kiếm ",
+        "Question": "Thái tử Brunei tham dự SEA Games 22 với tư cách là vận động viên của môn gì?",
+        "TrueCase": 3,
+        "_id": 328
+    },
+    {
+        "CaseA": "Cơ năng ",
+        "CaseB": "Hoá năng ",
+        "CaseC": "Năng lượng ánh sáng ",
+        "CaseD": "Nhiệt năng ",
+        "Question": "Định luật JunLenxơ cho biết điện năng biến đổi thành?",
+        "TrueCase": 4,
+        "_id": 329
+    },
+    {
+        "CaseA": "Tehran Iran",
+        "CaseB": "Bắc Kinh Trung Quốc ",
+        "CaseC": "Băng Cốc Thái Lan ",
+        "CaseD": "Pusan Hàn Quốc ",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1970?",
+        "TrueCase": 3,
+        "_id": 330
+    },
+    {
+        "CaseA": "Borussia Dormund ",
+        "CaseB": "Valencia FC",
+        "CaseC": "Ajax Amsterdam ",
+        "CaseD": "Real Madrid",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1995?",
+        "TrueCase": 3,
+        "_id": 331
+    },
+    {
+        "CaseA": " Liverpool FC",
+        "CaseB": "Ajax Amsterdam ",
+        "CaseC": "Bayern Munich ",
+        "CaseD": "Panatinaikos",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1975?",
+        "TrueCase": 3,
+        "_id": 332
+    },
+    {
+        "CaseA": "Thứ 2",
+        "CaseB": "Thứ 3",
+        "CaseC": "Thứ 4",
+        "CaseD": "Không qua vòng loại",
+        "Question": "Đội tuyển U16 Việt Nam đứng thứ mấy ở giải vô địch bóng đá U16 năm 2000 tại Đà Nẵng?",
+        "TrueCase": 3,
+        "_id": 333
+    },
+    {
+        "CaseA": "120",
+        "CaseB": "131",
+        "CaseC": "111",
+        "CaseD": "110",
+        "Question": "Sinh nhật của chúa GiêSu?",
+        "TrueCase": 3,
+        "_id": 334
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Pháp ",
+        "CaseC": "Brazil ",
+        "CaseD": "Mỹ ",
+        "Question": "World Cup 1994 được tổ chức ở đâu?",
+        "TrueCase": 4,
+        "_id": 335
+    },
+    {
+        "CaseA": "Nam Phi ",
+        "CaseB": "Mỹ ",
+        "CaseC": "Canada",
+        "CaseD": "Na Uy ",
+        "Question": "Người đầu tiên đặt chân lên Nam Cực là người nước nào?",
+        "TrueCase": 4,
+        "_id": 336
+    },
+    {
+        "CaseA": "Chế tạo ô tô, tàu biển ",
+        "CaseB": "Năng lượng ",
+        "CaseC": "Điện tử ",
+        "CaseD": "Hàng tiêu dùng ",
+        "Question": "Ngành công nghiệp nào của Nhật Bản không phải là ngành đứng đầu thế giới?",
+        "TrueCase": 2,
+        "_id": 337
+    },
+    {
+        "CaseA": "Massachuset",
+        "CaseB": "Filadenfia",
+        "CaseC": "Texas",
+        "CaseD": "Alska",
+        "Question": "Bang nào của Hoa Kỳ được mua lại của ngước Nga thời Nga Hoàng?",
+        "TrueCase": 4,
+        "_id": 338
+    },
+    {
+        "CaseA": "Đại Tây Dương ",
+        "CaseB": "Ấn Độ Dương ",
+        "CaseC": "Thái Bình Dương ",
+        "CaseD": "Bắc Băng Dương ",
+        "Question": "Địa Trung Hải là một phần của?",
+        "TrueCase": 1,
+        "_id": 339
+    },
+    {
+        "CaseA": "Toyoda Kiichiro",
+        "CaseB": "Henry Ford",
+        "CaseC": "Soichiro Honda",
+        "CaseD": "Chung Juyung",
+        "Question": "Ông là người sáng lập ra hãng ô tô nổi tiếng, tuy nhiên ông còn được biết đến là một thợ sửa đồng hồ rất giỏi, ông là ai?",
+        "TrueCase": 2,
+        "_id": 340
+    },
+    {
+        "CaseA": "Việt Nam",
+        "CaseB": "Lào ",
+        "CaseC": "Indonesia ",
+        "CaseD": "Campuchia ",
+        "Question": "Ở Đông Nam Á, Đảng Cộng sản được thành lập đầu tiên tại nước nào?",
+        "TrueCase": 1,
+        "_id": 341
+    },
+    {
+        "CaseA": "Rivaldo ",
+        "CaseB": "Romario ",
+        "CaseC": "Zidane ",
+        "CaseD": "Thierry Henry ",
+        "Question": "Cầu thủ có biệt hiệu chiếc chân trái ma thuật là cầu thủ nào?",
+        "TrueCase": 1,
+        "_id": 342
+    },
+    {
+        "CaseA": "10 mét ",
+        "CaseB": "11 mét ",
+        "CaseC": "16.5 mét ",
+        "CaseD": "6 mét ",
+        "Question": "Điểm phạt đền trong môn bóng ném cách khung thành bao nhiêu mét?",
+        "TrueCase": 4,
+        "_id": 343
+    },
+    {
+        "CaseA": "1957 ",
+        "CaseB": "1959 ",
+        "CaseC": "1962",
+        "CaseD": "1963",
+        "Question": "Vòng chung kết cúp bóng đá châu Phi lần thứ nhất diễn ra vào năm nào?",
+        "TrueCase": 1,
+        "_id": 344
+    },
+    {
+        "CaseA": "Nam Phi ",
+        "CaseB": "Burkina Faso ",
+        "CaseC": "Senegal ",
+        "CaseD": "Trung Phi ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 18 là quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 345
+    },
+    {
+        "CaseA": "Philippines ",
+        "CaseB": "Singapore ",
+        "CaseC": "Myanmar ",
+        "CaseD": "Việt Nam ",
+        "Question": "SEA  Games lần thứ 16 năm 1989, quốc gia nào đăng cai?",
+        "TrueCase": 1,
+        "_id": 346
+    },
+    {
+        "CaseA": "Lý Nam Đế ",
+        "CaseB": "Mai Thúc Loan ",
+        "CaseC": "Le Hoàng ",
+        "CaseD": "Ngô Hoàng ",
+        "Question": "Vị vua nào có biệt danh là Vua Đen?",
+        "TrueCase": 2,
+        "_id": 347
+    },
+    {
+        "CaseA": "Bỗng dưng muốn khóc ",
+        "CaseB": "Đẹp từng centimét",
+        "CaseC": "Hàn mặc tử ",
+        "CaseD": "Mộng phù du ",
+        "Question": "Bộ phim nào dưới đây mà diễn viên Tăng Thanh Hà không đóng vai chính?",
+        "TrueCase": 4,
+        "_id": 348
+    },
+    {
+        "CaseA": "Quảng Châu Trung Quốc ",
+        "CaseB": "Incheon Hàn Quốc ",
+        "CaseC": "Doha Qatar",
+        "CaseD": "Băng Cốc Thái Lan",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1966?",
+        "TrueCase": 4,
+        "_id": 349
+    },
+    {
+        "CaseA": "Manchester United ",
+        "CaseB": "Bayer Leverkusen ",
+        "CaseC": "AC Milan ",
+        "CaseD": "Inter Milan ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1994?",
+        "TrueCase": 3,
+        "_id": 350
+    },
+    {
+        "CaseA": "Bayern Munich",
+        "CaseB": "Real Madrid ",
+        "CaseC": "Olympic Lion ",
+        "CaseD": "Hamburger SV",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1974?",
+        "TrueCase": 1,
+        "_id": 351
+    },
+    {
+        "CaseA": "1959",
+        "CaseB": "1960 ",
+        "CaseC": "1961",
+        "CaseD": "1962",
+        "Question": "Liên đoàn bóng đá Việt Nam thành lập vào năm nào?",
+        "TrueCase": 3,
+        "_id": 352
+    },
+    {
+        "CaseA": "Nhiệt kế ",
+        "CaseB": "Gia tốc kế ",
+        "CaseC": "Khí áp kế ",
+        "CaseD": "La bàn ",
+        "Question": "Để đo chiều cao của 1 ngọn núi, người ta dùng dụng cụ gì?",
+        "TrueCase": 3,
+        "_id": 353
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6",
+        "Question": "Điền tiếp vào dãy số sau: 1, 8, 5, 2, 9, 6,?",
+        "TrueCase": 1,
+        "_id": 354
+    },
+    {
+        "CaseA": "Bỉ ",
+        "CaseB": "Áo ",
+        "CaseC": "Nga ",
+        "CaseD": "Thuỵ Điển",
+        "Question": "Quốc gia nào có người phát minh ra diêm đầu tiên?",
+        "TrueCase": 4,
+        "_id": 355
+    },
+    {
+        "CaseA": "Đậu tương ",
+        "CaseB": "Bong ",
+        "CaseC": "Dâu tằm ",
+        "CaseD": "Thuốc lá ",
+        "Question": "Loại cây công nghiệp hằng năm nào trong các loại cây đưới đây được trồng nhiều ở vùng Trung du và miền núi Bắc Bộ?",
+        "TrueCase": 1,
+        "_id": 356
+    },
+    {
+        "CaseA": "Phản xạ 1 phần ",
+        "CaseB": "Phản xạ toàn phần ",
+        "CaseC": "Khúc xạ 1 phần ",
+        "CaseD": "Khúc xạ toàn phần ",
+        "Question": "Ảo ảnh trên sa mạc là do hiện tượng nào dưới đây?",
+        "TrueCase": 2,
+        "_id": 357
+    },
+    {
+        "CaseA": "Guinea Xích đạo ",
+        "CaseB": "Gabon ",
+        "CaseC": "Gambia ",
+        "CaseD": "Ghana",
+        "Question": "Malabo là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 358
+    },
+    {
+        "CaseA": "Giấy ",
+        "CaseB": "Điện thoại ",
+        "CaseC": "Cao su ",
+        "CaseD": "Hoá chất ",
+        "Question": "Những ngày đầu thành lập, Nokia  hãng điện thoại di động lớn nhất thế giới ngày nay  là một công ty chuyên sản xuất mặt hàng gì?",
+        "TrueCase": 4,
+        "_id": 359
+    },
+    {
+        "CaseA": "Trần Quốc Tuấn ",
+        "CaseB": "Nguyễn Trãi ",
+        "CaseC": "Trương Hán Siêu ",
+        "CaseD": "Lý Thường Kiệt ",
+        "Question": "Ai là tác giả của tác phẩm Bạch Đằng giang phú, một tác phẩm thể hiện niềm tự hào dân tộc?",
+        "TrueCase": 3,
+        "_id": 360
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Nga ",
+        "CaseC": "Tây Ban Nha ",
+        "CaseD": " ",
+        "Question": "Người thủ môn duy nhất trong lịch sử bóng đá từng giành quả bóng vàng châu Âu là người nước?",
+        "TrueCase": 2,
+        "_id": 361
+    },
+    {
+        "CaseA": "Mạc Đĩnh Chi ",
+        "CaseB": "Trạng Quỳnh ",
+        "CaseC": "Lê Quý Đôn ",
+        "CaseD": "Thằng Bờm ",
+        "Question": "Bài thơ 'Rắn đầu biếng học' do ai sáng tác?",
+        "TrueCase": 3,
+        "_id": 362
+    },
+    {
+        "CaseA": "1957 ",
+        "CaseB": "1959 ",
+        "CaseC": "1962",
+        "CaseD": "1963",
+        "Question": "Vòng chung kết cúp bóng đá châu Phi lần thứ hai diễn ra vào năm nào?",
+        "TrueCase": 2,
+        "_id": 363
+    },
+    {
+        "CaseA": "Senegal ",
+        "CaseB": "Algieria ",
+        "CaseC": "Ghana",
+        "CaseD": "Tuynisia ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 19 là quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 364
+    },
+    {
+        "CaseA": "Việt Nam ",
+        "CaseB": "Lào ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Singapore ",
+        "Question": "SEA  Games lần thứ 17 năm 1993, quốc gia nào đăng cai?",
+        "TrueCase": 4,
+        "_id": 365
+    },
+    {
+        "CaseA": "Van Basten ",
+        "CaseB": "Papin ",
+        "CaseC": "Rummenigge",
+        "CaseD": "Plantini",
+        "Question": "Cầu thủ nào đã từng được nhận giải thưởng quả bóng vàng châu Âu 3 năm liên tiếp?",
+        "TrueCase": 4,
+        "_id": 366
+    },
+    {
+        "CaseA": "Năng lượng ",
+        "CaseB": "Luyện kim ",
+        "CaseC": "Cơ khí ",
+        "CaseD": "Điện tử  Tin học ",
+        "Question": "Ngành được xem là thước đo trình độ phát triển kinh tế  kỹ thuật của mọi quốc gia trên thế giới là ngành công nghiệp nào trong các ngành sau?",
+        "TrueCase": 4,
+        "_id": 367
+    },
+    {
+        "CaseA": "Băng Cốc Thái Lan",
+        "CaseB": "Băng Cốc Trung Quốc ",
+        "CaseC": "Tokyo Nhật Bản",
+        "CaseD": "Jakarta Indonesia",
+        "Question": "Thành phố nào đăng cai Á vận hội ASIAD năm 1962?",
+        "TrueCase": 4,
+        "_id": 368
+    },
+    {
+        "CaseA": "Juventus ",
+        "CaseB": "Olympique de Marseille",
+        "CaseC": "Real Madrid ",
+        "CaseD": "Beyer Munich",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1993?",
+        "TrueCase": 2,
+        "_id": 369
+    },
+    {
+        "CaseA": "Aston Villa",
+        "CaseB": "AC Milan ",
+        "CaseC": "Club Brugge",
+        "CaseD": "Ajax Amsterdam ",
+        "Question": "Câu lạc bộ nào vô địch cúp C1 châu Âu UEFA Champions League năm 1973?",
+        "TrueCase": 4,
+        "_id": 370
+    },
+    {
+        "CaseA": "1963",
+        "CaseB": "1964",
+        "CaseC": "1965 ",
+        "CaseD": "1966",
+        "Question": "Bóng đá Việt Nam gia nhập liên đoàn bóng đá châu Á AFC vào năm nào?",
+        "TrueCase": 2,
+        "_id": 371
+    },
+    {
+        "CaseA": "1 loại  bệnh ",
+        "CaseB": "1 loại thuốc ",
+        "CaseC": "1 loại cây ",
+        "CaseD": "1 loại vật ",
+        "Question": "Vacxin theo tiếng La Tinh có ý nghĩa về điều gì?",
+        "TrueCase": 1,
+        "_id": 372
+    },
+    {
+        "CaseA": "Tinh bột ",
+        "CaseB": "Glucozo",
+        "CaseC": "Xenlulozo",
+        "CaseD": "Saccarozo",
+        "Question": "Trong bong có chứa tới 98 chất gì?",
+        "TrueCase": 3,
+        "_id": 373
+    },
+    {
+        "CaseA": "Đỗ Nhuận ",
+        "CaseB": "Hoàng Nhuận ",
+        "CaseC": "Hoàng Việt ",
+        "CaseD": "Hoàng Long  Hoàng Lân ",
+        "Question": "Bản giao hưởng đầu tiên của Việt Nam do nhạc sĩ nào sáng tác?",
+        "TrueCase": 3,
+        "_id": 374
+    },
+    {
+        "CaseA": "Cà phê ",
+        "CaseB": "Hồi ",
+        "CaseC": "Cao su ",
+        "CaseD": "Điều ",
+        "Question": "Cây công nghiệp lâu năm nào dưới đây chỉ trồng được ở Trung du và miền núi Bắc Bộ mà không trồng được ở Tây Nguyên?",
+        "TrueCase": 2,
+        "_id": 375
+    },
+    {
+        "CaseA": "Cấp 3 ",
+        "CaseB": "Cấp 5 ",
+        "CaseC": "Cấp 8 ",
+        "CaseD": "Cấp 10 ",
+        "Question": "Gió từ cấp mấy trở lên được gọi là gió bão?",
+        "TrueCase": 3,
+        "_id": 376
+    },
+    {
+        "CaseA": "Ethiopia",
+        "CaseB": "El Salvador",
+        "CaseC": "Estonia",
+        "CaseD": "Fiji",
+        "Question": "Talinn là thủ đô nước nào?",
+        "TrueCase": 3,
+        "_id": 377
+    },
+    {
+        "CaseA": "Bill Gates",
+        "CaseB": "Trương Trọng Thi ",
+        "CaseC": "Edsger Wybe Dijkstra",
+        "CaseD": "Alan Mathison Turing",
+        "Question": " Cha đẻ của máy vi tính là ai?",
+        "TrueCase": 2,
+        "_id": 378
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Canada",
+        "CaseC": " Venezuela ",
+        "CaseD": "Philippines ",
+        "Question": "Người nước nào đón năm mới bằng cách xách một chiếc vali đi quanh nhà?",
+        "TrueCase": 3,
+        "_id": 379
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Indonesia ",
+        "Question": "Tượng Phật bằng đá cao nhất thế giới nằm ở đâu?",
+        "TrueCase": 2,
+        "_id": 380
+    },
+    {
+        "CaseA": "Lý An Thuận ",
+        "CaseB": "Đào Thiên Hải ",
+        "CaseC": "Nguyễn Gia Bảo ",
+        "CaseD": "Trần Đại Thắng ",
+        "Question": "Kỳ thủ cờ vua nào ở Việt Nam được phong là đại kiện tướng quốc tế?",
+        "TrueCase": 2,
+        "_id": 381
+    },
+    {
+        "CaseA": "1957 ",
+        "CaseB": "1959",
+        "CaseC": "1963",
+        "CaseD": "1962",
+        "Question": "Vòng chung kết cúp bóng đá châu Phi lần thứ 3 diễn ra vào năm nào?",
+        "TrueCase": 4,
+        "_id": 382
+    },
+    {
+        "CaseA": "Algieria ",
+        "CaseB": "Cameroon ",
+        "CaseC": "Bờ Biển Ngà ",
+        "CaseD": "Nam Phi ",
+        "Question": "Chủ nhà vòng chung kết cúp bóng đá châu Phi lần thứ 20 là quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 383
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Myanmar ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Việt Nam ",
+        "Question": "SEA  Games lần thứ 18 năm 1995, quốc gia nào đăng cai?",
+        "TrueCase": 3,
+        "_id": 384
+    },
+    {
+        "CaseA": "Ánh sáng khuếch đại ",
+        "CaseB": "Tia lửa điện",
+        "CaseC": "Âm thanh bị nén ",
+        "CaseD": "Khí Heli bị cháy",
+        "Question": "Tia Laser là một dạng gì trong các dạng sau?",
+        "TrueCase": 1,
+        "_id": 385
+    },
+    {
+        "CaseA": "14.000 loài ",
+        "CaseB": "14.600 loài ",
+        "CaseC": "15.500 loài ",
+        "CaseD": "15.000 loài ",
+        "Question": "Nước ta có khoảng bao nhiêu loài thực vật?",
+        "TrueCase": 2,
+        "_id": 386
+    }
+]

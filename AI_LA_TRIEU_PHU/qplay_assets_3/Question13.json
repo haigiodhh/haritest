@@ -1,0 +1,1550 @@
+[
+    {
+        "CaseA": "Sân Khấu Điện Ảnh",
+        "CaseB": "Điện tử Viễn Thông",
+        "CaseC": "Công Nghệ Thông Tin",
+        "CaseD": "Kinh tế Quản lý",
+        "Question": "Imagine Cup là cuộc thi dành cho Sinh viên về lĩnh vực gì?",
+        "TrueCase": 3,
+        "_id": 1
+    },
+    {
+        "CaseA": "Đan mạch",
+        "CaseB": "Nauy",
+        "CaseC": "Thụy Điển",
+        "CaseD": "Phần Lan",
+        "Question": "Đất nước nào là quê hương của ông già Tuyết?",
+        "TrueCase": 4,
+        "_id": 2
+    },
+    {
+        "CaseA": "1925",
+        "CaseB": "1926",
+        "CaseC": "1928",
+        "CaseD": "1932",
+        "Question": "Nhân vật chuột Mickey của Watl Disney được tạo ra vào năm nào?",
+        "TrueCase": 3,
+        "_id": 3
+    },
+    {
+        "CaseA": "Tinh bột ",
+        "CaseB": "Gluco",
+        "CaseC": "Sacarozo",
+        "CaseD": "Cacbonhydrat",
+        "Question": "Hợp chất nào sau đây bao hàm các thuật ngữ còn lại?",
+        "TrueCase": 4,
+        "_id": 4
+    },
+    {
+        "CaseA": "2 tế bào ",
+        "CaseB": "4 tế bào",
+        "CaseC": "6 tế bào ",
+        "CaseD": "8 tế bào ",
+        "Question": "Quan sát 1 hợp tử của 1 loài động vật đang thực hiện nguyên phân, cho biết số tế bào có ở kỳ sau của lần nguyên phân thứ ba?",
+        "TrueCase": 2,
+        "_id": 5
+    },
+    {
+        "CaseA": "Tiếng Đức ",
+        "CaseB": "Tiếng Hy Lạp ",
+        "CaseC": "Tiếng Tây Ban Nha ",
+        "CaseD": "Tiếng Bồ Đào Nha",
+        "Question": "Tiếng Anh và tiếng Pháp có nguồn gốc từ?",
+        "TrueCase": 1,
+        "_id": 6
+    },
+    {
+        "CaseA": "Hồng Phát",
+        "CaseB": "Lê Trưởng ",
+        "CaseC": "Trần Quyền ",
+        "CaseD": "Bùi Bình",
+        "Question": "Tên thứ trưởng bộ giáo dục và cũng là một thiếu tướng trong kháng chiến chống Mỹ?",
+        "TrueCase": 1,
+        "_id": 7
+    },
+    {
+        "CaseA": "Thăng trầm ",
+        "CaseB": "Êm dịu ",
+        "CaseC": "Lặng lẽ ",
+        "CaseD": "Du dương ",
+        "Question": "Piano tiếng  có nghĩa là gì?",
+        "TrueCase": 2,
+        "_id": 8
+    },
+    {
+        "CaseA": "George H. W. Bush",
+        "CaseB": "Ronald Reagan",
+        "CaseC": "Richard Nixon",
+        "CaseD": "John F. Kennedy",
+        "Question": "Tổng thống nào từng là một phi công hải quân được tặng thưởng huy chương?",
+        "TrueCase": 1,
+        "_id": 9
+    },
+    {
+        "CaseA": "Pháp ",
+        "CaseB": "Anh ",
+        "CaseC": "Đức ",
+        "CaseD": "Mexico ",
+        "Question": "Ngày 18/3/1967, tàu Torrey Canyon-chiếc tàu chở dầu bị chìm gần đảo Scilly thuộc địa phận quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 10
+    },
+    {
+        "CaseA": "4000Km ",
+        "CaseB": "4200Km",
+        "CaseC": "5800Km",
+        "CaseD": "4500Km",
+        "Question": "Sông Mêkông dài khoảng bao nhiêu km?",
+        "TrueCase": 2,
+        "_id": 11
+    },
+    {
+        "CaseA": "Phan Huỳnh Điểu ",
+        "CaseB": "Đỗ Nhuận ",
+        "CaseC": "Huỳnh Thơ ",
+        "CaseD": "Thế Song ",
+        "Question": "Những ánh sao đêm là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 1,
+        "_id": 12
+    },
+    {
+        "CaseA": "Axit béo ",
+        "CaseB": "Đường đơn ",
+        "CaseC": "Đường đôi ",
+        "CaseD": "Đường đa",
+        "Question": "Đường Fructozo là gì?",
+        "TrueCase": 2,
+        "_id": 13
+    },
+    {
+        "CaseA": "2 tế bào ",
+        "CaseB": "4 tế bào",
+        "CaseC": "6 tế bào",
+        "CaseD": "8 tế bào ",
+        "Question": "Nguyên phân, cho biết số tế bào có ở kỳ sau của lần nguyên phân thứ ba?",
+        "TrueCase": 2,
+        "_id": 14
+    },
+    {
+        "CaseA": "Vật chất ",
+        "CaseB": "ý thức ",
+        "CaseC": "Cả hai 1 lúc ",
+        "CaseD": "Không xác định được ",
+        "Question": "VẬT CHẤT và Ý THỨC, theo quan điểm duy tâm, cái nào có trước?",
+        "TrueCase": 2,
+        "_id": 15
+    },
+    {
+        "CaseA": "Phạm Hồng Thái ",
+        "CaseB": "Phạm Văn Đồng ",
+        "CaseC": "Hồ Tùng Mậu ",
+        "CaseD": "Tôn Đức Thắng ",
+        "Question": " Ai là người giả dạng phóng viên để mưu sát Toàn quyền Đông Dương?",
+        "TrueCase": 1,
+        "_id": 16
+    },
+    {
+        "CaseA": "1554 ",
+        "CaseB": "1994 ",
+        "CaseC": "1954",
+        "CaseD": "1945 ",
+        "Question": "Phở được mang vào miền Nam, cụ thể ở Sài Gòn vào năm nào?",
+        "TrueCase": 3,
+        "_id": 17
+    },
+    {
+        "CaseA": "10",
+        "CaseB": "12",
+        "CaseC": "14",
+        "CaseD": "16 ",
+        "Question": "Sự tích Trầu cau theo truyền thuyết đã xảy ra vào đời vua Hùng thứ bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 18
+    },
+    {
+        "CaseA": "1996 ",
+        "CaseB": "1946 ",
+        "CaseC": "1952",
+        "CaseD": "1899 ",
+        "Question": "Vụ nhiễm độc thuỷ ngân ở vịnh Minamata Nhật do nước thải xảy ra vào năm nào?",
+        "TrueCase": 3,
+        "_id": 19
+    },
+    {
+        "CaseA": "1991",
+        "CaseB": "1992",
+        "CaseC": "1993",
+        "CaseD": "1994",
+        "Question": "Loài Sao La được phát hiện tại Việt Nam vào năm nào?",
+        "TrueCase": 3,
+        "_id": 20
+    },
+    {
+        "CaseA": "Đỗ Nhuận ",
+        "CaseB": "Xuân  Hồng ",
+        "CaseC": "Ánh Dương ",
+        "CaseD": "Lư Nhất Vũ ",
+        "Question": "Xuân chiến khu là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 2,
+        "_id": 21
+    },
+    {
+        "CaseA": "Lipit",
+        "CaseB": "Muối Cacbonat",
+        "CaseC": "Đường Gluco",
+        "CaseD": "Protein ",
+        "Question": "Hợp chất nào sau đây không phải là chất hữu cơ?",
+        "TrueCase": 2,
+        "_id": 22
+    },
+    {
+        "CaseA": "Tích luỹ thông tin di truyền ",
+        "CaseB": "Tự đổi mới ",
+        "CaseC": "Tự sao chép",
+        "CaseD": "Tự điều chỉnh",
+        "Question": "Dấu hiệu nào là cơ sở cho sự tiến hoá của sinh vật?",
+        "TrueCase": 1,
+        "_id": 23
+    },
+    {
+        "CaseA": "Đà Nẵng ",
+        "CaseB": "Buôn Mê Thuột ",
+        "CaseC": "Sài Gòn ",
+        "CaseD": "Điện Biên Phủ ",
+        "Question": "Lần đầu tiên nước ta dùng quả bộc phá gồm 1000kg thuốc nổ để đánh giặc ở đâu?",
+        "TrueCase": 4,
+        "_id": 24
+    },
+    {
+        "CaseA": "Tế bào ",
+        "CaseB": "Hệ sinh thái ",
+        "CaseC": "Quần xã",
+        "CaseD": "Quần thể ",
+        "Question": "Đơn vị đầu tiên của cơ sở tiến hoá?",
+        "TrueCase": 4,
+        "_id": 25
+    },
+    {
+        "CaseA": "5000 năm ",
+        "CaseB": "4000 năm ",
+        "CaseC": "3000 năm ",
+        "CaseD": "2000 năm ",
+        "Question": "Cờ vây là loại cờ cổ, được chơi cách đây khoảng bao nhiêu năm?",
+        "TrueCase": 2,
+        "_id": 26
+    },
+    {
+        "CaseA": "Số Đỏ ",
+        "CaseB": "Tố Tâm",
+        "CaseC": "Bỉ Vỏ ",
+        "CaseD": "Đáp án khác",
+        "Question": "Lần đầu tiên trong lịch sử Việt Nam, tác phẩm nào đã thay thế lối kết cấu chương hồi bằng kết cấu theo quy luật tâm lý?",
+        "TrueCase": 2,
+        "_id": 27
+    },
+    {
+        "CaseA": "1869 ",
+        "CaseB": "1870 ",
+        "CaseC": "1871",
+        "CaseD": "1872",
+        "Question": "Nhà sinh vật học người Đức Ernst Haeckel đã đề xuất thuật ngữ Ecology vào năm nào?",
+        "TrueCase": 1,
+        "_id": 28
+    },
+    {
+        "CaseA": "Kandahar",
+        "CaseB": "Nedaher",
+        "CaseC": "Istanbul",
+        "CaseD": "Aflirea",
+        "Question": "Trụ sở đầu não của Taliban đặt ở đâu?",
+        "TrueCase": 1,
+        "_id": 29
+    },
+    {
+        "CaseA": "Xuân Hồng ",
+        "CaseB": "Lư Nhất Vũ ",
+        "CaseC": "Ánh Dương ",
+        "CaseD": "Thuận Yến",
+        "Question": "Tiếng chày trên Sóc Bombo là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 1,
+        "_id": 30
+    },
+    {
+        "CaseA": "Phân đôi ",
+        "CaseB": "Nẩy chồi",
+        "CaseC": "Bảo tử vô tính ",
+        "CaseD": "Bảo tử hữu tính ",
+        "Question": "Hình thức sinh sản nào không có ở nấm?",
+        "TrueCase": 4,
+        "_id": 31
+    },
+    {
+        "CaseA": "Protein ",
+        "CaseB": "Axit nucleic",
+        "CaseC": "Cacbohydrat ",
+        "CaseD": "Protein và Axit nucleic",
+        "Question": "Cơ sở vật chất chủ yếu của sự sống là gì?",
+        "TrueCase": 4,
+        "_id": 32
+    },
+    {
+        "CaseA": "Mạc Đĩnh Chi",
+        "CaseB": "Hồ Nguyên Trừng",
+        "CaseC": "Nguyễn Trãi",
+        "CaseD": "Trần Nhật Duật ",
+        "Question": "Ai là người đầu tiên chế tạo súng đại bác cho dân tộc ta?",
+        "TrueCase": 2,
+        "_id": 33
+    },
+    {
+        "CaseA": "Quang Trung ",
+        "CaseB": "Lý Chiêu Hoàng ",
+        "CaseC": "Hàm Nghi ",
+        "CaseD": "Bảo Đại ",
+        "Question": "Linh Từ Quốc Mẫu là mẹ của vị vua nào nước ta?",
+        "TrueCase": 2,
+        "_id": 34
+    },
+    {
+        "CaseA": "Ralph Bear",
+        "CaseB": "Bill Gates",
+        "CaseC": "Paul Allen",
+        "CaseD": "Michael Dell",
+        "Question": "Bạn cho biết cha đẻ của trò chơi điện tử - một loại trò chơi rất phổ biến hiện nay?",
+        "TrueCase": 1,
+        "_id": 35
+    },
+    {
+        "CaseA": "Đền thờ ",
+        "CaseB": "Lăng mộ ",
+        "CaseC": "Tháp canh ",
+        "CaseD": "Cung điện ",
+        "Question": "Taj Mahal ở Ấn Độ là?",
+        "TrueCase": 2,
+        "_id": 36
+    },
+    {
+        "CaseA": "Tp. Hồ Chí Minh ",
+        "CaseB": "Đồng Nai ",
+        "CaseC": "Tây Ninh ",
+        "CaseD": "Bình Thuận ",
+        "Question": "Đường sắt Bắc  Nam không đi qua tỉnh nào trong các tỉnh nào sau đây?",
+        "TrueCase": 3,
+        "_id": 37
+    },
+    {
+        "CaseA": "12",
+        "CaseB": "13",
+        "CaseC": "14",
+        "CaseD": "15 ",
+        "Question": "Theo Hiến pháp Việt Nam, chủ tịch nước có bao nhiêu quyền hạn?",
+        "TrueCase": 1,
+        "_id": 38
+    },
+    {
+        "CaseA": "21/03",
+        "CaseB": "22/06",
+        "CaseC": "23/09",
+        "CaseD": "22/12",
+        "Question": "Bán cầu Bắc sẽ nhận được nhiều nhiệt nhất vào ngày nào?",
+        "TrueCase": 2,
+        "_id": 39
+    },
+    {
+        "CaseA": "Phân đôi ",
+        "CaseB": "Nẩy chồi",
+        "CaseC": "Bảo tử vô tính ",
+        "CaseD": "Bảo tử hữu tính ",
+        "Question": "Hình thức sinh sản nào không có ở vi khuẩn?",
+        "TrueCase": 4,
+        "_id": 40
+    },
+    {
+        "CaseA": "Đại phân tử ",
+        "CaseB": "Xoắn trong không gian ",
+        "CaseC": "Theo nguyên tắc đa phân ",
+        "CaseD": "Theo nguyên tắc bổ sung ",
+        "Question": "Câu trúc làm cho protein tuy đa dạng nhưng rất đặc thù là cấu trúc gì?",
+        "TrueCase": 3,
+        "_id": 41
+    },
+    {
+        "CaseA": "6",
+        "CaseB": "17",
+        "CaseC": "38",
+        "CaseD": "59 ",
+        "Question": "Năm châu Phi 1960, có bao nhiêu nước ở Châu Phi giành được độc lập dân tộc?",
+        "TrueCase": 2,
+        "_id": 42
+    },
+    {
+        "CaseA": "Bắt đầu hình thành ",
+        "CaseB": "Đang phát triển ",
+        "CaseC": "Phát triển đến đỉnh cao ",
+        "CaseD": "Suy yếu ",
+        "Question": "Nhà nước phong kiến tập quyền ở Việt Nam từ thế kỷ XVI đến thế kỷ XVIII ở thời kỳ nào?",
+        "TrueCase": 4,
+        "_id": 43
+    },
+    {
+        "CaseA": "Edward Jenner",
+        "CaseB": "Louis Pasteur",
+        "CaseC": "Hippocrates",
+        "CaseD": "Alexandre Yersin",
+        "Question": "Bạn cho biết ai tìm ra vắc xin chữa bệnh dại?",
+        "TrueCase": 2,
+        "_id": 44
+    },
+    {
+        "CaseA": "Lê Thái Tổ ",
+        "CaseB": "Lê Thánh Tông ",
+        "CaseC": "Lê Thái Tông ",
+        "CaseD": "Lê Nhân Tông ",
+        "Question": "Bộ luật Hồng Đức được xây dựng và ban hành dưới thời nào?",
+        "TrueCase": 2,
+        "_id": 45
+    },
+    {
+        "CaseA": "Ninh Thuận ",
+        "CaseB": "Bình Thuận ",
+        "CaseC": "Đồng Nai ",
+        "CaseD": "Lâm Đồng",
+        "Question": "Đường sắt Bắc  Nam không đi qua tỉnh nào trong các tỉnh nào sau đây?",
+        "TrueCase": 4,
+        "_id": 46
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "3",
+        "CaseC": "4",
+        "CaseD": "5",
+        "Question": "Hiệp định Chính phủ Pháp còn được gọi là nền Cộng hoà thứ mấy?",
+        "TrueCase": 4,
+        "_id": 47
+    },
+    {
+        "CaseA": "2103",
+        "CaseB": "2206",
+        "CaseC": "2309",
+        "CaseD": "2212",
+        "Question": "Ở vòng cực Nam, ngày duy nhất dài 24h là?",
+        "TrueCase": 4,
+        "_id": 48
+    },
+    {
+        "CaseA": "Lục lạp ",
+        "CaseB": "Ty thể ",
+        "CaseC": "Bộ máy golgy ",
+        "CaseD": "Lưới nội chất",
+        "Question": "Đóng gói, chế biến và phân phối sản phẩm là chức năng của?",
+        "TrueCase": 3,
+        "_id": 49
+    },
+    {
+        "CaseA": "Protein ",
+        "CaseB": "Axit nucleic",
+        "CaseC": "Gluxit",
+        "CaseD": "Lipit",
+        "Question": "Hợp chất đóng vai trò quan trọng nhất trong sinh sản và di truyền là?",
+        "TrueCase": 2,
+        "_id": 50
+    },
+    {
+        "CaseA": "1658",
+        "CaseB": "1831",
+        "CaseC": "1900",
+        "CaseD": "1945",
+        "Question": "Trong lịch sử tổ chức các đơn vị hành chính ở Việt Nam, cấp tỉnh xuất hiện từ khi nào?",
+        "TrueCase": 2,
+        "_id": 51
+    },
+    {
+        "CaseA": "Tây Sơn ",
+        "CaseB": "Trần Cảo ",
+        "CaseC": "Trần Tuân ",
+        "CaseD": "Lê Hy, Trịnh Hưng ",
+        "Question": "Cuộc khởi nghĩa nông dân tiêu biểu nhất ở thế kỷ XVI là?",
+        "TrueCase": 2,
+        "_id": 52
+    },
+    {
+        "CaseA": "Edward Jenner",
+        "CaseB": "Louis Pasteur",
+        "CaseC": "Hippocrates",
+        "CaseD": "Alexandre Yersin",
+        "Question": "Ai là cha để của ngành vi sinh học?",
+        "TrueCase": 2,
+        "_id": 53
+    },
+    {
+        "CaseA": "Hạ thành Quy Nhơn ",
+        "CaseB": "Chiếm đất Gia Định ",
+        "CaseC": "Đánh bại quân Xiêm ",
+        "CaseD": "Giải phóng Quảng Ninh ",
+        "Question": "Chiến thắng có ý nghĩa lớn lao của nghĩa quân Tây Sơn ở Đàng Trong năm 1875 là chiến thắng gì?",
+        "TrueCase": 3,
+        "_id": 54
+    },
+    {
+        "CaseA": "90Km ",
+        "CaseB": "900Km",
+        "CaseC": "100Km ",
+        "CaseD": "1000Km",
+        "Question": "Đường biển từ Hải Phòng đi Hồng Kông dài khoảng bao nhiêu kilômet?",
+        "TrueCase": 2,
+        "_id": 55
+    },
+    {
+        "CaseA": "Aristotle",
+        "CaseB": "Karl Mark",
+        "CaseC": "Voltaire",
+        "CaseD": "Vladimir Lenin",
+        "Question": "Ai là người sáng lập ra học thuyết về chủ nghĩa xã hội khoa học?",
+        "TrueCase": 2,
+        "_id": 56
+    },
+    {
+        "CaseA": "5 độ kinh tuyến ",
+        "CaseB": "10 độ kinh tuyến ",
+        "CaseC": "15 độ kinh tuyến ",
+        "CaseD": "20 độ kinh tuyến ",
+        "Question": "Khoảng cách mỗi múi giờ rộng khoảng bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 57
+    },
+    {
+        "CaseA": "Nước",
+        "CaseB": "Nhiệt độ ",
+        "CaseC": "Cacbonic",
+        "CaseD": "Oxi",
+        "Question": "Cấu trúc của phân tử protein có thể bị biến tính bởi?",
+        "TrueCase": 2,
+        "_id": 58
+    },
+    {
+        "CaseA": "Một vòng sao chép ",
+        "CaseB": "Hai vòng sao chép ",
+        "CaseC": "Nhiều vòng sao chép ",
+        "CaseD": "Dạng mạch thẳng",
+        "Question": "Tự sao chép AND của sinh vật nhân chuẩn được sao chép như thế nào?",
+        "TrueCase": 3,
+        "_id": 59
+    },
+    {
+        "CaseA": "Cao Thắng ",
+        "CaseB": "Phan Đình Phùng ",
+        "CaseC": "Hồ Tùng Dậu ",
+        "CaseD": "Võ Nguyên Giáp",
+        "Question": "Ai được mệnh danh là ông tổ ngành quân giới Việt Nam?",
+        "TrueCase": 1,
+        "_id": 60
+    },
+    {
+        "CaseA": "4 đẳng cấp ",
+        "CaseB": "3 đẳng cấp ",
+        "CaseC": "2 đẳng cấp ",
+        "CaseD": "Không có đẳng cấp ",
+        "Question": "Xã hội phong kiến Pháp trước cách mạng có mấy đẳng cấp?",
+        "TrueCase": 2,
+        "_id": 61
+    },
+    {
+        "CaseA": "Anh  Mỹ ",
+        "CaseB": "Nga  Mỹ ",
+        "CaseC": "Anh  Nga ",
+        "CaseD": "Canada  Mỹ ",
+        "Question": "NATO là tên viết tắt thông dụng của Tổ chức Hiệp ước Bắc Đại Tây Dương, lực lượng này ban đầu là do nước nào thành lập?",
+        "TrueCase": 4,
+        "_id": 62
+    },
+    {
+        "CaseA": "Tuệ Tĩnh ",
+        "CaseB": "Ngô Nhân Danh ",
+        "CaseC": "Lê Quý Đôn ",
+        "CaseD": "Lê Hữu Trác ",
+        "Question": "Tác giả của bộ Thượng Kinh ký sự, nhà y học lỗi lạc của Việt Nam thế kỷ XVIII là ai?",
+        "TrueCase": 4,
+        "_id": 63
+    },
+    {
+        "CaseA": "100Km ",
+        "CaseB": "500Km",
+        "CaseC": "1000Km ",
+        "CaseD": "5000Km",
+        "Question": "Đường biển từ Hải Phòng đi Đà Nẵng dài khoảng bao nhiêu kilômet?",
+        "TrueCase": 2,
+        "_id": 64
+    },
+    {
+        "CaseA": "Khổng Tử ",
+        "CaseB": "Lão Tử ",
+        "CaseC": "Mạnh Tử ",
+        "CaseD": "Khương Tử Nha ",
+        "Question": "Lã Thượng là tên gọi khác của nhân vật lịch sử nào của Trung Quốc?",
+        "TrueCase": 4,
+        "_id": 65
+    },
+    {
+        "CaseA": "Sông Tiền ",
+        "CaseB": "Sông Hậu",
+        "CaseC": "Sông Đà Rằng ",
+        "CaseD": "Sông Sài Gòn ",
+        "Question": "Con sông nào không phải sông ở Nam Bộ?",
+        "TrueCase": 3,
+        "_id": 66
+    },
+    {
+        "CaseA": "Cơ bản ",
+        "CaseB": "Polopeptit",
+        "CaseC": "Nucleoxom",
+        "CaseD": "Polinucleotit",
+        "Question": "Phân tử protein cấu tạo từ chuỗi?",
+        "TrueCase": 2,
+        "_id": 67
+    },
+    {
+        "CaseA": "Gen trên ADB",
+        "CaseB": "Các chất hữu cơ",
+        "CaseC": "ARN, Protein ",
+        "CaseD": "Các chất sống",
+        "Question": "Vai trò điều chỉnh các quá trình sinh lý, sinh hoá của các vật thể sống do đâu?",
+        "TrueCase": 1,
+        "_id": 68
+    },
+    {
+        "CaseA": "Mét ",
+        "CaseB": "Giây ",
+        "CaseC": "Kilogram ",
+        "CaseD": "Jun ",
+        "Question": "Năm 1789 đơn vị đo lường quốc tế nào ra đời?",
+        "TrueCase": 1,
+        "_id": 69
+    },
+    {
+        "CaseA": "Chiếm hữu nô lệ",
+        "CaseB": "Nguyên thuỷ, phong kiến ",
+        "CaseC": "Phong kiến ",
+        "CaseD": "Tư bản ",
+        "Question": "Giai cấp tư sản và vô sản là hai giai cấp chính của xã  hội nào?",
+        "TrueCase": 4,
+        "_id": 70
+    },
+    {
+        "CaseA": "O. von Guericke",
+        "CaseB": "Milikhan",
+        "CaseC": "Ampere",
+        "CaseD": "Culoumb",
+        "Question": "Máy phát tĩnh điện đầu tiên là phát minh của ai?",
+        "TrueCase": 1,
+        "_id": 71
+    },
+    {
+        "CaseA": "1926 tại Quảng Nam ",
+        "CaseB": "1925 tại Sài Gòn ",
+        "CaseC": "1925 tại Sài Gòn ",
+        "CaseD": "1926 tại Sài Gòn ",
+        "Question": "Đám tang cụ Phan Châu Trinh được tổ chức trọng thể vào năm nào, ở đâu?",
+        "TrueCase": 4,
+        "_id": 72
+    },
+    {
+        "CaseA": "Texas",
+        "CaseB": "California ",
+        "CaseC": "Louisiana Purchase",
+        "CaseD": "Florida",
+        "Question": "Khu vực rộng lớn tại Bắc Mỹ mà Pháp bán cho Mỹ năm 1803 là nơi nào?",
+        "TrueCase": 2,
+        "_id": 73
+    },
+    {
+        "CaseA": "1980 ",
+        "CaseB": "1981",
+        "CaseC": "1982",
+        "CaseD": "1983 ",
+        "Question": "Chỉ thị 100 về khoán sản phẩm cuối cùng đến nhóm và người lao động ra đời năm nào?",
+        "TrueCase": 2,
+        "_id": 74
+    },
+    {
+        "CaseA": "Phiên mã di truyền ",
+        "CaseB": "Tự sao AND",
+        "CaseC": "Sao mã ARN",
+        "CaseD": "Tổng hợp protein",
+        "Question": "Quá trình làm cơ sở cho sự di truyền và sinh sản là gì?",
+        "TrueCase": 2,
+        "_id": 75
+    },
+    {
+        "CaseA": "Photpholipit",
+        "CaseB": "Dầu thực vật ",
+        "CaseC": "Steroid",
+        "CaseD": "Mỡ động vật ",
+        "Question": "Loại lipit nào dưới đây có vai trò cấu trúc màng sinh học?",
+        "TrueCase": 1,
+        "_id": 76
+    },
+    {
+        "CaseA": "Hấp thụ ",
+        "CaseB": "Xâm nhập ",
+        "CaseC": "Lắp ráp ",
+        "CaseD": "Phóng thích",
+        "Question": "Sự hình thành ADN và protein của phagơ diễn ra ở giai đoạn?",
+        "TrueCase": 3,
+        "_id": 77
+    },
+    {
+        "CaseA": "Sally K. Ride",
+        "CaseB": "Bill FitzPatrick",
+        "CaseC": "Friedrich Nietzsche",
+        "CaseD": "Candly Ann",
+        "Question": "Ai là nhà du hành vũ trụ Nữ đầu tiên của Mỹ?",
+        "TrueCase": 1,
+        "_id": 78
+    },
+    {
+        "CaseA": "Hà Lan ",
+        "CaseB": "Anh ",
+        "CaseC": "Pháp ",
+        "CaseD": "Mỹ ",
+        "Question": "Cuộc cách mạng tư sản đầu tiên trên thế giới diễn ra ở đâu ?",
+        "TrueCase": 2,
+        "_id": 79
+    },
+    {
+        "CaseA": "Thế kỉ I trước CN ",
+        "CaseB": "Thế kỉ X",
+        "CaseC": "Thế kỉ XVIII",
+        "CaseD": "Thế kỉ V sau CN ",
+        "Question": "Cột thu lôi được phát minh vào khoảng thời gian nào?",
+        "TrueCase": 3,
+        "_id": 80
+    },
+    {
+        "CaseA": "Bút bi ",
+        "CaseB": "Bút chì ",
+        "CaseC": "Bút mực ",
+        "CaseD": "Bút lông ",
+        "Question": "Laslo Biro đã phát minh ra cái gì vào năm 1938?",
+        "TrueCase": 1,
+        "_id": 81
+    },
+    {
+        "CaseA": "Peter Tore",
+        "CaseB": "Philip Ter",
+        "CaseC": "Columbo",
+        "CaseD": "Macro Polo",
+        "Question": "Người châu Âu nào tới Trung Quốc vào thế kỷ 12 và sau đó xuất bản cuốn sách về chuyến đi của mình?",
+        "TrueCase": 4,
+        "_id": 82
+    },
+    {
+        "CaseA": "Lê Hoàng ",
+        "CaseB": "Việt Linh ",
+        "CaseC": "Trọng Trinh ",
+        "CaseD": "Thanh Vân ",
+        "Question": "Tác giả của phim Gái nhảy là ai?",
+        "TrueCase": 1,
+        "_id": 83
+    },
+    {
+        "CaseA": "Đột biến giao tử ",
+        "CaseB": "Đột biến xôma ",
+        "CaseC": "Đột biến tiền phôi ",
+        "CaseD": "Đột biến gây chết ",
+        "Question": "Đột biến gen phát sinh trong quá trình giảm phân được gọi là gì?",
+        "TrueCase": 1,
+        "_id": 84
+    },
+    {
+        "CaseA": "Photpholipit",
+        "CaseB": "Dầu thực vật ",
+        "CaseC": "Steroit",
+        "CaseD": " Mỡ động vật",
+        "Question": "Thuật ngữ nào dưới đây bao hàm tất cả các thuật ngữ còn lại?",
+        "TrueCase": 1,
+        "_id": 85
+    },
+    {
+        "CaseA": "2030 độ C",
+        "CaseB": "3035 độ C",
+        "CaseC": "5565 độ C",
+        "CaseD": "6580 độ C",
+        "Question": "Vi khuẩn ưa nhiệt là vi khuẩn sinh trưởng tối ưu trong điều kiện nhiệt độ?",
+        "TrueCase": 3,
+        "_id": 86
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Từ thuở dựng nước cho đến nay, nước ta đã có bao nhiêu bản tuyên ngôn độc lập?",
+        "TrueCase": 3,
+        "_id": 87
+    },
+    {
+        "CaseA": "Trống ",
+        "CaseB": "Cồng , chiêng ",
+        "CaseC": "Đàn Trưng ",
+        "CaseD": "Đàn đá ",
+        "Question": "Nhạc cụ gõ cổ nhất của Việt Nam là nhạc cụ nào?",
+        "TrueCase": 4,
+        "_id": 88
+    },
+    {
+        "CaseA": "1250 ",
+        "CaseB": "1130 ",
+        "CaseC": "1370 ",
+        "CaseD": "1460 ",
+        "Question": "Kính lúp được phát minh vào năm nào?",
+        "TrueCase": 1,
+        "_id": 89
+    },
+    {
+        "CaseA": "Lê Thánh Tông ",
+        "CaseB": "Trần Nhân Tông ",
+        "CaseC": "Minh Mạng ",
+        "CaseD": "Lý Nhân Tông ",
+        "Question": "Vị vua trị vì trong thời gian lâu nhất 55 năm là ai?",
+        "TrueCase": 4,
+        "_id": 90
+    },
+    {
+        "CaseA": "InBuder ",
+        "CaseB": "Istanbul",
+        "CaseC": "Galatasaray",
+        "CaseD": "TenPhor",
+        "Question": "Thành phố nào lớn nhất Thổ Nhĩ Kỳ, trước đây được gọi là Constantinople?",
+        "TrueCase": 2,
+        "_id": 91
+    },
+    {
+        "CaseA": "Lê Văn Hưu ",
+        "CaseB": "Ngô Thì Sĩ ",
+        "CaseC": "Ngô Thì Nhậm ",
+        "CaseD": "Ngô Sĩ Liên ",
+        "Question": "Ai là tác giả của bộ sử Đại Việt sử ký toàn thư?",
+        "TrueCase": 4,
+        "_id": 92
+    },
+    {
+        "CaseA": "Mạch nha ",
+        "CaseB": "Mía",
+        "CaseC": "Sữa động vật ",
+        "CaseD": "Hoa quả",
+        "Question": "Lactozo là loại đường có trong?",
+        "TrueCase": 3,
+        "_id": 93
+    },
+    {
+        "CaseA": "Đường phân ",
+        "CaseB": "Chu trình Crep",
+        "CaseC": "Chuỗi truyền điện tử ",
+        "CaseD": "Oxy hoá axit piruvic",
+        "Question": "Trong quá trình hô hấp nội bào, năng lượng ATP được giải phóng nhiều nhất ở giai đoạn?",
+        "TrueCase": 3,
+        "_id": 94
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Sao Hoả có bao nhiêu vệ tinh tự nhiên?",
+        "TrueCase": 4,
+        "_id": 95
+    },
+    {
+        "CaseA": "Trụ não ",
+        "CaseB": "Tiểu não ",
+        "CaseC": "Não trung gian ",
+        "CaseD": "Đại não ",
+        "Question": "Cơ quan điều hoà và phối hợp các hoạt động phức tạp của cơ thể là?",
+        "TrueCase": 2,
+        "_id": 96
+    },
+    {
+        "CaseA": "1950 ",
+        "CaseB": "1970 ",
+        "CaseC": "1940 ",
+        "CaseD": "1930 ",
+        "Question": "Tom và Jerrry, bộ phim hoạt hình quen thuộc với bao thế hệ người xem đã được bắt đầu sản xuất từ năm?",
+        "TrueCase": 2,
+        "_id": 97
+    },
+    {
+        "CaseA": "1931 ",
+        "CaseB": "1935 ",
+        "CaseC": "1936 ",
+        "CaseD": "1937 ",
+        "Question": "Cuộc chiến tranh Trăm Năm giữa Anh và Pháp bắt đầu từ năm nào?",
+        "TrueCase": 4,
+        "_id": 98
+    },
+    {
+        "CaseA": "Death Macor",
+        "CaseB": "Death Valley",
+        "CaseC": "Dentoriesa",
+        "CaseD": "Death Metal",
+        "Question": "Điểm thấp nhất nước Mỹ?",
+        "TrueCase": 2,
+        "_id": 99
+    },
+    {
+        "CaseA": "Kim Dung ",
+        "CaseB": "Tiêu Đỉnh ",
+        "CaseC": "Cổ Long ",
+        "CaseD": "Ngoạ Long Sinh ",
+        "Question": "Tác giả của tiểu thuyết Tru Tiên?",
+        "TrueCase": 2,
+        "_id": 100
+    },
+    {
+        "CaseA": "Cacbonhydrat ",
+        "CaseB": "Đường đơn ",
+        "CaseC": "Đường đôi ",
+        "CaseD": "Đường đa",
+        "Question": "Thuật ngữ nào dưới đây bao gồm tất cả các thuật ngữ còn lại?",
+        "TrueCase": 1,
+        "_id": 101
+    },
+    {
+        "CaseA": "Kì trung gian ",
+        "CaseB": "Kì sau ",
+        "CaseC": "Kì giữa ",
+        "CaseD": "Kì cuối ",
+        "Question": "Nhiễm sắc thể con trong Nhiễm sắc thể kép tách rời nhau ra tâm động vào kì nào của quá trình nguyên phân?",
+        "TrueCase": 2,
+        "_id": 102
+    },
+    {
+        "CaseA": "Hamlet",
+        "CaseB": "The Ghost ",
+        "CaseC": "Laertes ",
+        "CaseD": "Claudius",
+        "Question": "Tồn tại hay không tồn tại là câu nói nổi tiếng của nhân vật nào?",
+        "TrueCase": 1,
+        "_id": 103
+    },
+    {
+        "CaseA": "Tuyến yên ",
+        "CaseB": "Tuyến giáp ",
+        "CaseC": "Tuyến tuỵ ",
+        "CaseD": "Tuyến trên thận ",
+        "Question": "Tuyến nội tiết quan trọng nhất là?",
+        "TrueCase": 1,
+        "_id": 104
+    },
+    {
+        "CaseA": "1995",
+        "CaseB": "1990 ",
+        "CaseC": "1985",
+        "CaseD": "1981 ",
+        "Question": "www ra đời vào năm nào?",
+        "TrueCase": 2,
+        "_id": 105
+    },
+    {
+        "CaseA": "293 ",
+        "CaseB": "393",
+        "CaseC": "493",
+        "CaseD": "593 ",
+        "Question": "Tháp nghiêng Pisa ở Italy có bao nhiêu bậc thang?",
+        "TrueCase": 1,
+        "_id": 106
+    },
+    {
+        "CaseA": "Bormeo",
+        "CaseB": "Berurio",
+        "CaseC": "Benpiter",
+        "CaseD": "Domuter",
+        "Question": "Hòn đảo nào mà Indonesia chia sẻ với Malaysia và Brunei tại Đông Nam Á?",
+        "TrueCase": 1,
+        "_id": 107
+    },
+    {
+        "CaseA": "Toán học ",
+        "CaseB": "Hoá học, vật lý ",
+        "CaseC": "Toán học, hoá học ",
+        "CaseD": "Vật lý ",
+        "Question": "Marie Curie là người đã đoạt 2 giải Nobel thuộc 2 lĩnh vực nào?",
+        "TrueCase": 2,
+        "_id": 108
+    },
+    {
+        "CaseA": "Chưa có hệ mạch ",
+        "CaseB": "Thụ tinh nhờ nước",
+        "CaseC": "Tinh trùng không có roi ",
+        "CaseD": "Thụ tinh nhờ côn trùng",
+        "Question": "Quyết là thực vật như thế nào?",
+        "TrueCase": 2,
+        "_id": 109
+    },
+    {
+        "CaseA": "1 hàng ",
+        "CaseB": "2 hàng",
+        "CaseC": "3 hàng ",
+        "CaseD": "4 hàng",
+        "Question": "Kì giữa của nguyên nguyên phân Nhiễm sắc thể xếp trên mựt phẳng xích đạo của thoi vô sắc thành mấy hàng?",
+        "TrueCase": 1,
+        "_id": 110
+    },
+    {
+        "CaseA": "1955",
+        "CaseB": "1957",
+        "CaseC": "1958",
+        "CaseD": "1960",
+        "Question": "Năm nào được gọi là năm Châu Phi?",
+        "TrueCase": 4,
+        "_id": 111
+    },
+    {
+        "CaseA": "Tuyến yên ",
+        "CaseB": "Tuyến tuỵ",
+        "CaseC": "Tuyến trên thận ",
+        "CaseD": "Tuyến giáp ",
+        "Question": "Tuyến nội tiết lớn nhất ở người là?",
+        "TrueCase": 4,
+        "_id": 112
+    },
+    {
+        "CaseA": "Hạt ngô ",
+        "CaseB": "Hạt ổi ",
+        "CaseC": "Hạt tiêu ",
+        "CaseD": "Hạt hoa súng ",
+        "Question": "Loại hạt nào có khả năng tồn tại lâu nhất?",
+        "TrueCase": 4,
+        "_id": 113
+    },
+    {
+        "CaseA": "1845 ",
+        "CaseB": "1855",
+        "CaseC": "1865 ",
+        "CaseD": "1875",
+        "Question": " Thác Victoria được một người Anh tìm ra vào năm nào?",
+        "TrueCase": 2,
+        "_id": 114
+    },
+    {
+        "CaseA": "John Herschell Glenn",
+        "CaseB": "Peter Human",
+        "CaseC": "Colum Sebure",
+        "CaseD": "Noria Hersch",
+        "Question": "Thượng nghị sĩ và là phi hành gia Mỹ đầu tiên đi vào quỹ đạo trái đất, sinh ra ở Cambridge, Ohio?",
+        "TrueCase": 1,
+        "_id": 115
+    },
+    {
+        "CaseA": "1865 ",
+        "CaseB": "1858",
+        "CaseC": "1895",
+        "CaseD": "1885",
+        "Question": "Pháp đổ bộ vào Đà Nẵng vào năm nào?",
+        "TrueCase": 2,
+        "_id": 116
+    },
+    {
+        "CaseA": "Chưa có hệ mạch ",
+        "CaseB": "Thụ tinh nhờ gió ",
+        "CaseC": "Thụ tinh nhờ côn trùng ",
+        "CaseD": "Tinh trùng không có roi ",
+        "Question": "Rêu là thực vật như thế nào?",
+        "TrueCase": 1,
+        "_id": 117
+    },
+    {
+        "CaseA": "1 pha",
+        "CaseB": "2 pha ",
+        "CaseC": "3 pha ",
+        "CaseD": "4 pha",
+        "Question": "Quá trình quang hợp gồm bao nhiêu pha?",
+        "TrueCase": 2,
+        "_id": 118
+    },
+    {
+        "CaseA": "Khoá I ",
+        "CaseB": "Khoá II ",
+        "CaseC": "Khoá III",
+        "CaseD": "Khoá IV",
+        "Question": "Quốc hội khoá mấy quyết định lấy tên nước ta là CHXHCN Việt Nam?",
+        "TrueCase": 4,
+        "_id": 119
+    },
+    {
+        "CaseA": "Tầng sừng ",
+        "CaseB": "Tầng sừng và lớp bì ",
+        "CaseC": "Tầng sừng và tuyến nhờn ",
+        "CaseD": "Lớp bì và tuyến nhờn ",
+        "Question": "Lớp tế bào chết ở da là?",
+        "TrueCase": 1,
+        "_id": 120
+    },
+    {
+        "CaseA": "900.000 Km2",
+        "CaseB": "9.000.000 Km2",
+        "CaseC": "90.000.000 Km2",
+        "CaseD": "900.000.000 Km2",
+        "Question": "Sa  mạc Sahara là sa mạc lớn nhất thế giới, nó rộng khoảng bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 121
+    },
+    {
+        "CaseA": "700 năm ",
+        "CaseB": "800 năm ",
+        "CaseC": "900 năm ",
+        "CaseD": "1000 năm ",
+        "Question": "Di Hoà Viên  nơi đây nổi tiếng về nghệ thuật hoa viên truyền thống của Trung Quốc. Nó đã tồn tại bao nhiêu năm?",
+        "TrueCase": 2,
+        "_id": 122
+    },
+    {
+        "CaseA": "Mohandas Karamchand Gandhi",
+        "CaseB": "Mohamen Labarian",
+        "CaseC": "Antonir Duban",
+        "CaseD": "Malatur Leban",
+        "Question": "Nhà lãnh đạo Ấn Độ đem lại tự do cho đất nước mình thông qua một cuộc cách mạng phi bạo lực nào?",
+        "TrueCase": 1,
+        "_id": 123
+    },
+    {
+        "CaseA": "Nguyễn Phúc Nguyên ",
+        "CaseB": "Nguyễn Phúc Khoát ",
+        "CaseC": "Nguyễn Hoàng ",
+        "CaseD": "Nguyễn Phúc Khao ",
+        "Question": "Chúa nào thời nhà Nguyễn được mệnh danh là chúa Phật?",
+        "TrueCase": 1,
+        "_id": 124
+    },
+    {
+        "CaseA": "1 tinh trùng ",
+        "CaseB": "2 tinh trùng ",
+        "CaseC": "3 tinh trùng ",
+        "CaseD": "4 tinh trùng ",
+        "Question": "Từ mỗi tinh bào bậc 1 qua giảm phân cho ra bao nhiêu tinh trùng?",
+        "TrueCase": 4,
+        "_id": 125
+    },
+    {
+        "CaseA": "Pha G1",
+        "CaseB": "Pha G2",
+        "CaseC": "Pha S",
+        "CaseD": "Pha G2 và pha S",
+        "Question": "Sự sinh trưởng của tế bào diễn ta chủ yếu ở pha nào?",
+        "TrueCase": 1,
+        "_id": 126
+    },
+    {
+        "CaseA": "Máu ",
+        "CaseB": "Tỏi ",
+        "CaseC": "Hành ",
+        "CaseD": "Cá",
+        "Question": "Loài dơi sợ nhất mùi gì?",
+        "TrueCase": 2,
+        "_id": 127
+    },
+    {
+        "CaseA": "1892",
+        "CaseB": "1893",
+        "CaseC": "1894 ",
+        "CaseD": "1895",
+        "Question": "Tia Xquang hay còn gọi là tia Rơnghen được phát hiện vào năm nào?",
+        "TrueCase": 4,
+        "_id": 128
+    },
+    {
+        "CaseA": "3500",
+        "CaseB": "4700 ",
+        "CaseC": "6500 ",
+        "CaseD": "7300",
+        "Question": "Trên thế giới có khoảng bao nhiêu thứ tiếng?",
+        "TrueCase": 3,
+        "_id": 129
+    },
+    {
+        "CaseA": "Khoảng  1.200 Km2",
+        "CaseB": "Khoảng 1.300 Km2",
+        "CaseC": "Khoảng 1.400 Km2",
+        "CaseD": "Khoảng 1.500 Km2",
+        "Question": "Vịnh Hạ Long có diện tích khoảng bao nhiêu kilomet vuông?",
+        "TrueCase": 4,
+        "_id": 130
+    },
+    {
+        "CaseA": "Calibertor",
+        "CaseB": "Hawaii ",
+        "CaseC": "Granland ",
+        "CaseD": "Aleutian Islands",
+        "Question": "Một dải gồm 150 hòn đảo nhỏ, chia tách Thái Bình Dương và biển Bering?",
+        "TrueCase": 4,
+        "_id": 131
+    },
+    {
+        "CaseA": "Quảng Bình ",
+        "CaseB": "Quảng Trị ",
+        "CaseC": "Huế ",
+        "CaseD": "Nghệ An ",
+        "Question": "Lúc nhỏ Trịnh Công Sơn sống ở đâu?",
+        "TrueCase": 3,
+        "_id": 132
+    },
+    {
+        "CaseA": "Đầu ",
+        "CaseB": "Giữa ",
+        "CaseC": "Sau ",
+        "CaseD": "Cuối ",
+        "Question": "Trong nguyên phân, nhiễm sắc thể vắt đầu co ngắn đóng xoắn diễn ra ở kỳ nào?",
+        "TrueCase": 3,
+        "_id": 133
+    },
+    {
+        "CaseA": "4 giai đoạn ",
+        "CaseB": "3 giai đoạn ",
+        "CaseC": "2 giai đoạn ",
+        "CaseD": "1 giai đoạn",
+        "Question": "Một chu kì tế bào có mấy giai đoạn rõ rệt?",
+        "TrueCase": 3,
+        "_id": 134
+    },
+    {
+        "CaseA": "Lê Hiển Tông ",
+        "CaseB": "Lê Thần Tông ",
+        "CaseC": "Lê Lợi ",
+        "CaseD": "Lê Thánh Tông",
+        "Question": "Lê Ngọc Hân là con gái của vua nào?",
+        "TrueCase": 2,
+        "_id": 135
+    },
+    {
+        "CaseA": "1896",
+        "CaseB": "1897",
+        "CaseC": "1898",
+        "CaseD": "1899",
+        "Question": "Eđixơn sáng chế ra đèn chân không nóng sáng vào năm nào?",
+        "TrueCase": 2,
+        "_id": 136
+    },
+    {
+        "CaseA": "Đập niêu cơm ",
+        "CaseB": "Đập vỡ bát ",
+        "CaseC": "Bẻ gẫy đôi đũa ",
+        "CaseD": "Xé áo ",
+        "Question": "Hành động nào sau đây được coi là tuyên bố ly hôn dưới thời Lê?",
+        "TrueCase": 3,
+        "_id": 137
+    },
+    {
+        "CaseA": "Sake ",
+        "CaseB": "Vodka ",
+        "CaseC": "Bồ Đào mỹ tửu ",
+        "CaseD": "Porto ",
+        "Question": "Loại rượu nổi tiếng của Bồ Đào Nha tên gì?",
+        "TrueCase": 4,
+        "_id": 138
+    },
+    {
+        "CaseA": "Ulster ",
+        "CaseB": "Anh ",
+        "CaseC": "Scotland ",
+        "CaseD": "Nireland ",
+        "Question": "Tên gọi khác của đất nước Bắc Ailen là gì?",
+        "TrueCase": 1,
+        "_id": 139
+    },
+    {
+        "CaseA": "Pencat Silat",
+        "CaseB": "Judo",
+        "CaseC": "Karatedo",
+        "CaseD": "Aikido",
+        "Question": "Môn võ nào được gọi là Hiệp khí đạo?",
+        "TrueCase": 4,
+        "_id": 140
+    },
+    {
+        "CaseA": "ADN",
+        "CaseB": "Protein ",
+        "CaseC": "ARN thông tin ",
+        "CaseD": "ARN riboxom ",
+        "Question": "Chất mang truyền đạt thông tin di truyền trong tế bào là gì?",
+        "TrueCase": 1,
+        "_id": 141
+    },
+    {
+        "CaseA": "Cuối kì trung gian ",
+        "CaseB": "Kì đầu I",
+        "CaseC": "Kì đầu II ",
+        "CaseD": "Kì giữa I",
+        "Question": "Trong giảm phân sự trao đổi đoạn giữa các cromatit trong cặp NST kép tương đồng diễn ra ở đâu?",
+        "TrueCase": 2,
+        "_id": 142
+    },
+    {
+        "CaseA": "Áo ",
+        "CaseB": "Đức ",
+        "CaseC": "Thuỵ Sĩ",
+        "CaseD": "Thổ Nhĩ Kỳ ",
+        "Question": "Nhạc Jazz bắt nguồn từ nước nào?",
+        "TrueCase": 2,
+        "_id": 143
+    },
+    {
+        "CaseA": "Sừng sững ",
+        "CaseB": "Khổng lồ ",
+        "CaseC": "Băng tuyết ",
+        "CaseD": "Cheo leo ",
+        "Question": "Theo tiếng Phạm, Hymalaya có nghĩa là gì?",
+        "TrueCase": 3,
+        "_id": 144
+    },
+    {
+        "CaseA": "30 năm tu, 50 tuổi đời ",
+        "CaseB": "40 năm tu, 50 tuổi đời ",
+        "CaseC": "30 năm tu, 60 tuổi đời ",
+        "CaseD": "40 năm tu, 60 tuổi đời ",
+        "Question": "Trong đạo Phật, để được phong Thượng toạ cần có những điều kiện gì?",
+        "TrueCase": 1,
+        "_id": 145
+    },
+    {
+        "CaseA": "Jurassic",
+        "CaseB": "Cretasious",
+        "CaseC": "Permain",
+        "CaseD": "Cambrian",
+        "Question": "Khủng long xuất hiện vào kỷ nguyên nào?",
+        "TrueCase": 3,
+        "_id": 146
+    },
+    {
+        "CaseA": "Gerald R. Ford",
+        "CaseB": "Kenedy",
+        "CaseC": "Bill Clinton",
+        "CaseD": "G. Bush",
+        "Question": "Tổng thống thứ 38 của Mỹ 1974 - 1977 nào là người duy nhất không qua bầu cử tổng thống hay phó tổng thống?",
+        "TrueCase": 1,
+        "_id": 147
+    },
+    {
+        "CaseA": "Phan Huỳnh Điểu",
+        "CaseB": "Vũ Thanh ",
+        "CaseC": "Trần Chung ",
+        "CaseD": "Nguyên Nhung ",
+        "Question": "Ca khúc Bài ca bên chiếc võng là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 4,
+        "_id": 148
+    },
+    {
+        "CaseA": "Đầu ",
+        "CaseB": "Giữa ",
+        "CaseC": "Sau ",
+        "CaseD": "Cuối ",
+        "Question": "Trong phân bào I của giảm phân, nhiễm sắc thể kép tương đồng phân ly độc lập với nhau về 2 cực tế bào ở kỳ nào?",
+        "TrueCase": 4,
+        "_id": 149
+    },
+    {
+        "CaseA": "4 tế bào con ",
+        "CaseB": "2 tế bào con ",
+        "CaseC": "3 tế bào con ",
+        "CaseD": "1 tế bào con ",
+        "Question": "Kết quả của giảm phân II là hình thành?",
+        "TrueCase": 1,
+        "_id": 150
+    },
+    {
+        "CaseA": "Nô lệ ",
+        "CaseB": "Quyền lực ",
+        "CaseC": "Thuộc địa ",
+        "CaseD": "Đất đai ",
+        "Question": "Nước Mỹ vì tranh giành cái gì mà dẫn đến nội chiến 1861- 1865?",
+        "TrueCase": 1,
+        "_id": 151
+    },
+    {
+        "CaseA": "Thắng lợi ",
+        "CaseB": "Phồn vinh ",
+        "CaseC": "Hạnh phúc ",
+        "CaseD": "Phát triển ",
+        "Question": "Cairo, thủ đô Ai Cập, theo tiếng Ả Rập, nó có nghĩa là gì?",
+        "TrueCase": 1,
+        "_id": 152
+    },
+    {
+        "CaseA": "Tokyo ",
+        "CaseB": "London ",
+        "CaseC": "Los Angeles ",
+        "CaseD": "Seoul ",
+        "Question": "Thành phố nào có tổng sản phẩm nội địa hay GDP cao nhất thế giới năm 2004?",
+        "TrueCase": 1,
+        "_id": 153
+    },
+    {
+        "CaseA": "Asia phim ",
+        "CaseB": "Sài Gòn phim ",
+        "CaseC": "Hãng phim Thống Nhất",
+        "CaseD": "Hãng phim Bông Sen ",
+        "Question": "Hãng phim đầu tiên Việt Nam thành lập có tên là gì?",
+        "TrueCase": 1,
+        "_id": 154
+    },
+    {
+        "CaseA": "Menbourn ",
+        "CaseB": "Hicalor ",
+        "CaseC": "Sydney ",
+        "CaseD": "Western Australia",
+        "Question": "Bang lớn nhất của đất nước Australia?",
+        "TrueCase": 4,
+        "_id": 155
+    },
+    {
+        "CaseA": "Vũ Trọng Hồi ",
+        "CaseB": "Quốc Dũng ",
+        "CaseC": "Trần Tiến ",
+        "CaseD": "Đoàn Chuẩn ",
+        "Question": "Gửi gió mây cho ngàn bay là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 4,
+        "_id": 156
+    },
+    {
+        "CaseA": "Đầu ",
+        "CaseB": "Giữa ",
+        "CaseC": "Sau ",
+        "CaseD": "Cuối",
+        "Question": "Trong phân bào II của giảm phân, nhiễm sắc thể kép xếp thành 1 hàng ở mặt phẳng xích đạo của thoi phân bào ở kì nào?",
+        "TrueCase": 1,
+        "_id": 157
+    },
+    {
+        "CaseA": "Pha nguyên nhân ",
+        "CaseB": "Pha G1",
+        "CaseC": "Pha G2",
+        "CaseD": "Pha S",
+        "Question": "Trong chu kì tế bào, sự nhân đôi của ADN và nhiễm sắc thể diễn ra ở đâu?",
+        "TrueCase": 4,
+        "_id": 158
+    },
+    {
+        "CaseA": "Tưởng Giới Thạch ",
+        "CaseB": "Tôn Trung Sơn ",
+        "CaseC": "Mao Trạch Đông",
+        "CaseD": "Giang Trạch Đông",
+        "Question": "Ai đã đọc Tuyên ngôn độc lập khai sinh nước CHND Trung Hoa vào 01/10/1949?",
+        "TrueCase": 3,
+        "_id": 159
+    },
+    {
+        "CaseA": "Hy Lạp ",
+        "CaseB": "Ả Rập Xêut",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Yemen ",
+        "Question": "Vua Maret là vị vua đầu tiên của quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 160
+    },
+    {
+        "CaseA": "300.000USD",
+        "CaseB": "400.000USD",
+        "CaseC": "500.000USD",
+        "CaseD": "600.000USD",
+        "Question": "Bạn có biết từ năm 2001, mức lương của tổng thống Hoa Kỳ là bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 161
+    },
+    {
+        "CaseA": "IUCN",
+        "CaseB": "CCN",
+        "CaseC": "WWF",
+        "CaseD": "UFO",
+        "Question": "Quỹ loài vật hoang dã thế giới có tên viết tắt là gì?",
+        "TrueCase": 3,
+        "_id": 162
+    },
+    {
+        "CaseA": "Sông Theme",
+        "CaseB": "Sông Seine ",
+        "CaseC": "Sông Tur",
+        "CaseD": "Sông Firence ",
+        "Question": "Dòng sông phía Bắc nước Pháp đổ ra eo biển Măng  xơ?",
+        "TrueCase": 2,
+        "_id": 163
+    },
+    {
+        "CaseA": "Trần Tiến ",
+        "CaseB": "Phan Huỳnh Điểu ",
+        "CaseC": "Đoàn Chuẩn ",
+        "CaseD": "Từ Linh ",
+        "Question": "Gửi nắng cho em là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 3,
+        "_id": 164
+    },
+    {
+        "CaseA": "Cá thể ",
+        "CaseB": "Quần thể ",
+        "CaseC": "Nòi ",
+        "CaseD": "Loài ",
+        "Question": "Theo thuyết tiến hoá hiện đại, đơn vị tiến hoá cơ sở ở các loài giao phối là gì?",
+        "TrueCase": 2,
+        "_id": 165
+    },
+    {
+        "CaseA": "Tia X",
+        "CaseB": "Tia Gamma",
+        "CaseC": "Tia hồng ngoại ",
+        "CaseD": "Tia tử ngoại ",
+        "Question": "Điều khiển từ xa gởi các lệnh đến Tivi nhờ cái gì?",
+        "TrueCase": 3,
+        "_id": 166
+    },
+    {
+        "CaseA": "Trần Nhật Duật ",
+        "CaseB": "Trần Quốc Tuấn",
+        "CaseC": "Trần Khánh Dư",
+        "CaseD": "Trần Quang Khải",
+        "Question": "Tong tôn thất nhà Trần, ai là người biết nhiều ngôn ngữ nhất?",
+        "TrueCase": 1,
+        "_id": 167
+    },
+    {
+        "CaseA": "Natri ",
+        "CaseB": "Kali ",
+        "CaseC": "Magie ",
+        "CaseD": "Thuỷ Ngân",
+        "Question": "Kim loại nào là dung môi của kim loại khác?",
+        "TrueCase": 4,
+        "_id": 168
+    },
+    {
+        "CaseA": "Nhà Lý ",
+        "CaseB": "Nhà Trần ",
+        "CaseC": "Nhà Ngô ",
+        "CaseD": "Nhà Nguyễn ",
+        "Question": "Văn Miếu, trường đại học đầu tiên của Việt Nam, được xây dựng dưới triều đại nào?",
+        "TrueCase": 1,
+        "_id": 169
+    },
+    {
+        "CaseA": "4 thế kỷ",
+        "CaseB": "5 thế kỷ ",
+        "CaseC": "6 thế kỷ ",
+        "CaseD": "7 thế kỷ ",
+        "Question": "Giai đoạn Đại Việt tồn tại được bao nhiêu thế kỷ?",
+        "TrueCase": 2,
+        "_id": 170
+    },
+    {
+        "CaseA": "Lasvegas",
+        "CaseB": "Linutem ",
+        "CaseC": "New York ",
+        "CaseD": "Olympia ",
+        "Question": "Thủ phủ của bang Washington nằm ở đâu?",
+        "TrueCase": 4,
+        "_id": 171
+    },
+    {
+        "CaseA": "Doãn Nho và Phương Thanh ",
+        "CaseB": "Nguyễn Đình Thi ",
+        "CaseC": "Chu Minh ",
+        "CaseD": "Phan Nhân ",
+        "Question": "Người con gái sông La là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 1,
+        "_id": 172
+    }
+]

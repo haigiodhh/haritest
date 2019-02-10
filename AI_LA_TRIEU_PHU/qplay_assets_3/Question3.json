@@ -1,0 +1,2216 @@
+[
+    {
+        "CaseA": "Apple",
+        "CaseB": "Microsoft",
+        "CaseC": "Nokia",
+        "CaseD": "Samsung",
+        "Question": "Điện thoại Iphone là của hãng nào?",
+        "TrueCase": 1,
+        "_id": 1
+    },
+    {
+        "CaseA": "1000",
+        "CaseB": "1024",
+        "CaseC": "100",
+        "CaseD": "10000",
+        "Question": "1KB bằng bao nhiêu Byte?",
+        "TrueCase": 2,
+        "_id": 2
+    },
+    {
+        "CaseA": "Cara",
+        "CaseB": "Kg",
+        "CaseC": "Bit",
+        "CaseD": "Lit",
+        "Question": "Đơn vị thường dùng đo khối lượng của Kim cương, đá quý?",
+        "TrueCase": 1,
+        "_id": 3
+    },
+    {
+        "CaseA": "Thơm thơm",
+        "CaseB": "Ngon Ngon",
+        "CaseC": "Trơ trơ",
+        "CaseD": "Cay cay",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Trăm năm bia đá cũng mòn, ngàn năm bia miệng vẫn còn ...\"?",
+        "TrueCase": 3,
+        "_id": 4
+    },
+    {
+        "CaseA": "Đi tìm",
+        "CaseB": "Làm chuồng",
+        "CaseC": "Đi mua",
+        "CaseD": "Đi cày",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Mất bò mới lo ...\"?",
+        "TrueCase": 2,
+        "_id": 5
+    },
+    {
+        "CaseA": "Phạm Ngũ Lão",
+        "CaseB": "Trần Hưng Đạo",
+        "CaseC": "Lý Thường Kiệt",
+        "CaseD": "Trần Quốc Toản",
+        "Question": "Bài thơ \"Nam quốc Sơn hà\" do danh tướng nào viết?",
+        "TrueCase": 3,
+        "_id": 6
+    },
+    {
+        "CaseA": "Khô",
+        "CaseB": "Hô",
+        "CaseC": "Bẩn",
+        "CaseD": "Lạnh",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Môi hở, răng ...\"?",
+        "TrueCase": 4,
+        "_id": 7
+    },
+    {
+        "CaseA": "Đít",
+        "CaseB": "Đuôi",
+        "CaseC": "Chủ",
+        "CaseD": "Chân",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Oan có đầu, nợ có ...\"?",
+        "TrueCase": 3,
+        "_id": 8
+    },
+    {
+        "CaseA": "Vuông",
+        "CaseB": "Dẹt",
+        "CaseC": "Méo",
+        "CaseD": "Dài",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Ở bầu thì tròn, ở ống thì ...\"?",
+        "TrueCase": 4,
+        "_id": 9
+    },
+    {
+        "CaseA": "Nem",
+        "CaseB": "Phở",
+        "CaseC": "Chim",
+        "CaseD": "Cơm",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Ông ăn chả, bà ăn ...\"?",
+        "TrueCase": 1,
+        "_id": 10
+    },
+    {
+        "CaseA": "Gái điếm",
+        "CaseB": "Lệ làng",
+        "CaseC": "Đồng tiền",
+        "CaseD": "Hũ gạo",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Phép vua thua ...\"?",
+        "TrueCase": 2,
+        "_id": 11
+    },
+    {
+        "CaseA": "Làm",
+        "CaseB": "Chịu",
+        "CaseC": "Nhận",
+        "CaseD": "Gánh",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Quýt làm cam ...\"?",
+        "TrueCase": 2,
+        "_id": 12
+    },
+    {
+        "CaseA": "Giày",
+        "CaseB": "Kiếm",
+        "CaseC": "Ván",
+        "CaseD": "Dây",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Qua cầu rút ...\"?",
+        "TrueCase": 3,
+        "_id": 13
+    },
+    {
+        "CaseA": "Voọc niêu tôm",
+        "CaseB": "Bị bắt trộm",
+        "CaseC": "Đi ngủ lang",
+        "CaseD": "Trèo lên cây",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Vắng chủ nhà gà ....\"?",
+        "TrueCase": 1,
+        "_id": 14
+    },
+    {
+        "CaseA": "Sâu",
+        "CaseB": "Trong",
+        "CaseC": "Uốn",
+        "CaseD": "Khúc",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Sông có ..., người có lúc\"?",
+        "TrueCase": 4,
+        "_id": 15
+    },
+    {
+        "CaseA": "Heo",
+        "CaseB": "Beo",
+        "CaseC": "Voi",
+        "CaseD": "Cây",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Tẩm ngẩm tầm ngầm mà đấm chết...\"?",
+        "TrueCase": 3,
+        "_id": 16
+    },
+    {
+        "CaseA": "Bưởi",
+        "CaseB": "Hồng ",
+        "CaseC": "Cau ",
+        "CaseD": "Na ",
+        "Question": "Quả nào sau đây thường không có trong mâm cỗ rằm Trung thu?",
+        "TrueCase": 3,
+        "_id": 17
+    },
+    {
+        "CaseA": "Quả tim",
+        "CaseB": "Gan ",
+        "CaseC": "Thần kinh",
+        "CaseD": "Phổi",
+        "Question": "Hút thuốc lá có hại cho bộ phận nào nhất?",
+        "TrueCase": 4,
+        "_id": 18
+    },
+    {
+        "CaseA": "Sáng ",
+        "CaseB": "Trưa",
+        "CaseC": " Chiều ",
+        "CaseD": "Tối ",
+        "Question": "Bà Huyện Thanh Quan tả cảnh qua đèo Ngang vào thời điểm nào trong ngày?",
+        "TrueCase": 3,
+        "_id": 19
+    },
+    {
+        "CaseA": "Opera",
+        "CaseB": " Unikey",
+        "CaseC": "Word",
+        "CaseD": "Paint",
+        "Question": "Trong các chương trình sau đây, chương trình nào được dùng để duyệt Web?",
+        "TrueCase": 1,
+        "_id": 20
+    },
+    {
+        "CaseA": "Châu Mỹ ",
+        "CaseB": "Châu Âu ",
+        "CaseC": "Châu Phi",
+        "CaseD": "Châu Á",
+        "Question": " Argentina nằm ở châu lục nào?",
+        "TrueCase": 1,
+        "_id": 21
+    },
+    {
+        "CaseA": "31/12/1999",
+        "CaseB": "01/01/2000",
+        "CaseC": "31/12/2000",
+        "CaseD": "01/01/2001",
+        "Question": "Thế kỷ 21 bắt đầu vào ngày nào?",
+        "TrueCase": 4,
+        "_id": 22
+    },
+    {
+        "CaseA": "Đức ",
+        "CaseB": "Mỹ ",
+        "CaseC": "Pháp ",
+        "CaseD": "Anh ",
+        "Question": "Berlin là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 23
+    },
+    {
+        "CaseA": "Đức ",
+        "CaseB": "Pháp ",
+        "CaseC": "Nga ",
+        "CaseD": "Anh ",
+        "Question": "London là thủ đô nước nào?",
+        "TrueCase": 4,
+        "_id": 24
+    },
+    {
+        "CaseA": "Trà ",
+        "CaseB": "Cà phê ",
+        "CaseC": "Ca cao ",
+        "CaseD": "Nước chanh ",
+        "Question": "Trong lúc điều trị bệnh sốt xuất huyết, bác sĩ thường khuyên người bệnh uống nước gì?",
+        "TrueCase": 4,
+        "_id": 25
+    },
+    {
+        "CaseA": "Tay ",
+        "CaseB": "Chân ",
+        "CaseC": "Răng ",
+        "CaseD": "Lưỡi ",
+        "Question": "Điền vào chỗ trống: \"Anh về chợ Vạn ăn dưa, Về chi dưới Chụt, ăn dừa mỏi ...\"?",
+        "TrueCase": 3,
+        "_id": 26
+    },
+    {
+        "CaseA": "Chất khoáng ",
+        "CaseB": "Chất béo ",
+        "CaseC": "Chất xơ ",
+        "CaseD": "Chất đạm ",
+        "Question": "Chất nào sau đây không phải là chất dinh dưỡng?",
+        "TrueCase": 3,
+        "_id": 27
+    },
+    {
+        "CaseA": "Đông Nam Á ",
+        "CaseB": "Tây Nam Á ",
+        "CaseC": "Đông Á ",
+        "CaseD": "Nam Á ",
+        "Question": "Nước Campuchia thuộc khu vực nào?",
+        "TrueCase": 1,
+        "_id": 28
+    },
+    {
+        "CaseA": "Vinaphone",
+        "CaseB": "Viettel",
+        "CaseC": "Mobiphone",
+        "CaseD": "Sfone",
+        "Question": "095 là đầu số thuộc mạng di động nào của Việt Nam?",
+        "TrueCase": 4,
+        "_id": 29
+    },
+    {
+        "CaseA": "Tim ",
+        "CaseB": "Gan ",
+        "CaseC": "Phổi",
+        "CaseD": "Toàn bộ cơ thể",
+        "Question": "Hút thuốc lá có hại cho cơ quan nào?",
+        "TrueCase": 4,
+        "_id": 30
+    },
+    {
+        "CaseA": "Sơn La ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Bắc Kạn",
+        "CaseD": "Lào Cai",
+        "Question": "Đỉnh núi cao nhất Việt Nam Pansipan thuộc tỉnh nào?",
+        "TrueCase": 4,
+        "_id": 31
+    },
+    {
+        "CaseA": "Unikey ",
+        "CaseB": "Internet explorer ",
+        "CaseC": "Excel ",
+        "CaseD": "Notepad",
+        "Question": "Trong các chương trình sau đây, chương trình nào dùng để duyệt Web?",
+        "TrueCase": 2,
+        "_id": 32
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "10",
+        "CaseD": "100",
+        "Question": "Theo ngôn ngữ Tin học, trong hệ nhị phân thì 1 + 1 = ?",
+        "TrueCase": 3,
+        "_id": 33
+    },
+    {
+        "CaseA": "Hồng cầu ",
+        "CaseB": "Bạch cầu ",
+        "CaseC": "Tiểu cầu ",
+        "CaseD": "Hemoglobin",
+        "Question": "Thành phần nào của máu tham gia vào quá trình đông máu ở vết thương?",
+        "TrueCase": 3,
+        "_id": 34
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Pháp ",
+        "CaseC": "Đức ",
+        "CaseD": "Nga ",
+        "Question": "Paris là thủ đô của quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 35
+    },
+    {
+        "CaseA": "Hoa Kỳ ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Tây Ban Nha ",
+        "Question": "Washington DC là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 36
+    },
+    {
+        "CaseA": "Bóng rổ ",
+        "CaseB": "Điền kinh ",
+        "CaseC": "Bóng đá ",
+        "CaseD": "Bóng chuyền ",
+        "Question": "Người ta thường xem môn thể thao nào là môn thể thao vua?",
+        "TrueCase": 3,
+        "_id": 37
+    },
+    {
+        "CaseA": "Pháo ",
+        "CaseB": "Tướng ",
+        "CaseC": "Tốt ",
+        "CaseD": "Mã ",
+        "Question": "Hồ Chí Minh từng dạy: \"Lạc nước hai xe đành bỏ phí - Gặp thời một ... cũng thành công\"?",
+        "TrueCase": 3,
+        "_id": 38
+    },
+    {
+        "CaseA": "Luộc ",
+        "CaseB": "Nấu ",
+        "CaseC": "Hấp ",
+        "CaseD": "Kho ",
+        "Question": "Phương pháp nào sau đây không phải là phương pháp chính làm chín thức ăn?",
+        "TrueCase": 3,
+        "_id": 39
+    },
+    {
+        "CaseA": "Không có núi ",
+        "CaseB": "Không có biển ",
+        "CaseC": "Không có đồng bằng ",
+        "CaseD": "Không có sông lớn ",
+        "Question": "Nét đặc trưng của tự nhiên Lào?",
+        "TrueCase": 2,
+        "_id": 40
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "3",
+        "CaseC": "4 ",
+        "CaseD": "5",
+        "Question": "Ở Việt Nam có bao nhiêu mạng di động sử dụng công nghệ GSM?",
+        "TrueCase": 2,
+        "_id": 41
+    },
+    {
+        "CaseA": "Cực hình",
+        "CaseB": "Nghĩa vụ ",
+        "CaseC": "Trách nhiệm",
+        "CaseD": "Sở thích",
+        "Question": "Khi tham gia giao thông, đội mũ bảo hiểm là gì đối với chúng ta?",
+        "TrueCase": 2,
+        "_id": 42
+    },
+    {
+        "CaseA": "Phật giáo ",
+        "CaseB": "Thiên chúa giáo ",
+        "CaseC": "Hindu giáo ",
+        "CaseD": "Hồi giáo",
+        "Question": "Tôn giáo có nhiều tín đồ nhất trên thế giới?",
+        "TrueCase": 2,
+        "_id": 43
+    },
+    {
+        "CaseA": "Firefox",
+        "CaseB": "Opera",
+        "CaseC": "Paint ",
+        "CaseD": "Firefox và Opera",
+        "Question": "Trong các chương trình sau đây, chương trình nào được dùng để duyệt Web?",
+        "TrueCase": 4,
+        "_id": 44
+    },
+    {
+        "CaseA": "Kim Tự Tháp",
+        "CaseB": "Vườn treo Babylon ",
+        "CaseC": "Vạn Lý Trường Thành ",
+        "CaseD": "Đấu trường La Mã ",
+        "Question": "Một trong những kỳ quan của thế giới ở Ai Cập?",
+        "TrueCase": 1,
+        "_id": 45
+    },
+    {
+        "CaseA": "Ctrl + C",
+        "CaseB": "Ctrl + V ",
+        "CaseC": "Ctrl + X",
+        "CaseD": "Alt + V",
+        "Question": "Trong Windows bấm tổ hợp phím nào để dán tập tin sau khi đã Copy?",
+        "TrueCase": 2,
+        "_id": 46
+    },
+    {
+        "CaseA": "Ai Cập ",
+        "CaseB": "Ả rập Saudi ",
+        "CaseC": "Albania ",
+        "CaseD": "Algeria ",
+        "Question": "Cairo là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 47
+    },
+    {
+        "CaseA": "Thuỷ Hử ",
+        "CaseB": "Tam Quốc Diễn Nghĩa ",
+        "CaseC": "Tây Du Ký ",
+        "CaseD": "Hồng Lâu Mộng ",
+        "Question": "Tác phẩm nào sau đây là của nhà văn nổi tiếng Ngô Thừa Ân?",
+        "TrueCase": 3,
+        "_id": 48
+    },
+    {
+        "CaseA": "Tây Ban Nha ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Hoa Kỳ ",
+        "CaseD": "Pháp ",
+        "Question": "Nước nào sau đây có nhiều bò và trồng nhiều chè nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 49
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6",
+        "Question": "Trái đất có bao nhiêu lục địa?",
+        "TrueCase": 3,
+        "_id": 50
+    },
+    {
+        "CaseA": "Rang ",
+        "CaseB": "Rán ",
+        "CaseC": "Xào ",
+        "CaseD": "Đồ ",
+        "Question": "Phương pháp nào không phải là phương pháp làm chín thực phẩm trong chất béo?",
+        "TrueCase": 4,
+        "_id": 51
+    },
+    {
+        "CaseA": "Hệ điều hành ",
+        "CaseB": "Tập tin ",
+        "CaseC": "Virus",
+        "CaseD": "Thư mục ",
+        "Question": "Phần mềm chuyên phá hoại hệ thống máy tính, gây phiền cho người sử dụng gọi là gì?",
+        "TrueCase": 3,
+        "_id": 52
+    },
+    {
+        "CaseA": "Brunei",
+        "CaseB": "Indonesia",
+        "CaseC": "Malaysia",
+        "CaseD": "Thái Lan",
+        "Question": "Băng Cốc là thủ đô của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 53
+    },
+    {
+        "CaseA": "Nguyễn KHuyến",
+        "CaseB": "Tố Hữu",
+        "CaseC": "Nguyễn Thanh Hải",
+        "CaseD": "Hồ Chí Minh",
+        "Question": "\"Con cáo và tổ ong\" là tác phẩm của nhà thơ nào?",
+        "TrueCase": 4,
+        "_id": 54
+    },
+    {
+        "CaseA": "Phần Lan ",
+        "CaseB": "Hà Lan ",
+        "CaseC": "Nauy",
+        "CaseD": "Thuỵ Điển ",
+        "Question": "Quốc gia nào được xem là quê hương của cối xay gió?",
+        "TrueCase": 2,
+        "_id": 55
+    },
+    {
+        "CaseA": "David Beckham ",
+        "CaseB": "Ronaldo ",
+        "CaseC": "Ronaldino",
+        "CaseD": "Herri",
+        "Question": "Cầu thủ nào được mệnh danh là người ngoài hành tinh?",
+        "TrueCase": 2,
+        "_id": 56
+    },
+    {
+        "CaseA": "Khoa học  Đời sống ",
+        "CaseB": "Tuổi trẻ ",
+        "CaseC": "Echip ",
+        "CaseD": "Mực tím",
+        "Question": "Báo nào chuyên phản ánh về Công Nghệ Thông Tin?",
+        "TrueCase": 3,
+        "_id": 57
+    },
+    {
+        "CaseA": "An Giang ",
+        "CaseB": "Long An ",
+        "CaseC": "Đồng Tháp ",
+        "CaseD": "Bến Tre",
+        "Question": "Khi vào Việt Nam, sông Mekong chảy qua tỉnh nào đầu tiên?",
+        "TrueCase": 1,
+        "_id": 58
+    },
+    {
+        "CaseA": "Dominica",
+        "CaseB": "Đông Timo ",
+        "CaseC": "Đan Mạch ",
+        "CaseD": "Djibouti",
+        "Question": "Copenhagen là thủ đô nước nào?",
+        "TrueCase": 3,
+        "_id": 59
+    },
+    {
+        "CaseA": "Thạch Anh ",
+        "CaseB": "Topa ",
+        "CaseC": "Kim cương ",
+        "CaseD": "Thạch cao ",
+        "Question": "Khoáng chất nào cứng nhất trong các khoáng chất sau?",
+        "TrueCase": 3,
+        "_id": 60
+    },
+    {
+        "CaseA": "Thanh Hoá ",
+        "CaseB": "Nghệ An ",
+        "CaseC": "Quảng Bình ",
+        "CaseD": "Thừa Thiên  Huế ",
+        "Question": "Thành phố Huế trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 61
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Châm ngôn ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Kim vàng ai nỡ uốn câu. Người khôn ai nỡ nói câu nặng lời\". Thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 62
+    },
+    {
+        "CaseA": "Green ",
+        "CaseB": "Red ",
+        "CaseC": "Blue ",
+        "CaseD": "Flower ",
+        "Question": "Từ nào sau đây không cùng nhóm với các từ còn lại?",
+        "TrueCase": 4,
+        "_id": 63
+    },
+    {
+        "CaseA": "Động vật ",
+        "CaseB": "Con người",
+        "CaseC": "Chòm sao ",
+        "CaseD": "Mặt trời ",
+        "Question": "Người ta dùng từ Zodiac để chỉ các cung hoàng đạo, vậy Zodiac có nghĩa là gì ?",
+        "TrueCase": 3,
+        "_id": 64
+    },
+    {
+        "CaseA": "Nguyễn Ái Quốc",
+        "CaseB": "Nguyễn Tất Thành",
+        "CaseC": "Văn Ba",
+        "CaseD": "Hồ Chí Minh",
+        "Question": "Lúc Bác Hồ ra đi tìm đường cứu nước, Bác lấy tên là gì?",
+        "TrueCase": 3,
+        "_id": 65
+    },
+    {
+        "CaseA": "02/03",
+        "CaseB": "03/04",
+        "CaseC": "03/02",
+        "CaseD": "04/02",
+        "Question": "Ngày thành lập Đảng Cộng Sản Việt Nam?",
+        "TrueCase": 3,
+        "_id": 66
+    },
+    {
+        "CaseA": "Vàng ",
+        "CaseB": "Bạc ",
+        "CaseC": "Nhôm ",
+        "CaseD": "Đồng",
+        "Question": "Kim loại dẫn điện tốt nhất?",
+        "TrueCase": 2,
+        "_id": 67
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Trung Quốc",
+        "CaseD": "Triều Tiên ",
+        "Question": "Đất nước nào là xứ sở của hoa Anh Đào?",
+        "TrueCase": 2,
+        "_id": 68
+    },
+    {
+        "CaseA": "Nhôm ",
+        "CaseB": "Đồng ",
+        "CaseC": "Cacbon ",
+        "CaseD": "Bạc ",
+        "Question": "Gang là hợp chất của Sắt và 1 lượng nhỏ chất gì?",
+        "TrueCase": 3,
+        "_id": 69
+    },
+    {
+        "CaseA": "Tày ",
+        "CaseB": "Mường ",
+        "CaseC": "Khmer",
+        "CaseD": "Hoa ",
+        "Question": "Dân tộc nào có số dân đông thứ 2 Việt Nam?",
+        "TrueCase": 1,
+        "_id": 70
+    },
+    {
+        "CaseA": "Cuba",
+        "CaseB": "Croatia",
+        "CaseC": "Cambodia",
+        "CaseD": "Cameroon",
+        "Question": "Havana là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 71
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Ấn Độ ",
+        "Question": "Samurai là những chiến binh thời xưa của nước nào?",
+        "TrueCase": 2,
+        "_id": 72
+    },
+    {
+        "CaseA": "Bà Rịa  Vũng Tàu ",
+        "CaseB": "Bình Thuận ",
+        "CaseC": "Ninh Thuận ",
+        "CaseD": "Đồng Nai ",
+        "Question": "Thành phố Vũng Tàu trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 73
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Tục ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Ngạn ngữ ",
+        "Question": "Câu nói: \"Nước trong quá không có cá, người xét nét quá không có bạn\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 74
+    },
+    {
+        "CaseA": "Doctor ",
+        "CaseB": "Teacher",
+        "CaseC": "Book ",
+        "CaseD": "Student ",
+        "Question": "Từ nào sau đây không cùng nhóm với các từ còn lại?",
+        "TrueCase": 3,
+        "_id": 75
+    },
+    {
+        "CaseA": "Thuỵ Điển ",
+        "CaseB": "Thuỵ Sĩ ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Anh ",
+        "Question": "Những ngân phiếu đầu tiên trên thế giới được in ở đâu?",
+        "TrueCase": 1,
+        "_id": 76
+    },
+    {
+        "CaseA": "Đông á",
+        "CaseB": "Trung á",
+        "CaseC": "Nam Á",
+        "CaseD": "Đông Nam Á ",
+        "Question": "Asean là hiệp hội của các nước thuộc khu vực nào?",
+        "TrueCase": 4,
+        "_id": 77
+    },
+    {
+        "CaseA": "WAN",
+        "CaseB": "LAN",
+        "CaseC": "WIFI",
+        "CaseD": "WTO",
+        "Question": "Các từ viết tắt sau đây, từ nào có nghĩa rất khác với các từ còn lại?",
+        "TrueCase": 4,
+        "_id": 78
+    },
+    {
+        "CaseA": "New York",
+        "CaseB": "Singapore",
+        "CaseC": "Seoul ",
+        "CaseD": "Berlin",
+        "Question": "Thành phố nào sạch nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 79
+    },
+    {
+        "CaseA": "Chuối ",
+        "CaseB": "Dưa chuột ",
+        "CaseC": "Mít ",
+        "CaseD": "Táo ",
+        "Question": "Nhắc đến Issac Newton, người ta thường nghĩ đến trái cây nào?",
+        "TrueCase": 4,
+        "_id": 80
+    },
+    {
+        "CaseA": "Pharaong",
+        "CaseB": "Thành Cát Tư Hãn ",
+        "CaseC": "Hitle",
+        "CaseD": "Napoleon",
+        "Question": "Vị tướng chinh phạt cả Châu Âu?",
+        "TrueCase": 4,
+        "_id": 81
+    },
+    {
+        "CaseA": "Tam đàn ",
+        "CaseB": "Tam thường ",
+        "CaseC": "Tam hệ ",
+        "CaseD": "Tam cương",
+        "Question": "3 mối quan hệ: vua tôi, cha con, vợ chồng được coi là gì?",
+        "TrueCase": 4,
+        "_id": 82
+    },
+    {
+        "CaseA": "Chile",
+        "CaseB": "Colombia",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Cuba ",
+        "Question": "Bắc Kinh là thủ đô nước nào?",
+        "TrueCase": 3,
+        "_id": 83
+    },
+    {
+        "CaseA": "Súng ",
+        "CaseB": "Phi tiêu ",
+        "CaseC": "Kiếm ",
+        "CaseD": "Cung ",
+        "Question": "Vũ khí của các chiến binh Samurai là gì?",
+        "TrueCase": 3,
+        "_id": 84
+    },
+    {
+        "CaseA": "Thanh ",
+        "CaseB": "Mông ",
+        "CaseC": "Minh ",
+        "CaseD": "Lê",
+        "Question": "Điền vào chỗ trống: \"Ai lên Biên Thượng, Lam Sơn, Nhớ Lê Thái Tổ, chặn đường quân ...\"?",
+        "TrueCase": 3,
+        "_id": 85
+    },
+    {
+        "CaseA": "Ốc ",
+        "CaseB": "Hến ",
+        "CaseC": "Tôm ",
+        "CaseD": "Cua ",
+        "Question": "Trong các chi tiết máy, có tên của con vật nào?",
+        "TrueCase": 1,
+        "_id": 86
+    },
+    {
+        "CaseA": "Orange ",
+        "CaseB": "Go ",
+        "CaseC": "Visit ",
+        "CaseD": "Play ",
+        "Question": "Từ nào sau đây không cùng nhóm với các từ còn lại?",
+        "TrueCase": 1,
+        "_id": 87
+    },
+    {
+        "CaseA": "Pháp ",
+        "CaseB": "Thuỵ Điển ",
+        "CaseC": "Đức ",
+        "CaseD": "Tây Ban Nha ",
+        "Question": "Nước nào thuộc Liên Minh Châu Âu EU có diện tích rộng nhất ?",
+        "TrueCase": 1,
+        "_id": 88
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Vòng chung kết cúp bóng đá thế giới World Cup được tổ chức mấy năm một lần?",
+        "TrueCase": 4,
+        "_id": 89
+    },
+    {
+        "CaseA": "Chó ",
+        "CaseB": "Lớn",
+        "CaseC": "Mèo ",
+        "CaseD": "Cá ",
+        "Question": "Loài động vật nào sau đây khác xa với các loài còn lại?",
+        "TrueCase": 4,
+        "_id": 90
+    },
+    {
+        "CaseA": "26/03/1930",
+        "CaseB": "26/03/1993",
+        "CaseC": "26/03/1932",
+        "CaseD": "26/03/1931",
+        "Question": "Ngày thành lập Đoàn TNCS Hồ Chí Minh?",
+        "TrueCase": 4,
+        "_id": 91
+    },
+    {
+        "CaseA": "99 ",
+        "CaseB": "89",
+        "CaseC": "79",
+        "CaseD": "69",
+        "Question": "Bác Hồ hưởng thọ bao nhiêu tuổi?",
+        "TrueCase": 3,
+        "_id": 92
+    },
+    {
+        "CaseA": "Gân lá ",
+        "CaseB": "Diệp lục ",
+        "CaseC": "Chất cutin",
+        "CaseD": "Lỗ khí ",
+        "Question": "Cái nào ngăn cản sự thoát hơi nước của lá cây?",
+        "TrueCase": 3,
+        "_id": 93
+    },
+    {
+        "CaseA": "2001",
+        "CaseB": "2002",
+        "CaseC": "2003",
+        "CaseD": "2004",
+        "Question": "Vụ khủng bố 11/09 tại Mỹ xảy ra vào năm nào?",
+        "TrueCase": 1,
+        "_id": 94
+    },
+    {
+        "CaseA": "Cameroon",
+        "CaseB": "Canada",
+        "CaseC": "Chile",
+        "CaseD": "Cambodia",
+        "Question": "Phnom Penh là thủ đô của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 95
+    },
+    {
+        "CaseA": "Marco Polo",
+        "CaseB": "Christopher Colombus",
+        "CaseC": "Washington",
+        "CaseD": "James Cook",
+        "Question": "Ai là người tìm ra châu Mỹ?",
+        "TrueCase": 2,
+        "_id": 96
+    },
+    {
+        "CaseA": "Trước sau ",
+        "CaseB": "Sau trước ",
+        "CaseC": "Trước, sau ",
+        "CaseD": "Sau, trước",
+        "Question": "Điền vào chỗ trống: \"Ai ơi chớ vội cười nhau, Ngẫm mình cho kỹ, ... mới cười\"?",
+        "TrueCase": 1,
+        "_id": 97
+    },
+    {
+        "CaseA": "Thắng 1 màn ",
+        "CaseB": "Dừng cuộc chơi ",
+        "CaseC": "Thua cuộc ",
+        "CaseD": "Vô địch",
+        "Question": "Khi chơi game trên máy tính, ta gặp dòng chữ Game Over, điều này có nghĩa gì?",
+        "TrueCase": 3,
+        "_id": 98
+    },
+    {
+        "CaseA": "Winter ",
+        "CaseB": "Water ",
+        "CaseC": "Spring ",
+        "CaseD": "Summer ",
+        "Question": "Từ nào sau đây không cùng nhóm với các từ còn lại?",
+        "TrueCase": 2,
+        "_id": 99
+    },
+    {
+        "CaseA": "Alexandre Dumas",
+        "CaseB": "Victor Hugo",
+        "CaseC": "Charles Dicken",
+        "CaseD": "Lev Tonxtoi",
+        "Question": "Ai là tác giả của tác phẩm nổi tiếng 'Ba chàng ngự lâm pháo thủ' ?",
+        "TrueCase": 1,
+        "_id": 100
+    },
+    {
+        "CaseA": "Trọng Hoàng",
+        "CaseB": "Lê Công Vinh ",
+        "CaseC": "Nguyễn Hữu Thắng",
+        "CaseD": "Nguyễn Hồng Sơn",
+        "Question": "Cầu thủ Việt Nam đã từng chơi bóng ở Châu Âu?",
+        "TrueCase": 2,
+        "_id": 101
+    },
+    {
+        "CaseA": "Ếch",
+        "CaseB": "Chim ",
+        "CaseC": "Rắn ",
+        "CaseD": "Cá",
+        "Question": "Trong các loài động vật sau đây, loài nào thuộc lớp bò sát?",
+        "TrueCase": 3,
+        "_id": 102
+    },
+    {
+        "CaseA": "1971",
+        "CaseB": "1973",
+        "CaseC": "1975 ",
+        "CaseD": "1977",
+        "Question": "Chiến dịch Hồ Chí Minh diễn ra vào năm nào?",
+        "TrueCase": 3,
+        "_id": 103
+    },
+    {
+        "CaseA": "Ắc quy ",
+        "CaseB": "Công tơ điện ",
+        "CaseC": "Cầu dao ",
+        "CaseD": "Ổn áp",
+        "Question": "Thiết bị nào dùng để đo điện trong gia đình?",
+        "TrueCase": 2,
+        "_id": 104
+    },
+    {
+        "CaseA": "354 ",
+        "CaseB": "365",
+        "CaseC": "366",
+        "CaseD": "367",
+        "Question": "Năm nhuận có bao nhiêu ngày?",
+        "TrueCase": 3,
+        "_id": 105
+    },
+    {
+        "CaseA": "11-09-2001",
+        "CaseB": "11-08-2011",
+        "CaseC": "12-09-2001",
+        "CaseD": "11-9-2002",
+        "Question": "Trung tâm thương mại thế giới của Mỹ đã bị bọn khủng bố đánh sập toàn bộ vào thời điểm nào?",
+        "TrueCase": 1,
+        "_id": 106
+    },
+    {
+        "CaseA": "Belarus",
+        "CaseB": "Bangladesh",
+        "CaseC": "Brazil",
+        "CaseD": "Bolivia",
+        "Question": "Brasilia là thủ đô của quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 107
+    },
+    {
+        "CaseA": "Hành tây ",
+        "CaseB": "Tỏi ",
+        "CaseC": "Rau diếp ",
+        "CaseD": "Nho ",
+        "Question": "Trong các loại sau đây, loại nào có đặc tính ít giống với 4 loại còn lại?",
+        "TrueCase": 4,
+        "_id": 108
+    },
+    {
+        "CaseA": "Mình ",
+        "CaseB": "Đời ",
+        "CaseC": "Người ",
+        "CaseD": "Tình ",
+        "Question": "Điền từ thích hợp: \"Ai ơi, mồng chín tháng tư, Không đi hội Gióng, cũng hư một...\"?",
+        "TrueCase": 2,
+        "_id": 109
+    },
+    {
+        "CaseA": "Cá voi ",
+        "CaseB": "Cá mập trắng ",
+        "CaseC": "Cá nhà táng",
+        "CaseD": "Cá heo ",
+        "Question": "Loài cá săn mồi nào lớn nhất, hung dữ nhất?",
+        "TrueCase": 2,
+        "_id": 110
+    },
+    {
+        "CaseA": "112 ",
+        "CaseB": "113 ",
+        "CaseC": "114 ",
+        "CaseD": "115",
+        "Question": "Số điện thoại gọi cấp cứu khẩn cấp là số nào trong các số sau đây?",
+        "TrueCase": 4,
+        "_id": 111
+    },
+    {
+        "CaseA": "Trọng tâm",
+        "CaseB": "Trực tâm ",
+        "CaseC": "Tâm đường tròn nội tiếp ",
+        "CaseD": "Tâm đường tròn ngoại tiếp",
+        "Question": "Giao điểm của 3 đường trung trực của một tam giác được gọi là gì?",
+        "TrueCase": 4,
+        "_id": 112
+    },
+    {
+        "CaseA": "Kiatisak",
+        "CaseB": "Bima Sakti",
+        "CaseC": "Nguyễn Hồng Sơn",
+        "CaseD": "Natifon",
+        "Question": "Cầu thủ bóng đá nam xuất sắc nhất Tiger Cup 1998 là ai?",
+        "TrueCase": 3,
+        "_id": 113
+    },
+    {
+        "CaseA": "RAM",
+        "CaseB": "HDD",
+        "CaseC": "Case",
+        "CaseD": "Mainboard",
+        "Question": "Trong các bộ phận sau đây, bộ phận nào chứa các bộ phận còn lại?",
+        "TrueCase": 3,
+        "_id": 114
+    },
+    {
+        "CaseA": "Hoa Kỳ ",
+        "CaseB": "Brazil ",
+        "CaseC": "Anh ",
+        "CaseD": "Đức ",
+        "Question": "Bức tượng Nữ Thần Tự Do nằm ở quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 115
+    },
+    {
+        "CaseA": "Ông trời đánh rắm",
+        "CaseB": "Tia lửa điện",
+        "CaseC": "Tia sáng ",
+        "CaseD": "Tia tử ngoại",
+        "Question": "Sấm sét là gì?",
+        "TrueCase": 2,
+        "_id": 116
+    },
+    {
+        "CaseA": "12%",
+        "CaseB": "50%",
+        "CaseC": "71%",
+        "CaseD": "25%",
+        "Question": "Nước chiếm bao nhiêu %  diện tích Trái đất?",
+        "TrueCase": 3,
+        "_id": 117
+    },
+    {
+        "CaseA": "Hình tròn ",
+        "CaseB": "Hình cầu ",
+        "CaseC": "Hình bầu dục ",
+        "CaseD": "Hình cầu hơi dẹt ",
+        "Question": "Trái đất hình gì?",
+        "TrueCase": 4,
+        "_id": 118
+    },
+    {
+        "CaseA": "Úc ",
+        "CaseB": "Áo ",
+        "CaseC": "Angola ",
+        "CaseD": "Azebaijan ",
+        "Question": "Vienna là thủ đô nước nào?",
+        "TrueCase": 2,
+        "_id": 119
+    },
+    {
+        "CaseA": "Hoa hướng dương",
+        "CaseB": "Hoa hồng ",
+        "CaseC": "Hoa mai ",
+        "CaseD": "Hoa cúc ",
+        "Question": "Trong các loài hoa sau đây, loài hoa nào thường nở vào mùa xuân?",
+        "TrueCase": 3,
+        "_id": 120
+    },
+    {
+        "CaseA": "Sang ",
+        "CaseB": "Đông ",
+        "CaseC": "Vui ",
+        "CaseD": "Nhanh ",
+        "Question": "Điền từ thích hợp: \"Ai về cầu ngói Thanh Toàn. Đợi đây về với, một đoàn cho ...\"?",
+        "TrueCase": 3,
+        "_id": 121
+    },
+    {
+        "CaseA": "Nhôm ",
+        "CaseB": "Đồng ",
+        "CaseC": "Sắt ",
+        "CaseD": "Vàng ",
+        "Question": "Kim loại nào sau đây quý hơn các kim loại còn lại?",
+        "TrueCase": 4,
+        "_id": 122
+    },
+    {
+        "CaseA": "112 ",
+        "CaseB": "113",
+        "CaseC": "114 ",
+        "CaseD": "115 ",
+        "Question": "Số điện thoại gọi cứu hoả khẩn cấp là số nào trong các số sau đây?",
+        "TrueCase": 3,
+        "_id": 123
+    },
+    {
+        "CaseA": "Căn bậc 2 của 2 ",
+        "CaseB": "Căn bậc 3 của 3",
+        "CaseC": "Căn bậc 4 của 4 ",
+        "CaseD": "Căn bậc 5 của 5 ",
+        "Question": "Số nào lớn nhất trong các số sau?",
+        "TrueCase": 2,
+        "_id": 124
+    },
+    {
+        "CaseA": "Nga",
+        "CaseB": "Rumania",
+        "CaseC": "Thuỵ Điển",
+        "CaseD": "Nauy",
+        "Question": "Quốc gia nào thuộc Châu Âu nhưng phần lớn lãnh thổ lại ở Châu Á?",
+        "TrueCase": 1,
+        "_id": 125
+    },
+    {
+        "CaseA": "Công nghệ sinh học",
+        "CaseB": "Công nghệ thông tin ",
+        "CaseC": "Công nghệ thực phẩm ",
+        "CaseD": "Công nghệ phần mềm",
+        "Question": "Information Technology có nghĩa là gì?",
+        "TrueCase": 2,
+        "_id": 126
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6",
+        "Question": "Lá cờ của Olympic có bao nhiêu vòng tròn?",
+        "TrueCase": 3,
+        "_id": 127
+    },
+    {
+        "CaseA": "Ruột ",
+        "CaseB": "Gan ",
+        "CaseC": "Mang ",
+        "CaseD": "Thận ",
+        "Question": "Ở loài cá, máu được trao đổi khí qua cơ quan nào?",
+        "TrueCase": 3,
+        "_id": 128
+    },
+    {
+        "CaseA": "Sợi tóc ",
+        "CaseB": "Ngón tay ",
+        "CaseC": "Xương sườn ",
+        "CaseD": "Ngón chân",
+        "Question": "Eva được sinh ra từ bộ phận nào của Adam?",
+        "TrueCase": 3,
+        "_id": 129
+    },
+    {
+        "CaseA": "Khỉ vàng ",
+        "CaseB": "Con vượn ",
+        "CaseC": "Đười ươi ",
+        "CaseD": "Con culi ",
+        "Question": "Con khỉ gió là con gì?",
+        "TrueCase": 4,
+        "_id": 130
+    },
+    {
+        "CaseA": "Indonesia",
+        "CaseB": "Jamaica ",
+        "CaseC": "Jordan ",
+        "CaseD": "Italia  ",
+        "Question": "Rome là thủ đô của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 131
+    },
+    {
+        "CaseA": "Hoa đào ",
+        "CaseB": "Hoa mimosa ",
+        "CaseC": "Hoa Thiên lý ",
+        "CaseD": "Hoa tóc tiên ",
+        "Question": "Trong các loài hoa sau đây, loài hoa nào thường nở vào mùa xuân?",
+        "TrueCase": 1,
+        "_id": 132
+    },
+    {
+        "CaseA": "Chơi ",
+        "CaseB": "Qua ",
+        "CaseC": "Tại ",
+        "CaseD": "Xem ",
+        "Question": "Điền vào chỗ trống: \"Ai về đến huyện Đông Anh,Ghé ... phong cảnh Loa Thành, Thục Vương\"?",
+        "TrueCase": 4,
+        "_id": 133
+    },
+    {
+        "CaseA": "Chì ",
+        "CaseB": "Bạch kim ",
+        "CaseC": "Đồng ",
+        "CaseD": "Bạc ",
+        "Question": "Trong các kim loại sau đây, kim loại nào quý hơn các kim loại còn lại?",
+        "TrueCase": 2,
+        "_id": 134
+    },
+    {
+        "CaseA": "Gọi cứu thương ",
+        "CaseB": "Gọi cứu hoả ",
+        "CaseC": "Gọi cảnh sát",
+        "CaseD": "Gọi tổng đài ",
+        "Question": "113 là số điện thoại khẩn cấp gọi đến bộ phận nào?",
+        "TrueCase": 3,
+        "_id": 135
+    },
+    {
+        "CaseA": "Nằm sấp ",
+        "CaseB": "Nằm ngửa ",
+        "CaseC": "Nằm nghiêng sang trái ",
+        "CaseD": "Nằm nghiêng sang phải ",
+        "Question": "Khi ngủ , tư thế nằm như thế nào là có lợi nhất đối với tim ?",
+        "TrueCase": 4,
+        "_id": 136
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Campuchia",
+        "CaseC": "Lào",
+        "CaseD": "Thái Lan",
+        "Question": "Trong các nước giáp với nước ta, biên giới với nước nào dài nhất?",
+        "TrueCase": 3,
+        "_id": 137
+    },
+    {
+        "CaseA": "1/15",
+        "CaseB": "1/30 ",
+        "CaseC": "1/60 ",
+        "CaseD": "1/90",
+        "Question": "Đơn vị góc 1 độ ứng với 1 phần bao nhiêu của góc vuông phẳng?",
+        "TrueCase": 4,
+        "_id": 138
+    },
+    {
+        "CaseA": "Tứ thơ ",
+        "CaseB": "Vần nhịp ",
+        "CaseC": "Nhân vật",
+        "CaseD": "Luận điểm",
+        "Question": "Yếu tố nào có ở cả ba thể loại: truyện, ký, thơ kể chuyện?",
+        "TrueCase": 3,
+        "_id": 139
+    },
+    {
+        "CaseA": "Bộ Ngỗng ",
+        "CaseB": "Bộ Gà ",
+        "CaseC": "Bộ Chim Ưng ",
+        "CaseD": "Bộ Cú",
+        "Question": "Chim diều hâu thuộc bộ nào?",
+        "TrueCase": 3,
+        "_id": 140
+    },
+    {
+        "CaseA": "Cá Chim ",
+        "CaseB": "Cá Thu",
+        "CaseC": "Cá Heo ",
+        "CaseD": "Basa",
+        "Question": "Loài cá nào không sống ở biển?",
+        "TrueCase": 4,
+        "_id": 141
+    },
+    {
+        "CaseA": "Mice ",
+        "CaseB": "Mous",
+        "CaseC": "Mouses ",
+        "CaseD": "Mices ",
+        "Question": "Danh từ số nhiều của danh từ tiếng Anh \"Mouse - chuột\" là gì?",
+        "TrueCase": 1,
+        "_id": 142
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Hàn Quốc ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Triều Tiên ",
+        "Question": "Tokyo là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 143
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Campuchia",
+        "Question": "Trong các nước giáp với nước ta, biên giới với nước nào ngắn nhất?",
+        "TrueCase": 4,
+        "_id": 144
+    },
+    {
+        "CaseA": "Coi ",
+        "CaseB": "Chơi ",
+        "CaseC": "Xem ",
+        "CaseD": "Hay ",
+        "Question": "Điền từ thích hợp: \"Ai về Hậu Ái mà .... Có mương quan Thái thú, đào một đêm xong liền\"?",
+        "TrueCase": 3,
+        "_id": 145
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Nước ta có mấy ngày dành cho phụ nữ?",
+        "TrueCase": 2,
+        "_id": 146
+    },
+    {
+        "CaseA": "Gọi công an ",
+        "CaseB": "Gọi tổng đài ",
+        "CaseC": "Gọi cứu hoả ",
+        "CaseD": "Gọi cứu thương ",
+        "Question": "114 là số điện thoại khẩn cấp gọi đến bộ phận nào?",
+        "TrueCase": 3,
+        "_id": 147
+    },
+    {
+        "CaseA": "Amazon",
+        "CaseB": "Nil ",
+        "CaseC": "Mississippi",
+        "CaseD": "Dương Tử",
+        "Question": "Con sông dài nhất thế giới tên là gì?",
+        "TrueCase": 2,
+        "_id": 148
+    },
+    {
+        "CaseA": "Hồ Quỳnh Hương",
+        "CaseB": "Hồ Xuân Hương ",
+        "CaseC": "Bà Huyện Thanh Quan",
+        "CaseD": "Nguyễn Du",
+        "Question": "Bài thơ bánh trôi nước là sáng tác của thi sĩ nào?",
+        "TrueCase": 2,
+        "_id": 149
+    },
+    {
+        "CaseA": "Nội dung ",
+        "CaseB": "Thứ tự các mục ",
+        "CaseC": "Tên văn bản ",
+        "CaseD": "Số liệu báo cáo ",
+        "Question": "Các văn bản giống nhau ở chỗ nào?",
+        "TrueCase": 2,
+        "_id": 150
+    },
+    {
+        "CaseA": "Bộ Ngỗng ",
+        "CaseB": "Bộ Gà ",
+        "CaseC": "Bô Chim Ưng ",
+        "CaseD": "Bộ Cú",
+        "Question": "Chim công thuộc bộ nào?",
+        "TrueCase": 2,
+        "_id": 151
+    },
+    {
+        "CaseA": "Khỉ ",
+        "CaseB": "Mèo ",
+        "CaseC": "Lợn ",
+        "CaseD": "Chó ",
+        "Question": "Con vật gì bị mù màu?",
+        "TrueCase": 4,
+        "_id": 152
+    },
+    {
+        "CaseA": "Giấy mới ",
+        "CaseB": "Giấy tốt ",
+        "CaseC": "Tờ báo ",
+        "CaseD": "Tờ rơi ",
+        "Question": "Newspaper có nghĩa là gì?",
+        "TrueCase": 3,
+        "_id": 153
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Triều Tiên ",
+        "Question": "Seoul là thủ đô nước nào?",
+        "TrueCase": 3,
+        "_id": 154
+    },
+    {
+        "CaseA": "Anh vợ ",
+        "CaseB": "Ông vợ ",
+        "CaseC": "Bố vợ ",
+        "CaseD": "Chú vợ ",
+        "Question": "Nhạc phụ là ai?",
+        "TrueCase": 3,
+        "_id": 155
+    },
+    {
+        "CaseA": "Đi, về",
+        "CaseB": "Về, đi ",
+        "CaseC": "Xuống, lên ",
+        "CaseD": "Lên, xuống ",
+        "Question": "Điền từ thích hợp vào chỗ trống: \"Ai về nhắn với bạn nguồn, Mít non chở ..., cá chuồn chở ...\"?",
+        "TrueCase": 3,
+        "_id": 156
+    },
+    {
+        "CaseA": "Gỗ ",
+        "CaseB": "Thanh tre ",
+        "CaseC": "Giấy manh ",
+        "CaseD": "Giấy dó ",
+        "Question": "Tranh Đông Hồ được vẽ trên chất liệu gì?",
+        "TrueCase": 4,
+        "_id": 157
+    },
+    {
+        "CaseA": "Gọi tổng đài ",
+        "CaseB": "Gọi cứu thương ",
+        "CaseC": "Gọi cứu hoả ",
+        "CaseD": "Gọi công an ",
+        "Question": "115 là số điện thoại khẩn cấp gọi đến bộ phận nào?",
+        "TrueCase": 2,
+        "_id": 158
+    },
+    {
+        "CaseA": "Sông Hàn",
+        "CaseB": "Sông Lô",
+        "CaseC": "Sông Hậu",
+        "CaseD": "Sông Thao",
+        "Question": "Sông nào là một nhánh của sông Mekong?",
+        "TrueCase": 3,
+        "_id": 159
+    },
+    {
+        "CaseA": "Kiệm",
+        "CaseB": "Cần ",
+        "CaseC": "Liêm ",
+        "CaseD": "Chính",
+        "Question": "Những điều sau đây, đâu là điều đầu tiên mà Bác Hồ đã dạy cho chúng ta?",
+        "TrueCase": 2,
+        "_id": 160
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Việt Nam ",
+        "CaseC": "Nga ",
+        "CaseD": "Ấn Độ",
+        "Question": "Sông Hằng ở quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 161
+    },
+    {
+        "CaseA": "Bộ Ngỗng ",
+        "CaseB": "Bộ Gà ",
+        "CaseC": "Bộ Chim Ưng ",
+        "CaseD": "Bộ Cú ",
+        "Question": "Chim cú mèo thuộc bộ nào?",
+        "TrueCase": 4,
+        "_id": 162
+    },
+    {
+        "CaseA": "Chuột ",
+        "CaseB": "Thỏ ",
+        "CaseC": "Trâu ",
+        "CaseD": "Gà ",
+        "Question": "Loài vật không nằm trong 12 con giáp Việt Nam?",
+        "TrueCase": 2,
+        "_id": 163
+    },
+    {
+        "CaseA": "Ca nhi ",
+        "CaseB": "Quả phụ ",
+        "CaseC": "Tương tư ",
+        "CaseD": "Du dương ",
+        "Question": "Từ nào không phải là từ Hán Việt trong các từ sau?",
+        "TrueCase": 3,
+        "_id": 164
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Triều Tiên ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Bình Nhưỡng là thủ đô nước nào?",
+        "TrueCase": 2,
+        "_id": 165
+    },
+    {
+        "CaseA": "Khứu giác ",
+        "CaseB": "Thính giác ",
+        "CaseC": "Vị giác ",
+        "CaseD": "Thị giác ",
+        "Question": "Trong 5 giác quan, lưỡi thuộc giác quan nào?",
+        "TrueCase": 3,
+        "_id": 166
+    },
+    {
+        "CaseA": "Người ",
+        "CaseB": "Nàng ",
+        "CaseC": "Mình ",
+        "CaseD": "Chàng ",
+        "Question": "Điền vào chỗ trống: \"Anh đi đóng đáy bãi ngang, Ngó qua Láng Lộc, thấy ... lượm tôm\"?",
+        "TrueCase": 2,
+        "_id": 167
+    },
+    {
+        "CaseA": "Tp. Hồ Chí Minh ",
+        "CaseB": "Tp. Đà Nẵng ",
+        "CaseC": "Tp. Hà Nội ",
+        "CaseD": "Tp. Cần Thơ ",
+        "Question": "Thành phố nào của Việt Nam còn được gọi là Tây Đô?",
+        "TrueCase": 4,
+        "_id": 168
+    },
+    {
+        "CaseA": "113 ",
+        "CaseB": "114 ",
+        "CaseC": "107 ",
+        "CaseD": "108",
+        "Question": "Tổng đài giải đáp thông tin có số điện thoại là số nào?",
+        "TrueCase": 4,
+        "_id": 169
+    },
+    {
+        "CaseA": "Brazil",
+        "CaseB": "Pháp",
+        "CaseC": "Anh",
+        "CaseD": "Tây Ban Nha",
+        "Question": "Quê hương của môn thể thao vua - bóng đá ở quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 170
+    },
+    {
+        "CaseA": "095",
+        "CaseB": "098",
+        "CaseC": "093",
+        "CaseD": "091",
+        "Question": "Đâu là đầu số của mạng di động mobifone?",
+        "TrueCase": 3,
+        "_id": 171
+    },
+    {
+        "CaseA": "Thổ Nhĩ Kỳ ",
+        "CaseB": "Canada ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Iran ",
+        "Question": "Trên quốc kỳ của quốc gia nào có hình chiếc lá ở trung tâm?",
+        "TrueCase": 2,
+        "_id": 172
+    },
+    {
+        "CaseA": "Bộ Ngỗng ",
+        "CaseB": "Bộ Gà ",
+        "CaseC": "Bộ Chim Ưng ",
+        "CaseD": "Bộ Cú ",
+        "Question": "Thiên Nga thuộc bộ nào?",
+        "TrueCase": 1,
+        "_id": 173
+    },
+    {
+        "CaseA": "Núi Hàm Rồng",
+        "CaseB": "Núi Thái Sơn ",
+        "CaseC": "Núi Tam Hợp ",
+        "CaseD": "Núi Phú Sĩ ",
+        "Question": "Ngọn núi nổi tiếng Nhật Bản?",
+        "TrueCase": 4,
+        "_id": 174
+    },
+    {
+        "CaseA": "Ngày đánh răng 3 lần ",
+        "CaseB": "Học cho đến khi nào thuộc",
+        "CaseC": "Gọi đến khi nào nhấc máy ",
+        "CaseD": "Chạy đến khi đến đích",
+        "Question": "Các hoạt động nào dưới đây lặp với số lần nhất định?",
+        "TrueCase": 1,
+        "_id": 175
+    },
+    {
+        "CaseA": "Campuchia ",
+        "CaseB": "Lào ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Myanmar",
+        "Question": "Viên Chăn là thủ đô của quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 176
+    },
+    {
+        "CaseA": "Thính giác ",
+        "CaseB": "Vị giác ",
+        "CaseC": "Xúc giác ",
+        "CaseD": "Khứu giác ",
+        "Question": "Trong 5 giác quan, da thuộc giác quan nào?",
+        "TrueCase": 3,
+        "_id": 177
+    },
+    {
+        "CaseA": "Đi, về ",
+        "CaseB": "Về, đi ",
+        "CaseC": "Lên, xuống",
+        "CaseD": "Xuống, lên ",
+        "Question": "Điền vào chỗ trống: \"Anh ..., em tiễn đến cầu Trò, Anh ..., em đón Ba Gò, Đông Viên\"?",
+        "TrueCase": 1,
+        "_id": 178
+    },
+    {
+        "CaseA": "Trung du Bắc Bộ ",
+        "CaseB": "Nam Bộ ",
+        "CaseC": "Trung du Nam Bộ ",
+        "CaseD": "Duyên hải Miền Trung ",
+        "Question": "Lý cây bông là điệu lý của miền nào?",
+        "TrueCase": 2,
+        "_id": 179
+    },
+    {
+        "CaseA": "0121",
+        "CaseB": "0163 ",
+        "CaseC": "0123",
+        "CaseD": "0199",
+        "Question": "Trong các đầu số sau đây, đầu số nào của mạng di động Mobifone?",
+        "TrueCase": 1,
+        "_id": 180
+    },
+    {
+        "CaseA": "Đắc Lắc",
+        "CaseB": "Gia Lai",
+        "CaseC": "Lâm Đồng",
+        "CaseD": "Kontum",
+        "Question": "Tỉnh nào có diện tích trồng cây Cà Phê lớn nhất Việt Nam?",
+        "TrueCase": 1,
+        "_id": 181
+    },
+    {
+        "CaseA": "091",
+        "CaseB": "098",
+        "CaseC": "0123",
+        "CaseD": "0122",
+        "Question": "Đâu là đầu số di động của mạng di động Mobifone?",
+        "TrueCase": 4,
+        "_id": 182
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "5",
+        "CaseC": "6",
+        "CaseD": "7",
+        "Question": "Hà Nội thuộc múi giở thứ mấy?",
+        "TrueCase": 4,
+        "_id": 183
+    },
+    {
+        "CaseA": "9",
+        "CaseB": "10",
+        "CaseC": "18",
+        "CaseD": "20",
+        "Question": "Một con gà và bốn con chuột, tổng cộng có bao nhiêu cái chân?",
+        "TrueCase": 3,
+        "_id": 184
+    },
+    {
+        "CaseA": "Cacbonic",
+        "CaseB": "Nitơ ",
+        "CaseC": "Mêtan",
+        "CaseD": "Oxi ",
+        "Question": "Cây xanh hô hấp nhờ khí gì?",
+        "TrueCase": 4,
+        "_id": 185
+    },
+    {
+        "CaseA": "Học đến khi thuộc",
+        "CaseB": "Chạy đến khi tới đích ",
+        "CaseC": "Mỗi ngày đi học 1 lần ",
+        "CaseD": "Gọi đến khi nhấc máy ",
+        "Question": "Các hoạt động nào dưới đây lặp với số lần nhất định?",
+        "TrueCase": 3,
+        "_id": 186
+    },
+    {
+        "CaseA": "Macedonia",
+        "CaseB": "Madagascar",
+        "CaseC": "Malaysia",
+        "CaseD": "Maldives",
+        "Question": "Kuala Lumpur là thủ đô của quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 187
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "5",
+        "CaseC": "6",
+        "CaseD": "7",
+        "Question": "Con người có bao nhiêu giác quan?",
+        "TrueCase": 2,
+        "_id": 188
+    },
+    {
+        "CaseA": "Nơi đâu ",
+        "CaseB": "Nơi nào",
+        "CaseC": "Nơi nao ",
+        "CaseD": "Chỗ nào ",
+        "Question": "Điền vào chỗ trống: \"Anh đi làm thợ .... Để em gánh đục, gánh bào theo anh\"?",
+        "TrueCase": 3,
+        "_id": 189
+    },
+    {
+        "CaseA": "6V",
+        "CaseB": "12V",
+        "CaseC": "39V",
+        "CaseD": "220V",
+        "Question": "Sử dụng điện thế nào dưới đây có thể gây nguy hiểm đối với cơ thể người?",
+        "TrueCase": 4,
+        "_id": 190
+    },
+    {
+        "CaseA": "0121",
+        "CaseB": "0122",
+        "CaseC": "0163",
+        "CaseD": "0123",
+        "Question": "Trong các đầu số sau đây, đầu số nào là của mạng di động Viettel?",
+        "TrueCase": 3,
+        "_id": 191
+    },
+    {
+        "CaseA": "Đèo Pađin",
+        "CaseB": "Đèo Ngang",
+        "CaseC": "Đèo Hải Vân",
+        "CaseD": "Đèo Dốc Xây",
+        "Question": "Đèo nào dài nhất Việt Nam?",
+        "TrueCase": 3,
+        "_id": 192
+    },
+    {
+        "CaseA": "097",
+        "CaseB": "0122",
+        "CaseC": "095",
+        "CaseD": "098",
+        "Question": "Đâu là đầu số của mạng di động Sfone?",
+        "TrueCase": 3,
+        "_id": 193
+    },
+    {
+        "CaseA": "Campuchia",
+        "CaseB": "Lào ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Myanmar",
+        "Question": "Ankor Wat thuộc quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 194
+    },
+    {
+        "CaseA": "Wed ",
+        "CaseB": "Web",
+        "CaseC": "Wei",
+        "CaseD": "Wad",
+        "Question": "Điền từ còn thiếu vào chuỗi sau: Mon, Tue, ... , Thu, Fri, Sat, Sun?",
+        "TrueCase": 2,
+        "_id": 195
+    },
+    {
+        "CaseA": "Cacbonic",
+        "CaseB": "Meetan ",
+        "CaseC": "Nitơ",
+        "CaseD": "Oxi",
+        "Question": "Cây xanh quang hợp nhờ khí gì?",
+        "TrueCase": 1,
+        "_id": 196
+    },
+    {
+        "CaseA": "Nhiệt kế rượu ",
+        "CaseB": "Nhiệt kế thuỷ ngân ",
+        "CaseC": "Nhiệt kế y tế ",
+        "CaseD": "Ampe kế ",
+        "Question": "Muốn kiểm tra chính xác một em bé có sốt hay không ta sẽ chọn loại dụng cụ nào sau đây?",
+        "TrueCase": 3,
+        "_id": 197
+    },
+    {
+        "CaseA": "Mông Cổ ",
+        "CaseB": "Monaco ",
+        "CaseC": "Mexico ",
+        "CaseD": "Mozambique",
+        "Question": "Mexico là thủ đô của quốc gia nào? ",
+        "TrueCase": 3,
+        "_id": 198
+    },
+    {
+        "CaseA": "Thính giác ",
+        "CaseB": "Thị giác ",
+        "CaseC": "Khứu giác ",
+        "CaseD": "Xúc giác ",
+        "Question": "Trong 5 giác quan, mắt thuộc giác quan nào?",
+        "TrueCase": 2,
+        "_id": 199
+    },
+    {
+        "CaseA": "Ngô ",
+        "CaseB": "Khoai ",
+        "CaseC": "Tương ",
+        "CaseD": "Muối ",
+        "Question": "Điền từ vào chỗ trống: \"Anh đồ, ơi hỡi anh đồ,Có ăn cơm tấm, ... trộn\" thì vào?",
+        "TrueCase": 1,
+        "_id": 200
+    },
+    {
+        "CaseA": "Bàn là ",
+        "CaseB": "Bàn ghế ",
+        "CaseC": "Bàn tay ",
+        "CaseD": "Bàn đạp ",
+        "Question": "Trong các vật sau đây, vật nào sử dụng điện?",
+        "TrueCase": 1,
+        "_id": 201
+    },
+    {
+        "CaseA": "Tam giác vuông ",
+        "CaseB": "Tam giác cân ",
+        "CaseC": "Tam giác đều ",
+        "CaseD": "Tam giác vuông cân ",
+        "Question": "Tam giác vuông có 2 góc nhọn bằng nhau gọi là tam giác gì?",
+        "TrueCase": 4,
+        "_id": 202
+    },
+    {
+        "CaseA": "Hệ bài tiết",
+        "CaseB": "Hệ tuần hoàn",
+        "CaseC": "Hệ hô hấp",
+        "CaseD": "Hệ thần kinh",
+        "Question": "Tim thuộc hệ gì?",
+        "TrueCase": 2,
+        "_id": 203
+    },
+    {
+        "CaseA": "098",
+        "CaseB": "091",
+        "CaseC": "095",
+        "CaseD": "093",
+        "Question": "Đâu là đầu số của mạng di động Viettel?",
+        "TrueCase": 1,
+        "_id": 204
+    },
+    {
+        "CaseA": "Hy Lạp ",
+        "CaseB": "Ả Rập ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Marroc",
+        "Question": "Kim tự tháp Giza ở quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 205
+    },
+    {
+        "CaseA": "Sep ",
+        "CaseB": "Oct ",
+        "CaseC": "Nov",
+        "CaseD": "Feb",
+        "Question": "Điền từ còn thiếu vào chuỗi sau đây: Jan, ..., Mar, Apr, May, Jun, Jul?",
+        "TrueCase": 4,
+        "_id": 206
+    },
+    {
+        "CaseA": "Motorola ",
+        "CaseB": "Siemen ",
+        "CaseC": "Toyota",
+        "CaseD": "Sony",
+        "Question": "Tập đoàn không kinh doanh điện thoại di động?",
+        "TrueCase": 3,
+        "_id": 207
+    },
+    {
+        "CaseA": "Kinh tuyến ngắn nhất ",
+        "CaseB": "Kinh tuyến dài nhất ",
+        "CaseC": "Vĩ tuyến ngắn nhất ",
+        "CaseD": "Vĩ tuyến dài nhất ",
+        "Question": "Đường xích đạo là đường gì?",
+        "TrueCase": 4,
+        "_id": 208
+    },
+    {
+        "CaseA": "Hà Lan ",
+        "CaseB": "Phần Lan ",
+        "CaseC": "Ba Lan ",
+        "CaseD": "Thái Lan ",
+        "Question": "Amsterdam là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 209
+    },
+    {
+        "CaseA": "Thính giác ",
+        "CaseB": "Vị giác ",
+        "CaseC": "Xúc giác ",
+        "CaseD": "Khứu giác ",
+        "Question": "Trong 5 giác quan, tai thuộc giác quan nào?",
+        "TrueCase": 1,
+        "_id": 210
+    },
+    {
+        "CaseA": "Hiền ",
+        "CaseB": "Lành ",
+        "CaseC": "Nghèo ",
+        "CaseD": "Giàu ",
+        "Question": "Điền vào chỗ trống: \"Anh than thân phận anh ....Đũa tre đây dám đánh đèo đũa mun\"?",
+        "TrueCase": 3,
+        "_id": 211
+    },
+    {
+        "CaseA": "Bàn đạp ",
+        "CaseB": "Bàn ghế ",
+        "CaseC": "Bàn bạc ",
+        "CaseD": "Bàn ủi ",
+        "Question": "Bàn là là danh từ chung để gọi cho?",
+        "TrueCase": 4,
+        "_id": 212
+    },
+    {
+        "CaseA": "Hình bình hành ",
+        "CaseB": "Hình vuông",
+        "CaseC": "Hình thoi vuông ",
+        "CaseD": "Tứ giác đều ",
+        "Question": "Hình thoi có một góc vuông gọi là gì?",
+        "TrueCase": 2,
+        "_id": 213
+    },
+    {
+        "CaseA": "Hệ thần kinh ",
+        "CaseB": "Hệ bài tiết",
+        "CaseC": "Hệ hô hấp",
+        "CaseD": "Hệ tuần hoàn",
+        "Question": "Phổi thuộc hệ gì?",
+        "TrueCase": 3,
+        "_id": 214
+    },
+    {
+        "CaseA": "Mỹ",
+        "CaseB": "Trung Quốc",
+        "CaseC": "Nhật Bản",
+        "CaseD": "Hàn Quốc",
+        "Question": "Tivi hiệu Panasonic chính hãng là do quốc gia nào sản xuất?",
+        "TrueCase": 3,
+        "_id": 215
+    },
+    {
+        "CaseA": "1/4",
+        "CaseB": "1/2",
+        "CaseC": "3/4",
+        "CaseD": "5/6",
+        "Question": "Núi chiếm bao nhiêu phần lãnh thổ của Việt Nam?",
+        "TrueCase": 3,
+        "_id": 216
+    },
+    {
+        "CaseA": "Malaysia ",
+        "CaseB": "Chile",
+        "CaseC": "Nam Phi ",
+        "CaseD": "Việt Nam ",
+        "Question": "Hang động lớn nhất thế giới nằm ở đâu?",
+        "TrueCase": 4,
+        "_id": 217
+    },
+    {
+        "CaseA": "Sắt ",
+        "CaseB": "Kim cương ",
+        "CaseC": "Gang ",
+        "CaseD": "Thép ",
+        "Question": "Cái gì có thể cắt được kim cương?",
+        "TrueCase": 2,
+        "_id": 218
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Indonesia ",
+        "CaseD": "Brunei ",
+        "Question": "Đất nước rộng lớn nhất khu vực Đông Nam Á là đất nước nào?",
+        "TrueCase": 3,
+        "_id": 219
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Đức ",
+        "CaseC": "Pháp ",
+        "CaseD": "Phần Lan ",
+        "Question": "Mátxcơva là thủ đô nước nào? ",
+        "TrueCase": 1,
+        "_id": 220
+    },
+    {
+        "CaseA": "Thính giác ",
+        "CaseB": "Vị giác ",
+        "CaseC": "Khứu giác ",
+        "CaseD": "Xúc giác",
+        "Question": "Trong 5 giác quan, mũi thuộc giác quan nào?",
+        "TrueCase": 3,
+        "_id": 221
+    },
+    {
+        "CaseA": "Đông ",
+        "CaseB": "Tây ",
+        "CaseC": "Nam ",
+        "CaseD": "Bắc ",
+        "Question": "Điền vào chỗ trống: \"Anh trông cho có gió ...Cho thuyền tới bến, anh trông thấy nàng\"?",
+        "TrueCase": 1,
+        "_id": 222
+    },
+    {
+        "CaseA": "Bàn bạc ",
+        "CaseB": "Bàn là ",
+        "CaseC": "Bàn tay ",
+        "CaseD": "Bàn ghế ",
+        "Question": "Trong các loại bàn sau đây, bàn nào không phải là vật?",
+        "TrueCase": 1,
+        "_id": 223
+    },
+    {
+        "CaseA": "Tam giác",
+        "CaseB": "Hình thang ",
+        "CaseC": "Hình vuông ",
+        "CaseD": "Hình chữ nhật ",
+        "Question": "Hình bình hành có 2 đường chéo bằng nhau gọi là hình gì?",
+        "TrueCase": 4,
+        "_id": 224
+    },
+    {
+        "CaseA": "Hệ tuần hoàn",
+        "CaseB": "Hệ thần kinh ",
+        "CaseC": "Hệ hô hấp",
+        "CaseD": "Hệ bài tiết",
+        "Question": "Thận thuộc hệ gì?",
+        "TrueCase": 4,
+        "_id": 225
+    },
+    {
+        "CaseA": "Văn Lang ",
+        "CaseB": "Việt ",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Đại Cồ Việt ",
+        "Question": "Quốc hiệu đầu tiên của nước ta?",
+        "TrueCase": 1,
+        "_id": 226
+    },
+    {
+        "CaseA": "Km ",
+        "CaseB": "Kg ",
+        "CaseC": "KB",
+        "CaseD": "Ha ",
+        "Question": "Trong các đơn vị sau đây, đơn vị nào đo thông tin?",
+        "TrueCase": 3,
+        "_id": 227
+    },
+    {
+        "CaseA": "1968",
+        "CaseB": "2000",
+        "CaseC": "2005",
+        "CaseD": "2009",
+        "Question": "Hang Sơn Đoòng ở Quảng Bình được tìm thấy vào năm nào?",
+        "TrueCase": 4,
+        "_id": 228
+    },
+    {
+        "CaseA": "5",
+        "CaseB": "6",
+        "CaseC": "7",
+        "CaseD": "8",
+        "Question": "Một bộ cờ vua có bao nhiêu loại quân?",
+        "TrueCase": 2,
+        "_id": 229
+    },
+    {
+        "CaseA": "Haiti",
+        "CaseB": "Honduras",
+        "CaseC": "Guatemala",
+        "CaseD": "Hungary",
+        "Question": "Budapest là thủ đô của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 230
+    },
+    {
+        "CaseA": "Tây Ban Nha ",
+        "CaseB": "Bồ Đào Nha ",
+        "CaseC": "Bờ Biển Ngà ",
+        "CaseD": "Sudan ",
+        "Question": "Madrid là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 231
+    },
+    {
+        "CaseA": "Quang Dũng ",
+        "CaseB": "Hồng Nhung ",
+        "CaseC": "Cẩm Ly ",
+        "CaseD": "Mỹ Tâm ",
+        "Question": "\"Tóc nâu môi trầm\" là ca khúc gắn liền với ca sỹ trình bày nào?",
+        "TrueCase": 4,
+        "_id": 232
+    },
+    {
+        "CaseA": "Tồn ",
+        "CaseB": "Sản ",
+        "CaseC": "Thành ",
+        "CaseD": "Sôi ",
+        "Question": "Điền vào chỗ trống: \"Anh về báo nghĩa sinh ... , Bao giờ bóng xế rũ mành, sẽ hay\"?",
+        "TrueCase": 3,
+        "_id": 233
+    },
+    {
+        "CaseA": "Bóng đèn pin đang sáng ",
+        "CaseB": "Bóng đèn ống thông dụng ",
+        "CaseC": "Một đèn LED vàng ",
+        "CaseD": "Một ngôi sao ",
+        "Question": "Nguồn sáng nào sau đây không phát ra ánh sáng trắng?",
+        "TrueCase": 3,
+        "_id": 234
+    },
+    {
+        "CaseA": "Tam giác ",
+        "CaseB": "Hình tròn ",
+        "CaseC": "Hình chữ nhật ",
+        "CaseD": "Elip",
+        "Question": "Hình thang có 2 góc ở đáy vuông có thể là hình gì?",
+        "TrueCase": 3,
+        "_id": 235
+    },
+    {
+        "CaseA": "Hệ thần kinh",
+        "CaseB": "Hệ hô hấp",
+        "CaseC": "Hệ bài tiết",
+        "CaseD": "Hệ tuần hoàn",
+        "Question": "Bộ não thuộc hệ gì?",
+        "TrueCase": 1,
+        "_id": 236
+    },
+    {
+        "CaseA": "40 ngôi sao ",
+        "CaseB": "50 ngôi sao ",
+        "CaseC": "60 ngôi sao ",
+        "CaseD": "55 ngôi sao ",
+        "Question": "Quốc kỳ của Hoa Kỳ có bao nhiêu ngôi sao?",
+        "TrueCase": 2,
+        "_id": 237
+    },
+    {
+        "CaseA": "Mét ",
+        "CaseB": "Gam ",
+        "CaseC": "Nit",
+        "CaseD": "Niuton ",
+        "Question": "Trong các đơn vị sau đây, đơn vị nào đo chiều dài?",
+        "TrueCase": 1,
+        "_id": 238
+    },
+    {
+        "CaseA": "Quảng Trị ",
+        "CaseB": "Quảng Ngãi ",
+        "CaseC": "Quảng Bình ",
+        "CaseD": "Quảng Nam ",
+        "Question": "Hang động Sơn Đoòng lớn nhất thế giới nằm ở tỉnh nào của Việt Nam?",
+        "TrueCase": 3,
+        "_id": 239
+    },
+    {
+        "CaseA": "Mưa ",
+        "CaseB": "Biển ",
+        "CaseC": "Trà ",
+        "CaseD": "Suối ",
+        "Question": "Khi khát, ta uống nước gì thì sẽ khát hơn?",
+        "TrueCase": 2,
+        "_id": 240
+    },
+    {
+        "CaseA": "Hy Lạp ",
+        "CaseB": "Thuỵ Điển ",
+        "CaseC": "Na-Uy",
+        "CaseD": "Hà Lan ",
+        "Question": "Athens là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 241
+    },
+    {
+        "CaseA": "Singapore",
+        "CaseB": "Slovakia",
+        "CaseC": "Slovenia",
+        "CaseD": "Sudan",
+        "Question": "Singapore là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 242
+    },
+    {
+        "CaseA": "Hồ Xuân Hương ",
+        "CaseB": "Hồ Hoàn Kiếm ",
+        "CaseC": "Hồ Ba Bể ",
+        "CaseD": "Hồ Than Thở ",
+        "Question": "Hồ nước nổi tiếng ở Hà Nội tên là gì?",
+        "TrueCase": 2,
+        "_id": 243
+    },
+    {
+        "CaseA": "Ngủ ngon ",
+        "CaseB": "Ngủ trưa ",
+        "CaseC": "Nghỉ ngơi",
+        "CaseD": "Ru con ",
+        "Question": "Điền vào chỗ trống: \"Anh về, chẻ nứa đan sàng. Chẻ tre đan võng, cho nàng ...\"?",
+        "TrueCase": 4,
+        "_id": 244
+    },
+    {
+        "CaseA": "380V",
+        "CaseB": "220V",
+        "CaseC": "200V",
+        "CaseD": "110V",
+        "Question": "Mạng điện dân dụng dùng trong gia đình có điện áp bằng bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 245
+    },
+    {
+        "CaseA": "Vịnh Hạ Long ",
+        "CaseB": "Vịnh Nha Trang ",
+        "CaseC": "Vịnh Văn Phong ",
+        "CaseD": "Vịnh Cam Ranh ",
+        "Question": "Vịnh biển đầu tiên của Việt Nam được UNESCO công nhận là di sản thiên nhiên thế giới là?",
+        "TrueCase": 1,
+        "_id": 246
+    }
+]

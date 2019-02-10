@@ -1,0 +1,2774 @@
+[
+    {
+        "CaseA": "Máy vi tính",
+        "CaseB": "Tivi",
+        "CaseC": "Mobile",
+        "CaseD": "HeadFone",
+        "Question": "Trong các thiết bị sau, thiết bị nào thường không dùng màn hình?",
+        "TrueCase": 4,
+        "_id": 1
+    },
+    {
+        "CaseA": "Hà Nhuận Đông",
+        "CaseB": "Hà Gia Kính",
+        "CaseC": "Thích Tiểu Long",
+        "CaseD": "Lý Tiểu Long",
+        "Question": "Diễn viên đóng vai Triển Chiêu trong phần 1 phim \"Thời niên thiếu của Bao thanh Thiên\"?",
+        "TrueCase": 3,
+        "_id": 2
+    },
+    {
+        "CaseA": "Doraemon",
+        "CaseB": "Thần Đồng đất Việt",
+        "CaseC": "7 viên ngọc rồng",
+        "CaseD": "Dũng sĩ Hecman",
+        "Question": "Truyện tranh nào sau đây của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 3
+    },
+    {
+        "CaseA": "Đuổi trâu",
+        "CaseB": "Ăn cơm",
+        "CaseC": "Uống nước",
+        "CaseD": "Chăn trâu",
+        "Question": "\"Năm thằng cầm hai cái sào - Đuổi đàn trâu trắng chui vào trong hang\" là hành động gì?",
+        "TrueCase": 2,
+        "_id": 4
+    },
+    {
+        "CaseA": "Cây chuối",
+        "CaseB": "Cây cân",
+        "CaseC": "Cây si",
+        "CaseD": "Cây lạc",
+        "Question": "\"Cây gì có quả không hoa - Vì chưng không lá chê già chê non\". Đây là cái gì?",
+        "TrueCase": 2,
+        "_id": 5
+    },
+    {
+        "CaseA": "Con hổ",
+        "CaseB": "Cái thớt",
+        "CaseC": "Cái dao",
+        "CaseD": "Cái bát",
+        "Question": "\"Vô thủ, vô vĩ, vô nhĩ, vô tâm - Chốn ở Sơn lâm, hay ăn thịt sống\" là cái gì?",
+        "TrueCase": 2,
+        "_id": 6
+    },
+    {
+        "CaseA": "Bọ ngựa",
+        "CaseB": "Buồng cau",
+        "CaseC": "Con rồng",
+        "CaseD": "Nải chuối",
+        "Question": "\"Đầu rồng đuôi phượng loe hoe - Mùa xuân ấp trứng mùa hè nở con\" là cái gì?",
+        "TrueCase": 2,
+        "_id": 7
+    },
+    {
+        "CaseA": "Áo tứ thân",
+        "CaseB": "Cái cờ",
+        "CaseC": "Cái dù",
+        "CaseD": "Cái nhà",
+        "Question": "\"Một cột mà chín mười kèo, vải xanh vải đỏ mà treo bốn bề\" là cái gì?",
+        "TrueCase": 3,
+        "_id": 8
+    },
+    {
+        "CaseA": "Cầu vồng",
+        "CaseB": "Cầu tre",
+        "CaseC": "Cầu khỉ",
+        "CaseD": "Cầu dây văng",
+        "Question": "\"Xanh xanh đỏ đỏ vàng vàng, Bắc cầu hoa lý nằm ngang giữa trời\" là cái gì?",
+        "TrueCase": 1,
+        "_id": 9
+    },
+    {
+        "CaseA": "Con khỉ",
+        "CaseB": "Con nhím",
+        "CaseC": "Con mắt",
+        "CaseD": "Con chim",
+        "Question": "\"Trên lông dưới lông - Ở giữa không lông - Phồng lên để ngắm\" là con gì?",
+        "TrueCase": 3,
+        "_id": 10
+    },
+    {
+        "CaseA": "Dạm ngõ",
+        "CaseB": "Xem mắt ",
+        "CaseC": "Ăn hỏi",
+        "CaseD": "Lại mặt ",
+        "Question": "Thủ tục nào không có trong phong tục cưới hỏi của người Việt?",
+        "TrueCase": 2,
+        "_id": 11
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Châm ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ  ",
+        "Question": "Câu: \"Sống trong tinh thần đạo đức tức là sống bất diệt vượt khỏi mọi tai biến bất cứ trong thời cuộc nào\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 12
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Ngày rằm, mùng một ăn chay. Ghét con mỏ nhọn tưởng hoài chả nem\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 13
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Nước trong khe suối chảy ra. Mình chê ta đọc, mình đã trong chưa\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 14
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ ",
+        "Question": "\"Rèm xưa ba bức mành manh. Mắt cô thế ấy tu hành được đâu\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 15
+    },
+    {
+        "CaseA": "Bạch Nữ ",
+        "CaseB": "Bằng Lăng ",
+        "CaseC": "Bạch Lan ",
+        "CaseD": "Xẩu Hổ ",
+        "Question": "Tên gọi khác của hoa Trinh Nữ?",
+        "TrueCase": 4,
+        "_id": 16
+    },
+    {
+        "CaseA": "Từ ngữ đồng âm ",
+        "CaseB": "Cặp từ trái nghĩa ",
+        "CaseC": "Nói lái ",
+        "CaseD": "Điệp ngữ ",
+        "Question": "Lối chơi chữ nào được sử dụng trong hai câu sau: \"con cá đối bỏ trong cối đá, con mèo cái nằm trên mái kèo\"?",
+        "TrueCase": 3,
+        "_id": 17
+    },
+    {
+        "CaseA": "Con rắn ",
+        "CaseB": "Con chuột ",
+        "CaseC": "Con thỏ ",
+        "CaseD": "Con hổ ",
+        "Question": "Con vật gì giúp Nữ Hoàng Cleopatra tự sát?",
+        "TrueCase": 1,
+        "_id": 18
+    },
+    {
+        "CaseA": "Tinh tinh ",
+        "CaseB": "Đười ươi",
+        "CaseC": "Vượn ",
+        "CaseD": "Gorilla ",
+        "Question": "Trong 4 loài vượn người, loài nào là bé nhất?",
+        "TrueCase": 3,
+        "_id": 19
+    },
+    {
+        "CaseA": "212",
+        "CaseB": "313 ",
+        "CaseC": "414 ",
+        "CaseD": "515 ",
+        "Question": "Trong các số sau đây, số nào chia hết cho 9?",
+        "TrueCase": 3,
+        "_id": 20
+    },
+    {
+        "CaseA": "Dê ",
+        "CaseB": "Quai nón ",
+        "CaseC": "Trái xoan ",
+        "CaseD": "Kẽm ",
+        "Question": "Trong các từ sau đây, từ nào không dùng để chỉ râu?",
+        "TrueCase": 3,
+        "_id": 21
+    },
+    {
+        "CaseA": "Trực tâm ",
+        "CaseB": "Tâm đường tròn ",
+        "CaseC": "Trọng tâm ",
+        "CaseD": "Tâm tam giác ",
+        "Question": "Giao điểm của 3 đường trung tuyến trong một tam giác được gọi là gì?",
+        "TrueCase": 3,
+        "_id": 22
+    },
+    {
+        "CaseA": "Màu đỏ ",
+        "CaseB": "Màu lam ",
+        "CaseC": "Màu xanh lục ",
+        "CaseD": "Màu trắng ",
+        "Question": "Khi nhìn thấy vật màu xanh lục thì ánh sáng màu nào đi từ vật đến mắt ta?",
+        "TrueCase": 3,
+        "_id": 23
+    },
+    {
+        "CaseA": "Bến Tre ",
+        "CaseB": "An Giang ",
+        "CaseC": "Đồng Tháp ",
+        "CaseD": "Tiền Giang",
+        "Question": "Nhắc đến xứ dừa là nhắc đến tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 24
+    },
+    {
+        "CaseA": "Half  Life",
+        "CaseB": "Võ lâm truyền kỳ ",
+        "CaseC": "FreeCell",
+        "CaseD": "Minesweeper ",
+        "Question": "Trong các game sau đây, game nào là game Dò mìn?",
+        "TrueCase": 4,
+        "_id": 25
+    },
+    {
+        "CaseA": "Bạch tuộc ",
+        "CaseB": "Cá đuối",
+        "CaseC": "Sứa hộp ",
+        "CaseD": "Cá mập ",
+        "Question": "Con nào  sau đây được xem là sát thủ trong suốt dưới đại dương?",
+        "TrueCase": 3,
+        "_id": 26
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Châm ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ",
+        "Question": "\"Những khi đã biết lầm lỗi thì biết ăn năn cải hối\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 27
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nhà Bè nước chảy chia hai. Ai về Gia Định, Đồng Nai thì về\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 28
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Nửa đời sương gió ngang tang. Trái tim luỵ chỉ vì nàng đấy thôi\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 29
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ ",
+        "Question": "\"Rồng nằm bể cạn phơi râu. Mấy lới anh nói giấu đầu hở đuôi\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 30
+    },
+    {
+        "CaseA": "0",
+        "CaseB": "1",
+        "CaseC": "2",
+        "CaseD": "3",
+        "Question": "Thuý Kiều trong truyện Kiều của Nguyễn Du có mấy người em?",
+        "TrueCase": 3,
+        "_id": 31
+    },
+    {
+        "CaseA": "Da diết ",
+        "CaseB": "Dập dìu ",
+        "CaseC": "Thưa thớt ",
+        "CaseD": "Phồ phường ",
+        "Question": "Từ nào sau đây không phải là từ láy?",
+        "TrueCase": 4,
+        "_id": 32
+    },
+    {
+        "CaseA": "80 ",
+        "CaseB": "90 ",
+        "CaseC": "100 ",
+        "CaseD": "120 ",
+        "Question": "Trên bàn cờ Tướng, có tổng cộng bao nhiêu điểm mà các quân có thể đến?",
+        "TrueCase": 2,
+        "_id": 33
+    },
+    {
+        "CaseA": "Muỗi cái ",
+        "CaseB": "Muỗi đực ",
+        "CaseC": "Muỗi cái và muỗi đực ",
+        "CaseD": "Cả 2 không đốt ",
+        "Question": "Muỗi thường đốt là muỗi đực hay muỗi cái?",
+        "TrueCase": 1,
+        "_id": 34
+    },
+    {
+        "CaseA": "Vịt ",
+        "CaseB": "Ngỗng ",
+        "CaseC": "Gà ",
+        "CaseD": "Ngan ",
+        "Question": "Trong các con vật sau đây, con nào khác với các con vật còn lại?",
+        "TrueCase": 3,
+        "_id": 35
+    },
+    {
+        "CaseA": "Sông Tô Lịch ",
+        "CaseB": "Sông Đồng Nai ",
+        "CaseC": "Sông Mê Kông ",
+        "CaseD": "Sông Hương ",
+        "Question": "Con sông chảy qua thành phố Huế là sông gì?",
+        "TrueCase": 4,
+        "_id": 36
+    },
+    {
+        "CaseA": "Đường ngang màn hình ",
+        "CaseB": "Đường chéo màn hình ",
+        "CaseC": "Đường dọc màn hình ",
+        "CaseD": "Độ phân giải ",
+        "Question": "Điền vào chỗ trống: Tivi 14 inches có nghĩa là:  có chiều dài 14 inches?",
+        "TrueCase": 2,
+        "_id": 37
+    },
+    {
+        "CaseA": "Đỏ ",
+        "CaseB": "Trắng ",
+        "CaseC": "Xanh ",
+        "CaseD": "Vàng ",
+        "Question": "Vật màu đỏ tán xạ tốt ánh sáng màu gì?",
+        "TrueCase": 1,
+        "_id": 38
+    },
+    {
+        "CaseA": "Xử lý ảnh ",
+        "CaseB": "Nghe nhạc ",
+        "CaseC": "Sửa lỗi hệ thống ",
+        "CaseD": "Duyệt web ",
+        "Question": "Photoshop là phần mềm máy tính chuyên dùng để làm gì?",
+        "TrueCase": 1,
+        "_id": 39
+    },
+    {
+        "CaseA": "Vietkey ",
+        "CaseB": "Unikey ",
+        "CaseC": "Winrar ",
+        "CaseD": "Adobe reader ",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để nén dữ liệu?",
+        "TrueCase": 3,
+        "_id": 40
+    },
+    {
+        "CaseA": "Tế giác",
+        "CaseB": "Voi rừng",
+        "CaseC": "Lạc đà ",
+        "CaseD": "Sư tử",
+        "Question": "Trong các động vật sau đây, con nào được xem là chúa tể sa mạc?",
+        "TrueCase": 3,
+        "_id": 41
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Châm ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ",
+        "Question": "\"Người quân tử không phải không lầm lỗi\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 42
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nhất sĩ nhì nông. Hết gạo chạy rong, nhất nông nhì sĩ\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 43
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Nửa về nửa muốn ở đây. Về nhà nhớ bạn, ở đây nhớ nhà\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 44
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ ",
+        "Question": "\"Rồng vàng tắm nước ao tù. Người khôn ở với người ngu bực mình\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 45
+    },
+    {
+        "CaseA": "Trần Quốc Toản",
+        "CaseB": "Quang Trung ",
+        "CaseC": "Ngô Quyền ",
+        "CaseD": "Trần Nhật Duật ",
+        "Question": "Vị tướng nào gắn với Lá cờ thêu sáu chữ vàng?",
+        "TrueCase": 1,
+        "_id": 46
+    },
+    {
+        "CaseA": "Vắng vẻ ",
+        "CaseB": "Vui vẻ ",
+        "CaseC": "Đông đúc ",
+        "CaseD": "Đầy đủ ",
+        "Question": "Từ nào trái nghĩa với từ thưa thớt?",
+        "TrueCase": 3,
+        "_id": 47
+    },
+    {
+        "CaseA": "44",
+        "CaseB": "45",
+        "CaseC": "46",
+        "CaseD": "47 ",
+        "Question": "Trong cờ Tướng, mỗi quân Tốt có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 4,
+        "_id": 48
+    },
+    {
+        "CaseA": "Voi ",
+        "CaseB": "Kiến ",
+        "CaseC": "Hà mã ",
+        "CaseD": "Trâu ",
+        "Question": "Xét về sức nặng chịu được, con vật nào sau đây khoẻ nhất?",
+        "TrueCase": 2,
+        "_id": 49
+    },
+    {
+        "CaseA": "Thỏ ",
+        "CaseB": "Chó ",
+        "CaseC": "Lợn ",
+        "CaseD": "Rùa ",
+        "Question": "Trong các con vật sau đây, con nào gần gũi với con người nhất?",
+        "TrueCase": 2,
+        "_id": 50
+    },
+    {
+        "CaseA": "Khủng long ",
+        "CaseB": "Rắn ",
+        "CaseC": "Cá sấu ",
+        "CaseD": "Ốc bươu ",
+        "Question": "Trong các loài dưới đây, con nào không thuộc loài bò sát?",
+        "TrueCase": 4,
+        "_id": 51
+    },
+    {
+        "CaseA": "CtrlR",
+        "CaseB": "F5",
+        "CaseC": "AtlR",
+        "CaseD": "F8",
+        "Question": "Refresh lại máy tính, ta có thể sử dụng phím tắt gì?",
+        "TrueCase": 2,
+        "_id": 52
+    },
+    {
+        "CaseA": "Đỏ với lục ",
+        "CaseB": "Đỏ với lam ",
+        "CaseC": "Đỏ với tím ",
+        "CaseD": "Đỏ với vàng ",
+        "Question": "Để có ánh sáng màu hồng nhạt, phải trộn hai màu nào với nhau?",
+        "TrueCase": 2,
+        "_id": 53
+    },
+    {
+        "CaseA": "Malaysia",
+        "CaseB": "Singapore",
+        "CaseC": "Indonesia",
+        "CaseD": "Brunei",
+        "Question": "Quốc gia nào sau đây có tên trùng với tên thủ đô?",
+        "TrueCase": 2,
+        "_id": 54
+    },
+    {
+        "CaseA": "Winzip ",
+        "CaseB": "Unikey ",
+        "CaseC": "Kingsoft Office ",
+        "CaseD": "Autocad ",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để nén dữ liệu?",
+        "TrueCase": 1,
+        "_id": 55
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Châm ngôn ",
+        "Question": "Câu \"Một quốc gia sung sướng là một quốc gia không cần đến những vị anh hùng\" thuộc thể loại văn học?",
+        "TrueCase": 3,
+        "_id": 56
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Châm ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ ",
+        "Question": "\"Người biết đức tất không thích tiếng tăm lừng lẫy\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 57
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn",
+        "Question": "\"Nhỏ thì nhờ mẹ nhờ cha. Lớn lên nhờ vợ, về già nhờ con\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 58
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Ca dao ",
+        "Question": "\"Nụ cười châu chấu đá xe. Tưởng rằng chấu ngã ai dè xe nghiêng\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 59
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Ru con con ngủ cho rồi. Mẹ ra chỗ vắng mẹ ngồi than thân\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 60
+    },
+    {
+        "CaseA": "Tuyết ",
+        "CaseB": "Băng ",
+        "CaseC": "Núi ",
+        "CaseD": "Thung lũng ",
+        "Question": "Hầu như diện tích bề mặt của châu Nam cực toàn là?",
+        "TrueCase": 2,
+        "_id": 61
+    },
+    {
+        "CaseA": "Câu đơn ",
+        "CaseB": "Câu rút gọn ",
+        "CaseC": "Câu đặc biệt ",
+        "CaseD": "Câu bị động ",
+        "Question": "Câu văn: \"đêm đã về khuya\" thuộc kiểu câu nào?",
+        "TrueCase": 1,
+        "_id": 62
+    },
+    {
+        "CaseA": "6",
+        "CaseB": "7",
+        "CaseC": "8",
+        "CaseD": "9",
+        "Question": "Trong cờ Tướng, mỗi quân Tượng có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 2,
+        "_id": 63
+    },
+    {
+        "CaseA": "Khủng long ",
+        "CaseB": "Cá voi ",
+        "CaseC": "Quái vật hồ Loch Ness",
+        "CaseD": "Voi ",
+        "Question": "Loài động vật lớn nhất trên thế giới?",
+        "TrueCase": 2,
+        "_id": 64
+    },
+    {
+        "CaseA": "Giun ",
+        "CaseB": "Rết",
+        "CaseC": "Bọ cạp ",
+        "CaseD": "Bướm",
+        "Question": "Trong các con vật sau đây, con nào có nhiều chân nhất?",
+        "TrueCase": 2,
+        "_id": 65
+    },
+    {
+        "CaseA": "Đại bàng ",
+        "CaseB": "Rắn hổ mang ",
+        "CaseC": "Lạc đà ",
+        "CaseD": "Khủng long ",
+        "Question": "Trong các loài dưới đây, loài nào đã bị tuyệt chủng?",
+        "TrueCase": 4,
+        "_id": 66
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "3",
+        "CaseC": "4",
+        "CaseD": "5",
+        "Question": "Trong mặt phẳng, hai đường thẳng cắt nhau chia mặt phẳng làm mấy phần?",
+        "TrueCase": 3,
+        "_id": 67
+    },
+    {
+        "CaseA": "Sát mặt kính ",
+        "CaseB": "Ngoài khoảng tiêu cự ",
+        "CaseC": "Trong khoảng tiêu cự ",
+        "CaseD": "Vị trí nào cũng được ",
+        "Question": "Để quan sát một vật nhỏ qua kính lúp, ta phải đặt vật ở vị trí nào?",
+        "TrueCase": 3,
+        "_id": 68
+    },
+    {
+        "CaseA": "Panama ",
+        "CaseB": "Niger ",
+        "CaseC": "Lesotho ",
+        "CaseD": "Canada",
+        "Question": "Quốc gia nào sau đây có tên trùng với tên thủ đô?",
+        "TrueCase": 1,
+        "_id": 69
+    },
+    {
+        "CaseA": "Autocad ",
+        "CaseB": "PC Security ",
+        "CaseC": "Unikey ",
+        "CaseD": "Wordpad ",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để gõ tiếng Việt?",
+        "TrueCase": 3,
+        "_id": 70
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Châm ngôn",
+        "Question": "Câu: \"Nếu bạn cảm thấy sao đời mình u ám quá, thử coi lại xem cánh cửa tâm hồn mình thật đã có lau kỹ chưa\" là thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 71
+    },
+    {
+        "CaseA": "Châm ngôn ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ ",
+        "Question": "\"Người biết khiêm tốn sẽ được người tôn kẻ trọng\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 72
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\n\"Nhìn nhau lệ ứa đôi hàng. Tàu lui ốc thổi, tui chàng rẽ phân\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 73
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Ca dao ",
+        "Question": "\"Ôi, ba bảy lá gan, lá tươi lá héo. Ruột chín chiều, chiều nở chiều teo\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 74
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\n\"Ruộng ai thì nấy đắp bờ. Duyên ai nấy gặp, đừng chờ uổng công\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 75
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Pháp",
+        "CaseC": "Đức",
+        "CaseD": "Anh ",
+        "Question": " Liên Xô là tên cũ của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 76
+    },
+    {
+        "CaseA": "Km ",
+        "CaseB": "m ",
+        "CaseC": "cc",
+        "CaseD": "mm",
+        "Question": "Đơn vị nào dưới đây không phải là đơn vị đo độ dài?",
+        "TrueCase": 3,
+        "_id": 77
+    },
+    {
+        "CaseA": "70",
+        "CaseB": "80",
+        "CaseC": "90",
+        "CaseD": "100",
+        "Question": "Trong cờ Tướng, mỗi quân Xe có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 3,
+        "_id": 78
+    },
+    {
+        "CaseA": "Không xác định ",
+        "CaseB": "Đỏ ",
+        "CaseC": "Xanh ",
+        "CaseD": "Vàng ",
+        "Question": "Con bò ghét nhất màu nào?",
+        "TrueCase": 1,
+        "_id": 79
+    },
+    {
+        "CaseA": "Con sói ",
+        "CaseB": "Con khỉ ",
+        "CaseC": "Con quỷ ",
+        "CaseD": "Con rắn ",
+        "Question": "Trong các con vật sau đây, con nào không có thật ngoài đời?",
+        "TrueCase": 3,
+        "_id": 80
+    },
+    {
+        "CaseA": "Cá tai tượng ",
+        "CaseB": "Cá chim ",
+        "CaseC": "Cá mặt quỷ ",
+        "CaseD": "Cá sấu",
+        "Question": "Con gì không thuộc loài cá mà thuộc loài bò sát?",
+        "TrueCase": 4,
+        "_id": 81
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "5",
+        "CaseC": "6",
+        "CaseD": "7",
+        "Question": "Trong một năm có bao nhiêu tháng có 30 ngày?",
+        "TrueCase": 1,
+        "_id": 82
+    },
+    {
+        "CaseA": "Chất đạm và béo ",
+        "CaseB": "Chất khoáng và sinh tố",
+        "CaseC": "Chất đạm và chất xơ ",
+        "CaseD": "Sinh tố và chất béo ",
+        "Question": "Khi ngâm rửa thịt sau khi cắt thái thì chất nào sẽ bị mất đi?",
+        "TrueCase": 2,
+        "_id": 83
+    },
+    {
+        "CaseA": "Colombia ",
+        "CaseB": "Cuba ",
+        "CaseC": "Mexico ",
+        "CaseD": "Mông Cổ ",
+        "Question": "Quốc gia nào sau đây có tên trùng với tên thủ đô?",
+        "TrueCase": 3,
+        "_id": 84
+    },
+    {
+        "CaseA": "Microsoft Word",
+        "CaseB": "Adobe Reader",
+        "CaseC": "Corel",
+        "CaseD": "Adobe Photoshop",
+        "Question": "Đâu là phần mềm soạn thảo văn bản?",
+        "TrueCase": 1,
+        "_id": 85
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Châm ngôn ",
+        "Question": "Câu: \"Việc lớn không phải làm nên do sức mạnh nhưng do lòng kiên nhẫn\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 86
+    },
+    {
+        "CaseA": "Châm ngôn ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ",
+        "Question": "\"Người biết đạo tất không khoe. Người biết nghĩa tất không tham\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 87
+    },
+    {
+        "CaseA": " Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nhìn ra sậy xám, lau vàng. Ngày lu, nắng úa, bóng chàng nơi đâu?\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 88
+    },
+    {
+        "CaseA": "Danh ngôn",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Ca dao ",
+        "Question": "\"Ở đời vợ vợ chồng chồng. Thương nhau cũng vội, dứt lòng cũng mau' thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 89
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Ruộng đồng mặc sức chim bay. Nước sông lai láng cá bầy đua bơi\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 90
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Bắc Kạn",
+        "CaseC": "Hà Giang",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Cực Bắc của nước ta nằm ở tỉnh nào?",
+        "TrueCase": 3,
+        "_id": 91
+    },
+    {
+        "CaseA": "Thuỷ ngân ",
+        "CaseB": "Rượu ",
+        "CaseC": "Nhôm ",
+        "CaseD": "Nước ",
+        "Question": "Ở nhiệt độ phòng, chất nào sau đây không  tồn tại ở thể lỏng?",
+        "TrueCase": 3,
+        "_id": 92
+    },
+    {
+        "CaseA": "5",
+        "CaseB": "6",
+        "CaseC": "7",
+        "CaseD": "8",
+        "Question": "Trong cờ Tướng, mỗi quân Sĩ có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 1,
+        "_id": 93
+    },
+    {
+        "CaseA": "Đại bàng ",
+        "CaseB": "Công ",
+        "CaseC": "Diều hâu ",
+        "CaseD": "Đà điểu ",
+        "Question": "Loài chim nào lớn nhất hiện nay?",
+        "TrueCase": 4,
+        "_id": 94
+    },
+    {
+        "CaseA": "Cá rô ",
+        "CaseB": "Cá chép ",
+        "CaseC": "Cá thờn bơn ",
+        "CaseD": "Cá chim ",
+        "Question": "Trong các loài cá dưới đây, loài cá nào da trơn?",
+        "TrueCase": 3,
+        "_id": 95
+    },
+    {
+        "CaseA": "Đạm ",
+        "CaseB": "Đường ",
+        "CaseC": "Xơ ",
+        "CaseD": "Phooc môn",
+        "Question": "Chất nào không được phép có trong thức ăn?",
+        "TrueCase": 4,
+        "_id": 96
+    },
+    {
+        "CaseA": "Thú ",
+        "CaseB": "Côn trùng ",
+        "CaseC": "Chim ",
+        "CaseD": "Cá ",
+        "Question": "Lớp động vật đa dạng nhất trên trái đất là gì?",
+        "TrueCase": 2,
+        "_id": 97
+    },
+    {
+        "CaseA": "Good-morning",
+        "CaseB": "Thank you",
+        "CaseC": "Hello",
+        "CaseD": "Good-afternoon",
+        "Question": "Từ nào sau đây không cùng nhóm với các từ còn lại?",
+        "TrueCase": 2,
+        "_id": 98
+    },
+    {
+        "CaseA": "Lý Thường Kiệt",
+        "CaseB": "Trần Hưng Đạo ",
+        "CaseC": "Ngô Quyền ",
+        "CaseD": "Nguyễn Trãi ",
+        "Question": "Chiến thắng Bạch Đằng do ai lãnh đạo?",
+        "TrueCase": 3,
+        "_id": 99
+    },
+    {
+        "CaseA": "Vietkey ",
+        "CaseB": "Photoshop ",
+        "CaseC": "Microsoft Paint",
+        "CaseD": "Wordpad ",
+        "Question": "Đâu là phần mềm soạn thảo văn bản?",
+        "TrueCase": 4,
+        "_id": 100
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Tực ngữ ",
+        "CaseD": "Châm ngôn ",
+        "Question": "Câu: \"Lời khuyên là điều người khôn ngoan chẳng bao giờ cần và kẻ dại dột không hề nhận thấy\" thuộc thể loại văn học?",
+        "TrueCase": 2,
+        "_id": 101
+    },
+    {
+        "CaseA": "Châm ngôn ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ",
+        "Question": "\"Con đường ngắn nhất để vượt qua mọi khó khăn là đi xuyên qua nó\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 102
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ",
+        "CaseD": "Danh ngôn",
+        "Question": "\"Nhớ ai bổi hổi bồi hồi. Như đứng đổng lửa, như ngồi đống than\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 103
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngôn ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Ca dao ",
+        "Question": "\"Ở đời muôn sự của chung. Hơn nhau một tiếng anh hùng mà thôi\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 104
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Châm ngôn ",
+        "Question": "\"Rượu nhạt uống lắm cũng say. Người khôn nói lắm, dẫu hay cũng nhàm\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 105
+    },
+    {
+        "CaseA": "Kiên Giang ",
+        "CaseB": "Cà Mau ",
+        "CaseC": "Bến Tre ",
+        "CaseD": "Trà Vinh ",
+        "Question": "Cực Nam của Việt Nam thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 106
+    },
+    {
+        "CaseA": "Tàn nhẫn ",
+        "CaseB": "Mạnh mẽ ",
+        "CaseC": "Lộp độp ",
+        "CaseD": "Kì quặc",
+        "Question": "Từ nào dưới đây là từ tượng thanh?",
+        "TrueCase": 3,
+        "_id": 107
+    },
+    {
+        "CaseA": "70",
+        "CaseB": "80",
+        "CaseC": "90",
+        "CaseD": "100",
+        "Question": "Trong cờ Tướng, mỗi quân Mã có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 3,
+        "_id": 108
+    },
+    {
+        "CaseA": "Microsoft",
+        "CaseB": "Yahoo",
+        "CaseC": "Nokia ",
+        "CaseD": "Google",
+        "Question": "Tập đoàn nào sau đây chuyên sản xuất điện thoại di động?",
+        "TrueCase": 3,
+        "_id": 109
+    },
+    {
+        "CaseA": "Cá basa",
+        "CaseB": "Cá hú ",
+        "CaseC": "Cá chép ",
+        "CaseD": "Cá thờn bơn ",
+        "Question": "Trong các loài cá dưới đây, loài cá nào không phải là cá da trơn?",
+        "TrueCase": 3,
+        "_id": 110
+    },
+    {
+        "CaseA": "Thịt gà ",
+        "CaseB": "Thịt ếch",
+        "CaseC": "Thịt bò ",
+        "CaseD": "Thịt chó ",
+        "Question": "Mộc Tồn trong truyện dân gian là món ăn nào?",
+        "TrueCase": 4,
+        "_id": 111
+    },
+    {
+        "CaseA": "Tam giác thường ",
+        "CaseB": "Tam giác vuông ",
+        "CaseC": "Tam giác tù",
+        "CaseD": "Tam giác nhọn ",
+        "Question": "Tam giác có tổng hai góc ở đáy bằng 45 độ gọi là tam giác gì?",
+        "TrueCase": 3,
+        "_id": 112
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Hàn Quốc ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Myanmar ",
+        "Question": "Baht là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 113
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "5",
+        "CaseC": "6",
+        "CaseD": "7",
+        "Question": "Hệ điều hành Windows Vista là hệ điều hành phiên bản mấy của Microsoft?",
+        "TrueCase": 3,
+        "_id": 114
+    },
+    {
+        "CaseA": "Lá xanh ",
+        "CaseB": "Lá đỏ ",
+        "CaseC": "Tình ca ",
+        "CaseD": "Người Hà Nội ",
+        "Question": "Hẹn gặp nhé giữa Sài Gòn là câu hát cuối trong bài hát nào?",
+        "TrueCase": 2,
+        "_id": 115
+    },
+    {
+        "CaseA": "Ca dao",
+        "CaseB": "Danh ngôn",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Châm ngôn ",
+        "Question": "Câu: \"Điều ít tốn thì giờ mà gây nhiều rắc rối nhất là tình dục\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 116
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Hôm nay có đám giỗ gần. Trong bụng bần thần, chẳng muốn nấu cơm\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 117
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nhờ cô nhờ bác giúp lời. Chị em giúp của, ông trời định đôi\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 118
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Ca dao ",
+        "Question": "\"Phải duyên phải kiếp thì theo. Cám còn ăn được, nữa bèo như anh\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 119
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Châm ngôn ",
+        "CaseD": "Tục ngữ ",
+        "Question": "\"Rừng có mạch vách có tai. Người trong chưa tỏ, người ngoài đã hay\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 120
+    },
+    {
+        "CaseA": "Giặc Minh ",
+        "CaseB": "Giặc Thanh ",
+        "CaseC": "Giặc Champa",
+        "CaseD": "Giặc Pháp ",
+        "Question": "Thánh Gióng đã có công dẹp tan quân giặc nào?",
+        "TrueCase": 3,
+        "_id": 121
+    },
+    {
+        "CaseA": "Để miêu tả ",
+        "CaseB": "Để hỏi ",
+        "CaseC": "Để cầu khiến ",
+        "CaseD": "Để biểu lộ cảm xúc ",
+        "Question": "Mục đích của câu: \"Một bữa cơm đạm bạc mà sao có vẻ ngon lành thế!!\" là gì?",
+        "TrueCase": 4,
+        "_id": 122
+    },
+    {
+        "CaseA": "64",
+        "CaseB": "65",
+        "CaseC": "66",
+        "CaseD": "67",
+        "Question": "Trong cờ Vua, mỗi quân Hậu có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 1,
+        "_id": 123
+    },
+    {
+        "CaseA": "Motorola ",
+        "CaseB": "Toyota ",
+        "CaseC": "Yamaha ",
+        "CaseD": "Yahoo",
+        "Question": "Công ty nào sau đây chuyên sản xuất điện thoại di động?",
+        "TrueCase": 1,
+        "_id": 124
+    },
+    {
+        "CaseA": "Con ngựa ",
+        "CaseB": "Con trâu ",
+        "CaseC": "Con cọp ",
+        "CaseD": "Con gấu ",
+        "Question": "Trong các con vật sau đây, con vật nào là biểu tượng của người Việt Nam?",
+        "TrueCase": 2,
+        "_id": 125
+    },
+    {
+        "CaseA": "Tàu cánh ngầm ",
+        "CaseB": "Tuần dương hạm ",
+        "CaseC": "Tàu sân bay ",
+        "CaseD": "Tàu đệm khí ",
+        "Question": "Loại tàu nào sau đây có khả năng chạy cả trên cạn lẫn dưới nước?",
+        "TrueCase": 4,
+        "_id": 126
+    },
+    {
+        "CaseA": "Tam giác vuông ",
+        "CaseB": "Tam giác cân ",
+        "CaseC": "Tam giác thường ",
+        "CaseD": "Tam giác đều ",
+        "Question": "Tam giác có 3 góc bằng nhau gọi là gì?",
+        "TrueCase": 4,
+        "_id": 127
+    },
+    {
+        "CaseA": "Châu Mỹ",
+        "CaseB": "Châu Á ",
+        "CaseC": "Châu Phi ",
+        "CaseD": "Châu Âu ",
+        "Question": "Euro là đơn vị tiền tệ đang lưu thông trên các quốc gia thuộc châu lục nào?",
+        "TrueCase": 4,
+        "_id": 128
+    },
+    {
+        "CaseA": "Alt + F4",
+        "CaseB": "Ctrl + F4",
+        "CaseC": "Tab + F4",
+        "CaseD": "Shift + F4",
+        "Question": "Để thoát khỏi một chương trình trong ứng dụng của Windows, ta dùng tổ hợp phím?",
+        "TrueCase": 1,
+        "_id": 129
+    },
+    {
+        "CaseA": "Đậu xanh ",
+        "CaseB": "Đậu nành ",
+        "CaseC": "Khoai lang",
+        "CaseD": "Khoai tây ",
+        "Question": "Loại nào sau đây khi nảy mầm sẽ sinh độc tố?",
+        "TrueCase": 4,
+        "_id": 130
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Châm ngôn ",
+        "Question": "Câu: \"Những chuyện không còn thay đổi được, thôi chớ trách móc làm gì, hãy nhẫn nhịn cho qua để làm người tự thắng\" thuộc thể loại nào?",
+        "TrueCase": 2,
+        "_id": 131
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ ",
+        "Question": "Câu: \"Lấy vợ thì lấy liền tay. Chớ để lâu ngày lắm kẻ dèm pha\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 132
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Những người ti hí mắt lươn. Trai thì trộm cắp, gái buôn chồng người\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 133
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Ca dao ",
+        "Question": "\"Phấn son tô điểm sơn hà. Làm cho rỡ mặt đàn bà nước Nam\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 134
+    },
+    {
+        "CaseA": "An Giang ",
+        "CaseB": "Cần Thơ",
+        "CaseC": "Đồng Tháp",
+        "CaseD": "Tiền Giang",
+        "Question": "Vườn quốc gia Tràm Chim thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 3,
+        "_id": 135
+    },
+    {
+        "CaseA": "Sơn La ",
+        "CaseB": "Gia Lai ",
+        "CaseC": "Lâm Đồng ",
+        "CaseD": "Đắc Lắc ",
+        "Question": "Hồ Than Thở thuộc tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 136
+    },
+    {
+        "CaseA": "Câu cầu khiến ",
+        "CaseB": "Câu nghi vấn ",
+        "CaseC": "Câu cảm thán",
+        "CaseD": "Câu phủ định ",
+        "Question": "Câu: \"U nó không được thế\" thuộc kiểu câu gì?",
+        "TrueCase": 1,
+        "_id": 137
+    },
+    {
+        "CaseA": "61",
+        "CaseB": "62",
+        "CaseC": "63",
+        "CaseD": "64",
+        "Question": "Trong cờ Vua, ông Vua có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 4,
+        "_id": 138
+    },
+    {
+        "CaseA": "Yamaha ",
+        "CaseB": "Nice ",
+        "CaseC": "Adidas",
+        "CaseD": "Siemen",
+        "Question": "Công ty nào sau đây chuyên sản xuất điện thoại di động?",
+        "TrueCase": 4,
+        "_id": 139
+    },
+    {
+        "CaseA": "Ếch",
+        "CaseB": "Thỏ",
+        "CaseC": "Tắc kè ",
+        "CaseD": "Rắn ",
+        "Question": "Trong các con vật sau đây, loài nào là loài bò sát không chân?",
+        "TrueCase": 4,
+        "_id": 140
+    },
+    {
+        "CaseA": "Mặt trời ",
+        "CaseB": "Mặt trăng ",
+        "CaseC": "Sao hôm ",
+        "CaseD": "Sao mai ",
+        "Question": "Câu Kiều: \"Trải bao thỏ lặn, ác tà\". Thỏ là để chỉ cái gì?",
+        "TrueCase": 2,
+        "_id": 141
+    },
+    {
+        "CaseA": "Tam giác cân ",
+        "CaseB": "Tam giác đều ",
+        "CaseC": "Tam giác thường ",
+        "CaseD": "Tam giác vuông ",
+        "Question": "Tam giác có một góc bằng 90 độ gọi là gì?",
+        "TrueCase": 4,
+        "_id": 142
+    },
+    {
+        "CaseA": "Trâu ",
+        "CaseB": "Bò",
+        "CaseC": "Lợn ",
+        "CaseD": "Cừu ",
+        "Question": "Loại gia súc được nuôi chủ yếu để lấy thịt, lấy sữa là?",
+        "TrueCase": 2,
+        "_id": 143
+    },
+    {
+        "CaseA": "Drag and drop",
+        "CaseB": "Point",
+        "CaseC": "Double Click",
+        "CaseD": "Click",
+        "Question": "Khi di chuyển cửa sổ ta dùng thao tác chuột gì trên thanh tiêu đề của cửa sổ?",
+        "TrueCase": 1,
+        "_id": 144
+    },
+    {
+        "CaseA": "Dệt vải ",
+        "CaseB": "Đúc đồng ",
+        "CaseC": "Làm gốm",
+        "CaseD": "Tranh sơn mài ",
+        "Question": "Làng Bát Tràng ở miền Bắc nổi tiếng về nghề truyền thống nào?",
+        "TrueCase": 3,
+        "_id": 145
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Châm ngôn ",
+        "Question": "Câu \"Tình yêu giống chiến tranh ở chỗ dễ bắt đầu mà khó chấm dứt\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 146
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Học trò đi mò cơm nguội. Lỡ trượt vỏ dưa, té cái đụi, la trời\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 147
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Non cao cũng có đường trèo. Bệnh dẫu hiểm nghèo cũng có thuốc tiên\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 148
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Ca dao ",
+        "Question": "\"Phong lưu là cạm ở đời. Hồng nhan là bẫy những người tài hoa\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 149
+    },
+    {
+        "CaseA": "V-league",
+        "CaseB": "T-League",
+        "CaseC": "S-League",
+        "CaseD": "J-League",
+        "Question": "Đội bóng đá Hoàng Anh Gia Lai thuộc giải vô địch quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 150
+    },
+    {
+        "CaseA": "Nhà Lý ",
+        "CaseB": "Nhà Trần ",
+        "CaseC": "Nhà Hồ ",
+        "CaseD": "Nhà Nguyễn ",
+        "Question": "Hào khí Đông A là tinh thần của triều đại nào?",
+        "TrueCase": 2,
+        "_id": 151
+    },
+    {
+        "CaseA": "Vợ ",
+        "CaseB": "Anh ",
+        "CaseC": "U ",
+        "CaseD": "Chị ",
+        "Question": "Từ nào dưới đây là từ địa phương?",
+        "TrueCase": 3,
+        "_id": 152
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Campuchia ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Việt Nam ",
+        "Question": "Quốc gia nào nổi tiếng với những cánh đông chum?",
+        "TrueCase": 1,
+        "_id": 153
+    },
+    {
+        "CaseA": "Chim sẻ ",
+        "CaseB": "Chim chích choè ",
+        "CaseC": "Chim quyên ",
+        "CaseD": "Chim ruồi ",
+        "Question": "Loài chim nào nhỏ nhất thế giới?",
+        "TrueCase": 4,
+        "_id": 154
+    },
+    {
+        "CaseA": "Loài vượn ",
+        "CaseB": "Loài khỉ ",
+        "CaseC": "Loài voi ",
+        "CaseD": "Loài người ",
+        "Question": "Trong các loài sau đây, loài nào có ý thức?",
+        "TrueCase": 4,
+        "_id": 155
+    },
+    {
+        "CaseA": "Tiên sinh ",
+        "CaseB": "Tiên ông ",
+        "CaseC": "Tiên chi ",
+        "CaseD": "Tiên liệt ",
+        "Question": "Từ xưng hô trọng thị với người đối thoại theo kiểu cổ?",
+        "TrueCase": 1,
+        "_id": 156
+    },
+    {
+        "CaseA": "Nobel ",
+        "CaseB": "Amstrong ",
+        "CaseC": "Pytagor ",
+        "CaseD": "Issac Newton ",
+        "Question": "Phát biểu: \"Trong tam giác, bình phương cạnh huyền bằng tổng bình phương của 2 cạnh góc vuông\" là của ai?",
+        "TrueCase": 3,
+        "_id": 157
+    },
+    {
+        "CaseA": "Cao su ",
+        "CaseB": "Cà phê",
+        "CaseC": "Chè ",
+        "CaseD": "Lúa mì ",
+        "Question": "Loại cây công nghiệp nào sau đây không phân bố ở miền nhiệt đới?",
+        "TrueCase": 3,
+        "_id": 158
+    },
+    {
+        "CaseA": "Xem thuộc tính tập tin ",
+        "CaseB": "Sao chép tập tin ",
+        "CaseC": "Đổi tên tập tin ",
+        "CaseD": "Xoá tập tin ",
+        "Question": "Thao tác nhấp chuột phải vào biểu tượng của tập tin và chọn Properties là để?",
+        "TrueCase": 1,
+        "_id": 159
+    },
+    {
+        "CaseA": "Boney M ",
+        "CaseB": "Modern Talking",
+        "CaseC": "Badboy Blue",
+        "CaseD": "Carpenters",
+        "Question": "\"Close to you\" là ca khúc nổi tiếng của nhóm nhạc nào?",
+        "TrueCase": 4,
+        "_id": 160
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Châm ngôn ",
+        "Question": "Câu \"Nhân Nghĩa là đạo duy nhất của Thánh hiền từ ngàn xưa\" thuộc thể loại văn học nào?",
+        "TrueCase": 4,
+        "_id": 161
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Học hành thi cử mà chi. Sáng sáng ăn no, tối ngủ khì\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 162
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Non kia ai đắp lên cao. Sông kia biển nọ ai đào chi sâu\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 163
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Phượng Hoàng đậu cánh sa kê. Ông thần ổng vật mấy thằng dê cho rồi\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 164
+    },
+    {
+        "CaseA": "Quảng Ngãi",
+        "CaseB": "Quảng Bình",
+        "CaseC": "Quảng Trị",
+        "CaseD": "Quảng Nam",
+        "Question": "Tỉnh nào có chiều ngang hẹp nhất nước ta?",
+        "TrueCase": 2,
+        "_id": 165
+    },
+    {
+        "CaseA": "Xuân ",
+        "CaseB": "Hạ ",
+        "CaseC": "Thu ",
+        "CaseD": "Đông ",
+        "Question": "Bài hát \"Tình ca\" của Hoàng Việt nhắc đến mùa nào trong năm?",
+        "TrueCase": 1,
+        "_id": 166
+    },
+    {
+        "CaseA": "Câu đơn ",
+        "CaseB": "Câu đặc biệt ",
+        "CaseC": "Câu ghép ",
+        "CaseD": "Câu rút gọn ",
+        "Question": "Câu \"Làng thì yêu thật nhưng làng theo Tây mất rồi thì phải thù\" là câu gì?",
+        "TrueCase": 3,
+        "_id": 167
+    },
+    {
+        "CaseA": "Sóc ",
+        "CaseB": "Cáo ",
+        "CaseC": "Nai ",
+        "CaseD": "Hươu",
+        "Question": "Trong các loài động vật sau, loài nào được xếp vào họ chó?",
+        "TrueCase": 2,
+        "_id": 168
+    },
+    {
+        "CaseA": "Nai ",
+        "CaseB": "Tế giác ",
+        "CaseC": "Sư tử ",
+        "CaseD": "Hươu cao cổ ",
+        "Question": "Con vật nào sau đây có chiều cao hơn các con vật còn lại?",
+        "TrueCase": 4,
+        "_id": 169
+    },
+    {
+        "CaseA": "Đà điểu ",
+        "CaseB": "Đại bàng ",
+        "CaseC": "Chim ưng ",
+        "CaseD": "Chim cú mèo ",
+        "Question": "Trong các loài chim sau đây, loài chim nào khác với các loài còn lại?",
+        "TrueCase": 1,
+        "_id": 170
+    },
+    {
+        "CaseA": "01/04",
+        "CaseB": "01/05",
+        "CaseC": "01/06",
+        "CaseD": "01/07",
+        "Question": "Ngày quốc tế lao động là ngày nào?",
+        "TrueCase": 2,
+        "_id": 171
+    },
+    {
+        "CaseA": "Đất đèn ",
+        "CaseB": "Khí đốt ",
+        "CaseC": "Khí trơ ",
+        "CaseD": "Đất dầu ",
+        "Question": "Trong dân gian, CaC2 Canxi Cacbua còn có tên gọi là gì?",
+        "TrueCase": 1,
+        "_id": 172
+    },
+    {
+        "CaseA": "Cà phê ",
+        "CaseB": "Cao su ",
+        "CaseC": "Gạo ",
+        "CaseD": "Chè ",
+        "Question": "Mặt hàng xuất khẩu chính của Việt Nam sang các nước ASEAN là?",
+        "TrueCase": 3,
+        "_id": 173
+    },
+    {
+        "CaseA": "File, Rename ",
+        "CaseB": "Edit, Rename ",
+        "CaseC": "Tools, Rename ",
+        "CaseD": "View, Rename",
+        "Question": "Lệnh nào sau đây đổi tên tập tin trong Windows?",
+        "TrueCase": 1,
+        "_id": 174
+    },
+    {
+        "CaseA": "Ra Lăng Bác ",
+        "CaseB": "Viếng Lăng Bác ",
+        "CaseC": "Thăm Lăng Bác ",
+        "CaseD": "Kính yêu Bác",
+        "Question": "\"Con ở miền Nam ra thăm lăng Bác, đã thấy trong sương hàng tre bát ngát\" là 2 câu thơ trong bài thơ nào?",
+        "TrueCase": 2,
+        "_id": 175
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Châm ngôn ",
+        "CaseD": "Tục ngữ",
+        "Question": "Câu: \"Khiêm tốn với kẻ trí sẽ được người tôn. Khiêm tốn với kẻ ngu sẽ bị người ta khinh\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 176
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ",
+        "Question": "\"Hoa thơm ai chẳng nâng niu. Người khôn ai chẳng mến yêu mọi bề\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 177
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nói chín thì làm nên mười. Nói mười làm chín kẻ cười người chê\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 178
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Quan văn mất một đồng tiền. Xem bằng quan võ mất quyền quận công\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 179
+    },
+    {
+        "CaseA": "Vĩnh Long",
+        "CaseB": "Bắc Ninh",
+        "CaseC": "Hà Nam",
+        "CaseD": "Bình Định",
+        "Question": "Tỉnh nào có diện tích nhỏ nhất Việt Nam?",
+        "TrueCase": 2,
+        "_id": 180
+    },
+    {
+        "CaseA": "Châu Âu",
+        "CaseB": "Châu Á ",
+        "CaseC": "Châu Phi ",
+        "CaseD": "Châu Mỹ ",
+        "Question": "Châu lục có nhiều quốc gia nhất?",
+        "TrueCase": 3,
+        "_id": 181
+    },
+    {
+        "CaseA": "Tản cư ",
+        "CaseB": "Đè nén ",
+        "CaseC": "Kháng chiến ",
+        "CaseD": "Lầm than ",
+        "Question": "Từ nào sau đây không là từ Hán Việt?",
+        "TrueCase": 2,
+        "_id": 182
+    },
+    {
+        "CaseA": "Họ mèo ",
+        "CaseB": "Họ sóc ",
+        "CaseC": "Họ chó ",
+        "CaseD": "Họ hươu",
+        "Question": "Loài cáo được xếp vào họ gì?",
+        "TrueCase": 3,
+        "_id": 183
+    },
+    {
+        "CaseA": "Con chim diều hâu",
+        "CaseB": "Con vẹt ",
+        "CaseC": "Con diều trẻ em ",
+        "CaseD": "Con cú mèo ",
+        "Question": "Trong các con vật sau đây, con nào không phải là động vật?",
+        "TrueCase": 3,
+        "_id": 184
+    },
+    {
+        "CaseA": "Con khỉ ",
+        "CaseB": "Con chim sâu ",
+        "CaseC": "Con chó xù ",
+        "CaseD": "Con mèo mướp ",
+        "Question": "Trong các con vật sau đây, con vật nào khác với các con vật còn lại?",
+        "TrueCase": 2,
+        "_id": 185
+    },
+    {
+        "CaseA": "Vịt trời ",
+        "CaseB": "Gà ",
+        "CaseC": "Cú ",
+        "CaseD": "Dơi ",
+        "Question": "Loài động vật nào sau đây không thuộc lớp chim?",
+        "TrueCase": 4,
+        "_id": 186
+    },
+    {
+        "CaseA": "Công chúa",
+        "CaseB": "Công nương ",
+        "CaseC": "Mị nương ",
+        "CaseD": "Cách cách ",
+        "Question": "Thời vua Hùng con gái vua gọi là gì?",
+        "TrueCase": 3,
+        "_id": 187
+    },
+    {
+        "CaseA": "Núi Yên Tử",
+        "CaseB": "Núi Phanxipăng",
+        "CaseC": "Núi Hoàng Liên Sơn ",
+        "CaseD": "Núi Ngọc Linh ",
+        "Question": "Đỉnh núi cao nhất nước ta là đỉnh núi nào?",
+        "TrueCase": 2,
+        "_id": 188
+    },
+    {
+        "CaseA": "Yahoo Messenger",
+        "CaseB": "Outlook",
+        "CaseC": "Google chrome",
+        "CaseD": "Kaspersky",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để tán gẫu, gửi và nhận tin tức thời?",
+        "TrueCase": 1,
+        "_id": 189
+    },
+    {
+        "CaseA": "Lai Châu ",
+        "CaseB": "Lào Cai ",
+        "CaseC": "Nghệ An ",
+        "CaseD": "Hoà Bình ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Sơn La?",
+        "TrueCase": 3,
+        "_id": 190
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Châm ngôn",
+        "CaseD": "Tục ngữ ",
+        "Question": "Câu: \"Có giải thoát, mới biết rằng sự ràng buộc là nỗi khổ đau\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 191
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Hoa thơm ai chẳng muốn đeo. Người khôn ai nỡ cứ theo nặng lời\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 192
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nói người chẳng nghĩ đến ai. Thử sờ lên gáy xem xa hay gần\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 193
+    },
+    {
+        "CaseA": "Tục ngữ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Quân tử là quân tử Tàu. Ăn cơm thì ít, ăn rau thì nhiều\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 194
+    },
+    {
+        "CaseA": "Pháp ",
+        "CaseB": "Hy lạp",
+        "CaseC": "Ý",
+        "CaseD": "Đan Mạch",
+        "Question": "Quốc gia nào thuộc châu Âu có hình dáng giống chiếc ủng?",
+        "TrueCase": 3,
+        "_id": 195
+    },
+    {
+        "CaseA": "Thái ",
+        "CaseB": "Gia rai ",
+        "CaseC": "Bana",
+        "CaseD": "Ê đê",
+        "Question": "Sử thi Đam San của dân tộc nào?",
+        "TrueCase": 4,
+        "_id": 196
+    },
+    {
+        "CaseA": "36m/s",
+        "CaseB": "36.000m/s",
+        "CaseC": "100m/s",
+        "CaseD": "10m/s",
+        "Question": "Tốc độ 36Km/h bằng giá trị nào dưới đây?",
+        "TrueCase": 4,
+        "_id": 197
+    },
+    {
+        "CaseA": "Cỏ ",
+        "CaseB": "Bèo cám ",
+        "CaseC": "Rau sam",
+        "CaseD": "Rong biển ",
+        "Question": "Loài thực vật có kích thước nhỏ nhất là?",
+        "TrueCase": 2,
+        "_id": 198
+    },
+    {
+        "CaseA": "Voi ",
+        "CaseB": "Tê giác ",
+        "CaseC": "Gấu ",
+        "CaseD": "Hà Mã ",
+        "Question": "Trong các con vật sau đây, con nào sống dưới nước?",
+        "TrueCase": 4,
+        "_id": 199
+    },
+    {
+        "CaseA": "Pháp, Mỹ ",
+        "CaseB": "Nhật, Pháp ",
+        "CaseC": "Nhật, Mỹ ",
+        "CaseD": "Pháp, Anh",
+        "Question": "Hai Đế quốc nào được nhắc đến trong bài thơ \"Con cáo và tổ ong\" của Hồ Chí Minh?",
+        "TrueCase": 2,
+        "_id": 200
+    },
+    {
+        "CaseA": "Con đại bàng ",
+        "CaseB": "Ngôi sao ",
+        "CaseC": "Chim bồ câu ",
+        "CaseD": "Cành ô liu",
+        "Question": "Biểu tượng nào sau đây có trên cờ của các tổ chức Liên Hợp Quốc?",
+        "TrueCase": 4,
+        "_id": 201
+    },
+    {
+        "CaseA": "1000",
+        "CaseB": "100 ",
+        "CaseC": "10 ",
+        "CaseD": "0 ",
+        "Question": "Tích 10 số tự nhiên đầu tiên bằng bao nhiêu?",
+        "TrueCase": 4,
+        "_id": 202
+    },
+    {
+        "CaseA": "Xinh tươi",
+        "CaseB": "Duyên dáng",
+        "CaseC": "Lớn khôn",
+        "CaseD": "Phơi phới",
+        "Question": "\"Ngày xưa em bé cỏn con, bây giờ em đã .... thế này\"?",
+        "TrueCase": 3,
+        "_id": 203
+    },
+    {
+        "CaseA": "Outlook",
+        "CaseB": "Yahoo Messenger",
+        "CaseC": "MS Word",
+        "CaseD": "Kaspersky",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để diệt virus?",
+        "TrueCase": 4,
+        "_id": 204
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Lào Cai ",
+        "CaseC": "Yên Bái ",
+        "CaseD": "Hà Giang ",
+        "Question": "Thị xã Hà Giang thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 205
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Châm ngôn ",
+        "CaseD": "Tục ngữ",
+        "Question": "Câu: \"Có mất tự do mới nhận thấy được tự do là cao quý\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 206
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Hát bội làm tội người ta. Đàn ông bỏ vợ, đàn bà bỏ con\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 207
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nói ra thì nhớ lấy lời. Đừng như ong bướm đậu rồi lại bay\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 208
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Quân tử nhất ngôn là quân tử dại. Quân tử nói đi nói lại là quân tử khôn\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 209
+    },
+    {
+        "CaseA": "Toyota",
+        "CaseB": "Panasonic",
+        "CaseC": "Sony Ericcson",
+        "CaseD": "Yamaha",
+        "Question": "Đâu là tên gọi của một hãng di động nổi tiếng?",
+        "TrueCase": 3,
+        "_id": 210
+    },
+    {
+        "CaseA": "KB ",
+        "CaseB": "MB",
+        "CaseC": "TB",
+        "CaseD": "GB",
+        "Question": "Đơn vị đo dung lượng bộ nhớ nào lớn nhất trong các đơn vị sau đây?",
+        "TrueCase": 3,
+        "_id": 211
+    },
+    {
+        "CaseA": "Rắn ",
+        "CaseB": "Lươn ",
+        "CaseC": "Thằn lằn ",
+        "CaseD": "Kỳ nhông ",
+        "Question": "Con vật nào sau đây có khả năng đổi màu?",
+        "TrueCase": 4,
+        "_id": 212
+    },
+    {
+        "CaseA": "Sự trường tồn ",
+        "CaseB": "Sự phồn vinh ",
+        "CaseC": "Sự thăng hoa ",
+        "CaseD": "Sự đông đủ ",
+        "Question": "Cây đa biểu tượng cho điều gì?",
+        "TrueCase": 1,
+        "_id": 213
+    },
+    {
+        "CaseA": "Gấu",
+        "CaseB": "Tê giác ",
+        "CaseC": "Voi ",
+        "CaseD": "Hổ ",
+        "Question": "Trong các con vật sau đây, mật của con nào quý hiếm?",
+        "TrueCase": 1,
+        "_id": 214
+    },
+    {
+        "CaseA": "Đà Nẵng ",
+        "CaseB": "Nghệ An ",
+        "CaseC": "Huế ",
+        "CaseD": "Hà Nội ",
+        "Question": "Nhắc đến cầu Tràng Tiền, người ta nhớ đến nơi nào?",
+        "TrueCase": 3,
+        "_id": 215
+    },
+    {
+        "CaseA": "Khoai tây",
+        "CaseB": "Khoai lang ",
+        "CaseC": "Củ cải ",
+        "CaseD": "Gừng ",
+        "Question": "Trong các loại củ sau đây, loại nào thực ra là thân cây?",
+        "TrueCase": 1,
+        "_id": 216
+    },
+    {
+        "CaseA": "Brazil ",
+        "CaseB": "Tây Ban Nha ",
+        "CaseC": "Argentina ",
+        "CaseD": "Chile ",
+        "Question": "Đất nước nào là quê hương của điệu nhảy Tango?",
+        "TrueCase": 3,
+        "_id": 217
+    },
+    {
+        "CaseA": "Lạng Sơn, Hà Giang ",
+        "CaseB": "Cao Bằng, Thái Nguyên ",
+        "CaseC": "Quảng Ninh ",
+        "CaseD": "Đồng bằng sông Hồng ",
+        "Question": "Các mỏ than lớn của nước ta phân bố tập trung ở đâu?",
+        "TrueCase": 3,
+        "_id": 218
+    },
+    {
+        "CaseA": "Bitdefender",
+        "CaseB": "Outlook",
+        "CaseC": "MS Paint",
+        "CaseD": "Yahoo Messenger",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để diệt virus?",
+        "TrueCase": 1,
+        "_id": 219
+    },
+    {
+        "CaseA": "Bắc Kạn ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Lạng Sơn ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Huyện Trà Lĩnh thuộc tỉnh nào của nước ta?",
+        "TrueCase": 2,
+        "_id": 220
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn",
+        "CaseC": " Châm ngôn ",
+        "CaseD": "Tục ngữ ",
+        "Question": "Câu: \"Tiền bạc vật chất, mất đi kiếm lại được. Nhưng niềm tin tưởng đã mất đi rồi thì không làm sao kiếm lại được\" thuộc thể loại nào?",
+        "TrueCase": 3,
+        "_id": 221
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Tục ngữ",
+        "CaseC": "Danh ngôn ",
+        "CaseD": "Thành ngữ",
+        "Question": "\"Gió đưa cây cải về trời. Rau răm ở lại chịu lời đắng cay\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 222
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Núi cao chi lắm núi ơi. Núi che mặt trời, chẳng thấy người thương\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 223
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Ra đi là sự đã liều. Nắng mai phố lạ, mưa chiều thôn xưa\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 224
+    },
+    {
+        "CaseA": "Sfone",
+        "CaseB": "Viettel",
+        "CaseC": "Mobiphone",
+        "CaseD": "Vinaphone",
+        "Question": "Mạng di động nào sau đây sử dụng công nghệ khác với các mạng còn lại?",
+        "TrueCase": 1,
+        "_id": 225
+    },
+    {
+        "CaseA": "Sự cân đối ",
+        "CaseB": "Cân nặng ",
+        "CaseC": "Chiều cao ",
+        "CaseD": "Tính tình ",
+        "Question": "Chỉ số khoa học BMI dùng để đánh giá cái gì ở con người?",
+        "TrueCase": 1,
+        "_id": 226
+    },
+    {
+        "CaseA": "Thằn lằn ",
+        "CaseB": "Tắc kè ",
+        "CaseC": "Rắn ",
+        "CaseD": "Rắn mối ",
+        "Question": "Con vật nào sau đây có khả năng đổi màu?",
+        "TrueCase": 2,
+        "_id": 227
+    },
+    {
+        "CaseA": "Chim chìa vôi ",
+        "CaseB": "Chim cú mèo ",
+        "CaseC": "Chim gõ kiến ",
+        "CaseD": "Chim sâu ",
+        "Question": "Loài chim nào có thể đứng thẳng góc lên thân cây?",
+        "TrueCase": 3,
+        "_id": 228
+    },
+    {
+        "CaseA": "Hươu ",
+        "CaseB": "Chó sói ",
+        "CaseC": "Rết",
+        "CaseD": "Hạc ",
+        "Question": "Trong các con vật sau đây, con nào nhỏ hơn các con vật còn lại?",
+        "TrueCase": 3,
+        "_id": 229
+    },
+    {
+        "CaseA": "Nước ",
+        "CaseB": "Lửa ",
+        "CaseC": "Gió ",
+        "CaseD": "Mưa",
+        "Question": "Đâu là phát minh của loài người?",
+        "TrueCase": 2,
+        "_id": 230
+    },
+    {
+        "CaseA": "Thú ",
+        "CaseB": "Chim ",
+        "CaseC": "Cây ",
+        "CaseD": "Hoa ",
+        "Question": "Điền vào chỗ trống: \"Gần sông quen với cá, gần rừng lạ với ...\"?",
+        "TrueCase": 2,
+        "_id": 231
+    },
+    {
+        "CaseA": "Gang trắng ",
+        "CaseB": "Gang đen ",
+        "CaseC": "Gang xốp ",
+        "CaseD": "Gang xám ",
+        "Question": "Loại gang nào được dùng để luyện thép?",
+        "TrueCase": 1,
+        "_id": 232
+    },
+    {
+        "CaseA": "Phần mềm hệ thống ",
+        "CaseB": "Phần mềm tiện ích ",
+        "CaseC": "Phần mềm giải trí ",
+        "CaseD": "Phần mềm học tập ",
+        "Question": "Vietkey là phần mềm gì?",
+        "TrueCase": 2,
+        "_id": 233
+    },
+    {
+        "CaseA": "Total Commader",
+        "CaseB": "Norton Antivirus",
+        "CaseC": "Yahoo Messenger",
+        "CaseD": "Photoshop",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để diệt virus?",
+        "TrueCase": 2,
+        "_id": 234
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Lạng Sơn ",
+        "CaseC": "Hà Giang ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Huyện Trùng Khánh thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 235
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Danh ngôn ",
+        "CaseC": "Châm ngôn ",
+        "CaseD": "Tục ngữ  ",
+        "Question": "Câu: \"Trái lại việc rất tầm thường bạn không ưa thích thì cảm thấy khó khăn vô cùng\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 236
+    },
+    {
+        "CaseA": "Tục ngữ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Em ơi anh bảo em này. Sông sâu chớ lội, đò đầy chớ đi\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 237
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Nước giữa dòng chê trong, chê đục. Cũng trâu đầm hì hục khen ngon\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 238
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Ra đi ngó trước ngó sau. Ngó nhà thấy cột, ngó nhau thấy buồng\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 239
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Hàn Quốc",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Nhật Bản",
+        "Question": "Truyện Doraemon được xem là biểu tượng của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 240
+    },
+    {
+        "CaseA": "Chế độ phong kiến ",
+        "CaseB": "Thằng bán tơ ",
+        "CaseC": "Sở Khanh ",
+        "CaseD": "Thúc Sinh ",
+        "Question": "Nguyên nhân tan vỡ của gia đình Thuý Kiều là do đâu?",
+        "TrueCase": 2,
+        "_id": 241
+    },
+    {
+        "CaseA": "Cá voi ",
+        "CaseB": "Hải cẩu ",
+        "CaseC": "Hà mã ",
+        "CaseD": "Cá sấu ",
+        "Question": "Loài động vật nào được xem là Ngựa nước?",
+        "TrueCase": 3,
+        "_id": 242
+    },
+    {
+        "CaseA": "Vịt ",
+        "CaseB": "Gà ",
+        "CaseC": "Đà điểu ",
+        "CaseD": "Chim cánh cụt",
+        "Question": "Trong các động vật sau đây, con vật giống đực mà có thể ấp trứng?",
+        "TrueCase": 4,
+        "_id": 243
+    },
+    {
+        "CaseA": "112 ",
+        "CaseB": "115 ",
+        "CaseC": "113 ",
+        "CaseD": "110",
+        "Question": "Trong các số sau đây, số nào chia hết cho 2 và 5?",
+        "TrueCase": 4,
+        "_id": 244
+    },
+    {
+        "CaseA": "Lợn ",
+        "CaseB": "Hải cẩu ",
+        "CaseC": "Cá sấu ",
+        "CaseD": "Bò rừng ",
+        "Question": "Trong các con vật sau đây, con nào có đôi hàm sắc nhọn?",
+        "TrueCase": 3,
+        "_id": 245
+    },
+    {
+        "CaseA": "Internet ",
+        "CaseB": "Báo in ",
+        "CaseC": "Truyền hình ",
+        "CaseD": "Phát thanh",
+        "Question": "Trong các thể loại báo chí sau, thể loại nào ra đời sớm nhất?",
+        "TrueCase": 2,
+        "_id": 246
+    },
+    {
+        "CaseA": "Gió ",
+        "CaseB": "Nhiên liệu bị đốt cháy",
+        "CaseC": "Nước ",
+        "CaseD": "Ánh sáng ",
+        "Question": "Trong nhà máy nhiệt điện, điện năng do dạng năng lượng nào chuyển hoá thành?",
+        "TrueCase": 2,
+        "_id": 247
+    },
+    {
+        "CaseA": "Phần mềm tiện ích ",
+        "CaseB": "Phần mềm giải trí ",
+        "CaseC": "Phần mềm hệ thống ",
+        "CaseD": "Phần mềm học tập ",
+        "Question": "Windows XP là gì?",
+        "TrueCase": 3,
+        "_id": 248
+    },
+    {
+        "CaseA": "Yahoo Messenger",
+        "CaseB": "Bitdefender",
+        "CaseC": "Photoshop",
+        "CaseD": "Kaspersky",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để xử lý ảnh chuyên nghiệp?",
+        "TrueCase": 3,
+        "_id": 249
+    },
+    {
+        "CaseA": "Hà Giang ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Yên Bái",
+        "CaseD": "Lào Cai ",
+        "Question": "Huyện Đồng Văn thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 250
+    },
+    {
+        "CaseA": "Ca dao ",
+        "CaseB": "Châm ngôn",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn ",
+        "Question": "Câu: \"Kẻ làm nhiều mà không được hưởng, là vì bị kẻ khác bóc lột\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 251
+    },
+    {
+        "CaseA": "Tục ngữ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Em ơi em có thương anh. Em ra canh lính cho anh leo tường\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 252
+    },
+    {
+        "CaseA": "Thành ngữ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Danh ngôn",
+        "Question": "\"Nước lên, cuống sáo nhổ đàng. Trong tay em có ngọc cũng không bằng có anh\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 253
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": "\"Ra sông mới biết cạn sâu. Ở trong lạch hói, biết đâu mà dò\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 254
+    },
+    {
+        "CaseA": "An Dương Vương",
+        "CaseB": "Lạc Long Quân và Âu Cơ",
+        "CaseC": "Sơn Tinh - Thuỷ Tinh ",
+        "CaseD": "Thánh Gióng ",
+        "Question": "Truyền thuyết nào sau đây thuộc thời kỳ Âu Lạc?",
+        "TrueCase": 2,
+        "_id": 255
+    },
+    {
+        "CaseA": "Thúc Sinh ",
+        "CaseB": "Sở Khanh ",
+        "CaseC": "Hoạn Thư ",
+        "CaseD": "Thằng bán tơ ",
+        "Question": "Trong truyện Kiều, khi ở cương vị là Quan toà, Thuý Kiều đã không xử ai?",
+        "TrueCase": 4,
+        "_id": 256
+    },
+    {
+        "CaseA": "Chân",
+        "CaseB": "Râu ",
+        "CaseC": "Hướng đi ",
+        "CaseD": "Toàn thân",
+        "Question": "Trong thế giới động vật, kiến trao đổi thông tin bằng bộ phận nào?",
+        "TrueCase": 2,
+        "_id": 257
+    },
+    {
+        "CaseA": "Đại bàng ",
+        "CaseB": "Dơi ",
+        "CaseC": "Thiên nga ",
+        "CaseD": "Châu chấu ",
+        "Question": "Động vật có vú nào có thể bay được?",
+        "TrueCase": 2,
+        "_id": 258
+    },
+    {
+        "CaseA": "1118 ",
+        "CaseB": "1119 ",
+        "CaseC": "1171 ",
+        "CaseD": "1185 ",
+        "Question": "Trong các số sau đây, số nào chia hết cho 2?",
+        "TrueCase": 1,
+        "_id": 259
+    },
+    {
+        "CaseA": "Hổ ",
+        "CaseB": "Báo ",
+        "CaseC": "Bạch tuộc ",
+        "CaseD": "Cá mập ",
+        "Question": "Trong các con vật sau đây, con nào có đôi hàm khổng lồ, khoẻ và sắc nhọn?",
+        "TrueCase": 4,
+        "_id": 260
+    },
+    {
+        "CaseA": "Mùa đông ",
+        "CaseB": "Mùa hè ",
+        "CaseC": "Mùa thu ",
+        "CaseD": "Mùa xuân ",
+        "Question": "Hoa bằng lăng thường nở vào mùa nào?",
+        "TrueCase": 2,
+        "_id": 261
+    },
+    {
+        "CaseA": "Gió ",
+        "CaseB": "Cơ năng của nước ",
+        "CaseC": "Quang năng của ánh sáng ",
+        "CaseD": "Nhiệt do nhiên liệu bị đốt cháy ",
+        "Question": "Trong nhà máy thuỷ điện, điện năng do dạng năng lượng nào chuyển hoá thành?",
+        "TrueCase": 2,
+        "_id": 262
+    },
+    {
+        "CaseA": "Bộ gõ tiếng Việt ",
+        "CaseB": "Trình soạn văn bản ",
+        "CaseC": "Hệ điều hành ",
+        "CaseD": "Phần cứng máy tính ",
+        "Question": "Windows XP là gì?",
+        "TrueCase": 3,
+        "_id": 263
+    },
+    {
+        "CaseA": "Norton Antivirus",
+        "CaseB": "Total Commander",
+        "CaseC": "Autocad",
+        "CaseD": "Corel",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để quản lý tập tin và thư mục?",
+        "TrueCase": 2,
+        "_id": 264
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Yên Bái ",
+        "CaseC": "Tuyên Quang ",
+        "CaseD": "Hà Giang ",
+        "Question": "Huyện Mèo Vạc thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 265
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Châm ngôn ",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Ca dao ",
+        "Question": "Câu: \"Kẻ ngồi rỗi ăn không, là sống bám vào xã hội\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 266
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ ",
+        "CaseD": "Danh ngôn",
+        "Question": "\"Em về hỏi mẹ cùng cha. Có cho em lấy chồng xa hay đừng\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 267
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Nước lã mà vã nên hồ. Tay không mà nổi cơ đồ mới hay\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 268
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn ",
+        "Question": " \"Ra về bỗng nhớ người thương. Tay vỗ thanh giường chép miệng thở than\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 269
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Tục ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Vè ",
+        "Question": "Câu nói: \"Chuồn chuồn bay thấp thì mưa, bay cao thì nắng bay vừa thì râm\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 270
+    },
+    {
+        "CaseA": "Đói ",
+        "CaseB": "Thắt cổ tự vẫn",
+        "CaseC": "Bệnh ",
+        "CaseD": "Ăn bả chó",
+        "Question": "Trong truyện ngắn Lão Hạc, lão Hạc chết do nguyên nhân nào?",
+        "TrueCase": 4,
+        "_id": 271
+    },
+    {
+        "CaseA": "Cà dầm tương",
+        "CaseB": "Nhà người yêu",
+        "CaseC": "Bà nội anh",
+        "CaseD": "Hà Nội yêu",
+        "Question": "\"Anh đi anh nhớ quê nhà, Nhớ canh rau muống, nhớ ....\"?",
+        "TrueCase": 1,
+        "_id": 272
+    },
+    {
+        "CaseA": "Cá hồi ",
+        "CaseB": "Rùa biển ",
+        "CaseC": "Bạch tuộc ",
+        "CaseD": "Rắn châu Phi ",
+        "Question": "Loài động vật nào sau đây, sau khi đẻ trứng thì chết?",
+        "TrueCase": 1,
+        "_id": 273
+    },
+    {
+        "CaseA": "1083 ",
+        "CaseB": "1088 ",
+        "CaseC": "1085 ",
+        "CaseD": "1089 ",
+        "Question": "Trong các số sau đây, số nào chia hết cho 2?",
+        "TrueCase": 2,
+        "_id": 274
+    },
+    {
+        "CaseA": "Hát chèo ",
+        "CaseB": "Hát bội ",
+        "CaseC": "Cải lương ",
+        "CaseD": "Hồ Quảng ",
+        "Question": "Loại hình văn hoá nghệ thuật nào mà người bình dân Nam Bộ rất thích?",
+        "TrueCase": 3,
+        "_id": 275
+    },
+    {
+        "CaseA": "Cờ bạc",
+        "CaseB": "Rượu chè ",
+        "CaseC": "Trộm cướp ",
+        "CaseD": "Đĩ bợm ",
+        "Question": "Cái gì không xếp vào tứ đổ tường theo quan niệm xưa?",
+        "TrueCase": 3,
+        "_id": 276
+    },
+    {
+        "CaseA": "Nằm yên trên bàn ",
+        "CaseB": "Lăn chậm dần trên bàn ",
+        "CaseC": "Lăn nhanh dần trên bàn ",
+        "CaseD": "Nảy lên và rơi xuống ",
+        "Question": "Trường hợp nào sau đây quả bóng không có cơ năng?",
+        "TrueCase": 1,
+        "_id": 277
+    },
+    {
+        "CaseA": "Sinh vật cổ ",
+        "CaseB": "Sinh vật nguyên thuỷ ",
+        "CaseC": "Hoá thạch ",
+        "CaseD": "Cổ sinh vật học ",
+        "Question": "Di tích của sinh vật sống trong các thời đại trước đã để lại trong các lớp đất đá được gọi là?",
+        "TrueCase": 3,
+        "_id": 278
+    },
+    {
+        "CaseA": "Corel ",
+        "CaseB": "Autocad ",
+        "CaseC": "Photoshop ",
+        "CaseD": "Adobe Reader ",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để thiết kế các bản vẽ?",
+        "TrueCase": 2,
+        "_id": 279
+    },
+    {
+        "CaseA": "Ôn đới ",
+        "CaseB": "Cận nhiệt đới ",
+        "CaseC": "Nhiệt đới ",
+        "CaseD": "Xích đạo ",
+        "Question": "Campuchia nằm ở đới khí hậu nào?",
+        "TrueCase": 3,
+        "_id": 280
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Châm ngôn ",
+        "CaseC": "Tục ngữ",
+        "CaseD": "Ca dao ",
+        "Question": "Câu \"Chẳng có hạnh phúc nào sánh bằng sự yên tĩnh của tâm hồn\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 281
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ",
+        "CaseD": "Danh ngôn",
+        "Question": "\"Gần mực thì đen, gần đèn thì sáng\" thuộc thể loại văn học nào?",
+        "TrueCase": 1,
+        "_id": 282
+    },
+    {
+        "CaseA": "Danh ngôn",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Thành ngữ",
+        "Question": "\"Nước lên rồi lại nước ròng. Đố ai bắt được con còng trong hang\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 283
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Danh ngôn",
+        "Question": "\"Ra về ruột nọ quặn đau. Nhân sâm sắc uống mấy tàu cho nguôi\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 284
+    },
+    {
+        "CaseA": "Nghĩa khuyên nhủ ",
+        "CaseB": "Nghĩa phê phán ",
+        "CaseC": "Nghĩa thách đố",
+        "CaseD": "Nghĩa ca ngợi ",
+        "Question": "Nghĩa nào đúng nhất trong câu tục ngữ \"không thầy đố mày làm nên\"?",
+        "TrueCase": 4,
+        "_id": 285
+    },
+    {
+        "CaseA": "Giang sơn ",
+        "CaseB": "Sông núi ",
+        "CaseC": "Đất nước ",
+        "CaseD": "Sơn thuỷ ",
+        "Question": "Từ nào sau đây không đồng nghĩa với từ \"sơn hà\"?",
+        "TrueCase": 4,
+        "_id": 286
+    },
+    {
+        "CaseA": "Châu chấu",
+        "CaseB": "Chuồn chuồn",
+        "CaseC": "Bọ ngựa ",
+        "CaseD": "Dế nhủi ",
+        "Question": "Con vật nào có khả năng quay ngược đầu về phía sau?",
+        "TrueCase": 3,
+        "_id": 287
+    },
+    {
+        "CaseA": "20",
+        "CaseB": "21",
+        "CaseC": "22",
+        "CaseD": "23",
+        "Question": "Nam thanh niên đủ bao nhiêu tuổi thì có thể kết hôn?",
+        "TrueCase": 3,
+        "_id": 288
+    },
+    {
+        "CaseA": "33",
+        "CaseB": "32",
+        "CaseC": "38 ",
+        "CaseD": "29 ",
+        "Question": "Trong các số sau đây, số nào chia hết cho 3?",
+        "TrueCase": 1,
+        "_id": 289
+    },
+    {
+        "CaseA": "Sáo sậu ",
+        "CaseB": "Kền kền ",
+        "CaseC": "Chích choè ",
+        "CaseD": "Gõ kiến ",
+        "Question": "Trong các loài chim dưới đây, loài nào thường hay ăn thịt?",
+        "TrueCase": 2,
+        "_id": 290
+    },
+    {
+        "CaseA": "Sasuke ",
+        "CaseB": "Nina ",
+        "CaseC": "Juki ",
+        "CaseD": "Sima ",
+        "Question": "Bộ ba Naruto, Sakura và ai?",
+        "TrueCase": 1,
+        "_id": 291
+    },
+    {
+        "CaseA": "Vật đặt trên bàn ",
+        "CaseB": "Vật lăn trên đường ",
+        "CaseC": "Lò xo bị nén ",
+        "CaseD": "Viên đạn đang bay ",
+        "Question": "Trường hợp nào sau đây vật không có năng  lượng?",
+        "TrueCase": 1,
+        "_id": 292
+    },
+    {
+        "CaseA": "8 lá cờ ",
+        "CaseB": "10 lá cờ ",
+        "CaseC": "14 lá cờ ",
+        "CaseD": "18 lá cờ ",
+        "Question": "Điểm thi đấu Sea Games phải treo bao nhiêu lá cờ?",
+        "TrueCase": 3,
+        "_id": 293
+    },
+    {
+        "CaseA": "Adobe Photoshop ",
+        "CaseB": "Adobe Reader ",
+        "CaseC": "Autocad ",
+        "CaseD": "Kingsoft writer ",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào dùng để đọc các file điện tử PDF?",
+        "TrueCase": 2,
+        "_id": 294
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Châm ngôn ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ",
+        "Question": "Câu: \"Người biết tự trọng thì không bao giờ dám làm tội lỗi\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 295
+    },
+    {
+        "CaseA": "Tục ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Thành ngữ",
+        "CaseD": "Danh ngôn",
+        "Question": "\"Ngày nào ra đứng bờ sông. Sông xa, xa tít cho lòng em đau\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 296
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Thành ngữ ",
+        "Question": "\"Nước mắm ngon dầm con cá liệt. Em có chồng nói thiệt anh hay\" thuộc thể loại văn học nào?",
+        "TrueCase": 2,
+        "_id": 297
+    },
+    {
+        "CaseA": "Danh ngôn ",
+        "CaseB": "Thành ngữ ",
+        "CaseC": "Ca dao ",
+        "CaseD": "Tục ngữ ",
+        "Question": "\"Rau muống bắt cuống rau răm. Làm chi đến nỗi chàng cầm cổ tay\" thuộc thể loại văn học nào?",
+        "TrueCase": 3,
+        "_id": 298
+    },
+    {
+        "CaseA": "Vũ Trọng Phụng",
+        "CaseB": "Nam Cao ",
+        "CaseC": "Ngô Tất Tố ",
+        "CaseD": "Thạch Lam ",
+        "Question": "\"Tắt đèn\" là tác phẩm của nhà văn nào?",
+        "TrueCase": 3,
+        "_id": 299
+    },
+    {
+        "CaseA": "Chủ ngữ",
+        "CaseB": "Vị ngữ ",
+        "CaseC": "Bổ ngữ ",
+        "CaseD": "Trạng ngữ ",
+        "Question": "Thành ngữ trong câu: \"Mẹ đã phải một nắng hai sương vì chúng con\" giữ vai trò gì?",
+        "TrueCase": 2,
+        "_id": 300
+    },
+    {
+        "CaseA": "Lào Cai ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Điện Biên ",
+        "CaseD": "Sơn La ",
+        "Question": "Sông Hồng đổ vào nước ta ở địa phận tỉnh nào đầu tiên?",
+        "TrueCase": 1,
+        "_id": 301
+    },
+    {
+        "CaseA": "17",
+        "CaseB": "18",
+        "CaseC": "19",
+        "CaseD": "20",
+        "Question": "Nữ thanh niên bao nhiêu tuổi thì có thể được kết hôn?",
+        "TrueCase": 2,
+        "_id": 302
+    },
+    {
+        "CaseA": "101 ",
+        "CaseB": "39 ",
+        "CaseC": "15 ",
+        "CaseD": "12 ",
+        "Question": "Trong các số sau đây, số nào chia hết cho 5?",
+        "TrueCase": 3,
+        "_id": 303
+    },
+    {
+        "CaseA": "Đại cầu ",
+        "CaseB": "Hồng cầu ",
+        "CaseC": "Hắc cầu ",
+        "CaseD": "Trung cầu ",
+        "Question": "Vật thể trong máu gồm có: bạch cầu, tiểu cầu, và ....?",
+        "TrueCase": 2,
+        "_id": 304
+    },
+    {
+        "CaseA": "Da và phổi ",
+        "CaseB": "Da ",
+        "CaseC": "Mang ",
+        "CaseD": "Phổi ",
+        "Question": "Loài ếch hô hấp bằng bộ phận nào?",
+        "TrueCase": 1,
+        "_id": 305
+    },
+    {
+        "CaseA": "Tác dụng nhiệt",
+        "CaseB": "Tác dụng quang điện ",
+        "CaseC": "Tác dụng sinh lý ",
+        "CaseD": "Tác dụng từ ",
+        "Question": "Tác dụng nào sau đây không phải là tác dụng của ánh sáng trắng?",
+        "TrueCase": 4,
+        "_id": 306
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Cho đến năm 2010, Việt Nam đã tổ chức bao nhiêu lần Đại hội Sea Games?",
+        "TrueCase": 1,
+        "_id": 307
+    },
+    {
+        "CaseA": "Microsoft Paint",
+        "CaseB": "Kingsoft Writer",
+        "CaseC": "Microsoft Excel",
+        "CaseD": "Adobe Reader",
+        "Question": "Trong các phần mềm sau đây, phần mềm nào là phần mềm soạn thảo văn bản?",
+        "TrueCase": 2,
+        "_id": 308
+    }
+]

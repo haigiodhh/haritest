@@ -1,0 +1,1424 @@
+[
+    {
+        "CaseA": "Windows XP",
+        "CaseB": "Windows 7",
+        "CaseC": "MacOS",
+        "CaseD": "Ubuntu",
+        "Question": "Trong các hệ điều hành sau, đâu là hệ điều hành mã nguồn mở?",
+        "TrueCase": 4,
+        "_id": 1
+    },
+    {
+        "CaseA": "Đức",
+        "CaseB": "Nhật Bản",
+        "CaseC": "Nga",
+        "CaseD": "Trung Quốc",
+        "Question": "Quốc gia nào xếp vị trí thứ 3 tại Olympic Athen 2004?",
+        "TrueCase": 3,
+        "_id": 2
+    },
+    {
+        "CaseA": "Đội chủ nhà",
+        "CaseB": "Đội khách",
+        "CaseC": "Đội thắng trong tung đồng xu",
+        "CaseD": "Đội có xếp hạng cao hơn",
+        "Question": "Trong bóng chày, đội nào được quyền giao bóng trước?",
+        "TrueCase": 2,
+        "_id": 3
+    },
+    {
+        "CaseA": "Somalia",
+        "CaseB": "Senegal ",
+        "CaseC": "Zambia",
+        "CaseD": "Zimbabwe",
+        "Question": "Ngày 24/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 4
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Campuchia",
+        "CaseC": "Myanmar",
+        "CaseD": "Thái Lan ",
+        "Question": "Ngày 05/12 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 5
+    },
+    {
+        "CaseA": "Sierra Leone",
+        "CaseB": "Senegal ",
+        "CaseC": "Singapore",
+        "CaseD": "Serbia",
+        "Question": "Ngày 04/04 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 6
+    },
+    {
+        "CaseA": "Nepal ",
+        "CaseB": "Yemen",
+        "CaseC": "Oman ",
+        "CaseD": "Syria",
+        "Question": "Ngày 18/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 7
+    },
+    {
+        "CaseA": "Malawi",
+        "CaseB": "Malaysia",
+        "CaseC": "Maldives",
+        "CaseD": "Madagascar",
+        "Question": "Ngày 26/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 8
+    },
+    {
+        "CaseA": "Mi giáng, Si giáng ",
+        "CaseB": "Si giáng, Đô giáng ",
+        "CaseC": "Si giáng, Mi giáng ",
+        "CaseD": "Si giáng, Rê giáng ",
+        "Question": "Trong âm nhạc, hoá biểu có 2 dấu giáng gồm những âm nào giáng?",
+        "TrueCase": 3,
+        "_id": 9
+    },
+    {
+        "CaseA": "Thế kỷ 6,7 ",
+        "CaseB": "Thế kỷ 8 ",
+        "CaseC": "Thế kỷ 10, 11 ",
+        "CaseD": "Thể kỷ 12, 13",
+        "Question": "Khẩu hiệu Tổ quốc và tự do của Cuba có từ thế kỷ nào?",
+        "TrueCase": 2,
+        "_id": 10
+    },
+    {
+        "CaseA": "Qatar",
+        "CaseB": "Trung Quốc",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Latvia",
+        "Question": "Quốc gia nào có sự chênh lệch về giới tính ít nhất hành tinh?",
+        "TrueCase": 4,
+        "_id": 11
+    },
+    {
+        "CaseA": " Ba Lan ",
+        "CaseB": "Nam Tư ",
+        "CaseC": "CH Séc",
+        "CaseD": "Italy ",
+        "Question": "Ngày 29/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 12
+    },
+    {
+        "CaseA": "Thái Lan ",
+        "CaseB": "Tajikistan ",
+        "CaseC": "Tanzania",
+        "CaseD": "Thổ Nhĩ Kì ",
+        "Question": "Ngày 26/04 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 13
+    },
+    {
+        "CaseA": "Saudi Arabia ",
+        "CaseB": "Scotland",
+        "CaseC": "Senegal ",
+        "CaseD": "Serbia ",
+        "Question": "Ngày 30/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 14
+    },
+    {
+        "CaseA": "Nigieria",
+        "CaseB": "Namibia ",
+        "CaseC": "Na Uy",
+        "CaseD": "Nepal ",
+        "Question": "Ngày 17/05 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 15
+    },
+    {
+        "CaseA": "Madagascar ",
+        "CaseB": "Macedonia",
+        "CaseC": "Mali ",
+        "CaseD": "Malawi",
+        "Question": "Ngày 06/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 16
+    },
+    {
+        "CaseA": "149.600.000 Km",
+        "CaseB": "149.600 năm ánh sáng",
+        "CaseC": "149.600 Km",
+        "CaseD": "194.600.000 Km",
+        "Question": "Khoảng cách từ mặt trời đến trái đất là bao nhiêu trong các giá trị sau?",
+        "TrueCase": 1,
+        "_id": 17
+    },
+    {
+        "CaseA": "Ấn Độ ",
+        "CaseB": "Trung Quốc, Nhật ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Mông Cổ ",
+        "Question": "Để độc chiếm thị trường, Pháp đánh thuế rất nặng vào hàng hoá của các nước nhập vào Đông Dương, đó là?",
+        "TrueCase": 2,
+        "_id": 18
+    },
+    {
+        "CaseA": "Chopin",
+        "CaseB": "Mozart",
+        "CaseC": "Bethoven",
+        "CaseD": "Traicopxki",
+        "Question": "Nhạc sĩ được mệnh danh là “nhà thơ của cây đàn piano”?",
+        "TrueCase": 1,
+        "_id": 19
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Scotland",
+        "CaseC": "Ireland",
+        "CaseD": "Xứ Wales",
+        "Question": "Ngày 01/03 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 20
+    },
+    {
+        "CaseA": "Hong Kong ",
+        "CaseB": "Đài Loan ",
+        "CaseC": "Macau",
+        "CaseD": "Trung Quốc",
+        "Question": "Ngày 10/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 21
+    },
+    {
+        "CaseA": "San Mario ",
+        "CaseB": "Senegal ",
+        "CaseC": "Saudi Arabia ",
+        "CaseD": "Seychelles ",
+        "Question": "Ngày 23/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 22
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Triều Tiên ",
+        "CaseD": "Hàn Quốc ",
+        "Question": "Ngày 08/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 23
+    },
+    {
+        "CaseA": "Malawi",
+        "CaseB": "Malaysia",
+        "CaseC": "Maldives ",
+        "CaseD": "Mali ",
+        "Question": "Ngày 31/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 24
+    },
+    {
+        "CaseA": "1.391.000 Km",
+        "CaseB": "3.911.000 Km",
+        "CaseC": "1.931.000 Km",
+        "CaseD": "3.391.000 Km",
+        "Question": "Đường kính mặt trời vào khoảng bao nhiêu?",
+        "TrueCase": 1,
+        "_id": 25
+    },
+    {
+        "CaseA": "Faraday ",
+        "CaseB": "M. Planck ",
+        "CaseC": " Anhxtanh ",
+        "CaseD": "N. Bohr",
+        "Question": "Nếu bạn sinh năm 1885 thì bạn bằng tuổi ai?",
+        "TrueCase": 4,
+        "_id": 26
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Iceland",
+        "CaseD": "Ireland",
+        "Question": "Quốc gia nào có tỷ lệ mua bán cao nhất hành tinh?",
+        "TrueCase": 3,
+        "_id": 27
+    },
+    {
+        "CaseA": "Oman ",
+        "CaseB": "Syria",
+        "CaseC": "Yemen ",
+        "CaseD": "Qatar",
+        "Question": "Ngày 22/05 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 28
+    },
+    {
+        "CaseA": "Tajikistan",
+        "CaseB": "Tanzania",
+        "CaseC": "Tonga",
+        "CaseD": "Togo",
+        "Question": "Ngày 09/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 29
+    },
+    {
+        "CaseA": "Samoa ",
+        "CaseB": "San Mario ",
+        "CaseC": "Senegal ",
+        "CaseD": "Serbia ",
+        "Question": "Ngày 03/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 30
+    },
+    {
+        "CaseA": "Niger",
+        "CaseB": "Nigieria ",
+        "CaseC": "Na Uy ",
+        "CaseD": "Namibia ",
+        "Question": "Ngày 01/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 31
+    },
+    {
+        "CaseA": "Maldives",
+        "CaseB": "Mali ",
+        "CaseC": "Malaysia",
+        "CaseD": "Macedonia",
+        "Question": "Ngày 26/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 32
+    },
+    {
+        "CaseA": "107 lần ",
+        "CaseB": "109 lần ",
+        "CaseC": "701 lần ",
+        "CaseD": "901 lần ",
+        "Question": "Đường kính mặt trời gấp khoảng bao nhiêu lần đường kính trái đất?",
+        "TrueCase": 2,
+        "_id": 33
+    },
+    {
+        "CaseA": "Thái Lan",
+        "CaseB": "Pháp ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Trung Quốc",
+        "Question": "Cathay là tên gọi của nước nào sau đây?",
+        "TrueCase": 4,
+        "_id": 34
+    },
+    {
+        "CaseA": "Ireland ",
+        "CaseB": "Iceland",
+        "CaseC": "Hoa Kỳ ",
+        "CaseD": "Nhật Bản ",
+        "Question": "Quốc gia nào có chất lượng cuộc sống cao nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 35
+    },
+    {
+        "CaseA": "Vatican ",
+        "CaseB": "Việt Nam",
+        "CaseC": "Venezuela",
+        "CaseD": "Vanuatu ",
+        "Question": "Ngày 05/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 36
+    },
+    {
+        "CaseA": "Senegal ",
+        "CaseB": "Sudan ",
+        "CaseC": "Syria",
+        "CaseD": "Sri Lanka",
+        "Question": "Ngày 17/04 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 37
+    },
+    {
+        "CaseA": "San Mario ",
+        "CaseB": "Saudi Arabia",
+        "CaseC": "Scotland",
+        "CaseD": "Samoa",
+        "Question": "Ngày 01/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 38
+    },
+    {
+        "CaseA": "Niger",
+        "CaseB": "Nicaragua ",
+        "CaseC": "New Zealand",
+        "CaseD": "Nigieria",
+        "Question": "Ngày 18/12 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 39
+    },
+    {
+        "CaseA": "Moldova ",
+        "CaseB": "Malta ",
+        "CaseC": "Mali ",
+        "CaseD": "Malaysia",
+        "Question": "Ngày 22/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 40
+    },
+    {
+        "CaseA": "2 tỉ tấn ",
+        "CaseB": "2 tỉ tỉ tấn ",
+        "CaseC": "20 tỉ tấn ",
+        "CaseD": "20 tỉ tỉ tấn ",
+        "Question": "Khối lượng của mặt trời vào khoảng bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 41
+    },
+    {
+        "CaseA": "1908 ",
+        "CaseB": "1909 ",
+        "CaseC": "1910 ",
+        "CaseD": "1911",
+        "Question": "Vị hoàng đế cuối cùng bị lật đổ và Trung Quốc trở thành nước cộng hoà vào năm nào?",
+        "TrueCase": 4,
+        "_id": 42
+    },
+    {
+        "CaseA": "Somalia ",
+        "CaseB": "Hoa Kỳ ",
+        "CaseC": "Cuba ",
+        "CaseD": "Thổ Nhĩ Kỳ ",
+        "Question": "Quốc gia nào dành nhiều thời gian cho việc ăn uống nhất thế giới?",
+        "TrueCase": 4,
+        "_id": 43
+    },
+    {
+        "CaseA": "Venezuela",
+        "CaseB": "Vanuatu ",
+        "CaseC": "Vatican ",
+        "CaseD": "Việt Nam ",
+        "Question": "Ngày 22/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 44
+    },
+    {
+        "CaseA": "Hà Lan",
+        "CaseB": "Phần Lan",
+        "CaseC": "Thuỵ Điển ",
+        "CaseD": "Na Uy",
+        "Question": "Ngày 06/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 45
+    },
+    {
+        "CaseA": "Uganda",
+        "CaseB": "Rwanda ",
+        "CaseC": "Hungary ",
+        "CaseD": "Bulgary",
+        "Question": "Ngày 01/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 46
+    },
+    {
+        "CaseA": "Namibia ",
+        "CaseB": "Nepal ",
+        "CaseC": "Niger",
+        "CaseD": "Nicaragua ",
+        "Question": "Ngày 15/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 47
+    },
+    {
+        "CaseA": "Mali ",
+        "CaseB": "Malta ",
+        "CaseC": "Malaysia",
+        "CaseD": "Moldova",
+        "Question": "Ngày 21/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 48
+    },
+    {
+        "CaseA": "333.000 lần ",
+        "CaseB": "333.000.000 lần ",
+        "CaseC": "333 lần ",
+        "CaseD": "333 tỉ lần ",
+        "Question": "Khối lượng của mặt trời gấp khoảng bao nhiêu lần khối lượng trái đất?",
+        "TrueCase": 1,
+        "_id": 49
+    },
+    {
+        "CaseA": "Các cửa xoay vòng ",
+        "CaseB": "Các gác tròn ",
+        "CaseC": "Các sân tròn ",
+        "CaseD": "Các cột chống vuông ",
+        "Question": "Theo Phong Thuỷ, trong các kiến trúc sau. Kiến trúc nào sẽ đem lại điềm gở?",
+        "TrueCase": 4,
+        "_id": 50
+    },
+    {
+        "CaseA": "Hy Lạp ",
+        "CaseB": "Cuba ",
+        "CaseC": "Yemen ",
+        "CaseD": "Nam Phi ",
+        "Question": "Người dân quốc gia nào hút thuốc lá nhiều nhất thế giới?",
+        "TrueCase": 1,
+        "_id": 51
+    },
+    {
+        "CaseA": "Vatican ",
+        "CaseB": "Vanuata",
+        "CaseC": "Venezuela ",
+        "CaseD": "Việt Nam ",
+        "Question": "Ngày 30/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 52
+    },
+    {
+        "CaseA": "Sudan ",
+        "CaseB": "Syria",
+        "CaseC": "Sri Lanka",
+        "CaseD": "Suriname",
+        "Question": "Ngày 25/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 53
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Đức",
+        "CaseC": "Nga",
+        "CaseD": "Pháp ",
+        "Question": "Ngày 12/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 54
+    },
+    {
+        "CaseA": "Nicaragua ",
+        "CaseB": "Namibia ",
+        "CaseC": "New Zealand",
+        "CaseD": "Niger",
+        "Question": "Ngày 06/02 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 55
+    },
+    {
+        "CaseA": "Moldova ",
+        "CaseB": "Mexico ",
+        "CaseC": "Mông Cổ",
+        "CaseD": "Mozambique",
+        "Question": "Ngày 16/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 56
+    },
+    {
+        "CaseA": "17 lần ",
+        "CaseB": "18 lần ",
+        "CaseC": "27 lần ",
+        "CaseD": "28 lần ",
+        "Question": "Trọng lượng của mặt trời gấp khoảng bao nhiêu lần trọng lượng trái đất?",
+        "TrueCase": 4,
+        "_id": 57
+    },
+    {
+        "CaseA": "Cầu San Mateo  Haywards",
+        "CaseB": "Cầu Donghai",
+        "CaseC": "Cầu Chesapeake",
+        "CaseD": "Cầu Vasco da Gama",
+        "Question": "Tính đến thời điểm năm 2010, chiếc cầu nào là cầu dài nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 58
+    },
+    {
+        "CaseA": "Zimbabwe",
+        "CaseB": "Somalia",
+        "CaseC": "Afganistan",
+        "CaseD": "Mông Cổ ",
+        "Question": "Quốc gia nào có tỷ lệ tử vong nhiều nhất thế giới?",
+        "TrueCase": 3,
+        "_id": 59
+    },
+    {
+        "CaseA": "Uzbekistan",
+        "CaseB": "Uruguay ",
+        "CaseC": "Uganda",
+        "CaseD": "Ukraine",
+        "Question": "Ngày 01/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 60
+    },
+    {
+        "CaseA": "Sri Lanka",
+        "CaseB": "Sudan ",
+        "CaseC": "Syria",
+        "CaseD": "Singapore",
+        "Question": "Ngày 01/01 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 61
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Rumania ",
+        "CaseC": "Slovenia ",
+        "CaseD": "Tây Ban Nha ",
+        "Question": "Ngày 01/12 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 62
+    },
+    {
+        "CaseA": "Hà Lan ",
+        "CaseB": "Phần Lan",
+        "CaseC": "Ba Lan ",
+        "CaseD": "Thái Lan ",
+        "Question": "Ngày 30/04 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 63
+    },
+    {
+        "CaseA": "Monaco ",
+        "CaseB": "Mông Cổ",
+        "CaseC": "Moldova",
+        "CaseD": "Malaysia",
+        "Question": "Ngày 27/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 64
+    },
+    {
+        "CaseA": "27 Kg",
+        "CaseB": "28Kg",
+        "CaseC": "17 Kg",
+        "CaseD": "18 Kg",
+        "Question": "1 kg trên trái đất nặng bằng bao nhiêu kg trên mặt trời?",
+        "TrueCase": 2,
+        "_id": 65
+    },
+    {
+        "CaseA": "11.265m",
+        "CaseB": "24.140m",
+        "CaseC": "32.500m",
+        "CaseD": "42.500m",
+        "Question": "Tính đến thời điểm năm 2010, cầu Donghai là chiếc cầu dài nhất thế giới, cây cầu dài khoảng bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 66
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Afganistan ",
+        "CaseC": "Somalia ",
+        "CaseD": "Nigieria ",
+        "Question": "Quốc gia nào có tuổi thọ trung bình thấp nhất thế giới?",
+        "TrueCase": 4,
+        "_id": 67
+    },
+    {
+        "CaseA": "Ukraine",
+        "CaseB": "Uganda",
+        "CaseC": "Uzbekistan ",
+        "CaseD": "Uruguay ",
+        "Question": "Ngày 25/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 68
+    },
+    {
+        "CaseA": "Sudan ",
+        "CaseB": "Suriname",
+        "CaseC": "Syria",
+        "CaseD": "Sri Lanka",
+        "Question": "Ngày 04/02 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 69
+    },
+    {
+        "CaseA": "Congo ",
+        "CaseB": "Canada ",
+        "CaseC": "Campuchia ",
+        "CaseD": "Cameroon",
+        "Question": "Ngày 15/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 70
+    },
+    {
+        "CaseA": "Nepal ",
+        "CaseB": "Namibia",
+        "CaseC": "Nauru",
+        "CaseD": "Niger",
+        "Question": "ngày 18/02 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 71
+    },
+    {
+        "CaseA": "Mông Cổ ",
+        "CaseB": "Mali ",
+        "CaseC": "Monaco ",
+        "CaseD": "Moldova",
+        "Question": "Ngày 19/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 72
+    },
+    {
+        "CaseA": "6.000 độ C ",
+        "CaseB": "6.000.000 độ C ",
+        "CaseC": "15.000.000 độ C ",
+        "CaseD": "15.000 độ C ",
+        "Question": "Nhiệt độ trên bề mặt của mặt trời vào khoảng bao nhiêu độ?",
+        "TrueCase": 1,
+        "_id": 73
+    },
+    {
+        "CaseA": "Brazil ",
+        "CaseB": "Chile ",
+        "CaseC": "Hoa Kỳ ",
+        "CaseD": "Sri Lanka ",
+        "Question": "Con sóng dài nhất thế giới đã từng diễn ra ở quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 74
+    },
+    {
+        "CaseA": "Venezuela ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Australia ",
+        "CaseD": "Đan Mạch ",
+        "Question": "Người dân quốc gia nào tiêu thụ lượng cồn nhiều nhất thế giới?",
+        "TrueCase": 3,
+        "_id": 75
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Nga",
+        "CaseC": "Hoa Kỳ ",
+        "CaseD": "Đức ",
+        "Question": "Ngày 04/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 76
+    },
+    {
+        "CaseA": "Bồ Đào Nha",
+        "CaseB": "Tây Ban Nha",
+        "CaseC": "Pháp ",
+        "CaseD": "Đức",
+        "Question": "Ngày 12/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 77
+    },
+    {
+        "CaseA": "Yemen ",
+        "CaseB": "Oman ",
+        "CaseC": "UAE",
+        "CaseD": "Qatar",
+        "Question": "Ngày 03/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 78
+    },
+    {
+        "CaseA": "Nepal ",
+        "CaseB": "Nauru",
+        "CaseC": "Namibia",
+        "CaseD": "Nicaragua",
+        "Question": "Ngày 31/01 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 79
+    },
+    {
+        "CaseA": "Mozambique",
+        "CaseB": "Mông Cổ ",
+        "CaseC": "Moldova ",
+        "CaseD": "Malaysia",
+        "Question": "Ngày 11/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 80
+    },
+    {
+        "CaseA": "15.000.000 độ F",
+        "CaseB": "15.000.000 độ F ",
+        "CaseC": "6000 độ F ",
+        "CaseD": "6000 độ C ",
+        "Question": "Nhiệt độ ở tâm của mặt trời vào khoảng bao nhiêu độ?",
+        "TrueCase": 2,
+        "_id": 81
+    },
+    {
+        "CaseA": "16.500Km",
+        "CaseB": "1.650Km",
+        "CaseC": "6.150Km",
+        "CaseD": "61.500Km",
+        "Question": "Từ điểm cực Bắc đến điểm cực Nam của nước ta dài khoảng bao nhiêu kilômet theo đường chim bay?",
+        "TrueCase": 2,
+        "_id": 82
+    },
+    {
+        "CaseA": "Nhật bản ",
+        "CaseB": "Hoa Kỳ ",
+        "CaseC": "Luxembourg",
+        "CaseD": "Hàn Quốc",
+        "Question": "Quốc gia nào có chỉ số GDP trên đầu người cao nhất thế giời?",
+        "TrueCase": 3,
+        "_id": 83
+    },
+    {
+        "CaseA": "Oman ",
+        "CaseB": "Yemen",
+        "CaseC": "Qatar ",
+        "CaseD": "UAE",
+        "Question": "Ngày 02/12 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 84
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Triều Tiên ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Ngày 15/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 85
+    },
+    {
+        "CaseA": "Peru",
+        "CaseB": "Pakistan ",
+        "CaseC": "Puerto Rico ",
+        "CaseD": "Papua New Guinea",
+        "Question": "Ngày 25/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 86
+    },
+    {
+        "CaseA": "Letvia ",
+        "CaseB": "Lebanon",
+        "CaseC": "Lào ",
+        "CaseD": "Lesotho ",
+        "Question": "Ngày 02/12 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 87
+    },
+    {
+        "CaseA": "Mông Cổ ",
+        "CaseB": "Montenegro ",
+        "CaseC": "Mexico ",
+        "CaseD": "Ma Rốc ",
+        "Question": "Ngày 13/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 88
+    },
+    {
+        "CaseA": "Ba Bình ",
+        "CaseB": "Ba Vì ",
+        "CaseC": "La Bình ",
+        "CaseD": "Sơn Bình ",
+        "Question": "Tên hòn đảo có diện tích lớn nhất trong quần đảo Trường Sa?",
+        "TrueCase": 1,
+        "_id": 89
+    },
+    {
+        "CaseA": "5Km ",
+        "CaseB": "50Km ",
+        "CaseC": "500Km ",
+        "CaseD": "50.000Km ",
+        "Question": "Nơi hẹp nhất của nước ta ở tỉnh Quảng Bình rộng khoảng bao nhiêu kilomet?",
+        "TrueCase": 1,
+        "_id": 90
+    },
+    {
+        "CaseA": "Hải đăng Alexandria ",
+        "CaseB": "Kim tự tháp",
+        "CaseC": "Vườn treo Babylon ",
+        "CaseD": "Lăng mộ Mausolus ",
+        "Question": "Trong 7 kỳ quan thế giới, kỳ quan nào có giá trị trong thực tiễn sử dụng cao nhất?",
+        "TrueCase": 1,
+        "_id": 91
+    },
+    {
+        "CaseA": "Uruguay ",
+        "CaseB": "Uganda ",
+        "CaseC": "Ukraine",
+        "CaseD": "Uzbekistan",
+        "Question": "Ngày 24/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 92
+    },
+    {
+        "CaseA": "Nam Phi ",
+        "CaseB": "Ma Rốc",
+        "CaseC": "Algeria ",
+        "CaseD": "Bờ Biển Ngà ",
+        "Question": "Ngày 27/04 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 93
+    },
+    {
+        "CaseA": "Ba Lan ",
+        "CaseB": "Bồ Đào Nha ",
+        "CaseC": "Tây Ban Nha ",
+        "CaseD": "Bờ Biển Ngà",
+        "Question": "Ngày 10/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 94
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Lesotho ",
+        "CaseC": "Lybia ",
+        "CaseD": "Latvia ",
+        "Question": "Ngày 18/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 95
+    },
+    {
+        "CaseA": "Mông Cổ ",
+        "CaseB": "Ma Rốc",
+        "CaseC": "Malaysia",
+        "CaseD": "Mexico ",
+        "Question": "Ngày 02/03 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 96
+    },
+    {
+        "CaseA": "Ngày năm mới ",
+        "CaseB": "Lễ tình yêu ",
+        "CaseC": "Lễ giáng sinh ",
+        "CaseD": "Lễ quốc khánh",
+        "Question": "Ở Hy Lạp, có vị thần KaliCagi mắt đỏ tóc xoăn thường xuất hiện ở dịp nào?",
+        "TrueCase": 3,
+        "_id": 97
+    },
+    {
+        "CaseA": "60Km",
+        "CaseB": "600Km ",
+        "CaseC": "6000Km ",
+        "CaseD": "60.000Km ",
+        "Question": "Từ điểm cực Đông sang điểm cực Tây nơi rộng nhất của nước ta khoảng bao nhiêu kilomet?",
+        "TrueCase": 2,
+        "_id": 98
+    },
+    {
+        "CaseA": "1995 ",
+        "CaseB": "1996 ",
+        "CaseC": "1997 ",
+        "CaseD": "1888 ",
+        "Question": "Tập truyện Harry Potter lừng danh xuất hiện đầu tiên vào năm nào?",
+        "TrueCase": 3,
+        "_id": 99
+    },
+    {
+        "CaseA": "Uganda ",
+        "CaseB": "Ukraine",
+        "CaseC": "Uruguay ",
+        "CaseD": "Uzbekistan ",
+        "Question": "Ngày 09/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 100
+    },
+    {
+        "CaseA": "Solomon ",
+        "CaseB": "Somalia ",
+        "CaseC": "Sri Lanka ",
+        "CaseD": "Sudan ",
+        "Question": "Ngày 21/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 101
+    },
+    {
+        "CaseA": "Ba Lan ",
+        "CaseB": "Bồ Đào Nha ",
+        "CaseC": "Bangladesh ",
+        "CaseD": "Bolivia",
+        "Question": "Ngày 03/05 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 102
+    },
+    {
+        "CaseA": "Lào ",
+        "CaseB": "Latvia ",
+        "CaseC": "Lesotho ",
+        "CaseD": "Lebanon ",
+        "Question": "Ngày 22/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 103
+    },
+    {
+        "CaseA": "Ma Rốc ",
+        "CaseB": "Mông Cổ ",
+        "CaseC": "Mozambique",
+        "CaseD": "Malaysia",
+        "Question": "Ngày 25/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 104
+    },
+    {
+        "CaseA": "Alexander Graham Bell",
+        "CaseB": "O. von Guericke",
+        "CaseC": "Milikhan",
+        "CaseD": "Culoumb",
+        "Question": "Ai là người phát minh ra điện thoại?",
+        "TrueCase": 1,
+        "_id": 105
+    },
+    {
+        "CaseA": "Đan Mạch ",
+        "CaseB": "Venezuela ",
+        "CaseC": "Pháp ",
+        "CaseD": "Cuba ",
+        "Question": "Quốc gia nào trung bình mỗi người dân uống 83 lít bia mỗi năm, là nước uống bia nhiều nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 106
+    },
+    {
+        "CaseA": "1074 ",
+        "CaseB": "1075 ",
+        "CaseC": "1076 ",
+        "CaseD": "1077 ",
+        "Question": "Nam quốc sơn hà được sáng tác vào năm nào?",
+        "TrueCase": 3,
+        "_id": 107
+    },
+    {
+        "CaseA": "Togo",
+        "CaseB": "Tanzania",
+        "CaseC": "Tonga",
+        "CaseD": "Tuvalu ",
+        "Question": "Ngày 01/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 108
+    },
+    {
+        "CaseA": "Senegal ",
+        "CaseB": "Sierra Leone",
+        "CaseC": "Solomon ",
+        "CaseD": "Somalia ",
+        "Question": "Ngày 07/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 109
+    },
+    {
+        "CaseA": "Pakistan ",
+        "CaseB": "Peru ",
+        "CaseC": "Panama",
+        "CaseD": "Philippines ",
+        "Question": "Ngày 12/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 110
+    },
+    {
+        "CaseA": "Lesotho ",
+        "CaseB": "Lào ",
+        "CaseC": "Liberia ",
+        "CaseD": "Lithuania",
+        "Question": "Ngày 04/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 111
+    },
+    {
+        "CaseA": "Nauru",
+        "CaseB": "Nepal ",
+        "CaseC": "Namibia ",
+        "CaseD": "New Zealand",
+        "Question": "Ngày 21/03 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 112
+    },
+    {
+        "CaseA": "1828 ",
+        "CaseB": "1788",
+        "CaseC": "1898",
+        "CaseD": "1918 ",
+        "Question": "Điều khiển từ xa được phát minh vào năm nào?",
+        "TrueCase": 3,
+        "_id": 113
+    },
+    {
+        "CaseA": "Pháp ",
+        "CaseB": "Anh ",
+        "CaseC": "Đức ",
+        "CaseD": "Đan Mạch",
+        "Question": "Công dân của quốc gia nào ngủ nhiều nhất thế giới do tạp chí Economist phát hành năm 2009?",
+        "TrueCase": 1,
+        "_id": 114
+    },
+    {
+        "CaseA": "Quánh dẻo ",
+        "CaseB": "Rắn ",
+        "CaseC": "Lỏng và quánh dẻo ",
+        "CaseD": "Lỏng ",
+        "Question": "Nhân trong của trái đất vật chất ở trạng thái gì?",
+        "TrueCase": 2,
+        "_id": 115
+    },
+    {
+        "CaseA": "Tajikistan ",
+        "CaseB": "Turkmenistan ",
+        "CaseC": "Afganistan ",
+        "CaseD": "Pakistan ",
+        "Question": "Ngày 27/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 116
+    },
+    {
+        "CaseA": "Slovakia ",
+        "CaseB": "Slovenia ",
+        "CaseC": "Senegal ",
+        "CaseD": "Somalia ",
+        "Question": "Ngày 25/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 117
+    },
+    {
+        "CaseA": "Paraguay ",
+        "CaseB": "Peru ",
+        "CaseC": "Pakistan ",
+        "CaseD": "Puerto Rico ",
+        "Question": "Ngày 28/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 118
+    },
+    {
+        "CaseA": "Lybia ",
+        "CaseB": "Luxembourg",
+        "CaseC": "Lào ",
+        "CaseD": "Liberia ",
+        "Question": "Ngày 26/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 119
+    },
+    {
+        "CaseA": "52 ngày",
+        "CaseB": "62 ngày",
+        "CaseC": "72 ngày",
+        "CaseD": "82 ngày",
+        "Question": "Công xã Paris năm 1871 đã tồn tại được bao lâu?",
+        "TrueCase": 3,
+        "_id": 120
+    },
+    {
+        "CaseA": "1945 ",
+        "CaseB": "1936 ",
+        "CaseC": "1914 ",
+        "CaseD": "1880 ",
+        "Question": "Máy bay trực thăng được phát minh vào năm nào?",
+        "TrueCase": 2,
+        "_id": 121
+    },
+    {
+        "CaseA": "8 giờ ",
+        "CaseB": "8 giờ 30 phút ",
+        "CaseC": "8 giờ 50 phút ",
+        "CaseD": "9 giờ ",
+        "Question": "Pháp là nước có người ngủ nhiều nhất thế giới, trung bình mỗi người Pháp ngủ bao nhiêu giờ mỗi ngày?",
+        "TrueCase": 3,
+        "_id": 122
+    },
+    {
+        "CaseA": "Đại cổ sinh ",
+        "CaseB": "Đại trung sinh ",
+        "CaseC": "Đại tân sinh ",
+        "CaseD": "Đại nguyên sinh ",
+        "Question": "Đồng bằng sông Hồng và đồng bằng sông Cửu Long được hình thành trong giai đoạn sau?",
+        "TrueCase": 3,
+        "_id": 123
+    },
+    {
+        "CaseA": "Thổ Nhĩ Kỳ",
+        "CaseB": "Tây Ban Nha",
+        "CaseC": "Bồ Đào Nha",
+        "CaseD": "Bờ Biển Ngà ",
+        "Question": "Ngày 29/10 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 124
+    },
+    {
+        "CaseA": "Slovenia ",
+        "CaseB": "Slovakia",
+        "CaseC": "Solomon ",
+        "CaseD": "Singapore",
+        "Question": "Ngày 29/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 125
+    },
+    {
+        "CaseA": "Panama",
+        "CaseB": "Pakistan ",
+        "CaseC": "Papua New Guinea",
+        "CaseD": "Paraguay ",
+        "Question": "Ngày 14/05 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 126
+    },
+    {
+        "CaseA": "Lesotho ",
+        "CaseB": "Lào ",
+        "CaseC": "Lebanon ",
+        "CaseD": "Lybia ",
+        "Question": "Ngày 01/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 127
+    },
+    {
+        "CaseA": "1945",
+        "CaseB": "1953",
+        "CaseC": "1975",
+        "CaseD": "1992",
+        "Question": "Campuchia tuyên bố độc lập vào năm nào?",
+        "TrueCase": 2,
+        "_id": 128
+    },
+    {
+        "CaseA": "1938",
+        "CaseB": "1920 ",
+        "CaseC": "1890 ",
+        "CaseD": "1955",
+        "Question": "Bút bi được phát minh vào năm nào?",
+        "TrueCase": 1,
+        "_id": 129
+    },
+    {
+        "CaseA": "CuBa ",
+        "CaseB": "Guinea Xích Đạo ",
+        "CaseC": "Qatar",
+        "CaseD": "Trung Quốc ",
+        "Question": "Quốc gia nào là nước chi cho giáo dục nhiều nhất thế giới?",
+        "TrueCase": 1,
+        "_id": 130
+    },
+    {
+        "CaseA": "Trinidad và Tobago",
+        "CaseB": "Tanzania",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Tunisia",
+        "Question": "Ngày 20/03 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 131
+    },
+    {
+        "CaseA": "Singapore ",
+        "CaseB": "Slovakia ",
+        "CaseC": "Slovenia",
+        "CaseD": "Solomon ",
+        "Question": "Ngày 09/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 132
+    },
+    {
+        "CaseA": "Paraguay ",
+        "CaseB": "Panama",
+        "CaseC": "Papua New Guinea",
+        "CaseD": "Puerto Rico",
+        "Question": "Ngày 16/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 133
+    },
+    {
+        "CaseA": "Lithuania ",
+        "CaseB": "Luxembourg",
+        "CaseC": "Lesotho ",
+        "CaseD": "Liechteinstein ",
+        "Question": "Ngày 15/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 134
+    },
+    {
+        "CaseA": "Viriso",
+        "CaseB": "Kito",
+        "CaseC": "Vasco de Gama",
+        "CaseD": "Hanmo Cores",
+        "Question": "Cây cầu dài thứ 2 thế giới có tên gọi là gì?",
+        "TrueCase": 3,
+        "_id": 135
+    },
+    {
+        "CaseA": "0.5km đến 1km",
+        "CaseB": "1.5km đến 2.5km",
+        "CaseC": "2.5km đến 3.5km",
+        "CaseD": "2.5km đến 3.5km",
+        "Question": "Tốc độ bay của muỗi là bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 136
+    },
+    {
+        "CaseA": "CuBa ",
+        "CaseB": "Somalia ",
+        "CaseC": "Guinea Xích Đạo ",
+        "CaseD": "Nam Phi ",
+        "Question": "Quốc gia nào chi cho giáo dục ít nhất thế giới?",
+        "TrueCase": 3,
+        "_id": 137
+    },
+    {
+        "CaseA": "Tonga ",
+        "CaseB": "Tunisia",
+        "CaseC": "Trinidad và Tobago ",
+        "CaseD": "Turkmenistan ",
+        "Question": "Ngày 31/08 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 3,
+        "_id": 138
+    },
+    {
+        "CaseA": "Seychelles",
+        "CaseB": "Serbia ",
+        "CaseC": "Senegal ",
+        "CaseD": "Sierra Leone",
+        "Question": "Ngày 27/04 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 139
+    },
+    {
+        "CaseA": "Pakistan ",
+        "CaseB": "Panama",
+        "CaseC": "Peru ",
+        "CaseD": "Paraguay ",
+        "Question": "Ngày 03/11 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 140
+    },
+    {
+        "CaseA": "Liechteinstein ",
+        "CaseB": "Lithuania",
+        "CaseC": "Lào ",
+        "CaseD": "Latvia ",
+        "Question": "Ngày 16/02 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 141
+    },
+    {
+        "CaseA": "1110 ",
+        "CaseB": "1111",
+        "CaseC": "1112",
+        "CaseD": "1113",
+        "Question": "Kết quả của phép tính la mã sau: CDXLIV  DCLXVI bằng bao nhiêu?",
+        "TrueCase": 1,
+        "_id": 142
+    },
+    {
+        "CaseA": "Trồng cây công nghiệp ",
+        "CaseB": "Chăn lợn, gia cầm ",
+        "CaseC": "Chăn trâu bò ",
+        "CaseD": "Sản xuất lúa nước",
+        "Question": "Vùng Duyên Hải miền Trung Việt Nam là vùng có thế mạnh về?",
+        "TrueCase": 2,
+        "_id": 143
+    },
+    {
+        "CaseA": "Cuba ",
+        "CaseB": "Guinea Xích Đạo ",
+        "CaseC": "Mali ",
+        "CaseD": "Senegal ",
+        "Question": "Tỉ lệ người trưởng thành ở quốc gia nào biết chữ thấp nhất thế giới?",
+        "TrueCase": 3,
+        "_id": 144
+    },
+    {
+        "CaseA": "Togo ",
+        "CaseB": "Tonga",
+        "CaseC": "Trinidad và Tobago ",
+        "CaseD": "Turkmenistan ",
+        "Question": "Ngày 04/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 145
+    },
+    {
+        "CaseA": "Serbia ",
+        "CaseB": "Seychelles",
+        "CaseC": "Sierra Leone ",
+        "CaseD": "Slovakia ",
+        "Question": "Ngày 18/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 146
+    },
+    {
+        "CaseA": "Palau ",
+        "CaseB": "Panama",
+        "CaseC": "Pakistan ",
+        "CaseD": "Papua New Guinea",
+        "Question": "Ngày 09/07 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 147
+    },
+    {
+        "CaseA": "Lithuania ",
+        "CaseB": "Luxembourg ",
+        "CaseC": "Lesotho ",
+        "CaseD": "Lào ",
+        "Question": "Ngày 23/06 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 2,
+        "_id": 148
+    },
+    {
+        "CaseA": "XXY",
+        "CaseB": "OX",
+        "CaseC": "XXX",
+        "CaseD": "OY",
+        "Question": "Bộ nhiễm sắc thể giới tính của người bị bệnh Tơcnơ là gì?",
+        "TrueCase": 2,
+        "_id": 149
+    },
+    {
+        "CaseA": "Lào  Campuchia ",
+        "CaseB": "Việt Nam  campuchia ",
+        "CaseC": "Trung Quốc  Myanmar ",
+        "CaseD": "Myanmar  Thái Lan ",
+        "Question": "Nơi lòng sông Mê kông mở rộng nhât thuộc biên giới nước nào?",
+        "TrueCase": 1,
+        "_id": 150
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Qatar ",
+        "CaseD": "Indonesia",
+        "Question": "Quốc gia nào có số lượng tai nạn giao thông nhiều nhất trên thế giới?",
+        "TrueCase": 3,
+        "_id": 151
+    },
+    {
+        "CaseA": "Togo ",
+        "CaseB": "Tonga ",
+        "CaseC": "Tunisia ",
+        "CaseD": "Tuvalu ",
+        "Question": "Ngày 27/04 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 1,
+        "_id": 152
+    },
+    {
+        "CaseA": "Seychelles ",
+        "CaseB": "Senegal ",
+        "CaseC": "Scotland",
+        "CaseD": "Serbia ",
+        "Question": "Ngày 15/02 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 153
+    },
+    {
+        "CaseA": "Panama",
+        "CaseB": "Palau ",
+        "CaseC": "Papua New Guinea",
+        "CaseD": "Pakistan ",
+        "Question": "Ngày 23/03 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 154
+    },
+    {
+        "CaseA": "Madagascar",
+        "CaseB": "Malaysia",
+        "CaseC": "Malawi ",
+        "CaseD": "Macedonia ",
+        "Question": "Ngày 08/09 là quốc khánh của quốc gia nào sau đây?",
+        "TrueCase": 4,
+        "_id": 155
+    },
+    {
+        "CaseA": "Pha thăng, Rê thăng",
+        "CaseB": "Pha thăng, Đô thăng ",
+        "CaseC": "Đo thăng, Pha thăng",
+        "CaseD": "Đô thăng, Rê thăng ",
+        "Question": "Trong âm nhạc, hoá biểu có 2 dấu thăng gồm những âm nào thăng?",
+        "TrueCase": 2,
+        "_id": 156
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Cuba ",
+        "CaseC": "Afghanistan ",
+        "CaseD": "Kosovo ",
+        "Question": "Khẩu hiệu Tổ quốc và tự do là của quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 157
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Nam Phi ",
+        "CaseD": "Qatar ",
+        "Question": "Quốc gia nào có sự chênh lệch về giới tính cao nhất hành tinh chúng ta?",
+        "TrueCase": 4,
+        "_id": 158
+    }
+]

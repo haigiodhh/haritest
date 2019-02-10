@@ -1,0 +1,533 @@
+[
+    {
+        "CaseA": "5",
+        "CaseB": "6",
+        "CaseC": "7",
+        "CaseD": "8",
+        "Question": "Mô hình OSI trong mạng máy tính gồm mấy tầng?",
+        "TrueCase": 3,
+        "_id": 1
+    },
+    {
+        "CaseA": "Tháng 3/1925",
+        "CaseB": "Tháng 2/1927",
+        "CaseC": "Tháng 5/1929",
+        "CaseD": "Tháng 2/1930",
+        "Question": "Đại hội lần thứ nhất của Việt Nam Cách mạng Thanh niên xẩy ra vào?",
+        "TrueCase": 3,
+        "_id": 2
+    },
+    {
+        "CaseA": "Hội Việt Nam Cách mạng Thanh niên",
+        "CaseB": "Đông dương cộng sản đảng",
+        "CaseC": "An nam cộng sản đảng",
+        "CaseD": "Đông dương cộng sản Liên đoàn",
+        "Question": "Tổ chức Cộng sản đầu tiên ra đời tại Việt Nam?",
+        "TrueCase": 2,
+        "_id": 3
+    },
+    {
+        "CaseA": "Cam Túc Trung Quốc",
+        "CaseB": "QĐ Andreanof Hoa Kỳ",
+        "CaseC": "Valdivia Chile",
+        "CaseD": "Đảo Vancouver Canada ",
+        "Question": "Ngày 09/03/1957, một trận động đất mạnh 9.1 độ richter xảy ra tại nơi nào?",
+        "TrueCase": 3,
+        "_id": 4
+    },
+    {
+        "CaseA": "Thế kỷ 16",
+        "CaseB": "Thế kỷ 17 ",
+        "CaseC": "Thế kỷ 18 ",
+        "CaseD": "Thế kỷ 19 ",
+        "Question": "Trên thị trường, vàng độc quyền đóng vai trò làm vật ngang giá chung vào thế kỷ nào?",
+        "TrueCase": 4,
+        "_id": 5
+    },
+    {
+        "CaseA": "Brunei ",
+        "CaseB": "Đông Timor",
+        "CaseC": "Singapore ",
+        "CaseD": "Philippines ",
+        "Question": "Nước này bao gồm 1 hòn đảo chính và 63 đảo nhỏ khá Hẩu hết các hòn đảo này đều không có dân  cư. Đây là nước nào?",
+        "TrueCase": 3,
+        "_id": 6
+    },
+    {
+        "CaseA": "Kamchatka Nga",
+        "CaseB": "QĐ Andreanof Hoa Kỳ",
+        "CaseC": "Sumatra Indonesia",
+        "CaseD": "Assam Tây Tạng",
+        "Question": "Ngày 26/12/2004, một trận động đất mạnh 9.0 độ richter xảy ra tại nơi nào?",
+        "TrueCase": 3,
+        "_id": 7
+    },
+    {
+        "CaseA": "Từ cuối thế kỷ 19 ",
+        "CaseB": "Từ cuối thế kỷ 18 ",
+        "CaseC": "Đầu thế kỷ 17 ",
+        "CaseD": "Thế kỷ 16 ",
+        "Question": "Hoá tệ kim loại xuất hiện từ khi nào?",
+        "TrueCase": 1,
+        "_id": 8
+    },
+    {
+        "CaseA": "12",
+        "CaseB": "18",
+        "CaseC": "26",
+        "CaseD": "33",
+        "Question": "Trương Vĩnh Ký được ghi trong Bách khoa Tự điển Larousse và là một trong 18 văn hào thế giới thế kỷ 19. Ông thông thạo bao nhiêu thứ tiếng?",
+        "TrueCase": 3,
+        "_id": 9
+    },
+    {
+        "CaseA": "Alaska Hoa Kỳ",
+        "CaseB": "Sumatra Indonesia",
+        "CaseC": "Colombia  Ecuador",
+        "CaseD": "Lisboa Bồ Đào Nha",
+        "Question": "Ngày 27/03/1964, một trận động đất mạnh 9.2 độ richter xảy ra tại nơi nào?",
+        "TrueCase": 1,
+        "_id": 10
+    },
+    {
+        "CaseA": "Ai Cập ",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Italia",
+        "Question": "Đại Hí Viện Colosseum trưng bày 5000 thú dữ ngày khánh thành, xây dựng năm 80 trước công nguyên ở quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 11
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "3",
+        "CaseC": "5",
+        "CaseD": "7",
+        "Question": "Khu di tích lịch sử Đền Hùng bao gồm bao nhiêu đền chính?",
+        "TrueCase": 2,
+        "_id": 12
+    },
+    {
+        "CaseA": "Chile",
+        "CaseB": "Indonesia",
+        "CaseC": "Nga ",
+        "CaseD": "Trung Quốc",
+        "Question": "Ngày 16/10/1737, một trận động đất mạnh 9.3 độ richter xảy ra tại nơi nào?",
+        "TrueCase": 3,
+        "_id": 13
+    },
+    {
+        "CaseA": "Pháp ",
+        "CaseB": "Anh ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Hy Lạp ",
+        "Question": "Tường biên giới Hadrian, một bình phong khổng lồ kéo dài trên đỉnh núi, xây dựng thê kỷ 2 công nguyên ở quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 14
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "6",
+        "CaseC": "8",
+        "CaseD": "10",
+        "Question": "Khối Warszawa là một liên minh gồm bao nhiêu nước?",
+        "TrueCase": 3,
+        "_id": 15
+    },
+    {
+        "CaseA": "Chile",
+        "CaseB": "Nga ",
+        "CaseC": "Hoa Kỳ ",
+        "CaseD": "Indonesia",
+        "Question": "Ngày 22/05/1960, một trận động đất mạnh 9.5 độ richter xảy ra tại quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 16
+    },
+    {
+        "CaseA": "Nam Phi ",
+        "CaseB": "Nam Tư ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Pakistan ",
+        "Question": "Hoàng cung Diocletian  1 kỳ quan thế giới xây dựng thế kỷ 3 công nguyên, ở quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 17
+    },
+    {
+        "CaseA": "5/1975  Sài Gòn",
+        "CaseB": "12/1972  Hà Nội",
+        "CaseC": "5/1954  Điện Biên Phủ",
+        "CaseD": "8/1964  Hàm Rồng ",
+        "Question": "Trận Điện Biên Phủ trên không xảy ra vào thời gian nào và thuộc địa danh nào?",
+        "TrueCase": 2,
+        "_id": 18
+    },
+    {
+        "CaseA": "27/03/1964",
+        "CaseB": "16/10/1964",
+        "CaseC": "16/10/1937",
+        "CaseD": "31/01/1909",
+        "Question": "Một trận động đất có cường độ mạnh nhất 9.5 độ richter xảy ra tại Chile vào ngày tháng năm nào?",
+        "TrueCase": 1,
+        "_id": 19
+    },
+    {
+        "CaseA": "Italia",
+        "CaseB": "Tây Ban Nha ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Cung Alhambra, thành luỹ màu đỏ trên đời có 1 không 2, xây dựng năm 1238 - 1358 tại quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 20
+    },
+    {
+        "CaseA": "Ngái ",
+        "CaseB": "Êđê",
+        "CaseC": "Khmer ",
+        "CaseD": "Sán Dìu ",
+        "Question": "Sán Déo là tên gọi khác của dân tộc nào ở nước ta?",
+        "TrueCase": 4,
+        "_id": 21
+    },
+    {
+        "CaseA": " 9.3 richter",
+        "CaseB": "9.4 richter",
+        "CaseC": "9.5 richter",
+        "CaseD": "9.6 richter",
+        "Question": "Trận động đất có cường độ lớn nhất xảy ra tại Chile, nó có cường độ bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 22
+    },
+    {
+        "CaseA": "Đức",
+        "CaseB": "Rumania ",
+        "CaseC": "Pháp ",
+        "CaseD": "Anh ",
+        "Question": "Giáo đường Chartres xây dựng tại quốc gia nào vào năm 1260 được thánh hoá?",
+        "TrueCase": 3,
+        "_id": 23
+    },
+    {
+        "CaseA": "Pu Péo ",
+        "CaseB": "Sán Dìu ",
+        "CaseC": "Ngái ",
+        "CaseD": "Êđê",
+        "Question": "Ka Beo là tên gọi khác của dân tộc nào ở nước ta?",
+        "TrueCase": 1,
+        "_id": 24
+    },
+    {
+        "CaseA": "Múa rối nước",
+        "CaseB": "Nhã nhạc cung đình Huế",
+        "CaseC": "Hát quan họ ",
+        "CaseD": "Cải lương",
+        "Question": "Di sản văn hoá phi vật thể đầu tiên của Việt Nam được UNESCO công nhận?",
+        "TrueCase": 1,
+        "_id": 25
+    },
+    {
+        "CaseA": "Thuỵ  Điển ",
+        "CaseB": "Thuỵ Sĩ ",
+        "CaseC": "Đan Mạch ",
+        "CaseD": "Na Uy ",
+        "Question": "Cầu Kapobruck là cầu gỗ cổ xưa nhất châu Âu, nó bảo vệ thành trì khỏi bị tấn công, đó là cầu của quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 26
+    },
+    {
+        "CaseA": "Dao ",
+        "CaseB": "Nùng ",
+        "CaseC": "Tầy ",
+        "CaseD": "Mường ",
+        "Question": "Mán là tên gọi khác của dân tộc nào ở nước ta?",
+        "TrueCase": 1,
+        "_id": 27
+    },
+    {
+        "CaseA": "Hà Lan ",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Đức ",
+        "CaseD": "Ba Lan ",
+        "Question": "Nicolas Copecnic, người phản bác Trái đất là trung tâm vũ trụ là người nước nào?",
+        "TrueCase": 4,
+        "_id": 28
+    },
+    {
+        "CaseA": "Hy Lạp ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Marroc",
+        "Question": "Tu viện Metéora trên núi đã chống trời, nơi các tăng lữ sống khổ hạnh thờ Thượng đế, hiện đang ở quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 29
+    },
+    {
+        "CaseA": "29/09/2004",
+        "CaseB": "24/04/2010",
+        "CaseC": "26/09/2009",
+        "CaseD": "26/09/2007",
+        "Question": "Sự cố sập 2 nhịp dẫn làm hàng chục nhân công hy sinh trong lúc đang thi công cầu Cần Thơ vào ngày tháng năm nào?",
+        "TrueCase": 4,
+        "_id": 30
+    },
+    {
+        "CaseA": "Akhil ",
+        "CaseB": "Hecculơ",
+        "CaseC": "Thêxê",
+        "CaseD": "Prômêtê",
+        "Question": "Trong thần thoại Hy Lạp, người anh hùng nào đã lấy cắp lửa của thân linh cho loài người?",
+        "TrueCase": 4,
+        "_id": 31
+    },
+    {
+        "CaseA": "Bỉ ",
+        "CaseB": "Mỹ ",
+        "CaseC": "Nhật ",
+        "CaseD": "Nga ",
+        "Question": "Quảng Trường Lớn  1 quảng trường hùng vĩ là tượng trưng cho thương hội Bruxelles thời Trung Cổ có nhiều của cải, hiện đang ở đâu?",
+        "TrueCase": 1,
+        "_id": 32
+    },
+    {
+        "CaseA": "Ghana",
+        "CaseB": "Gabong",
+        "CaseC": "Guam",
+        "CaseD": "Grenadar",
+        "Question": "Accra là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 33
+    },
+    {
+        "CaseA": "Lý Phật Tử ",
+        "CaseB": "Lý Bí ",
+        "CaseC": "Lý Công Uẩn ",
+        "CaseD": "Lý Chiêu Hoàng ",
+        "Question": "Ai tự xưng mình là Hậu Lý Nam Đế?",
+        "TrueCase": 1,
+        "_id": 34
+    },
+    {
+        "CaseA": "Copecnich",
+        "CaseB": "Galileo",
+        "CaseC": "Newton",
+        "CaseD": "Aristotle",
+        "Question": "Ai là người tạo ra môn lý luận học?",
+        "TrueCase": 4,
+        "_id": 35
+    },
+    {
+        "CaseA": "Guam",
+        "CaseB": "Gabong",
+        "CaseC": "Ghana",
+        "CaseD": "Gambia",
+        "Question": "Hagatna Agana là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 36
+    },
+    {
+        "CaseA": "Kinh Bắc ",
+        "CaseB": "Thuận Hoá ",
+        "CaseC": "Hồng Châu ",
+        "CaseD": "Thăng Long",
+        "Question": "Quê gốc của Lý Thường Kiệt là vùng đất nào?",
+        "TrueCase": 4,
+        "_id": 37
+    },
+    {
+        "CaseA": "252Kgchuyến ",
+        "CaseB": "152 kgchuyến ",
+        "CaseC": "352Kgchuyến ",
+        "CaseD": "452Kgchuyến ",
+        "Question": "Bạn hãy cho biết mức chở tối đa của xe đạp thồ là bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 38
+    },
+    {
+        "CaseA": "Guyana",
+        "CaseB": "Ghana",
+        "CaseC": "Gabong",
+        "CaseD": "Goergia",
+        "Question": "Georgetown là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 39
+    },
+    {
+        "CaseA": "1600 ",
+        "CaseB": "1789 ",
+        "CaseC": "1801",
+        "CaseD": "1812",
+        "Question": "Vua Quang Trung đã đánh tan 29 vạn quân Thanh vào năm nào?",
+        "TrueCase": 2,
+        "_id": 40
+    },
+    {
+        "CaseA": "31",
+        "CaseB": "32",
+        "CaseC": "33",
+        "CaseD": "34",
+        "Question": "Karaoke do ông Inoue Daisuke người Nhật phát minh vào năm 1971, khi đó ông bao nhiêu tuổi?",
+        "TrueCase": 1,
+        "_id": 41
+    },
+    {
+        "CaseA": "Ghana",
+        "CaseB": "Gabong",
+        "CaseC": "Guyana",
+        "CaseD": "Georgia",
+        "Question": "T'bilisi là thủ đô của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 42
+    },
+    {
+        "CaseA": "Luật Hình thư ",
+        "CaseB": "Luật Hồng Đức ",
+        "CaseC": "Hoàng triều luật lệ ",
+        "CaseD": "Quốc triều hình luật",
+        "Question": "Bộ luật ban hành dưới triều Nguyễn là luật gì?",
+        "TrueCase": 3,
+        "_id": 43
+    },
+    {
+        "CaseA": "W. F. Libby",
+        "CaseB": "Lomoloxop",
+        "CaseC": "Dalton",
+        "CaseD": "Boile",
+        "Question": "Ai là người giải thích sự hình thành của Cacbon 14?",
+        "TrueCase": 1,
+        "_id": 44
+    },
+    {
+        "CaseA": "Honduras",
+        "CaseB": "Hungary",
+        "CaseC": "Haiti",
+        "CaseD": "Hongkong",
+        "Question": "Portauprince là thủ đô của quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 45
+    },
+    {
+        "CaseA": "Tư sản ",
+        "CaseB": "Vô sản ",
+        "CaseC": "Tiểu tư sản ",
+        "CaseD": "Tăng lữ ",
+        "Question": "Tuyên ngôn Nhân quyền và Dân quyền 08/1789 và Hiến pháp 1791 ở Pháp phục vụ chủ yếu cho quyền lợi của giai cấp và tầng lớp nào?",
+        "TrueCase": 1,
+        "_id": 46
+    },
+    {
+        "CaseA": "1700",
+        "CaseB": "1750 ",
+        "CaseC": "1800 ",
+        "CaseD": "1850 ",
+        "Question": "Pin được phát minh vào năm nào?",
+        "TrueCase": 3,
+        "_id": 47
+    },
+    {
+        "CaseA": "Hongkong",
+        "CaseB": "Honduras",
+        "CaseC": "Haiti",
+        "CaseD": "Hungary",
+        "Question": "Tegucigalpa là thủ đô của quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 48
+    },
+    {
+        "CaseA": "Nhân dân lao động ",
+        "CaseB": "Quý tộc cũ",
+        "CaseC": "Giai cấp tư sản và quý tộc mới ",
+        "CaseD": "Vua nước Anh ",
+        "Question": "Cách mạng tư sản Anh giữa thế kỷ XVII đem lại quyền lợi cho?",
+        "TrueCase": 3,
+        "_id": 49
+    },
+    {
+        "CaseA": "1876 ",
+        "CaseB": "1895 ",
+        "CaseC": "1910 ",
+        "CaseD": "1920 ",
+        "Question": "Điện thoại là một thiết bị viễn thông dùng để truyền và nhận âm thanh thông dụng nhất là truyền giọng nói từ xa được phát minh vào năm?",
+        "TrueCase": 1,
+        "_id": 50
+    },
+    {
+        "CaseA": "Guatemala",
+        "CaseB": "Guam",
+        "CaseC": "Ghana",
+        "CaseD": "Gabong",
+        "Question": "Guatemala là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 51
+    },
+    {
+        "CaseA": "Trương Định ",
+        "CaseB": "Nguyễn Hữu Huân ",
+        "CaseC": "Nguyễn Trung Trực ",
+        "CaseD": "Võ Duy Dương ",
+        "Question": "Bình Tây Đại nguyên soái là danh hiệu nhân dân phong cho thủ lĩnh nào?",
+        "TrueCase": 1,
+        "_id": 52
+    },
+    {
+        "CaseA": "1992",
+        "CaseB": "1980 ",
+        "CaseC": "1967 ",
+        "CaseD": "1950 ",
+        "Question": "Máy rút tiền tự động được phát minh vào năm nào?",
+        "TrueCase": 3,
+        "_id": 53
+    },
+    {
+        "CaseA": "11/3/1951",
+        "CaseB": "3/3/1951",
+        "CaseC": "13/3/1951",
+        "CaseD": "21/3/1951",
+        "Question": "Liên minh Việt  Miên  Lào được thành lập vào ngày tháng năm nào?",
+        "TrueCase": 1,
+        "_id": 54
+    },
+    {
+        "CaseA": "21/07/1983",
+        "CaseB": "12/07/1983",
+        "CaseC": "01/07/1983",
+        "CaseD": "23/07/1983",
+        "Question": "Trên bán cầu Nam thì cực giá lạnh nằm gần trạm nam cực Saiudơ gần Vostok, nơi này đã ghi nhận được nhiệt thấp 83 độ C vào ngày nào?",
+        "TrueCase": 1,
+        "_id": 55
+    },
+    {
+        "CaseA": "Tourgeunev",
+        "CaseB": "B Montesquieu",
+        "CaseC": "Virgile",
+        "CaseD": "Kant",
+        "Question": "Lời nói thật là cách xã giao tốt nhất là câu nói của ai?",
+        "TrueCase": 1,
+        "_id": 56
+    },
+    {
+        "CaseA": "12/01/1938",
+        "CaseB": "26/02/1938",
+        "CaseC": "26/01/1938",
+        "CaseD": "05/01/1938",
+        "Question": "Trên bán cầu Bắc thì cực giá lạnh nằm tại miền Siberia, gần Tp. Oymyakon, nơi có nhiệt độ thấp nhất -77 độ C, được ghi nhận vào ngày nào?",
+        "TrueCase": 3,
+        "_id": 57
+    },
+    {
+        "CaseA": "Tourgeunev",
+        "CaseB": "Virgile",
+        "CaseC": "O.S. Warden",
+        "CaseD": "Krassovsky",
+        "Question": "Đau khổ vì yêu, dù sao cũng dễ chịu hơn là thiếu tình yêu là câu nói của ai?",
+        "TrueCase": 4,
+        "_id": 58
+    },
+    {
+        "CaseA": "Thung lũng California ",
+        "CaseB": "Sa mạc Sahara",
+        "CaseC": "Sa mạc Lybia ",
+        "CaseD": "Sa mạc Gobi ",
+        "Question": "Nhiệt độ cao nhất trên thế giới được ghi nhận ở đâu?",
+        "TrueCase": 3,
+        "_id": 59
+    }
+]

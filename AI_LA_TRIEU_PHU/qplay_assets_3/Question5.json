@@ -1,0 +1,2900 @@
+[
+    {
+        "CaseA": "Lý Huệ Tông",
+        "CaseB": "Lý Nam Đế",
+        "CaseC": "Lý Nhân Tông",
+        "CaseD": "Lý Chiêu Hoàng",
+        "Question": "Vị vua cuối cùng của triều Lý là ai?",
+        "TrueCase": 4,
+        "_id": 1
+    },
+    {
+        "CaseA": "Trần Hưng Đạo",
+        "CaseB": "Trần Thủ Độ",
+        "CaseC": "Trần Cảnh",
+        "CaseD": "Trần Thừa",
+        "Question": "Ai là vị vua đầu tiên của nhà Trần?",
+        "TrueCase": 3,
+        "_id": 2
+    },
+    {
+        "CaseA": "Phùng Hưng",
+        "CaseB": "Quang Trung",
+        "CaseC": "Hồ Chí Minh",
+        "CaseD": "Lý Bí",
+        "Question": "Ngô Quyền cùng quê với vị anh hùng nào sau đây?",
+        "TrueCase": 1,
+        "_id": 3
+    },
+    {
+        "CaseA": "Lê Thái Tổ",
+        "CaseB": "Lý Thái Tổ",
+        "CaseC": "Lê Thái Tông",
+        "CaseD": "Trần Thái Tông",
+        "Question": "Ai là người ban chiếu dời đô từ Hoa Lư về Thăng Long?",
+        "TrueCase": 2,
+        "_id": 4
+    },
+    {
+        "CaseA": "Hồ Hoàn Kiếm",
+        "CaseB": "Thủy Quân Chiến",
+        "CaseC": "Tả Thanh Thiên",
+        "CaseD": "Bao Thanh Thiên",
+        "Question": "Trên chùa Bút tháp được viết 3 chữ nào?",
+        "TrueCase": 3,
+        "_id": 5
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Brazil",
+        "CaseC": "Hoa kỳ",
+        "CaseD": "Philipin",
+        "Question": "Đảo Gu-am thuộc nước nào?",
+        "TrueCase": 3,
+        "_id": 6
+    },
+    {
+        "CaseA": "Đặng Thành Trung",
+        "CaseB": "Nguyễn Thành Long",
+        "CaseC": "Nguyễn Trung Thành",
+        "CaseD": "Mai Long Thành",
+        "Question": "Tác phẩm \"Rừng xà nu\" của tác giả nào?",
+        "TrueCase": 3,
+        "_id": 7
+    },
+    {
+        "CaseA": "Văn Cao",
+        "CaseB": "Nam Cao",
+        "CaseC": "Ma Văn Kháng",
+        "CaseD": "Nguyễn Trung Thành",
+        "Question": "Tác phẩm \"Đời thừa\" của nhà văn nào?",
+        "TrueCase": 2,
+        "_id": 8
+    },
+    {
+        "CaseA": "Vàng",
+        "CaseB": "Mực",
+        "CaseC": "Tím",
+        "CaseD": "Cún",
+        "Question": "Trong tác phẩm Lão Hạc, con chó của Lão có tên là gì?",
+        "TrueCase": 1,
+        "_id": 9
+    },
+    {
+        "CaseA": "Nguyễn Huệ",
+        "CaseB": "Nguyễn Lữ",
+        "CaseC": "Nguyễn Nhạc",
+        "CaseD": "Nguyễn Ánh",
+        "Question": "Ai không phải là lãnh tụ của nhà Tây Sơn?",
+        "TrueCase": 4,
+        "_id": 10
+    },
+    {
+        "CaseA": "Ngày thầy thuốc Việt Nam",
+        "CaseB": "Ngày Quốc tế thương nhân",
+        "CaseC": "Ngày Sinh viên Việt Nam",
+        "CaseD": "Ngày Thương binh liệt sĩ",
+        "Question": "Ngày 27-7 là ngày lễ gì?",
+        "TrueCase": 4,
+        "_id": 11
+    },
+    {
+        "CaseA": "Bồ câu ",
+        "CaseB": "Thiên nga ",
+        "CaseC": "Hải âu ",
+        "CaseD": "Cú",
+        "Question": "Loài chim nào sau đây thường không sống thành đàn?",
+        "TrueCase": 4,
+        "_id": 12
+    },
+    {
+        "CaseA": "Tháng 11",
+        "CaseB": "Tháng 9 ",
+        "CaseC": "Tháng 4",
+        "CaseD": "Tháng 1",
+        "Question": "April trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 13
+    },
+    {
+        "CaseA": "Pele - Brazil",
+        "CaseB": "Ronaldo - Brazil",
+        "CaseC": "Gerd Muller - Tây Đức",
+        "CaseD": "Just Fontaine - Pháp",
+        "Question": "Trước World Cup 2010, cầu thủ nào ghi nhiều bàn nhất trong 1 kì World Cup?",
+        "TrueCase": 2,
+        "_id": 14
+    },
+    {
+        "CaseA": "Quảng Nam",
+        "CaseB": "Quảng Bình",
+        "CaseC": "Quảng  Trị",
+        "CaseD": "Quảng Ngãi",
+        "Question": "Động Phong Nha  Kẻ Bàng thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 15
+    },
+    {
+        "CaseA": "EURO",
+        "CaseB": "Yên Nhật ",
+        "CaseC": "Đôla Mỹ",
+        "CaseD": "Việt Nam Đồng",
+        "Question": "Đơn vị tiền tệ quốc tế được dùng cho mọi quốc gia?",
+        "TrueCase": 3,
+        "_id": 16
+    },
+    {
+        "CaseA": "Westlife",
+        "CaseB": "Backstreet Boys",
+        "CaseC": "Blue",
+        "CaseD": "Elton John",
+        "Question": "Ca sĩ / nhóm nhạc nào thể hiện ca khúc \"One Love\"?",
+        "TrueCase": 3,
+        "_id": 17
+    },
+    {
+        "CaseA": "Pink",
+        "CaseB": "Katy Perry",
+        "CaseC": "Britney Spears ",
+        "CaseD": "Mariah Carey",
+        "Question": "Ca sĩ nào thể hiện thành công bài hát \"Everytime\"? ",
+        "TrueCase": 3,
+        "_id": 18
+    },
+    {
+        "CaseA": "Whitney Houston",
+        "CaseB": "Sharah Corner ",
+        "CaseC": "Diana Rose",
+        "CaseD": "Britney Spears",
+        "Question": "Ca sĩ Mariah Carey thể hiện thành công ca khúc \"When you believe\" với ca sĩ nào?",
+        "TrueCase": 1,
+        "_id": 19
+    },
+    {
+        "CaseA": "The Beatles ",
+        "CaseB": "Carpenters ",
+        "CaseC": "ABBA",
+        "CaseD": "Dream Girls ",
+        "Question": "Bài hát \"Dancing Queen\" nổi tiếng của nhóm nhạc nào thể hiện?",
+        "TrueCase": 3,
+        "_id": 20
+    },
+    {
+        "CaseA": "7720",
+        "CaseB": "7721",
+        "CaseC": "8821",
+        "CaseD": "8822",
+        "Question": "Trong các số sau đây, số nào chia hết cho 9?",
+        "TrueCase": 3,
+        "_id": 21
+    },
+    {
+        "CaseA": "Hoa râm ",
+        "CaseB": "Uốn phồng ",
+        "CaseC": "Râm bụt ",
+        "CaseD": "Ép cụp",
+        "Question": "Trong các từ sau đây, từ nào không dùng để chỉ tóc?",
+        "TrueCase": 3,
+        "_id": 22
+    },
+    {
+        "CaseA": "Microphone",
+        "CaseB": "Webcame",
+        "CaseC": "Headphone",
+        "CaseD": "Modemn",
+        "Question": "Khi tán gẫu bằng Yahoo Messenger, người ta thường sử dụng thiết bị nào để chia sẻ hình ảnh trực tiếp?",
+        "TrueCase": 2,
+        "_id": 23
+    },
+    {
+        "CaseA": "Iron man ",
+        "CaseB": "X-man ",
+        "CaseC": "The Twilight Saga ",
+        "CaseD": "Fast and Furious ",
+        "Question": "Nam tài tử Robert Pattinson tham gia vào loạt phim nổi tiếng nào? ",
+        "TrueCase": 3,
+        "_id": 24
+    },
+    {
+        "CaseA": "Vịnh Hạ Long ",
+        "CaseB": "Khai thác dầu khí ",
+        "CaseC": "Hồ Chí Minh ",
+        "CaseD": "Quốc huy ",
+        "Question": "Tờ giấy bạc 5000 đồng có in hình gì?",
+        "TrueCase": 3,
+        "_id": 25
+    },
+    {
+        "CaseA": "Doãn Nho ",
+        "CaseB": "Huy Du ",
+        "CaseC": "Triều Dâng ",
+        "CaseD": "Phạm Tuyên ",
+        "Question": "\"Năm anh em trên một chiếc xe tăng\" là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 1,
+        "_id": 26
+    },
+    {
+        "CaseA": "Châu Á ",
+        "CaseB": "Châu Phi ",
+        "CaseC": "Châu Âu ",
+        "CaseD": "Châu Mỹ ",
+        "Question": "Kilimanjaro là ngọn núi cao nhất châu lục nào?",
+        "TrueCase": 2,
+        "_id": 27
+    },
+    {
+        "CaseA": "Tháng 1 ",
+        "CaseB": "Tháng 4",
+        "CaseC": "Tháng 8",
+        "CaseD": "Tháng 12",
+        "Question": "Dec trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 4,
+        "_id": 28
+    },
+    {
+        "CaseA": "Tháng 12",
+        "CaseB": "Tháng 6 ",
+        "CaseC": "Tháng 3",
+        "CaseD": "Tháng 5",
+        "Question": "March trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 29
+    },
+    {
+        "CaseA": "Yahoo",
+        "CaseB": "Google",
+        "CaseC": "Live",
+        "CaseD": "Search ",
+        "Question": "Trang tìm kiếm thông tin mạnh nhất trên Internet là trang nào tính đến năm 2010?",
+        "TrueCase": 2,
+        "_id": 30
+    },
+    {
+        "CaseA": "File văn bản",
+        "CaseB": "File hình ảnh",
+        "CaseC": "File âm nhạc",
+        "CaseD": "File video",
+        "Question": ".mp3 là phần mở rộng của loại file nào?",
+        "TrueCase": 3,
+        "_id": 31
+    },
+    {
+        "CaseA": "Tây ",
+        "CaseB": "Đông ",
+        "CaseC": "Nam ",
+        "CaseD": "Bắc",
+        "Question": "Quần đảo Hoàng Sa nằm ở phía nào của quần đảo Trường Sa?",
+        "TrueCase": 4,
+        "_id": 32
+    },
+    {
+        "CaseA": "Blue ",
+        "CaseB": "Lee Ryan ",
+        "CaseC": "Westlife ",
+        "CaseD": "'N Sync ",
+        "Question": "Bài hát \"My love\" do ca sĩ/nhóm nhạc nào thể hiện? ",
+        "TrueCase": 3,
+        "_id": 33
+    },
+    {
+        "CaseA": "Da diết ",
+        "CaseB": "Dập dìu ",
+        "CaseC": "Thưa thớt ",
+        "CaseD": "Phố phường ",
+        "Question": "Từ nào sau đây không phải là từ láy?",
+        "TrueCase": 4,
+        "_id": 34
+    },
+    {
+        "CaseA": "80 ",
+        "CaseB": "90 ",
+        "CaseC": "100 ",
+        "CaseD": "120 ",
+        "Question": "Trên bàn cờ Tướng, có tổng cộng bao nhiêu điểm mà các quân có thể đến?",
+        "TrueCase": 2,
+        "_id": 35
+    },
+    {
+        "CaseA": "Muỗi cái ",
+        "CaseB": "Muỗi đực ",
+        "CaseC": "Muỗi cái và muỗi đực ",
+        "CaseD": "Cả 2 không đốt ",
+        "Question": "Muỗi thường đốt là muỗi đực hay muỗi cái?",
+        "TrueCase": 1,
+        "_id": 36
+    },
+    {
+        "CaseA": "Vịt ",
+        "CaseB": "Ngỗng ",
+        "CaseC": "Gà ",
+        "CaseD": "Ngan ",
+        "Question": "Trong các con vật sau đây, con nào khác với các con vật còn lại?",
+        "TrueCase": 3,
+        "_id": 37
+    },
+    {
+        "CaseA": "Sông Tô Lịch ",
+        "CaseB": "Sông Đồng Nai ",
+        "CaseC": "Sông Mê Kông ",
+        "CaseD": "Sông Hương ",
+        "Question": "Con sông chảy qua thành phố Huế là sông gì?",
+        "TrueCase": 4,
+        "_id": 38
+    },
+    {
+        "CaseA": "Unikey ",
+        "CaseB": "Opera",
+        "CaseC": "LacViet ",
+        "CaseD": "Teracopy ",
+        "Question": "Phần mềm nào là từ điển trong tin học?",
+        "TrueCase": 3,
+        "_id": 39
+    },
+    {
+        "CaseA": "Máy bơm nước ",
+        "CaseB": "Đinamô",
+        "CaseC": "Máy hơi nước ",
+        "CaseD": "Động cơ điện ",
+        "Question": "Dụng cụ nào sau đây biến đổi cơ năng thành điện năng?",
+        "TrueCase": 2,
+        "_id": 40
+    },
+    {
+        "CaseA": "Hồ Chí Minh ",
+        "CaseB": "Khai thác dầu khí ",
+        "CaseC": "Vịnh Hạ Long ",
+        "CaseD": "Cảng Hải Phòng ",
+        "Question": "Mặt trước của tờ giấy bạc 10.000 đồng bằng cotton có in hình gì?",
+        "TrueCase": 1,
+        "_id": 41
+    },
+    {
+        "CaseA": "Nấm hương",
+        "CaseB": "Măng",
+        "CaseC": "Quế ",
+        "CaseD": "Mộc nhĩ ",
+        "Question": "Loại cây nào không thuộc nhóm cây thực phẩm?",
+        "TrueCase": 3,
+        "_id": 42
+    },
+    {
+        "CaseA": "cosx.sinx",
+        "CaseB": "sinx.sinx",
+        "CaseC": "cosx.cosx",
+        "CaseD": "sinx.tgx",
+        "Question": "Hàm số nào sau đây không phải là hàm số chẵn?",
+        "TrueCase": 1,
+        "_id": 43
+    },
+    {
+        "CaseA": "Tháng 10",
+        "CaseB": "Tháng 11",
+        "CaseC": "Tháng 12",
+        "CaseD": "Tháng 8 ",
+        "Question": "Nov trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 2,
+        "_id": 44
+    },
+    {
+        "CaseA": "Tháng 3",
+        "CaseB": "Tháng 2",
+        "CaseC": " Tháng 1",
+        "CaseD": "Tháng 12",
+        "Question": "February trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 2,
+        "_id": 45
+    },
+    {
+        "CaseA": "Anh",
+        "CaseB": "Argentina",
+        "CaseC": "Brazil",
+        "CaseD": "Đức",
+        "Question": "Quốc gia nào có đội tuyển quốc gia vô địch World Cup nhiều lần nhất?",
+        "TrueCase": 3,
+        "_id": 46
+    },
+    {
+        "CaseA": "File hình ảnh",
+        "CaseB": "File văn bản",
+        "CaseC": "File âm thanh",
+        "CaseD": "File video",
+        "Question": " .bmp là phần mở rộng của loại file nào?",
+        "TrueCase": 1,
+        "_id": 47
+    },
+    {
+        "CaseA": "Đông ",
+        "CaseB": "Tây ",
+        "CaseC": "Nam ",
+        "CaseD": "Bắc",
+        "Question": "Quần đảo Trường Sa nằm ở phía nào của quần đảo Hoàng Sa?",
+        "TrueCase": 3,
+        "_id": 48
+    },
+    {
+        "CaseA": "Trần Quốc Toản",
+        "CaseB": "Quang Trung ",
+        "CaseC": "Ngô Quyền ",
+        "CaseD": "Trần Nhật Duật ",
+        "Question": "Vị tướng nào gắn với \"Lá cờ thêu sáu chữ vàng\"?",
+        "TrueCase": 1,
+        "_id": 49
+    },
+    {
+        "CaseA": "Vắng vẻ ",
+        "CaseB": "Vui vẻ ",
+        "CaseC": "Đông đúc ",
+        "CaseD": "Đầy đủ ",
+        "Question": "Từ nào trái nghĩa với từ \"thưa thớt\"?",
+        "TrueCase": 3,
+        "_id": 50
+    },
+    {
+        "CaseA": "44",
+        "CaseB": "45",
+        "CaseC": "46",
+        "CaseD": "47 ",
+        "Question": "Trong cờ Tướng, mỗi quân Tốt có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 4,
+        "_id": 51
+    },
+    {
+        "CaseA": "Voi ",
+        "CaseB": "Kiến ",
+        "CaseC": "Hà mã ",
+        "CaseD": "Trâu ",
+        "Question": "Xét về sức nặng chịu được, con vật nào sau đây khoẻ nhất?",
+        "TrueCase": 2,
+        "_id": 52
+    },
+    {
+        "CaseA": "Han Ji Hye ",
+        "CaseB": "Song Hye Kyo ",
+        "CaseC": "Park Han Byul ",
+        "CaseD": "Moon Geun Young ",
+        "Question": "Diễn viên nào tham gia đóng vai Han Ji Eun trong phim \"Ngôi Nhà Hạnh Phúc\"?",
+        "TrueCase": 2,
+        "_id": 53
+    },
+    {
+        "CaseA": "Thằn lằn ",
+        "CaseB": "Cá sấu ",
+        "CaseC": "Ếch ",
+        "CaseD": "Khủng long ",
+        "Question": "Trong các loài dưới đây, con nào không thuộc loài bò sát?",
+        "TrueCase": 3,
+        "_id": 54
+    },
+    {
+        "CaseA": "Đĩa cứng",
+        "CaseB": "ROM ",
+        "CaseC": "RAM",
+        "CaseD": "CPU",
+        "Question": "Khi mất điện, thông tin lưu trữ trong các thành phần nào sau đây bị mất?",
+        "TrueCase": 3,
+        "_id": 55
+    },
+    {
+        "CaseA": "Jayden Smith ",
+        "CaseB": "Justin Bieber ",
+        "CaseC": "Will Smith ",
+        "CaseD": "Selena Gomez ",
+        "Question": "Diễn viên nào đóng phim \"The Karate Kid\"?",
+        "TrueCase": 1,
+        "_id": 56
+    },
+    {
+        "CaseA": "The Click5 ",
+        "CaseB": "Westlife ",
+        "CaseC": "Simple Plan ",
+        "CaseD": "Linkin Park ",
+        "Question": "Sau Extremely, nhóm nhạc nhóm nhạc nào cover thành công bài hát \"More Than Words\"? ",
+        "TrueCase": 2,
+        "_id": 57
+    },
+    {
+        "CaseA": "Ngũ gia bì",
+        "CaseB": "Ngải cứu",
+        "CaseC": "Tam thất ",
+        "CaseD": "Nấm hương ",
+        "Question": "Loại cây nào sau đây không phải là cây dược liệu?",
+        "TrueCase": 4,
+        "_id": 58
+    },
+    {
+        "CaseA": "Quân Nam Hán ",
+        "CaseB": "Quân Bắc Hán ",
+        "CaseC": "Quân Đường ",
+        "CaseD": "Quân Tống ",
+        "Question": "Lê Hoàn đã chiến thắng quân xâm lược nào trên sông Bạch Đằng năm 981 ? ",
+        "TrueCase": 4,
+        "_id": 59
+    },
+    {
+        "CaseA": "Tháng 12",
+        "CaseB": "Tháng 11",
+        "CaseC": "Tháng 10",
+        "CaseD": "Tháng 9",
+        "Question": "Oct trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 60
+    },
+    {
+        "CaseA": "Tháng 1",
+        "CaseB": "Tháng 2",
+        "CaseC": "Tháng 3",
+        "CaseD": "Tháng 4",
+        "Question": "January trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 1,
+        "_id": 61
+    },
+    {
+        "CaseA": "Paint",
+        "CaseB": "Keyboard",
+        "CaseC": "Keylock",
+        "CaseD": "Unikey ",
+        "Question": "Phần mềm nào sau đây để gõ tiếng việt có dấu?",
+        "TrueCase": 4,
+        "_id": 62
+    },
+    {
+        "CaseA": "File video",
+        "CaseB": "File văn bản",
+        "CaseC": "File bảng tính",
+        "CaseD": "File hình ảnh",
+        "Question": ".doc là phần mở rộng của loại file nào?",
+        "TrueCase": 2,
+        "_id": 63
+    },
+    {
+        "CaseA": "Bà Rịa - Vũng Tàu",
+        "CaseB": "Bến Tre",
+        "CaseC": "Trà Vinh ",
+        "CaseD": "Ninh Thuận",
+        "Question": "Côn Đảo thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 1,
+        "_id": 64
+    },
+    {
+        "CaseA": "Tuyết ",
+        "CaseB": "Băng ",
+        "CaseC": "Núi ",
+        "CaseD": "Thung lũng ",
+        "Question": "Hầu như diện tích bề mặt của châu Nam cực toàn là?",
+        "TrueCase": 2,
+        "_id": 65
+    },
+    {
+        "CaseA": "Robert Pattinson ",
+        "CaseB": "Zac Efron ",
+        "CaseC": "Orlando Bloom",
+        "CaseD": "Brad Pitt ",
+        "Question": "Loạt phim \"Cướp biển Caribê\" phần 1 và phần 2 có sự tham gia của nam tài tử nổi tiếng thế giới nào? ",
+        "TrueCase": 3,
+        "_id": 66
+    },
+    {
+        "CaseA": "6",
+        "CaseB": "7",
+        "CaseC": "8",
+        "CaseD": "9",
+        "Question": "Trong cờ Tướng, mỗi quân Tượng có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 2,
+        "_id": 67
+    },
+    {
+        "CaseA": "Trâu ",
+        "CaseB": "Voi ",
+        "CaseC": "Ngựa ",
+        "CaseD": "Hổ ",
+        "Question": "Loài động vật nào sau đây to lớn hơn loài còn lại? ",
+        "TrueCase": 2,
+        "_id": 68
+    },
+    {
+        "CaseA": "Kiến ",
+        "CaseB": "Nhện ",
+        "CaseC": "Bọ ngựa ",
+        "CaseD": "Bướm",
+        "Question": "Trong các con vật sau đây, con nào có nhiều chân nhất?",
+        "TrueCase": 2,
+        "_id": 69
+    },
+    {
+        "CaseA": "Christina Aguilera ",
+        "CaseB": "Beyoncé ",
+        "CaseC": "Lady Gaga",
+        "CaseD": "Britney Spears ",
+        "Question": "Bài hát \"Baby One More Time\" do ca sĩ nào thể hiện? ",
+        "TrueCase": 4,
+        "_id": 70
+    },
+    {
+        "CaseA": "Võ Nguyên Giáp ",
+        "CaseB": "Văn Tiến Dũng ",
+        "CaseC": "Lê Trọng Tấn ",
+        "CaseD": "Nguyễn Chí Thanh ",
+        "Question": "Ai là vị tướng đầu tiên của Quân đội Nhân dân Việt Nam?",
+        "TrueCase": 1,
+        "_id": 71
+    },
+    {
+        "CaseA": "Trộn đỏ, vàng, cam ",
+        "CaseB": "Trộn màu lam và tím ",
+        "CaseC": "Trộn màu đỏ và trắng ",
+        "CaseD": "Không thể trộn ",
+        "Question": "Có thể tạo ra ánh sáng màu đen bằng cách nào?",
+        "TrueCase": 4,
+        "_id": 72
+    },
+    {
+        "CaseA": "Keri Hilson ",
+        "CaseB": "Taylor Swift ",
+        "CaseC": "Rihanna ",
+        "CaseD": "Nicole Scherzinger ",
+        "Question": "Ca khúc \"Umbrella\" do nữ ca sĩ nào thể hiện thành công? ",
+        "TrueCase": 3,
+        "_id": 73
+    },
+    {
+        "CaseA": "Cây lúa gạo ",
+        "CaseB": "Cây cà phê ",
+        "CaseC": "Cây cao su ",
+        "CaseD": "Cây chè ",
+        "Question": "Nông sản không phải là nông sản nhiệt đới của nước ta?",
+        "TrueCase": 4,
+        "_id": 74
+    },
+    {
+        "CaseA": "Đèo Hải Vân ",
+        "CaseB": "Đèo Phađin ",
+        "CaseC": "Ải Chi Lăng ",
+        "CaseD": "Ải Vân Đồn ",
+        "Question": "Cửa ải nào được vua Minh Mạng phong là 'Thiên hạ đệ nhất hùng quan' vào thế kỉ 19 ?",
+        "TrueCase": 1,
+        "_id": 75
+    },
+    {
+        "CaseA": "Tháng 8 ",
+        "CaseB": "Tháng 12",
+        "CaseC": "Tháng 2",
+        "CaseD": "Tháng 9 ",
+        "Question": "Sep trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 4,
+        "_id": 76
+    },
+    {
+        "CaseA": "Thứ Bảy",
+        "CaseB": "Chủ Nhật ",
+        "CaseC": "Thứ hai ",
+        "CaseD": "Thứ ba ",
+        "Question": "Sun trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 2,
+        "_id": 77
+    },
+    {
+        "CaseA": "Nguyễn Khuyến",
+        "CaseB": "Nguyễn Du",
+        "CaseC": "Nguyễn Huệ",
+        "CaseD": "Nguyễn Bính",
+        "Question": "Tác giả của truyện Kiều nổi tiếng thế giới?",
+        "TrueCase": 2,
+        "_id": 78
+    },
+    {
+        "CaseA": "File văn bản",
+        "CaseB": "File hình ảnh",
+        "CaseC": "File hệ thống",
+        "CaseD": "File bảng tính",
+        "Question": ".xls là phần mở rộng của loại file nào?",
+        "TrueCase": 4,
+        "_id": 79
+    },
+    {
+        "CaseA": "Khánh Hoà",
+        "CaseB": "Đà Nẵng",
+        "CaseC": "Quảng Trị ",
+        "CaseD": "Bình Định ",
+        "Question": "Quần đảo Hoàng Sa thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 80
+    },
+    {
+        "CaseA": "Beast",
+        "CaseB": "BigBang ",
+        "CaseC": "Super Junior ",
+        "CaseD": "2PM ",
+        "Question": "Nhóm nhạc nam Hàn Quốc nào đã hát ca khúc \"Haru Haru\"? ",
+        "TrueCase": 2,
+        "_id": 81
+    },
+    {
+        "CaseA": "Km ",
+        "CaseB": "m ",
+        "CaseC": "cc",
+        "CaseD": "mm",
+        "Question": "Đơn vị nào dưới đây không phải là đơn vị đo độ dài?",
+        "TrueCase": 3,
+        "_id": 82
+    },
+    {
+        "CaseA": "70",
+        "CaseB": "80",
+        "CaseC": "90",
+        "CaseD": "100",
+        "Question": "Trong cờ Tướng, mỗi quân Xe có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 3,
+        "_id": 83
+    },
+    {
+        "CaseA": "7",
+        "CaseB": "8",
+        "CaseC": "9",
+        "CaseD": "10 ",
+        "Question": "Nhóm nhạc nữ Girl's Generation của Hàn Quốc được biết đến là có bao nhiêu thành viên? ",
+        "TrueCase": 3,
+        "_id": 84
+    },
+    {
+        "CaseA": "George Clooney ",
+        "CaseB": "Vin Diezel",
+        "CaseC": "Matt Demon ",
+        "CaseD": "Brad Pitt ",
+        "Question": "Nam tài tử nào đóng vai chính trong phim \"Ông bà Smith\"? ",
+        "TrueCase": 4,
+        "_id": 85
+    },
+    {
+        "CaseA": "Cá tai tượng ",
+        "CaseB": "Cá chim ",
+        "CaseC": "Cá mặt quỷ ",
+        "CaseD": "Cá sấu",
+        "Question": "Con gì không thuộc loài cá mà thuộc loài bò sát?",
+        "TrueCase": 4,
+        "_id": 86
+    },
+    {
+        "CaseA": "IDH",
+        "CaseB": "HDI",
+        "CaseC": "DHI ",
+        "CaseD": "DIH",
+        "Question": "Chỉ số phát triển con người là gì?",
+        "TrueCase": 2,
+        "_id": 87
+    },
+    {
+        "CaseA": "Màu đỏ ",
+        "CaseB": "Màu vàng ",
+        "CaseC": "Màu da cam ",
+        "CaseD": "Màu tím ",
+        "Question": "Trộn ánh sáng màu đỏ với ánh sáng màu vàng sẽ được ánh sáng màu nào dưới đây?",
+        "TrueCase": 3,
+        "_id": 88
+    },
+    {
+        "CaseA": "Tháp Phổ Minh ",
+        "CaseB": "Sản xuất nông nghiệp",
+        "CaseC": "Cảng Hải Phòng ",
+        "CaseD": "Quốc huy ",
+        "Question": "Mặt sau của tờ giấy bạc 100 đồng có in hình gì?",
+        "TrueCase": 1,
+        "_id": 89
+    },
+    {
+        "CaseA": "Đại Tây Dương ",
+        "CaseB": "Đông Nam Á ",
+        "CaseC": "Vịnh Bengan ",
+        "CaseD": "Thái Bình Dương",
+        "Question": "Phía Đông của khu vực Đông Á tiếp giáp với?",
+        "TrueCase": 4,
+        "_id": 90
+    },
+    {
+        "CaseA": "Chu Mạnh Trinh ",
+        "CaseB": "Cao Bá Quát ",
+        "CaseC": "Lưu Trọng Lư ",
+        "CaseD": "Thế Lữ ",
+        "Question": "Nhà thơ nào mang trái tim hoa mai: \"Nhất sinh đê thủ bái mai hoa\"?",
+        "TrueCase": 2,
+        "_id": 91
+    },
+    {
+        "CaseA": "Tháng 12",
+        "CaseB": "Tháng 10 ",
+        "CaseC": "Tháng 8",
+        "CaseD": "Tháng 6",
+        "Question": "Aug trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 92
+    },
+    {
+        "CaseA": "Thứ sáu ",
+        "CaseB": "Chủ nhật ",
+        "CaseC": "Thứ hai ",
+        "CaseD": "Thứ bảy ",
+        "Question": "Sat trong tiếng anh là thứ mấy trong tuần?",
+        "TrueCase": 4,
+        "_id": 93
+    },
+    {
+        "CaseA": "Nguyễn Đình Chiểu",
+        "CaseB": "Nguyễn Đình Thi",
+        "CaseC": "Nguyễn Trãi",
+        "CaseD": "Nguyễn Du",
+        "Question": "Tác giả của truyện Lục Vân Tiên?",
+        "TrueCase": 1,
+        "_id": 94
+    },
+    {
+        "CaseA": "File âm thanh",
+        "CaseB": "File video",
+        "CaseC": "File văn bản",
+        "CaseD": "File hệ thống",
+        "Question": ".mp4 là phần mở rộng của loại file nào?",
+        "TrueCase": 2,
+        "_id": 95
+    },
+    {
+        "CaseA": "Đà Nẵng",
+        "CaseB": "Ninh Thuận",
+        "CaseC": "Bình Thuận ",
+        "CaseD": "Khánh Hoà",
+        "Question": "Quần đảo Trường Sa thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 4,
+        "_id": 96
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Bắc Kạn",
+        "CaseC": "Hà Giang",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Cực Bắc của nước ta nằm ở tỉnh nào?",
+        "TrueCase": 3,
+        "_id": 97
+    },
+    {
+        "CaseA": "Lady Gaga",
+        "CaseB": "Rihanna ",
+        "CaseC": "Beyoncé",
+        "CaseD": "Fergie ",
+        "Question": "Ca sĩ nào sau đây có phong cách ăn mặc kì quái nhất? ",
+        "TrueCase": 1,
+        "_id": 98
+    },
+    {
+        "CaseA": "5",
+        "CaseB": "6",
+        "CaseC": "7",
+        "CaseD": "8",
+        "Question": "Trong cờ Tướng, mỗi quân Sĩ có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 1,
+        "_id": 99
+    },
+    {
+        "CaseA": "Kền kền ",
+        "CaseB": "Vẹt ",
+        "CaseC": "Diều hâu ",
+        "CaseD": "Đà điểu ",
+        "Question": "Loài chim nào lớn nhất nhưng óc lại bé nhất? ",
+        "TrueCase": 4,
+        "_id": 100
+    },
+    {
+        "CaseA": "Cá rô ",
+        "CaseB": "Cá chép ",
+        "CaseC": "Cá thờn bơn ",
+        "CaseD": "Cá chim ",
+        "Question": "Trong các loài cá dưới đây, loài cá nào da trơn?",
+        "TrueCase": 3,
+        "_id": 101
+    },
+    {
+        "CaseA": "1850 ",
+        "CaseB": "1854 ",
+        "CaseC": "1858",
+        "CaseD": "1860",
+        "Question": "Pháp xâm lược nước ta vào năm bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 102
+    },
+    {
+        "CaseA": "Một vị thần ",
+        "CaseB": "Một nàng công chúa ",
+        "CaseC": "Một vị vua ",
+        "CaseD": "Một chiến binh ",
+        "Question": "Samurai là ai?",
+        "TrueCase": 4,
+        "_id": 103
+    },
+    {
+        "CaseA": "Đỏ, lục, lam ",
+        "CaseB": "Đỏ, vàng ",
+        "CaseC": "Đỏ đến tím ",
+        "CaseD": "Lục đến lam ",
+        "Question": "Có thể tạo ra ánh sáng trắng bằng cách trộn những màu nào dưới đây?",
+        "TrueCase": 1,
+        "_id": 104
+    },
+    {
+        "CaseA": "Sản xuất nông nghiệp",
+        "CaseB": "Khai thác dầu khí ",
+        "CaseC": "Khai thác gỗ ",
+        "CaseD": "Xưởng dệt ",
+        "Question": "Mặt sau của tờ giấy bạc 200 đồng có in hình gì?",
+        "TrueCase": 1,
+        "_id": 105
+    },
+    {
+        "CaseA": "Chà là ",
+        "CaseB": "Lúa mì ",
+        "CaseC": "Dừa ",
+        "CaseD": "Bông ",
+        "Question": "Một trong những loại cây trồng phổ biến ở các quốc gia khu vực Đông Nam Á?",
+        "TrueCase": 3,
+        "_id": 106
+    },
+    {
+        "CaseA": "Kuwait ",
+        "CaseB": "Na Uy ",
+        "CaseC": "Venezuela ",
+        "CaseD": "UAE ",
+        "Question": "Tính đến năm 2010, Saudi Arabia và Nga và quốc gia đứng hàng thứ 3 thế giới về xuất khẩu dầu mỏ là ?",
+        "TrueCase": 2,
+        "_id": 107
+    },
+    {
+        "CaseA": "Tháng 6",
+        "CaseB": "Tháng 7",
+        "CaseC": "Tháng 8 ",
+        "CaseD": "Tháng 9",
+        "Question": "Jul trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 2,
+        "_id": 108
+    },
+    {
+        "CaseA": "Chủ nhật ",
+        "CaseB": "Thứ bảy ",
+        "CaseC": "Thứ sáu",
+        "CaseD": "Thứ năm ",
+        "Question": "Fri trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 3,
+        "_id": 109
+    },
+    {
+        "CaseA": "Máy in",
+        "CaseB": "Chuột",
+        "CaseC": "Màn hình",
+        "CaseD": "Projector",
+        "Question": "Thiết bị nào là thiết bị Vào trong các thiết bị sau đây?",
+        "TrueCase": 2,
+        "_id": 110
+    },
+    {
+        "CaseA": "File thực thi",
+        "CaseB": "File văn bản",
+        "CaseC": "File hình ảnh ",
+        "CaseD": "File tập tin bó",
+        "Question": ".exe là phần mở rộng của loại file nào?",
+        "TrueCase": 1,
+        "_id": 111
+    },
+    {
+        "CaseA": "Chấc phát",
+        "CaseB": "Chất phát",
+        "CaseC": "Chất phác",
+        "CaseD": "Chấc phác",
+        "Question": "Từ nào đúng chính tả tiếng Việt nhất?",
+        "TrueCase": 3,
+        "_id": 112
+    },
+    {
+        "CaseA": "Cải Lương ",
+        "CaseB": "Chèo",
+        "CaseC": "Tuồng ",
+        "CaseD": "Ca trù ",
+        "Question": "Tên gọi khác của nghệ thuật \"Hát Ả Đào\"? ",
+        "TrueCase": 4,
+        "_id": 113
+    },
+    {
+        "CaseA": "Trường Bưởi ",
+        "CaseB": "Trường Đào ",
+        "CaseC": "Trường Hoa ",
+        "CaseD": "Trường Chanh ",
+        "Question": "Trường THPT Chu Văn An - HN thời Pháp thuộc thường được gọi với cái tên nào?",
+        "TrueCase": 1,
+        "_id": 114
+    },
+    {
+        "CaseA": "70",
+        "CaseB": "80",
+        "CaseC": "90",
+        "CaseD": "100",
+        "Question": "Trong cờ Tướng, mỗi quân Mã có thể đi được bao nhiêu vị trí?",
+        "TrueCase": 3,
+        "_id": 115
+    },
+    {
+        "CaseA": "Microsoft",
+        "CaseB": "Yahoo",
+        "CaseC": "Nokia ",
+        "CaseD": "Google",
+        "Question": "Tập đoàn nào sau đây chuyên sản xuất điện thoại di động?",
+        "TrueCase": 3,
+        "_id": 116
+    },
+    {
+        "CaseA": "Cá basa",
+        "CaseB": "Cá hú ",
+        "CaseC": "Cá chép ",
+        "CaseD": "Cá thờn bơn ",
+        "Question": "Trong các loài cá dưới đây, loài cá nào không phải là cá da trơn?",
+        "TrueCase": 3,
+        "_id": 117
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Lạng Sơn ",
+        "CaseC": "Hà Giang ",
+        "CaseD": "Bắc Kạn ",
+        "Question": "Thị xã Cao Bằng thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 118
+    },
+    {
+        "CaseA": "Than đá",
+        "CaseB": "Dầu khí ",
+        "CaseC": "Năng lượng mặt trời ",
+        "CaseD": "Năng lượng nguyên tử",
+        "Question": "Nguồn năng lượng nào sau đây được xem là nguồn năng lượng sạch?",
+        "TrueCase": 3,
+        "_id": 119
+    },
+    {
+        "CaseA": "Giặt, giũ, vắt ",
+        "CaseB": "Giũ, vắt, xả ",
+        "CaseC": "Giặt, giũ, xả",
+        "CaseD": "Giặt, vắt, xả ",
+        "Question": "Tất cả các máy giặt đều thực hiện các công việc nào?",
+        "TrueCase": 4,
+        "_id": 120
+    },
+    {
+        "CaseA": "Tháp Phổ Minh ",
+        "CaseB": "Bến Nhà Rồng ",
+        "CaseC": "Chùa Cầu ",
+        "CaseD": "Cảng Hải Phòng ",
+        "Question": "Mặt sau của tờ giấy bạc 500 đồng có in hình gì?",
+        "TrueCase": 4,
+        "_id": 121
+    },
+    {
+        "CaseA": "Bắc Bộ ",
+        "CaseB": "Nam Bộ ",
+        "CaseC": "Trung Bộ ",
+        "CaseD": "Trung và Nam Bộ ",
+        "Question": "Thềm lục địa của nước ta sâu và hẹp tại vùng biển thuộc?",
+        "TrueCase": 3,
+        "_id": 122
+    },
+    {
+        "CaseA": "Tượng thần Zeus",
+        "CaseB": "Vườn treo Babylon ",
+        "CaseC": "Đền thờ nữ thần Artemis ",
+        "CaseD": "Tượng thần trên đảo Rhodes",
+        "Question": "Trong các kì quan thế giới sau, kì quan nào không nằm ở châu Âu ?",
+        "TrueCase": 2,
+        "_id": 123
+    },
+    {
+        "CaseA": "Tháng 8 ",
+        "CaseB": "Tháng 7 ",
+        "CaseC": "Tháng 6 ",
+        "CaseD": "Tháng 5 ",
+        "Question": "Jun trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 124
+    },
+    {
+        "CaseA": "Thứ bảy ",
+        "CaseB": "Thứ sáu",
+        "CaseC": "Thứ năm",
+        "CaseD": "Thứ tư",
+        "Question": "Thu trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 3,
+        "_id": 125
+    },
+    {
+        "CaseA": "Kiến trúc sư",
+        "CaseB": "Kỹ sư",
+        "CaseC": "Lập trình viên",
+        "CaseD": "Kỹ thuật viên",
+        "Question": "Người viết ra chương trình máy tính được gọi là gì?",
+        "TrueCase": 3,
+        "_id": 126
+    },
+    {
+        "CaseA": "File video",
+        "CaseB": "File hình ảnh",
+        "CaseC": "File âm thanh",
+        "CaseD": "File hệ thống",
+        "Question": ".bat là phần mở rộng của loại file nào?",
+        "TrueCase": 4,
+        "_id": 127
+    },
+    {
+        "CaseA": "Space",
+        "CaseB": "Delete",
+        "CaseC": "Del",
+        "CaseD": "Backspace",
+        "Question": "Trên bàn phím máy tính, phím nào dùng để xoá kí tự đứng trước con trỏ?",
+        "TrueCase": 4,
+        "_id": 128
+    },
+    {
+        "CaseA": "Chính Hữu ",
+        "CaseB": "Tố Hữu ",
+        "CaseC": "Xuân Diệu",
+        "CaseD": "Chế Lan Viên ",
+        "Question": "\"Đầu súng trăng treo\" là tên tập thơ của nhà thơ nào?",
+        "TrueCase": 1,
+        "_id": 129
+    },
+    {
+        "CaseA": "Nguyễn Thiện Nhân ",
+        "CaseB": "Đặng Thai Mai ",
+        "CaseC": "Nguyễn Văn Huyên ",
+        "CaseD": "Vũ Đình Hoè ",
+        "Question": "Bộ trưởng Bộ Giáo dục đầu tiên của Việt Nam?",
+        "TrueCase": 4,
+        "_id": 130
+    },
+    {
+        "CaseA": "Sông Bình Than ",
+        "CaseB": "Sông Như Nguyệt ",
+        "CaseC": "Sông Lô ",
+        "CaseD": "Sông Hồng ",
+        "Question": "Trần Quốc Toản đã bóp nát quả cam trên bến sông nào?",
+        "TrueCase": 1,
+        "_id": 131
+    },
+    {
+        "CaseA": "23h - 1h",
+        "CaseB": "22h - 0h ",
+        "CaseC": "0h - 2h",
+        "CaseD": "1h - 3h",
+        "Question": "Theo cách tính giờ cổ, giờ Tí kéo dài từ mấy giờ đến mấy giờ (theo đồng hồ hiện nay)?",
+        "TrueCase": 1,
+        "_id": 132
+    },
+    {
+        "CaseA": "Hoa Kỳ ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Ai Cập ",
+        "Question": "Colombo đã tìm ra Châu Mỹ khi ông đang tìm đường đến nước nào?",
+        "TrueCase": 3,
+        "_id": 133
+    },
+    {
+        "CaseA": "Lai Châu",
+        "CaseB": "Sơn La ",
+        "CaseC": "Yên Bái",
+        "CaseD": "Cao Bằng",
+        "Question": "Thành phố Điện Biên Phủ thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 134
+    },
+    {
+        "CaseA": "Làng Vũ Đại ",
+        "CaseB": "Làng Vũ Nam ",
+        "CaseC": "Làng Nam Hà ",
+        "CaseD": "Làng Nam Đàn ",
+        "Question": "Nhân vật Chí Phèo ở làng nào?",
+        "TrueCase": 1,
+        "_id": 135
+    },
+    {
+        "CaseA": "Comic",
+        "CaseB": "Manga",
+        "CaseC": "Anime ",
+        "CaseD": "Shoujo ",
+        "Question": "Truyện tranh Nhật Bản được gọi là gì?",
+        "TrueCase": 2,
+        "_id": 136
+    },
+    {
+        "CaseA": "Xưởng dệt ",
+        "CaseB": "Vịnh Hạ Long ",
+        "CaseC": "Thuỷ điện Trị An ",
+        "CaseD": "Khai thác gỗ ",
+        "Question": "Mặt sau của tờ giấy bạc 1000 đồng có in hình gì?",
+        "TrueCase": 4,
+        "_id": 137
+    },
+    {
+        "CaseA": "Dãy Hoàng Liên Sơn ",
+        "CaseB": "Dãy Trường Sơn ",
+        "CaseC": "Dãy Bắc Sơn ",
+        "CaseD": "Dãy Ngân Sơn ",
+        "Question": "Dãy núi nào cao nhất nước ta?",
+        "TrueCase": 1,
+        "_id": 138
+    },
+    {
+        "CaseA": "Việt Nam nghĩa đoàn ",
+        "CaseB": "Phục Việt ",
+        "CaseC": "Nam Đồng Tư Xã",
+        "CaseD": "Tâm Tâm Xã",
+        "Question": "Cơ sở hạt nhân đầu tiên của Việt Nam Quốc Dân Đảng là gì ?",
+        "TrueCase": 3,
+        "_id": 139
+    },
+    {
+        "CaseA": "Tháng 9 ",
+        "CaseB": "Tháng 12",
+        "CaseC": "Tháng 4",
+        "CaseD": "Tháng 6 ",
+        "Question": "Apr trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 140
+    },
+    {
+        "CaseA": "Thứ tư",
+        "CaseB": "Chủ nhật",
+        "CaseC": "Thứ ba",
+        "CaseD": "Thứ sáu",
+        "Question": "Tue trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 3,
+        "_id": 141
+    },
+    {
+        "CaseA": "Trần Tiến Anh",
+        "CaseB": "Trần Minh Quang",
+        "CaseC": "Võ Văn Hạnh",
+        "CaseD": "Bùi Quang Huy",
+        "Question": "Thủ môn đầu tiên của bóng đá Việt Nam đoạt danh hiệu Quả bóng vàng?",
+        "TrueCase": 3,
+        "_id": 142
+    },
+    {
+        "CaseA": "File văn bản",
+        "CaseB": "File hệ thống",
+        "CaseC": "File rác",
+        "CaseD": "File dữ liệu",
+        "Question": ".txt là phần mở rộng của loại file nào?",
+        "TrueCase": 1,
+        "_id": 143
+    },
+    {
+        "CaseA": "Backspace",
+        "CaseB": "Delete",
+        "CaseC": "ESC",
+        "CaseD": "Del",
+        "Question": "Trên bàn phím máy tính, phím nào dùng để xoá ký tự đứng sau con trỏ?",
+        "TrueCase": 2,
+        "_id": 144
+    },
+    {
+        "CaseA": "Sơn La ",
+        "CaseB": "Gia Lai ",
+        "CaseC": "Lâm Đồng ",
+        "CaseD": "Đắc Lắc ",
+        "Question": "Hồ Than Thở thuộc tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 145
+    },
+    {
+        "CaseA": "Con đại bàng ",
+        "CaseB": "Con rắn ",
+        "CaseC": "Con thỏ ",
+        "CaseD": "Con rồng ",
+        "Question": "Theo Kinh thánh, con gì đã xui Eva hái trộm quả táo?",
+        "TrueCase": 2,
+        "_id": 146
+    },
+    {
+        "CaseA": "Tảo và Rêu ",
+        "CaseB": "Rêu và Nấm ",
+        "CaseC": "Tảo và Rêu ",
+        "CaseD": "Tảo và Nấm ",
+        "Question": "Địa y được hình thành do sự chung sống giữa ... và ...",
+        "TrueCase": 4,
+        "_id": 147
+    },
+    {
+        "CaseA": "Sắt ",
+        "CaseB": "Bạc ",
+        "CaseC": "Đồng ",
+        "CaseD": "Nhôm ",
+        "Question": "Phản ứng nhiệt nhôm sinh ra kim loại nào?",
+        "TrueCase": 1,
+        "_id": 148
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Hoa Kỳ ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Đức ",
+        "Question": "Nước nào có nhiều nhà văn giành giải Nobel Văn học nhất ở Châu Á?",
+        "TrueCase": 3,
+        "_id": 149
+    },
+    {
+        "CaseA": "Lai Châu ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Sơn La ",
+        "CaseD": "Lào Cai ",
+        "Question": "Huyện Sa Pa thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 150
+    },
+    {
+        "CaseA": "12",
+        "CaseB": "15",
+        "CaseC": "18",
+        "CaseD": "22",
+        "Question": "Thuý Kiều trong truyện Kiều của Nguyễn Du lưu lạc bao nhiêu năm?",
+        "TrueCase": 2,
+        "_id": 151
+    },
+    {
+        "CaseA": "Đông Timor",
+        "CaseB": "Nga ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Nam Phi ",
+        "Question": "Cenvato là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 152
+    },
+    {
+        "CaseA": "Xưởng dệt ",
+        "CaseB": "Vịnh Hạ Long ",
+        "CaseC": "Bến Nhà Rồng ",
+        "CaseD": "Nhà sàn Bác Hồ ",
+        "Question": "Mặt sau của tờ giấy bạc 2000 đồng có in hình gì?",
+        "TrueCase": 1,
+        "_id": 153
+    },
+    {
+        "CaseA": "Đông Bắc - Tây Nam ",
+        "CaseB": "Tây Bắc - Đông Nam ",
+        "CaseC": "Bắc - Nam ",
+        "CaseD": "Tây - Đông ",
+        "Question": "Địa hình nước ta thấp dần theo hướng?",
+        "TrueCase": 2,
+        "_id": 154
+    },
+    {
+        "CaseA": "Savanakhet",
+        "CaseB": "Xiêng Khoảng ",
+        "CaseC": "Sầm Nứa",
+        "CaseD": "Loang Phrapang ",
+        "Question": "Di tích Cánh đồng Chum nổi tiếng thuộc tỉnh nào của nước Lào?",
+        "TrueCase": 2,
+        "_id": 155
+    },
+    {
+        "CaseA": "Tháng 2",
+        "CaseB": "Tháng 4",
+        "CaseC": "Tháng 3",
+        "CaseD": "Tháng 1",
+        "Question": "Mar trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 156
+    },
+    {
+        "CaseA": "Thứ hai ",
+        "CaseB": "Thứ ba",
+        "CaseC": "Thứ tư",
+        "CaseD": "Thứ năm ",
+        "Question": "Mon trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 1,
+        "_id": 157
+    },
+    {
+        "CaseA": "USB",
+        "CaseB": "Chuột",
+        "CaseC": "Bàn Phím",
+        "CaseD": "CPU",
+        "Question": "Thiết bị nào là thiết bị lưu trữ dữ liệu?",
+        "TrueCase": 1,
+        "_id": 158
+    },
+    {
+        "CaseA": "Access ",
+        "CaseB": "Word ",
+        "CaseC": "Excel ",
+        "CaseD": "Power point",
+        "Question": ".mdb là phần mở rộng của phần mềm nào?",
+        "TrueCase": 1,
+        "_id": 159
+    },
+    {
+        "CaseA": "Phím Page Up",
+        "CaseB": "Phím Print Screen",
+        "CaseC": "Phím Tab",
+        "CaseD": "Phím Insert",
+        "Question": "Trên bàn phím máy tính, phím nào có chức năng chụp lại toàn bộ màn hình?",
+        "TrueCase": 2,
+        "_id": 160
+    },
+    {
+        "CaseA": "6 ",
+        "CaseB": "7",
+        "CaseC": "8",
+        "CaseD": "9",
+        "Question": "3 đường thẳng chia mặt phẳng thành tối đa bao nhiêu miền?",
+        "TrueCase": 2,
+        "_id": 161
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6 ",
+        "Question": "Tim cá voi có mấy ngăn?",
+        "TrueCase": 2,
+        "_id": 162
+    },
+    {
+        "CaseA": "Vàng ",
+        "CaseB": "Xanh ",
+        "CaseC": "Đỏ ",
+        "CaseD": "Không có màu ",
+        "Question": "Ngọn lửa đèn cồn sẽ có màu gì khi ta đưa Natri vào trong ngọn lửa?",
+        "TrueCase": 1,
+        "_id": 163
+    },
+    {
+        "CaseA": "Rihanna ",
+        "CaseB": "Keri Hilson ",
+        "CaseC": "Miley Cyrus ",
+        "CaseD": "Taylor Swift ",
+        "Question": "Ai được mệnh danh là \"Công chúa nhạc đồng quê\"?",
+        "TrueCase": 4,
+        "_id": 164
+    },
+    {
+        "CaseA": "Adam Sandler ",
+        "CaseB": "Steve Martin ",
+        "CaseC": "Johnny Depp ",
+        "CaseD": "George Clooney ",
+        "Question": "Diễn viên hài nổi tiếng nào tham gia bộ phim \"The Pink Panther - Điệp vụ Báo Hồng\"? ",
+        "TrueCase": 4,
+        "_id": 165
+    },
+    {
+        "CaseA": "Lào Cai ",
+        "CaseB": "Sơn La ",
+        "CaseC": "Yên Bái ",
+        "CaseD": "Lai Châu ",
+        "Question": "Thị xã Lào Cai thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 166
+    },
+    {
+        "CaseA": "Thái Nguyên ",
+        "CaseB": "Bắc Ninh ",
+        "CaseC": "Hải Dương ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Hội Lim ở tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 167
+    },
+    {
+        "CaseA": "Bungaria ",
+        "CaseB": "Hungaria ",
+        "CaseC": "Tây Ban Nha ",
+        "CaseD": "Pháp ",
+        "Question": "Forint là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 168
+    },
+    {
+        "CaseA": "Vịnh Hạ Long ",
+        "CaseB": "Quốc tử giám ",
+        "CaseC": "Tháp Phổ Minh ",
+        "CaseD": "Thuỷ điện Trị An ",
+        "Question": "Mặt sau của tờ giấy bạc 5000 đồng có in hình gì?",
+        "TrueCase": 4,
+        "_id": 169
+    },
+    {
+        "CaseA": "10",
+        "CaseB": "11",
+        "CaseC": "12",
+        "CaseD": "13",
+        "Question": "Nước ta có bao nhiêu tỉnh và thành phố giáp với Campuchia?",
+        "TrueCase": 1,
+        "_id": 170
+    },
+    {
+        "CaseA": "Dostoievski",
+        "CaseB": "Macxim Gorki",
+        "CaseC": "Lev Tonxtoi ",
+        "CaseD": "Pushkin ",
+        "Question": "Nhà văn nào được mệnh danh là 'con sư tử của văn học Nga' ?",
+        "TrueCase": 3,
+        "_id": 171
+    },
+    {
+        "CaseA": "Tháng 12",
+        "CaseB": "Tháng 9 ",
+        "CaseC": "Tháng 7 ",
+        "CaseD": "Tháng 2",
+        "Question": "Feb trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 4,
+        "_id": 172
+    },
+    {
+        "CaseA": "Jenifer Aniston ",
+        "CaseB": "Keira Knightly",
+        "CaseC": "Katie Holmes ",
+        "CaseD": "Angelina Jolie ",
+        "Question": "Diễn viên nữ xinh đẹp nào tham gia 2 phần đầu bộ phim \"Cướp biển Caribê\"?",
+        "TrueCase": 2,
+        "_id": 173
+    },
+    {
+        "CaseA": "Thái Lan",
+        "CaseB": "Philíppin",
+        "CaseC": "Việt Nam",
+        "CaseD": "Malaysia",
+        "Question": "Seagames 22 được tổ chức ở quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 174
+    },
+    {
+        "CaseA": "Paint ",
+        "CaseB": "Access",
+        "CaseC": "Excel",
+        "CaseD": "Power point",
+        "Question": ".ppt là phần mở rộng của chương trình nào?",
+        "TrueCase": 4,
+        "_id": 175
+    },
+    {
+        "CaseA": "Nguyễn Trãi ",
+        "CaseB": "Nguyễn Ánh",
+        "CaseC": "Nguyễn Khuyến ",
+        "CaseD": "Nguyễn Du ",
+        "Question": "Bình Ngô Đại Cáo do ai sáng tác?",
+        "TrueCase": 1,
+        "_id": 176
+    },
+    {
+        "CaseA": "Chí Thiện ",
+        "CaseB": "Johnny Trí Nguyễn ",
+        "CaseC": "Lương Mạnh Hải ",
+        "CaseD": "Chế Linh ",
+        "Question": "Diễn viên nào đóng vai chính trong phim \"Nụ hôn Thần Chết\"? ",
+        "TrueCase": 2,
+        "_id": 177
+    },
+    {
+        "CaseA": "Billy Cyrus ",
+        "CaseB": "Miley Cyrus ",
+        "CaseC": "Selena Gomez",
+        "CaseD": "Ashley Tisdale ",
+        "Question": "Diễn viên chính của phim Hannah Montana tên thật là gì? ",
+        "TrueCase": 2,
+        "_id": 178
+    },
+    {
+        "CaseA": "Chuyện xứ Lang Biang ",
+        "CaseB": "Tôi là Bêtô ",
+        "CaseC": "Hạ Đỏ ",
+        "CaseD": "Thằng quỷ nhỏ ",
+        "Question": "Tác phẩm nào của nhà văn Nguyễn Nhật Ánh viết về một thế giới phù thủy?",
+        "TrueCase": 1,
+        "_id": 179
+    },
+    {
+        "CaseA": "Pink ",
+        "CaseB": "Lady Gaga ",
+        "CaseC": "Kei$ha ",
+        "CaseD": "Rihanna ",
+        "Question": "Ca khúc \"Bad Romance\" do ca sĩ nào thể hiện? ",
+        "TrueCase": 2,
+        "_id": 180
+    },
+    {
+        "CaseA": "Đà điểu ",
+        "CaseB": "Đại bàng ",
+        "CaseC": "Chim ưng ",
+        "CaseD": "Chim cú mèo ",
+        "Question": "Trong các loài chim sau đây, loài chim nào khác với các loài còn lại?",
+        "TrueCase": 1,
+        "_id": 181
+    },
+    {
+        "CaseA": "Yên Bái ",
+        "CaseB": "Sơn la ",
+        "CaseC": "Phú Thọ ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Huyện Mù Căng Chải thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 182
+    },
+    {
+        "CaseA": "Issac Newton",
+        "CaseB": "Faraday",
+        "CaseC": "Achimet",
+        "CaseD": "Culong",
+        "Question": "Ai là người phát ngôn câu:  \"Nếu cho tôi một điểm tựa, tôi sẽ nâng bổng cả trái đất\"?",
+        "TrueCase": 3,
+        "_id": 183
+    },
+    {
+        "CaseA": "Campuchia ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Lào ",
+        "CaseD": "Myanmar ",
+        "Question": "Kip là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 184
+    },
+    {
+        "CaseA": "Khai thác dầu khí ",
+        "CaseB": "Vịnh Hạ Long ",
+        "CaseC": "Chùa Cầu ",
+        "CaseD": "Quốc tử giám ",
+        "Question": "Mặt sau của tờ giấy bạc 10.000 đồng bằng cotton có in hình gì?",
+        "TrueCase": 2,
+        "_id": 185
+    },
+    {
+        "CaseA": "Côn Đảo ",
+        "CaseB": "QĐ Hoàng Sa ",
+        "CaseC": "QĐ Trường Sa ",
+        "CaseD": "Đảo Phú Quốc ",
+        "Question": "Toạ độ xa nhất trên biển Đông của nước ta thuộc?",
+        "TrueCase": 3,
+        "_id": 186
+    },
+    {
+        "CaseA": "1966",
+        "CaseB": "1970 ",
+        "CaseC": "1974 ",
+        "CaseD": "1978 ",
+        "Question": "Luật thay người được Liên đoàn bóng đá thế giới FIFA lần đầu tiên áp dụng tại vòng chung kết World Cup năm nào?",
+        "TrueCase": 2,
+        "_id": 187
+    },
+    {
+        "CaseA": "Tháng 1 ",
+        "CaseB": "Tháng 2",
+        "CaseC": "Tháng 3",
+        "CaseD": "Tháng 4",
+        "Question": "Jan trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 1,
+        "_id": 188
+    },
+    {
+        "CaseA": "Thứ bảy",
+        "CaseB": "Chủ nhật",
+        "CaseC": "Thứ hai ",
+        "CaseD": "Thứ ba",
+        "Question": "Saturday trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 1,
+        "_id": 189
+    },
+    {
+        "CaseA": "2003, Thái Lan",
+        "CaseB": "2002, Việt Nam",
+        "CaseC": "2003, Việt Nam",
+        "CaseD": "2002, Thái Lan",
+        "Question": "Seagames 22 được tổ chức vào năm nào? Quốc gia nào đăng cai?",
+        "TrueCase": 3,
+        "_id": 190
+    },
+    {
+        "CaseA": "Pascal",
+        "CaseB": "C",
+        "CaseC": "Visual basic",
+        "CaseD": "Java",
+        "Question": ".pas là phần mở  rộng của ngôn ngữ lập trình nào?",
+        "TrueCase": 1,
+        "_id": 191
+    },
+    {
+        "CaseA": "Đồng hoá ",
+        "CaseB": "Dị hoá",
+        "CaseC": "Hoạt động cơ thể ",
+        "CaseD": "Hoạt động hô hấp",
+        "Question": "Nhiệt sinh ra trong cơ thể từ quá trình nào?",
+        "TrueCase": 2,
+        "_id": 192
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4 ",
+        "Question": "Nhà máy nhiệt điện Phả Lại có mấy ống khói chính?",
+        "TrueCase": 2,
+        "_id": 193
+    },
+    {
+        "CaseA": "Tản cư ",
+        "CaseB": "Đè nén ",
+        "CaseC": "Kháng chiến ",
+        "CaseD": "Lầm than ",
+        "Question": "Từ nào sau đây không là từ Hán Việt?",
+        "TrueCase": 2,
+        "_id": 194
+    },
+    {
+        "CaseA": "Gian manh ",
+        "CaseB": "Thật thà ",
+        "CaseC": "Hiền lành ",
+        "CaseD": "Hung hăng ",
+        "Question": "Loài cáo được biết đến với tính cách gì?",
+        "TrueCase": 1,
+        "_id": 195
+    },
+    {
+        "CaseA": "Wonder Girls ",
+        "CaseB": "Kara ",
+        "CaseC": "T-ara",
+        "CaseD": "Girl's Generation ",
+        "Question": "Ca khúc \"Oh!\" được nhóm nhạc nữ nào thể hiện? ",
+        "TrueCase": 4,
+        "_id": 196
+    },
+    {
+        "CaseA": "Con khỉ ",
+        "CaseB": "Con chim sâu ",
+        "CaseC": "Con chó xù ",
+        "CaseD": "Con mèo mướp ",
+        "Question": "Trong các con vật sau đây, con vật nào khác với các con vật còn lại?",
+        "TrueCase": 2,
+        "_id": 197
+    },
+    {
+        "CaseA": "Yên Bái ",
+        "CaseB": "Sơn La ",
+        "CaseC": "Tuyên Quang ",
+        "CaseD": "Phú Thọ ",
+        "Question": "Thành phố Yên Bái thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 198
+    },
+    {
+        "CaseA": "Cacbon",
+        "CaseB": "Nhôm ",
+        "CaseC": "Chì ",
+        "CaseD": "Bạch kim ",
+        "Question": "Kim cương là dạng hình thù của nguyên tố nào?",
+        "TrueCase": 1,
+        "_id": 199
+    },
+    {
+        "CaseA": "Cuba ",
+        "CaseB": "Mexico ",
+        "CaseC": "Canada ",
+        "CaseD": "Philippines ",
+        "Question": "Quốc gia nào sau đây không sử dụng Peso làm đơn vị tiền tệ?",
+        "TrueCase": 3,
+        "_id": 200
+    },
+    {
+        "CaseA": "Chùa Cầu ",
+        "CaseB": "Xường sản xuất đồ hộp ",
+        "CaseC": "Huế ",
+        "CaseD": "Hồ Chí Minh ",
+        "Question": "Mặt sau của tờ giấy bạc 20.000 đồng bằng cotton có in hình gì?",
+        "TrueCase": 2,
+        "_id": 201
+    },
+    {
+        "CaseA": "2 lần ",
+        "CaseB": "3 lần ",
+        "CaseC": "4 lần ",
+        "CaseD": "5 lần ",
+        "Question": "Vùng biển thuộc chủ quyền của Việt Nam rộng hơn phần diện tích đất liền bao nhiêu lần?",
+        "TrueCase": 2,
+        "_id": 202
+    },
+    {
+        "CaseA": "Tháng 11",
+        "CaseB": "Tháng 12",
+        "CaseC": "Tháng 9 ",
+        "CaseD": "Tháng 4",
+        "Question": "December trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 203
+    },
+    {
+        "CaseA": "Thứ bảy",
+        "CaseB": "Chủ nhật ",
+        "CaseC": "Thứ năm ",
+        "CaseD": "Thứ sáu",
+        "Question": "Friday trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 4,
+        "_id": 204
+    },
+    {
+        "CaseA": "2001",
+        "CaseB": "2002",
+        "CaseC": "2003",
+        "CaseD": "2004",
+        "Question": "Việt nam lần đầu tiên tổ chức Đại hội thể thao Đông Nam Á Sea-Games vào năm nào?",
+        "TrueCase": 3,
+        "_id": 205
+    },
+    {
+        "CaseA": "1970",
+        "CaseB": "1974",
+        "CaseC": "1978",
+        "CaseD": "1980",
+        "Question": "Khối lập phương Rubik được phát minh vào năm nào?",
+        "TrueCase": 2,
+        "_id": 206
+    },
+    {
+        "CaseA": "Qua da, hô hấp",
+        "CaseB": "Hô hấp, bài tiết ",
+        "CaseC": "Bài tiết, qua da",
+        "CaseD": "Hô hấp, bài tiết, qua da",
+        "Question": "Cơ thể người toả nhiệt bằng các con đường nào?",
+        "TrueCase": 4,
+        "_id": 207
+    },
+    {
+        "CaseA": "Thái ",
+        "CaseB": "Gia rai ",
+        "CaseC": "Bana",
+        "CaseD": "Ê đê",
+        "Question": "Sử thi Đam San của dân tộc nào?",
+        "TrueCase": 4,
+        "_id": 208
+    },
+    {
+        "CaseA": "J.K. Rowling ",
+        "CaseB": "Stephanie Meyer ",
+        "CaseC": "Dan Brown ",
+        "CaseD": "James Cameroon ",
+        "Question": "Tác giả bộ truyện Harry Potter?",
+        "TrueCase": 2,
+        "_id": 209
+    },
+    {
+        "CaseA": "Thiếc và Chì ",
+        "CaseB": "Thiếc và Sắt ",
+        "CaseC": "Thiếc và Nhôm ",
+        "CaseD": "Thiếc và Kẽm ",
+        "Question": "Thành phần chủ yếu của thiếc hàn là hai loại kim loại gì?",
+        "TrueCase": 1,
+        "_id": 210
+    },
+    {
+        "CaseA": "Voi ",
+        "CaseB": "Tê giác ",
+        "CaseC": "Gấu ",
+        "CaseD": "Hà Mã ",
+        "Question": "Trong các con vật sau đây, con nào sống dưới nước?",
+        "TrueCase": 4,
+        "_id": 211
+    },
+    {
+        "CaseA": "Hồ Ngọc Hà ",
+        "CaseB": "Nam Cường ",
+        "CaseC": "Thanh Bùi ",
+        "CaseD": "Noo Phước Thịnh ",
+        "Question": "Ca khúc \"Hạnh phúc thoáng qua\" do ca sĩ nào thể hiện? ",
+        "TrueCase": 4,
+        "_id": 212
+    },
+    {
+        "CaseA": "Trim ",
+        "CaseB": "Value ",
+        "CaseC": "Left",
+        "CaseD": "Mid ",
+        "Question": "Trong Excel, hàm nào đổi chuỗi thành giá số?",
+        "TrueCase": 2,
+        "_id": 213
+    },
+    {
+        "CaseA": "Tinh dầu ",
+        "CaseB": "Phấn hoa ",
+        "CaseC": "Xenlulozơ",
+        "CaseD": "Hương hoa ",
+        "Question": "Trong bông có chứa tới khoảng 98 chất gì?",
+        "TrueCase": 3,
+        "_id": 214
+    },
+    {
+        "CaseA": "Ấn Độ ",
+        "CaseB": "Pakistan ",
+        "CaseC": "Yemen ",
+        "CaseD": "Iraq",
+        "Question": "Rupee là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 215
+    },
+    {
+        "CaseA": "Bến Nhà Rồng",
+        "CaseB": "Quốc tử giám ",
+        "CaseC": "Huế ",
+        "CaseD": "Hòn Đỉnh Phương ",
+        "Question": "Mặt sau của tờ giấy bạc 50.000 đồng bằng cotton có in hình gì?",
+        "TrueCase": 1,
+        "_id": 216
+    },
+    {
+        "CaseA": "Ấn Độ giáo ",
+        "CaseB": "Phật giáo ",
+        "CaseC": "Thiên chúa giáo ",
+        "CaseD": "Hồi giáo ",
+        "Question": "Tôn giáo chiếm đa số ở Campuchia và Lào là?",
+        "TrueCase": 2,
+        "_id": 217
+    },
+    {
+        "CaseA": "Tháng 10 ",
+        "CaseB": "Tháng 11",
+        "CaseC": "Tháng 12",
+        "CaseD": "Tháng 1",
+        "Question": "November trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 2,
+        "_id": 218
+    },
+    {
+        "CaseA": "Chủ nhật ",
+        "CaseB": "Thứ bảy",
+        "CaseC": " Thứ sáu",
+        "CaseD": "Thứ năm ",
+        "Question": "Thursday trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 4,
+        "_id": 219
+    },
+    {
+        "CaseA": "Phần mềm chỉnh nhạc ",
+        "CaseB": "Phần mềm ghép nhạc",
+        "CaseC": "Phần mềm nghe nhạc",
+        "CaseD": "Phần mềm tách nhạc",
+        "Question": "Windows Media Player là gì?",
+        "TrueCase": 3,
+        "_id": 220
+    },
+    {
+        "CaseA": "Công nghệ sinh học",
+        "CaseB": "Công nghệ thông tin ",
+        "CaseC": "Công nghệ thực phẩm ",
+        "CaseD": "Công nghệ phần mềm",
+        "Question": "Information Technology có nghĩa là gì?",
+        "TrueCase": 2,
+        "_id": 221
+    },
+    {
+        "CaseA": "Vũ Trọng Phụng",
+        "CaseB": "Nam Cao ",
+        "CaseC": "Ngô Tất Tố ",
+        "CaseD": "Thạch Lam ",
+        "Question": "\"Tắt đèn\" là tác phẩm của nhà văn nào?",
+        "TrueCase": 3,
+        "_id": 222
+    },
+    {
+        "CaseA": "Simple Plan ",
+        "CaseB": "The Black Eyed Peas ",
+        "CaseC": "Michael Learns to Rock ",
+        "CaseD": "Linkin Park ",
+        "Question": "Ca khúc \"Take me to your heart\" do nhóm nhạc nào trình bày? ",
+        "TrueCase": 3,
+        "_id": 223
+    },
+    {
+        "CaseA": "Cambridge ",
+        "CaseB": "Harvard ",
+        "CaseC": "Oxford ",
+        "CaseD": "Yale ",
+        "Question": "Nhà Vật lý Stephen Hawking hiện đang giảng dạy tại trường Đại học nào?",
+        "TrueCase": 1,
+        "_id": 224
+    },
+    {
+        "CaseA": "Bruno Mars ",
+        "CaseB": "Matthew Morrison ",
+        "CaseC": "Ne-Yo ",
+        "CaseD": "Jason Mraz ",
+        "Question": "Ca khúc \"I'm Yours\" do ca sĩ nào thể hiện? ",
+        "TrueCase": 1,
+        "_id": 225
+    },
+    {
+        "CaseA": "Celine Dion ",
+        "CaseB": "Mariah Carey ",
+        "CaseC": "Tony Braxton ",
+        "CaseD": "Whitney Houson ",
+        "Question": "Ca khúc \"My heart wil go on\" do sa sĩ nào thể hiện? ",
+        "TrueCase": 1,
+        "_id": 226
+    },
+    {
+        "CaseA": "Avatar ",
+        "CaseB": "Titanic ",
+        "CaseC": "Kungfu Panda ",
+        "CaseD": "The Pink Panther",
+        "Question": "Ca khúc \"My heart will go on\" là ca khúc chủ đề trong bộ phim nào? ",
+        "TrueCase": 2,
+        "_id": 227
+    },
+    {
+        "CaseA": "Upper ",
+        "CaseB": "Trim ",
+        "CaseC": "Lower ",
+        "CaseD": "Proper",
+        "Question": " Trong Excel, hàm nào chuyển chuỗi thành chữ in hoa?",
+        "TrueCase": 1,
+        "_id": 228
+    },
+    {
+        "CaseA": "Hz",
+        "CaseB": "Mega ",
+        "CaseC": "Pixel ",
+        "CaseD": "Bit ",
+        "Question": "Đơn vị tính độ phân giải màn hình là gì?",
+        "TrueCase": 3,
+        "_id": 229
+    },
+    {
+        "CaseA": "Macao ",
+        "CaseB": "Hồng Kông",
+        "CaseC": "Đài Loan ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Tân Đài tệ là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 230
+    },
+    {
+        "CaseA": "Quốc tử giám ",
+        "CaseB": "Nhà sàn Bác Hồ ",
+        "CaseC": "Sản xuất nông nghiệp ",
+        "CaseD": "Thuỷ điện Trị An ",
+        "Question": "Mặt sau của tờ giấy bạc 100.000 đồng bằng cotton có in hình gì?",
+        "TrueCase": 2,
+        "_id": 231
+    },
+    {
+        "CaseA": "Tiếng Thái ",
+        "CaseB": "Tiếng Lào ",
+        "CaseC": "Tiếng Khơme ",
+        "CaseD": "Tiếng Anh ",
+        "Question": "Ngôn ngữ phổ biến ở Campuchia là?",
+        "TrueCase": 3,
+        "_id": 232
+    },
+    {
+        "CaseA": "Tháng 9 ",
+        "CaseB": "Tháng 10 ",
+        "CaseC": "Tháng 11",
+        "CaseD": "Tháng 12",
+        "Question": "October trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 2,
+        "_id": 233
+    },
+    {
+        "CaseA": "Thứ năm ",
+        "CaseB": "Thứ tư ",
+        "CaseC": "Thứ sáu ",
+        "CaseD": "Chủ nhật ",
+        "Question": "Wed trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 2,
+        "_id": 234
+    },
+    {
+        "CaseA": ".exe",
+        "CaseB": ".bmp",
+        "CaseC": ".xls",
+        "CaseD": ".doc",
+        "Question": "Phần mở rộng nào là của các file văn bản?",
+        "TrueCase": 4,
+        "_id": 235
+    },
+    {
+        "CaseA": "RAM",
+        "CaseB": "CPU",
+        "CaseC": "HDD",
+        "CaseD": "CDDrive",
+        "Question": "Trong hệ thống máy vi tính, bộ phận nào là quan trọng nhất?",
+        "TrueCase": 3,
+        "_id": 236
+    },
+    {
+        "CaseA": "Katie Perry ",
+        "CaseB": "Leona Lewis ",
+        "CaseC": "Beyoncé ",
+        "CaseD": "Shakira ",
+        "Question": "Ca khúc \"I see you\" là ca khúc chủ đề bộ phim bom tấn Avatar. Ca khúc này do ca sĩ nào thể hiện? ",
+        "TrueCase": 2,
+        "_id": 237
+    },
+    {
+        "CaseA": "James Cameroon ",
+        "CaseB": "Kevin Costner",
+        "CaseC": "Steven Spielberge ",
+        "CaseD": "Kathryn Bigelow",
+        "Question": "Đạo diễn bộ phim Avatar? ",
+        "TrueCase": 1,
+        "_id": 238
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Hàn Quốc ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Hoa Kỳ ",
+        "Question": "Ca khúc \"Just can't get enough\" được nhóm nhạc The Black Eyed Peas quay Video Clip ở quốc gia nào? ",
+        "TrueCase": 3,
+        "_id": 239
+    },
+    {
+        "CaseA": "1970 ",
+        "CaseB": "1977",
+        "CaseC": "1980",
+        "CaseD": "1988",
+        "Question": "Ngày quốc tế phụ nữ (8/3) được Liên Hiệp Quốc chính thức hóa vào năm nào?",
+        "TrueCase": 2,
+        "_id": 240
+    },
+    {
+        "CaseA": "Mực tím ",
+        "CaseB": "Sinh viên Việt Nam",
+        "CaseC": "Lao động ",
+        "CaseD": "Thanh Niên ",
+        "Question": "Hoa học trò là tuần san của tờ báo nào?",
+        "TrueCase": 2,
+        "_id": 241
+    },
+    {
+        "CaseA": "The Black Eyed Peas ",
+        "CaseB": "Westlife ",
+        "CaseC": "Backstreey Boys",
+        "CaseD": "Atomic Kitten ",
+        "Question": "Ca khúc \"Shape of my heart\" do nhóm nhạc nào thể hiện? ",
+        "TrueCase": 3,
+        "_id": 242
+    },
+    {
+        "CaseA": "Day ",
+        "CaseB": "Date ",
+        "CaseC": "Adate ",
+        "CaseD": "Now",
+        "Question": "Trong Excel, hàm nào trả về chuỗi số tuần tự của ngày tháng?",
+        "TrueCase": 2,
+        "_id": 243
+    },
+    {
+        "CaseA": "7.9km/s ",
+        "CaseB": "8km/s",
+        "CaseC": "8.1km/s ",
+        "CaseD": "8.2km/s ",
+        "Question": "Giá trị của tốc độ vũ trụ cấp 1?",
+        "TrueCase": 1,
+        "_id": 244
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Hàn Quốc ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Ấn Độ ",
+        "Question": "Won là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 245
+    },
+    {
+        "CaseA": "Vịnh Hạ Long ",
+        "CaseB": "Chùa Cầu ",
+        "CaseC": "Khai thác dầu khí ",
+        "CaseD": "Bến Nhà Rồng ",
+        "Question": "Mặt sau của tờ giấy bạc 10.000 đồng bằng polymer có in hình gì?",
+        "TrueCase": 3,
+        "_id": 246
+    },
+    {
+        "CaseA": "Mông ",
+        "CaseB": "Khơme",
+        "CaseC": "Lào ",
+        "CaseD": "Thái",
+        "Question": "Dân tộc chiếm đa số tại Campuchia là dân tộc nào?",
+        "TrueCase": 2,
+        "_id": 247
+    },
+    {
+        "CaseA": "Tháng 10 ",
+        "CaseB": "Tháng 11",
+        "CaseC": "Tháng 9 ",
+        "CaseD": "Tháng 12",
+        "Question": "September trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 248
+    },
+    {
+        "CaseA": "Thứ hai ",
+        "CaseB": "Thứ ba",
+        "CaseC": "Thứ tư ",
+        "CaseD": "Thứ năm ",
+        "Question": "Tuesday trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 2,
+        "_id": 249
+    },
+    {
+        "CaseA": "O, H, N",
+        "CaseB": "N, H",
+        "CaseC": "H, O",
+        "CaseD": "N, O",
+        "Question": "Trong thành phần của nước có những nguyên tố nào?",
+        "TrueCase": 3,
+        "_id": 250
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6",
+        "Question": "Bán đảo Đông Dương gồm bao nhiêu quốc gia?",
+        "TrueCase": 1,
+        "_id": 251
+    },
+    {
+        "CaseA": "Whitney Houson ",
+        "CaseB": "Sarah Conner ",
+        "CaseC": "Diana Ross ",
+        "CaseD": "Britney Spears ",
+        "Question": "Ca khúc \"From Sarah with love\" do ca sĩ nào thể hiện? ",
+        "TrueCase": 2,
+        "_id": 252
+    },
+    {
+        "CaseA": "Super Junior ",
+        "CaseB": "DBSK ",
+        "CaseC": "2PM",
+        "CaseD": "BigBang ",
+        "Question": "Ca khúc \"Mirotic\" do nhóm nhạc nam nổi tiếng nào thể hiện? ",
+        "TrueCase": 2,
+        "_id": 253
+    },
+    {
+        "CaseA": "I see you",
+        "CaseB": "Enless love ",
+        "CaseC": "My heart will go on ",
+        "CaseD": "Maria ",
+        "Question": "Ca khúc chủ đề của bộ phim \"Thần Thoại\" do diễn viên nổi tiếng Thành Long và Kim Hee Seon tên là gì? ",
+        "TrueCase": 2,
+        "_id": 254
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Ba Tư ",
+        "CaseC": "Mỹ ",
+        "CaseD": "Nhật ",
+        "Question": "Con đường tơ lụa nối Trung Quốc với nước nào?",
+        "TrueCase": 2,
+        "_id": 255
+    },
+    {
+        "CaseA": "2222",
+        "CaseB": "5555",
+        "CaseC": "2225",
+        "CaseD": "2250",
+        "Question": "Trong các số sau đây, số nào chia hết cho 2 và 5?",
+        "TrueCase": 4,
+        "_id": 256
+    },
+    {
+        "CaseA": "Orlando Bloom",
+        "CaseB": "Kate Winslet ",
+        "CaseC": "Leonardo Dicaprio ",
+        "CaseD": "James Cameroon ",
+        "Question": "Nam diễn viên nào tham gia đóng vai chính trong bộ phim \"Titanic\"? ",
+        "TrueCase": 3,
+        "_id": 257
+    },
+    {
+        "CaseA": "Exp ",
+        "CaseB": "Abs ",
+        "CaseC": "Factdouble",
+        "CaseD": "Odd",
+        "Question": "Trong Excel, hàm nào tính luỹ thừa cấp 2?",
+        "TrueCase": 3,
+        "_id": 258
+    },
+    {
+        "CaseA": "Vàng nguyên chất ",
+        "CaseB": "Tuổi của vàng ",
+        "CaseC": "Vàng thỏi ",
+        "CaseD": "Độ cứng của vàng ",
+        "Question": "Độ tinh khiết của vàng được gọi là gì?",
+        "TrueCase": 2,
+        "_id": 259
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Triều Tiên ",
+        "Question": "Yên là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 260
+    },
+    {
+        "CaseA": "Chùa Cầu ",
+        "CaseB": "Xưởng sản xuất đồ hộp ",
+        "CaseC": "Nhà sàn Bác Hồ ",
+        "CaseD": "Quốc tử giám ",
+        "Question": "Mặt sau của tờ giấy bạc 20.000 đồng bằng polymer có in hình gì?",
+        "TrueCase": 1,
+        "_id": 261
+    },
+    {
+        "CaseA": "Cận nhiệt lục địa ",
+        "CaseB": "Cận nhiệt gió mùa ",
+        "CaseC": "Nhiệt đới gió mùa ",
+        "CaseD": "Nhiệt đới khô",
+        "Question": "Kiểu khí hậu của Campuchia là?",
+        "TrueCase": 3,
+        "_id": 262
+    },
+    {
+        "CaseA": "Tháng 8 ",
+        "CaseB": "Tháng 9 ",
+        "CaseC": "Tháng 10 ",
+        "CaseD": "Tháng 11",
+        "Question": "August trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 1,
+        "_id": 263
+    },
+    {
+        "CaseA": "Thứ năm",
+        "CaseB": "Thứ tư ",
+        "CaseC": "Thứ ba",
+        "CaseD": "Thứ hai ",
+        "Question": "Monday trong tiếng Anh là thứ mấy trong tuần?",
+        "TrueCase": 4,
+        "_id": 264
+    },
+    {
+        "CaseA": "Johnny Depp ",
+        "CaseB": "Will Turner ",
+        "CaseC": "Orlando Bloom ",
+        "CaseD": "Jack Sparrow ",
+        "Question": "Vị thuyền trưởng lừng trong bộ phim \"Cướp biển Caribê\" được biết đến với tên trong phim là gì?",
+        "TrueCase": 4,
+        "_id": 265
+    },
+    {
+        "CaseA": "Bàn phím",
+        "CaseB": "Máy in",
+        "CaseC": "Đĩa CD",
+        "CaseD": "Màn hình",
+        "Question": "Thiết bị nào sau đây, vừa à thiết bị xuất, vừa là thiết bị nhập?",
+        "TrueCase": 3,
+        "_id": 266
+    },
+    {
+        "CaseA": "Ngọc Trai Đen ",
+        "CaseB": "Người Hà Lan bay ",
+        "CaseC": "Titanic ",
+        "CaseD": "Latusơ Tơrêvin",
+        "Question": "Con thuyền cướp biển nổi tiếng trong phim Cướp biển Caribê do Jack Sparrow làm thuyền trưởng?",
+        "TrueCase": 1,
+        "_id": 267
+    },
+    {
+        "CaseA": "Christina Aguilera ",
+        "CaseB": "Pink ",
+        "CaseC": "Britney Spears ",
+        "CaseD": "Miley Cyrus",
+        "Question": "Ca khúc \"Lucky\" do ca sĩ nào thể hiện? ",
+        "TrueCase": 3,
+        "_id": 268
+    },
+    {
+        "CaseA": "Gió lộng ",
+        "CaseB": "Việt Bắc ",
+        "CaseC": "Ra trận ",
+        "CaseD": "Từ ấy ",
+        "Question": "Tập thơ này của Tố Hữu được đánh giá là “bản hùng ca của cuộc kháng chiến chống Pháp”. Tên tập thơ đó là gì?",
+        "TrueCase": 2,
+        "_id": 269
+    },
+    {
+        "CaseA": "Phạm Tiến Duật ",
+        "CaseB": "Tố Hữu ",
+        "CaseC": "Quang Dũng ",
+        "CaseD": "Xuân Diệu ",
+        "Question": "Nhà thơ được mệnh danh là “Con chim lửa” của đường mòn Hồ Chí Minh?",
+        "TrueCase": 1,
+        "_id": 270
+    },
+    {
+        "CaseA": "1111111",
+        "CaseB": "1111112",
+        "CaseC": "1111113",
+        "CaseD": "1111115",
+        "Question": "Trong các số sau đây, số nào chia hết cho 2?",
+        "TrueCase": 2,
+        "_id": 271
+    },
+    {
+        "CaseA": "Trung Quốc và Pháp ",
+        "CaseB": "Pháp và Nhật Bản ",
+        "CaseC": "Trung Quốc và Anh ",
+        "CaseD": "Pháp và Anh ",
+        "Question": "Cuộc chiến tranh thuốc phiện là cuộc chiến giữa hai nước nào?",
+        "TrueCase": 3,
+        "_id": 272
+    },
+    {
+        "CaseA": "My Computer",
+        "CaseB": "My Document",
+        "CaseC": "Recycle Bin",
+        "CaseD": "Start",
+        "Question": "Nhãn nào sau đây thể hiện thùng rác của máy tính?",
+        "TrueCase": 3,
+        "_id": 273
+    },
+    {
+        "CaseA": "Braille",
+        "CaseB": "Bảng chữ nối ",
+        "CaseC": "Chữ đặc biệt ",
+        "CaseD": "Bảng băm ",
+        "Question": "Bảng chữ cái dành cho người khiếm thị có tên là gì?",
+        "TrueCase": 1,
+        "_id": 274
+    },
+    {
+        "CaseA": "Hồ CHí Minh ",
+        "CaseB": "Quốc Huy ",
+        "CaseC": "Tháp Phổ Minh ",
+        "CaseD": "Sản xuất nông nghiệp ",
+        "Question": "Mặt trước của tờ giấy bạc 100 đồng có in hình gì?",
+        "TrueCase": 2,
+        "_id": 275
+    },
+    {
+        "CaseA": "Huế ",
+        "CaseB": "Bến Nhà Rồng ",
+        "CaseC": "Nơi sinh Bác Hồ ",
+        "CaseD": "Cảng Hải Phòng ",
+        "Question": "Mặt sau của tờ giấy bạc 50.000 đồng bằng polymer có in hình gì?",
+        "TrueCase": 1,
+        "_id": 276
+    },
+    {
+        "CaseA": "90 ",
+        "CaseB": "92",
+        "CaseC": "95",
+        "CaseD": "97",
+        "Question": "Tính tới năm 2004 Giải Nobel Sinh lý và y học đã được trao bao nhiêu lần ?",
+        "TrueCase": 3,
+        "_id": 277
+    },
+    {
+        "CaseA": "Tháng 10 ",
+        "CaseB": "Tháng 8 ",
+        "CaseC": "Tháng 7 ",
+        "CaseD": "Tháng 12",
+        "Question": "July trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 278
+    },
+    {
+        "CaseA": "Hồ Chí Minh ",
+        "CaseB": "Nguyễn Hữu Tiến ",
+        "CaseC": "Trần Khánh Trương",
+        "CaseD": "Phạm Văn Đồng",
+        "Question": "Ai là tác giả đã vẽ ra quốc kỳ đỏ sao vàng của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 279
+    },
+    {
+        "CaseA": "Lybia",
+        "CaseB": "Việt Nam",
+        "CaseC": "Mỹ",
+        "CaseD": "Brazil",
+        "Question": "Quốc kỳ nước nào có hình dáng đơn giản nhất trong tất cả các quốc kỳ?",
+        "TrueCase": 1,
+        "_id": 280
+    },
+    {
+        "CaseA": "Hồ Xuân Hương ",
+        "CaseB": "Hồ Ba Bể ",
+        "CaseC": "Hồ Gươm ",
+        "CaseD": "Hồ Tây ",
+        "Question": "Đây là hồ nước ngọt tự nhiên lớn nhất miền Bắc Việt Nam?",
+        "TrueCase": 2,
+        "_id": 281
+    },
+    {
+        "CaseA": "13 điểm ",
+        "CaseB": "18 điểm ",
+        "CaseC": "20 điểm ",
+        "CaseD": "23 điểm ",
+        "Question": "Bản yêu sách Nguyễn Ái Quốc gửi tới hội nghị các nước thắng trận Thế chiến thứ nhất bao gồm bao nhiêu điểm?",
+        "TrueCase": 2,
+        "_id": 282
+    },
+    {
+        "CaseA": "Lam Trường ",
+        "CaseB": "Đan Trường ",
+        "CaseC": "Cẩm Ly ",
+        "CaseD": "Hoàng Hải ",
+        "Question": "Ca khúc \"Dòng máu Lạc Hồng\" do ca sĩ nào thể hiện rất thành công? ",
+        "TrueCase": 2,
+        "_id": 283
+    },
+    {
+        "CaseA": "Richard Marx ",
+        "CaseB": "Ronan Keating",
+        "CaseC": "Lee Ryan ",
+        "CaseD": "Michale Bubble ",
+        "Question": "Ca khúc \"Right here waiting for you\" do ca sĩ nào thể hiện? ",
+        "TrueCase": 1,
+        "_id": 284
+    },
+    {
+        "CaseA": "Richard Marx",
+        "CaseB": "Ronan Keating ",
+        "CaseC": "Michael Bubble ",
+        "CaseD": "Michael Jackson ",
+        "Question": "Ca khúc \"When you say nothing at all\" do ca sĩ nào trình bày?",
+        "TrueCase": 2,
+        "_id": 285
+    },
+    {
+        "CaseA": "1083 ",
+        "CaseB": "1088 ",
+        "CaseC": "1085 ",
+        "CaseD": "1089 ",
+        "Question": "Trong các số sau đây, số nào chia hết cho 2?",
+        "TrueCase": 2,
+        "_id": 286
+    },
+    {
+        "CaseA": "Tướng Văn Tiến Dũng ",
+        "CaseB": "Tố Hữu ",
+        "CaseC": "Quang Dũng ",
+        "CaseD": "Cao Minh ",
+        "Question": "Tác giả bài thơ “Tiểu đoàn 307”?",
+        "TrueCase": 1,
+        "_id": 287
+    },
+    {
+        "CaseA": "Secondary Memory",
+        "CaseB": "Receive Memory",
+        "CaseC": "Primary Memory",
+        "CaseD": "Random Access Memory",
+        "Question": "Trong tin học, bộ nhớ RAM và ROM là bộ nhớ gì?",
+        "TrueCase": 3,
+        "_id": 288
+    },
+    {
+        "CaseA": "Thần Zeus",
+        "CaseB": "Thần tình yêu ",
+        "CaseC": "Thần Atlat ",
+        "CaseD": "Thần Hecules",
+        "Question": "Trên các bản đồ thế giới, người ta thường ghi tên vị thần nào?",
+        "TrueCase": 3,
+        "_id": 289
+    },
+    {
+        "CaseA": "Quốc huy ",
+        "CaseB": "Sản xuất nông nghiệp ",
+        "CaseC": "Khai thác gỗ ",
+        "CaseD": "Hồ Chí Minh ",
+        "Question": "Mặt trước của tờ giấy bạc 200 đồng có in hình gì?",
+        "TrueCase": 4,
+        "_id": 290
+    },
+    {
+        "CaseA": "Quốc tử giám ",
+        "CaseB": "Nhà sàn Bác Hồ ",
+        "CaseC": "Hòn Đỉnh Hương ",
+        "CaseD": "Xưởng dệt ",
+        "Question": "Mặt sau của tờ giấy bạc 100.000 đồng bằng polymer có in hình gì?",
+        "TrueCase": 1,
+        "_id": 291
+    },
+    {
+        "CaseA": "Hòn đảo tự do ",
+        "CaseB": "Lục địa mới trỗi dậy ",
+        "CaseC": "Đại lục núi lửa ",
+        "CaseD": "Tiền đồn của Chủ nghĩa xã hội ",
+        "Question": "Trong cuộc đấu tranh chống chủ nghĩa thực dân kiểu mới, Mỹ La Tinh được mệnh danh là?",
+        "TrueCase": 3,
+        "_id": 292
+    },
+    {
+        "CaseA": "Tháng 1",
+        "CaseB": "Tháng 4",
+        "CaseC": "Tháng 9 ",
+        "CaseD": "Tháng 6 ",
+        "Question": "June trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 4,
+        "_id": 293
+    },
+    {
+        "CaseA": "Trịnh Công Sơn",
+        "CaseB": "Văn Cao",
+        "CaseC": "Trung Hiếu",
+        "CaseD": "Hồ Chí Minh ",
+        "Question": "Quốc ca của nước cộng hoà chủ nghĩa Việt Nam do ai sáng tác?",
+        "TrueCase": 2,
+        "_id": 294
+    },
+    {
+        "CaseA": "Hà Lan",
+        "CaseB": "Bungaria",
+        "CaseC": "Hungaria",
+        "CaseD": "Slovenia",
+        "Question": "Nước nào là xứ sở của hoa hồng?",
+        "TrueCase": 2,
+        "_id": 295
+    },
+    {
+        "CaseA": "Phần mềm tiện ích",
+        "CaseB": "Phần mềm hệ thống",
+        "CaseC": "Phần mềm giải trí",
+        "CaseD": "Phần mềm học tập",
+        "Question": "Unikey là gì?",
+        "TrueCase": 1,
+        "_id": 296
+    },
+    {
+        "CaseA": "Alaska ",
+        "CaseB": "Indiana",
+        "CaseC": "Arizona ",
+        "CaseD": "Floria ",
+        "Question": "Tiểu bang có vĩ độ cao nhất nước Mỹ?",
+        "TrueCase": 1,
+        "_id": 297
+    },
+    {
+        "CaseA": "NXB Kim Đồng ",
+        "CaseB": "NXB Văn hoá ",
+        "CaseC": "NXB Trẻ ",
+        "CaseD": "NXB Giáo dục ",
+        "Question": "Bộ truyện Harry Potter có bản quyền tiếng Việt thuộc nhà xuất bản nào?",
+        "TrueCase": 3,
+        "_id": 298
+    },
+    {
+        "CaseA": "4 ",
+        "CaseB": "3",
+        "CaseC": "2",
+        "CaseD": "1",
+        "Question": "Cá sấu là một loài lưỡng cư. Tim của nó có mấy ngăn?",
+        "TrueCase": 1,
+        "_id": 299
+    },
+    {
+        "CaseA": "Kim Toả ",
+        "CaseB": "Kim Liên",
+        "CaseC": "Tâm Ngọc ",
+        "CaseD": "Ngọc Nhi ",
+        "Question": "Trong truyện Lục Vân Tiên, tì nữ của Kiều Nguyệt Nga tên là gì?",
+        "TrueCase": 2,
+        "_id": 300
+    },
+    {
+        "CaseA": "Nguyễn Du",
+        "CaseB": "Nguyễn Dữ ",
+        "CaseC": "Nguyễn Dư ",
+        "CaseD": "Nguyễn Bỉnh Khiêm",
+        "Question": "Tác giả của truyện \"Truyền Kì Mạn Lục\" là ai? ",
+        "TrueCase": 2,
+        "_id": 301
+    },
+    {
+        "CaseA": "BeeGees ",
+        "CaseB": "The Beatles ",
+        "CaseC": "ABBA ",
+        "CaseD": "Take That ",
+        "Question": "Ca khúc \"How deep is your love\" do ai sáng tác? ",
+        "TrueCase": 1,
+        "_id": 302
+    },
+    {
+        "CaseA": "Adobe Reader",
+        "CaseB": "Nero ",
+        "CaseC": "Photoshop",
+        "CaseD": "Autocad",
+        "Question": "Phần mềm nào sau đây là phần mềm chuyên dụng ghi đĩa CD?",
+        "TrueCase": 2,
+        "_id": 303
+    },
+    {
+        "CaseA": "Hội tụ ",
+        "CaseB": "Khuếch tán ",
+        "CaseC": "Phân tán ",
+        "CaseD": "Lan toả ",
+        "Question": "Để lọ nước hoa trong phòng thì ngửi được mùi thơm, hiện tượng gì đã xảy ra?",
+        "TrueCase": 2,
+        "_id": 304
+    },
+    {
+        "CaseA": "Hồ Chí Minh",
+        "CaseB": "Cảng Hải Phòng ",
+        "CaseC": "Xưởng dệt ",
+        "CaseD": "Vịnh Hạ Long ",
+        "Question": "Mặt trước của tờ giấy bạc 500 đồng có in hình gì?",
+        "TrueCase": 1,
+        "_id": 305
+    },
+    {
+        "CaseA": "Quốc tử giám ",
+        "CaseB": "Thuỷ điện Trị An ",
+        "CaseC": "Nơi sinh Bác Hồ ",
+        "CaseD": "Hòn Đỉnh Hương ",
+        "Question": "Mặt sau của tờ giấy bạc 200.000 đồng bằng polymer có in hình gì?",
+        "TrueCase": 4,
+        "_id": 306
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Việt Nam ",
+        "CaseC": "Hàn Quốc",
+        "CaseD": "Nhật Bản ",
+        "Question": " Người nước nào trên thế giới sử dụng đũa nhiều nhất?",
+        "TrueCase": 4,
+        "_id": 307
+    },
+    {
+        "CaseA": "Tháng 4",
+        "CaseB": "Tháng 6 ",
+        "CaseC": "Tháng 5",
+        "CaseD": "Tháng 12",
+        "Question": "May trong tiếng Anh là tháng mấy trong năm?",
+        "TrueCase": 3,
+        "_id": 308
+    },
+    {
+        "CaseA": "Word",
+        "CaseB": "Excel",
+        "CaseC": "Paint",
+        "CaseD": "Power point",
+        "Question": "Phần mềm nào không thuộc bộ Microsoft Office?",
+        "TrueCase": 3,
+        "_id": 309
+    },
+    {
+        "CaseA": "Hoa hồng",
+        "CaseB": "Hoa tulip",
+        "CaseC": "Hoa hướng dương",
+        "CaseD": "Hoa phong lan ",
+        "Question": "Bungaria là xứ sở của loài hoa nào?",
+        "TrueCase": 1,
+        "_id": 310
+    },
+    {
+        "CaseA": "Hồng cầu",
+        "CaseB": "Tiểu cầu ",
+        "CaseC": "Bạch cầu ",
+        "CaseD": "Tất cả các tế bào đều có nhân",
+        "Question": "Tế bào nào trong cơ thể không có nhân?",
+        "TrueCase": 1,
+        "_id": 311
+    },
+    {
+        "CaseA": "Giordano Bruno",
+        "CaseB": "Giorgio Vasari",
+        "CaseC": "Albert Einstein ",
+        "CaseD": "Thomas Edison",
+        "Question": "Nhà khoa học đã bị thiêu sống vì tuyên truyền thuyết Nhật tâm?",
+        "TrueCase": 1,
+        "_id": 312
+    },
+    {
+        "CaseA": "100 độ",
+        "CaseB": "135 độ ",
+        "CaseC": "150 độ",
+        "CaseD": "165 độ ",
+        "Question": "Cho biết giá trị góc của một hình bát giác đều?",
+        "TrueCase": 2,
+        "_id": 313
+    },
+    {
+        "CaseA": "Nguyễn Trãi ",
+        "CaseB": "Nguyễn Khuyến ",
+        "CaseC": "Nguyễn Du",
+        "CaseD": "Nguyễn Dữ ",
+        "Question": "\"Ức Trai tâm thượng quang Khuê tảo\" là câu thơ để ca ngợi ai?",
+        "TrueCase": 1,
+        "_id": 314
+    },
+    {
+        "CaseA": "Cascada ",
+        "CaseB": "ABBA",
+        "CaseC": "Wham",
+        "CaseD": "Taylor Swift",
+        "Question": "Ca khúc \"Last Christmas\" do ai sáng tác?",
+        "TrueCase": 2,
+        "_id": 315
+    },
+    {
+        "CaseA": "101 ",
+        "CaseB": "39 ",
+        "CaseC": "15 ",
+        "CaseD": "12 ",
+        "Question": "Trong các số sau đây, số nào chia hết cho 5?",
+        "TrueCase": 3,
+        "_id": 316
+    },
+    {
+        "CaseA": "CHO",
+        "CaseB": "COOH",
+        "CaseC": "COH",
+        "CaseD": "HCO",
+        "Question": "Nhóm chức của hợp chất andehit?",
+        "TrueCase": 1,
+        "_id": 317
+    },
+    {
+        "CaseA": "Nero ",
+        "CaseB": "Adobe Reader ",
+        "CaseC": "DeepFreeze ",
+        "CaseD": "PC Security ",
+        "Question": "Phần mềm nào sau đây thường dùng để đóng băng hệ thống?",
+        "TrueCase": 3,
+        "_id": 318
+    },
+    {
+        "CaseA": "0",
+        "CaseB": "5",
+        "CaseC": "7",
+        "CaseD": "14",
+        "Question": "Quỳ tím không đổi màu khi độ pH bằng bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 319
+    },
+    {
+        "CaseA": "Quốc huy ",
+        "CaseB": "Quốc kỳ ",
+        "CaseC": "Hồ Chí Minh",
+        "CaseD": "Thuỷ điện Trị An ",
+        "Question": "Mặt trước của tờ giấy bạc 2000 đồng có in hình gì?",
+        "TrueCase": 3,
+        "_id": 320
+    },
+    {
+        "CaseA": "Quốc tử giám ",
+        "CaseB": "Khai thác gỗ ",
+        "CaseC": "Nơi sinh Bác Hồ ",
+        "CaseD": "Vịnh Hạ Long ",
+        "Question": "Mặt sau của tờ giấy bạc 500.000 đồng bằng polymer có in hình gì?",
+        "TrueCase": 3,
+        "_id": 321
+    },
+    {
+        "CaseA": "26/10/1862",
+        "CaseB": "26/10/1863",
+        "CaseC": "26/10/1864",
+        "CaseD": "26/10/1865",
+        "Question": "Liên đoàn bóng đá Anh được thành lập vào khi nào?",
+        "TrueCase": 2,
+        "_id": 322
+    }
+]

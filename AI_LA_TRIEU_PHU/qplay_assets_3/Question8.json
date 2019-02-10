@@ -1,0 +1,3629 @@
+[
+    {
+        "CaseA": "1418",
+        "CaseB": "1428",
+        "CaseC": "1011",
+        "CaseD": "1518",
+        "Question": "Nguyễn Trãi viết \"Bình Ngô Đại cáo\" vào năm nào?",
+        "TrueCase": 2,
+        "_id": 1
+    },
+    {
+        "CaseA": "Lê Văn Hưu",
+        "CaseB": "Ngô Sĩ Liên",
+        "CaseC": "Ngô Gia Văn Phái",
+        "CaseD": "Lê Văn Lan",
+        "Question": "Ai là tác giả của \"Đại Việt Sử ký\"?",
+        "TrueCase": 1,
+        "_id": 2
+    },
+    {
+        "CaseA": "Thanh Hóa",
+        "CaseB": "Bình Dương",
+        "CaseC": "Hà Tĩnh",
+        "CaseD": "Nghệ An",
+        "Question": "Công ty cổ phần sữa TH True Milk có trụ sở sản xuất chính đặt tại?",
+        "TrueCase": 4,
+        "_id": 3
+    },
+    {
+        "CaseA": "Lê Văn Hưu",
+        "CaseB": "Nguyễn Trãi",
+        "CaseC": "Ngô Thì Nhậm",
+        "CaseD": "Ngô Sỹ Liên",
+        "Question": "Ai là tác giả của \"Đại Việt Sử Ký toàn thư\"?",
+        "TrueCase": 4,
+        "_id": 4
+    },
+    {
+        "CaseA": "Ctrl + F4",
+        "CaseB": "Alt + F4",
+        "CaseC": "Shift + F4",
+        "CaseD": "Ctrl + Shift + F4",
+        "Question": "Để tắt một cửa sổ trong Hệ điều hành Windows, có thể dùng tổ hợp phím nào?",
+        "TrueCase": 2,
+        "_id": 5
+    },
+    {
+        "CaseA": "Thứ sử",
+        "CaseB": "Thái Thú",
+        "CaseC": "Tiết Độ Sứ",
+        "CaseD": "Hào trưởng",
+        "Question": "Chức quan mang lại quyền tự chủ cho nước ta cuối thời chịu ách đô hộ của quân Nam Hán?",
+        "TrueCase": 3,
+        "_id": 6
+    },
+    {
+        "CaseA": "Liên minh quân sự Caribe",
+        "CaseB": "LĐBĐ Bắc Trung Mỹ và Caribe",
+        "CaseC": "LĐ Bóng Đá Nam Mỹ và Caribe",
+        "CaseD": "Liên Minh quân sự Nam Mỹ và Caribe",
+        "Question": "CONCACAF là viết tắt của tổ chức nào?",
+        "TrueCase": 2,
+        "_id": 7
+    },
+    {
+        "CaseA": "Quảng Nam ",
+        "CaseB": "Hậu Giang ",
+        "CaseC": "Đà Nẵng",
+        "CaseD": "Cần Thơ ",
+        "Question": "Đèo Đê Bay, Sông Cu Đê là những địa danh thuộc tỉnh thành phố nào sau đây?",
+        "TrueCase": 3,
+        "_id": 8
+    },
+    {
+        "CaseA": "x=1, y=2",
+        "CaseB": "x=1, y=1",
+        "CaseC": "x=2, y=2",
+        "CaseD": "x=2, y=1",
+        "Question": "Ban đầu x=1, y=2. Sau khi sử dụng temp=x, x=y, y=temp. Vậy x=? y=?",
+        "TrueCase": 4,
+        "_id": 9
+    },
+    {
+        "CaseA": "1981",
+        "CaseB": "1983 ",
+        "CaseC": "1985",
+        "CaseD": "1987",
+        "Question": "Bệnh AIDS được phát hiện đầu tiên vào năm nào?",
+        "TrueCase": 1,
+        "_id": 10
+    },
+    {
+        "CaseA": "Chu kì 2",
+        "CaseB": "Chu kì 3",
+        "CaseC": "Chu kì 4",
+        "CaseD": "Chu kì 5",
+        "Question": "Nguyên tố Canxi thuộc chu kì nào?",
+        "TrueCase": 3,
+        "_id": 11
+    },
+    {
+        "CaseA": "Strasbourg",
+        "CaseB": "Genève",
+        "CaseC": "London",
+        "CaseD": "Paris",
+        "Question": "Trụ sở của nghị viện Châu Âu nằm ở đâu?",
+        "TrueCase": 1,
+        "_id": 12
+    },
+    {
+        "CaseA": "Phanxiphang ",
+        "CaseB": "Olympia ",
+        "CaseC": "Everest",
+        "CaseD": "Uran",
+        "Question": "Dãy núi ngăn cách châu Âu và châu Á?",
+        "TrueCase": 4,
+        "_id": 13
+    },
+    {
+        "CaseA": "Chim Ruồi ",
+        "CaseB": "Đại Bàng ",
+        "CaseC": "Kiwi ",
+        "CaseD": "Bói Cá",
+        "Question": "Trên tiền của New Zealand có hình con gì?",
+        "TrueCase": 3,
+        "_id": 14
+    },
+    {
+        "CaseA": "Sao Thuỷ ",
+        "CaseB": "Sao Kim ",
+        "CaseC": "Sao Thiên Vương",
+        "CaseD": "Sao Diêm Vương",
+        "Question": "Hành tinh nào có nhiệt độ trung bình cao nhất trong hệ mặt trời?",
+        "TrueCase": 2,
+        "_id": 15
+    },
+    {
+        "CaseA": "Quãng 4 ",
+        "CaseB": "Quãng 5 ",
+        "CaseC": "Quãng 6 ",
+        "CaseD": "Quãng 7",
+        "Question": "Hai nốt Mi -Đô , trong đó Mi là âm dưới, Đô là âm trên tạo thành quãng mấy?",
+        "TrueCase": 3,
+        "_id": 16
+    },
+    {
+        "CaseA": "WHO",
+        "CaseB": "UNESCO",
+        "CaseC": "UNICEF",
+        "CaseD": "NATO",
+        "Question": "Tổ chức y tế thế giới gọi tắt là gì?",
+        "TrueCase": 1,
+        "_id": 17
+    },
+    {
+        "CaseA": "SO2",
+        "CaseB": "SO3",
+        "CaseC": "O2",
+        "CaseD": "NO3",
+        "Question": "Hiện tượng mưa Axit do khí nào tạo nên?",
+        "TrueCase": 1,
+        "_id": 18
+    },
+    {
+        "CaseA": "Hà Nam ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Ninh Thuận ",
+        "CaseD": "Hà Tĩnh",
+        "Question": "Bãi tắm Thiên Cầm thuộc tỉnh nào?",
+        "TrueCase": 4,
+        "_id": 19
+    },
+    {
+        "CaseA": "CH Séc ",
+        "CaseB": "SH Tchad ",
+        "CaseC": "Sh Sip ",
+        "CaseD": "Colombia ",
+        "Question": "Prague là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 20
+    },
+    {
+        "CaseA": "3.000kms",
+        "CaseB": "30.000kms",
+        "CaseC": "300.000kms",
+        "CaseD": "3.000.000kms",
+        "Question": "Vận tốc ánh sáng truyền trong môi trường chân không là bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 21
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Việt Nam",
+        "CaseD": "Nhật Bản",
+        "Question": "Cờ vua được ra đời ở quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 22
+    },
+    {
+        "CaseA": "1896 ",
+        "CaseB": "1850 ",
+        "CaseC": "1905",
+        "CaseD": "1825 ",
+        "Question": "Bóng đá du nhập vào Việt Nam từ năm nào?",
+        "TrueCase": 1,
+        "_id": 23
+    },
+    {
+        "CaseA": "Ninh Kiều ",
+        "CaseB": "Cái Răng ",
+        "CaseC": "Trà Ôn ",
+        "CaseD": "Châu Thành ",
+        "Question": "Điểm cuối của cầu Cần Thơ thuộc địa phận quận, huyện nào của Cần Thơ?",
+        "TrueCase": 2,
+        "_id": 24
+    },
+    {
+        "CaseA": "Lạng Sơn ",
+        "CaseB": "Phú Thọ ",
+        "CaseC": "Hải Phòng ",
+        "CaseD": "Hải Dương ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Quảng Ninh?",
+        "TrueCase": 2,
+        "_id": 25
+    },
+    {
+        "CaseA": "Bình Định ",
+        "CaseB": "Gia Lai ",
+        "CaseC": "Đắc Lắc",
+        "CaseD": "Lâm Đồng ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Phú Yên?",
+        "TrueCase": 4,
+        "_id": 26
+    },
+    {
+        "CaseA": "Kiên Giang ",
+        "CaseB": "Cần Thơ ",
+        "CaseC": "Sóc Trăng ",
+        "CaseD": "Trà Vinh ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào giáp với tỉnh Cà Mau?",
+        "TrueCase": 1,
+        "_id": 27
+    },
+    {
+        "CaseA": "Lê Công Vinh",
+        "CaseB": "Lê Huỳnh Đức",
+        "CaseC": "Nguyễn Hồng Sơn",
+        "CaseD": "Nguyễn Việt Thắng",
+        "Question": "Cầu thủ Việt Nam đầu tiên chơi bóng ở nước ngoài?",
+        "TrueCase": 2,
+        "_id": 28
+    },
+    {
+        "CaseA": "Đường, bột",
+        "CaseB": "Dừa, lạc",
+        "CaseC": "Cá,  thịt",
+        "CaseD": "Đậu xanh",
+        "Question": "Bánh bao mít của người dân Nam Bộ được chế biến từ múi mít và thứ gì nữa?",
+        "TrueCase": 3,
+        "_id": 29
+    },
+    {
+        "CaseA": "Anh  Đức",
+        "CaseB": "Đức  Pháp ",
+        "CaseC": "Pháp  Anh",
+        "CaseD": "Anh  Iceland",
+        "Question": "Đường hầm xuyên eo biển Manche nối liền 2 quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 30
+    },
+    {
+        "CaseA": "Li, Na, K, Rb",
+        "CaseB": "F, Cl, br, I",
+        "CaseC": "Al, Mg, Na, K",
+        "CaseD": "B, C, N, O",
+        "Question": "Dãy nào sau đây không được xếp theo quy luật tính kim loại tăng dần?",
+        "TrueCase": 4,
+        "_id": 31
+    },
+    {
+        "CaseA": "F.Roosevelt",
+        "CaseB": "Licohn",
+        "CaseC": "G.Bush",
+        "CaseD": "Clinton",
+        "Question": "Người giữ chức tổng thống lâu nhất ở Hoa Kì là ai?",
+        "TrueCase": 1,
+        "_id": 32
+    },
+    {
+        "CaseA": "3004",
+        "CaseB": "Hồ Chí Minh ",
+        "CaseC": "Mùa xuân vàng",
+        "CaseD": "Gia Định ",
+        "Question": "Chiến dịch giải phóng Sài Gòn 1975 mang tên gì?",
+        "TrueCase": 2,
+        "_id": 33
+    },
+    {
+        "CaseA": "Canxi ",
+        "CaseB": "Liti",
+        "CaseC": "Nhôm ",
+        "CaseD": "Natri",
+        "Question": "Kim loại nào nhẹ nhất?",
+        "TrueCase": 2,
+        "_id": 34
+    },
+    {
+        "CaseA": "He ",
+        "CaseB": "Ni ",
+        "CaseC": "H",
+        "CaseD": "O ",
+        "Question": "Nguyên tố hoá học có nhiều thứ 2 trong vũ trụ?",
+        "TrueCase": 1,
+        "_id": 35
+    },
+    {
+        "CaseA": "Quãng 4 ",
+        "CaseB": "Quãng 5",
+        "CaseC": "Quãng 6 ",
+        "CaseD": "Quãng 7 ",
+        "Question": "Hai nốt Rê - Đô ,trong đó: Rê là âm dưới, Đô là âm trên tạo thành quãng mấy?",
+        "TrueCase": 4,
+        "_id": 36
+    },
+    {
+        "CaseA": "CACM",
+        "CaseB": "EFTA",
+        "CaseC": "EU",
+        "CaseD": "LAIA",
+        "Question": "Thị trường chung vùng Trung Mỹ gọi tắt là gì?",
+        "TrueCase": 1,
+        "_id": 37
+    },
+    {
+        "CaseA": "2002",
+        "CaseB": "2003",
+        "CaseC": "2004",
+        "CaseD": "2005",
+        "Question": "Festival Huế tổ chức lần III vào năm nào?",
+        "TrueCase": 3,
+        "_id": 38
+    },
+    {
+        "CaseA": "Quảng Nam ",
+        "CaseB": "Quảng Bình ",
+        "CaseC": "Quảng Ngãi ",
+        "CaseD": "Quảng Trị",
+        "Question": "Bãi tắm Nhật Lệ thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 39
+    },
+    {
+        "CaseA": "Dominica",
+        "CaseB": "Đông Timo ",
+        "CaseC": "Djibouti",
+        "CaseD": "Congo",
+        "Question": "Djibouti là thủ đô nước nào? ",
+        "TrueCase": 3,
+        "_id": 40
+    },
+    {
+        "CaseA": "Liên Xô ",
+        "CaseB": "Pháp ",
+        "CaseC": "Mỹ ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Thuỷ điện Hoà Bình trên sông Đà do nước nào giúp chúng ta xây dựng?",
+        "TrueCase": 1,
+        "_id": 41
+    },
+    {
+        "CaseA": "Châu Á ",
+        "CaseB": "Châu Mỹ ",
+        "CaseC": "Châu Âu ",
+        "CaseD": "Châu Phi ",
+        "Question": "Bài Tú lơ khơ xuất phát từ đâu ?",
+        "TrueCase": 3,
+        "_id": 42
+    },
+    {
+        "CaseA": "Đoàn Thị Điểm ",
+        "CaseB": "Hồ Xuân Hương ",
+        "CaseC": "Nguyễn Thị Hinh",
+        "CaseD": "Xuân Quỳnh ",
+        "Question": "Ai là người được mệnh danh là Bà Chúa Thơ Nôm?",
+        "TrueCase": 2,
+        "_id": 43
+    },
+    {
+        "CaseA": "6 nguyên âm ",
+        "CaseB": "10 nguyên âm",
+        "CaseC": "17 nguyên âm ",
+        "CaseD": "12 nguyên âm ",
+        "Question": "Bảng chữ cái tiếng Việt có bao nhiêu nguyên âm?",
+        "TrueCase": 4,
+        "_id": 44
+    },
+    {
+        "CaseA": "Lạng Sơn ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Hà Nội ",
+        "CaseD": "Thái Nguyên ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bắc Giang?",
+        "TrueCase": 2,
+        "_id": 45
+    },
+    {
+        "CaseA": "Đắc Lắc ",
+        "CaseB": "Gia Lai ",
+        "CaseC": "Phú Yên ",
+        "CaseD": "Lâm Đồng ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Khánh Hoà?",
+        "TrueCase": 2,
+        "_id": 46
+    },
+    {
+        "CaseA": "An Giang ",
+        "CaseB": "Cần Thơ ",
+        "CaseC": "Sóc Trăng ",
+        "CaseD": "Cà Mau ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Kiên Giang?",
+        "TrueCase": 3,
+        "_id": 47
+    },
+    {
+        "CaseA": "Brazil",
+        "CaseB": "Đức ",
+        "CaseC": "Nhật  Hàn",
+        "CaseD": "Nam Phi",
+        "Question": "Chủ nhà worlcup 2010?",
+        "TrueCase": 4,
+        "_id": 48
+    },
+    {
+        "CaseA": "Hà Nội",
+        "CaseB": "New York",
+        "CaseC": "Tokyo",
+        "CaseD": "Bắc Kinh ",
+        "Question": "Mật độ dân số của thành phố nào đông nhất trong các thành phố sau?",
+        "TrueCase": 2,
+        "_id": 49
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Mắt của Lạc đà có bao nhiêu mí?",
+        "TrueCase": 3,
+        "_id": 50
+    },
+    {
+        "CaseA": "Na, Mg, Al, K",
+        "CaseB": "K, Na, Mg, Al",
+        "CaseC": "Al, Mg, Na, K",
+        "CaseD": "Na, K, Mg, Al",
+        "Question": "Sắp xếp các kim loại Na, Mg, Al, K theo quy luật tính kim loại giảm dần?",
+        "TrueCase": 2,
+        "_id": 51
+    },
+    {
+        "CaseA": "Dân chủ",
+        "CaseB": "Quân chủ lập hiến",
+        "CaseC": "Phong kiến",
+        "CaseD": "Chủ nghĩa tư bản",
+        "Question": "Chế độ chính trị ở Malaysia?",
+        "TrueCase": 2,
+        "_id": 52
+    },
+    {
+        "CaseA": "1831",
+        "CaseB": "1888",
+        "CaseC": "1913",
+        "CaseD": "1945",
+        "Question": "Tên Hà Nội của thủ đô nước ta có từ năm nào?",
+        "TrueCase": 1,
+        "_id": 53
+    },
+    {
+        "CaseA": "Brazil ",
+        "CaseB": "Uruguay ",
+        "CaseC": "Đức ",
+        "CaseD": "Italia ",
+        "Question": "Đội bóng nào đoạt chức vô địch World Cup 1950?",
+        "TrueCase": 2,
+        "_id": 54
+    },
+    {
+        "CaseA": "Bình Định",
+        "CaseB": "Vĩnh Long ",
+        "CaseC": "Đồng Tháp ",
+        "CaseD": "Cần Thơ ",
+        "Question": "Nguyễn Trung Trực quê ở đâu?",
+        "TrueCase": 1,
+        "_id": 55
+    },
+    {
+        "CaseA": "Thân chương trình ",
+        "CaseB": "Cuối chương trình ",
+        "CaseC": "Phần khai báo ",
+        "CaseD": "Chương trình con ",
+        "Question": "Trong tin học, câu lệnh khai báo biến mảng được thực hiện ở đâu của chương trình?",
+        "TrueCase": 3,
+        "_id": 56
+    },
+    {
+        "CaseA": "CACM",
+        "CaseB": "COMECON",
+        "CaseC": "NATO",
+        "CaseD": "UN",
+        "Question": "Tên viết tắt của hội đồng tương trợ kinh tế trong tiếng Anh là gì ?",
+        "TrueCase": 2,
+        "_id": 57
+    },
+    {
+        "CaseA": "Bãi san hô ",
+        "CaseB": "Nơi sinh ra ",
+        "CaseC": "Trên mặt nước ",
+        "CaseD": "Tận đáy biển sâu ",
+        "Question": "Cá hồi khi trưởng thành bơi về đâu để đẻ trứng?",
+        "TrueCase": 2,
+        "_id": 58
+    },
+    {
+        "CaseA": "Quảng Bình ",
+        "CaseB": "Quảng Trị ",
+        "CaseC": "Quảng Nam ",
+        "CaseD": "Quảng Ngãi ",
+        "Question": "Bãi tắm Cửa Tùng thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 59
+    },
+    {
+        "CaseA": "Dominica",
+        "CaseB": "Đan Mạch ",
+        "CaseC": "Djibouti",
+        "CaseD": "Đông Timor",
+        "Question": "Roseau là thủ đô nước nào? ",
+        "TrueCase": 1,
+        "_id": 60
+    },
+    {
+        "CaseA": "Hồ Dầu Tiếng (Việt Nam)",
+        "CaseB": "Hồ Lam Pao (Thái Lan)",
+        "CaseC": "Hồ Tonglesap( Campuchia)",
+        "CaseD": "Hồ Nậm Ngớm (Lào )",
+        "Question": "Hồ nào lớn nhất Đông Nam Á?",
+        "TrueCase": 3,
+        "_id": 61
+    },
+    {
+        "CaseA": "Đại bàng ",
+        "CaseB": "Chim ưng ",
+        "CaseC": "Chim cắt ",
+        "CaseD": "Chim cú mèo ",
+        "Question": "Loài chim nào bay nhanh nhất?",
+        "TrueCase": 2,
+        "_id": 62
+    },
+    {
+        "CaseA": "Lục Vân Tiên ",
+        "CaseB": "Văn tế nghĩa sĩ Cần Giuộc",
+        "CaseC": "Số Đỏ ",
+        "CaseD": "Truyện Kiều ",
+        "Question": "Tác phẩm nào được viết và đóng thành sách nặng nhất ở Việt Nam?",
+        "TrueCase": 4,
+        "_id": 63
+    },
+    {
+        "CaseA": "Thuỳ Trang ",
+        "CaseB": "Phi Nhung ",
+        "CaseC": "Mỹ Tâm ",
+        "CaseD": "Hương Lan ",
+        "Question": "Bông điên điển, 5 cụm núi quê hương, Năm 17 tuổi là những ca khúc đã từng được ai trình bày rất thành công?",
+        "TrueCase": 2,
+        "_id": 64
+    },
+    {
+        "CaseA": "Thái Bình ",
+        "CaseB": "Hải Dương ",
+        "CaseC": "Hà Tây ",
+        "CaseD": "Nam Định ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Hưng Yên?",
+        "TrueCase": 4,
+        "_id": 65
+    },
+    {
+        "CaseA": "Đắc Lắc ",
+        "CaseB": "Lâm Đồng ",
+        "CaseC": "Bình Thuận ",
+        "CaseD": "Khánh Hoà ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Ninh Thuận?",
+        "TrueCase": 1,
+        "_id": 66
+    },
+    {
+        "CaseA": "Đồng Tháp ",
+        "CaseB": "Kiên Giang",
+        "CaseC": "Bạc Liêu ",
+        "CaseD": "Cần Thơ ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh An Giang?",
+        "TrueCase": 3,
+        "_id": 67
+    },
+    {
+        "CaseA": "Pháp",
+        "CaseB": "Brazil",
+        "CaseC": "Đức",
+        "CaseD": "Italia",
+        "Question": "Đội bóng vô địch World cup 2006?",
+        "TrueCase": 4,
+        "_id": 68
+    },
+    {
+        "CaseA": "Thống Nhất",
+        "CaseB": "Hàng Đẫy",
+        "CaseC": "Thiên Trường",
+        "CaseD": "Mỹ Đình",
+        "Question": "Sân vận động chính thức tổ chức Seagames 22  2003?",
+        "TrueCase": 4,
+        "_id": 69
+    },
+    {
+        "CaseA": "Kẽ lá ",
+        "CaseB": "Thân cây ",
+        "CaseC": "Rễ cây ",
+        "CaseD": "Nhựa cây ",
+        "Question": "Ngoài những bông hoa, Ong còn lấy mật ở đâu?",
+        "TrueCase": 1,
+        "_id": 70
+    },
+    {
+        "CaseA": "Oxi ",
+        "CaseB": "Flo",
+        "CaseC": "Clo ",
+        "CaseD": "Nitơ",
+        "Question": "Nguyên tố phi kim nào có tính oxi-hóa mạnh nhất?",
+        "TrueCase": 2,
+        "_id": 71
+    },
+    {
+        "CaseA": "IAAE",
+        "CaseB": "IBCC",
+        "CaseC": "IBM",
+        "CaseD": "IAEA",
+        "Question": "Tổ chức Năng lượng nguyên tử thế giới có tên viết tắt là gì?",
+        "TrueCase": 4,
+        "_id": 72
+    },
+    {
+        "CaseA": "Châu Âu ",
+        "CaseB": "Châu Nam Cực",
+        "CaseC": "Châu Á",
+        "CaseD": "Châu Phi ",
+        "Question": "Châu nào  cách châu Úc khoảng 2500Km, châu Phi 4000km, cực nam châu Mỹ 1000km?",
+        "TrueCase": 2,
+        "_id": 73
+    },
+    {
+        "CaseA": "Lai giống ",
+        "CaseB": "Nuôi cấy mô ",
+        "CaseC": "Cấy phôi ",
+        "CaseD": "Gây đột biến ",
+        "Question": "Trong chọn giống vi sinh vật, phương pháp nào được sử dụng phổ biến?",
+        "TrueCase": 4,
+        "_id": 74
+    },
+    {
+        "CaseA": "Đồng Tháp ",
+        "CaseB": "Long An ",
+        "CaseC": "An Giang ",
+        "CaseD": "Kiên Giang ",
+        "Question": "Nơi đặt mộ của cụ Nguyễn Sinh Sắc?",
+        "TrueCase": 1,
+        "_id": 75
+    },
+    {
+        "CaseA": "Một lưỡi cưa ",
+        "CaseB": "Một thanh sắt",
+        "CaseC": "Một con dao ",
+        "CaseD": "Một hòn đá ",
+        "Question": "Vật nào dưới đây có tính đàn hồi?",
+        "TrueCase": 1,
+        "_id": 76
+    },
+    {
+        "CaseA": "ASEAN",
+        "CaseB": "UNESCO",
+        "CaseC": "UNICEF",
+        "CaseD": "EFTA",
+        "Question": "Liên hiệp thương mại tự do châu Âu gọi tắt là gì?",
+        "TrueCase": 4,
+        "_id": 77
+    },
+    {
+        "CaseA": "1991",
+        "CaseB": "1961",
+        "CaseC": "1691",
+        "CaseD": "1661",
+        "Question": "Quỹ bảo vệ thiên nhiên thế giới thành lập vào năm nào?",
+        "TrueCase": 2,
+        "_id": 78
+    },
+    {
+        "CaseA": "Quảng Nam ",
+        "CaseB": "Huế ",
+        "CaseC": "Bình Thuận ",
+        "CaseD": "Khánh Hoà ",
+        "Question": "Bãi tắm Lăng Cô thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 79
+    },
+    {
+        "CaseA": "Đan Mạch ",
+        "CaseB": "Dominica",
+        "CaseC": "Đông Timor ",
+        "CaseD": "Ai Cập ",
+        "Question": "Dili là thủ đô nước nào?",
+        "TrueCase": 3,
+        "_id": 80
+    },
+    {
+        "CaseA": "Algieria ",
+        "CaseB": "Marroc ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Yemen ",
+        "Question": "Quốc gia nào sau đây không thuộc Châu Phi?",
+        "TrueCase": 4,
+        "_id": 81
+    },
+    {
+        "CaseA": "389Kmh",
+        "CaseB": "398Kmh",
+        "CaseC": "489Kmh",
+        "CaseD": "589Kmh",
+        "Question": "Vận tốc trung bình của loài chim ưng là bao nhiêu?",
+        "TrueCase": 1,
+        "_id": 82
+    },
+    {
+        "CaseA": "Cờ tướng ",
+        "CaseB": "Cờ vua ",
+        "CaseC": "Cờ vây ",
+        "CaseD": "Cờ người",
+        "Question": "Loại cờ nào nhắc đến trong truyện Kiều của Nguyễn Du?",
+        "TrueCase": 3,
+        "_id": 83
+    },
+    {
+        "CaseA": "Hy Lạp ",
+        "CaseB": "La Mã ",
+        "CaseC": "Do Thái ",
+        "CaseD": "Ai Cập ",
+        "Question": "Cleopatre là nữ hoàng nước nào?",
+        "TrueCase": 4,
+        "_id": 84
+    },
+    {
+        "CaseA": "Quảng Ninh ",
+        "CaseB": "Thái Bình ",
+        "CaseC": "Hải Phòng ",
+        "CaseD": "Nam Định ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Hải Dương?",
+        "TrueCase": 4,
+        "_id": 85
+    },
+    {
+        "CaseA": "Đắc Lắc ",
+        "CaseB": "Bình Phước ",
+        "CaseC": "Phú Yên ",
+        "CaseD": "Bình Thuận",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Lâm Đồng?",
+        "TrueCase": 3,
+        "_id": 86
+    },
+    {
+        "CaseA": "Hình tròn ",
+        "CaseB": "Hình vuông ",
+        "CaseC": "Hình tam giác ",
+        "CaseD": "Hình chữ nhật ",
+        "Question": "Chiếc đàn Balalaika của Nga có hình dạng phổ biến là hình gì?",
+        "TrueCase": 3,
+        "_id": 87
+    },
+    {
+        "CaseA": "Đức",
+        "CaseB": "Brazil",
+        "CaseC": "Bồ Đào Nha",
+        "CaseD": "Pháp",
+        "Question": "Đội vô địch World Cuo tại Nhật Bản và Hàn Quốc?",
+        "TrueCase": 2,
+        "_id": 88
+    },
+    {
+        "CaseA": "Hà Nội",
+        "CaseB": "Đà Lạt",
+        "CaseC": "Cần Thơ",
+        "CaseD": "Đồng Nai",
+        "Question": "Lò phàn ứng hạt nhân của nước ta đầu tiên nằm ở đâu?",
+        "TrueCase": 3,
+        "_id": 89
+    },
+    {
+        "CaseA": "Alaska ",
+        "CaseB": "Hawai",
+        "CaseC": "California ",
+        "CaseD": "Texas",
+        "Question": "Tiểu bang thứ 52 của Hoa Kỳ?",
+        "TrueCase": 2,
+        "_id": 90
+    },
+    {
+        "CaseA": "Na ",
+        "CaseB": "K ",
+        "CaseC": "Ba ",
+        "CaseD": "Al ",
+        "Question": "Nguyên tố nào có tính chất hoá học như Canxi?",
+        "TrueCase": 3,
+        "_id": 91
+    },
+    {
+        "CaseA": "UNHRC",
+        "CaseB": "UNHCR",
+        "CaseC": "UNHSV",
+        "CaseD": "UNDTN",
+        "Question": "Cao uỷ Liên hợp quốc về vấn đề tị nạn?",
+        "TrueCase": 2,
+        "_id": 92
+    },
+    {
+        "CaseA": "Đức",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Cuba ",
+        "CaseD": "Hoa Kỳ",
+        "Question": "Quốc gia nào vừa giáp với Thái Bình Dương, vừa giáp với Đại Tây Dương?",
+        "TrueCase": 4,
+        "_id": 93
+    },
+    {
+        "CaseA": "Than chì ",
+        "CaseB": "Vofram ",
+        "CaseC": "Đồng ",
+        "CaseD": "Nhôm ",
+        "Question": "Dây tóc bóng đèn đầu tiên được làm bằng gì?",
+        "TrueCase": 2,
+        "_id": 94
+    },
+    {
+        "CaseA": "An Giang ",
+        "CaseB": "Long An ",
+        "CaseC": "Cần Thơ ",
+        "CaseD": "Đồng Tháp ",
+        "Question": "Lăng cụ Nguyễn Sinh Sắc hiện đang ở tỉnh nào của Việt Nam?",
+        "TrueCase": 4,
+        "_id": 95
+    },
+    {
+        "CaseA": "Thanh đồng ",
+        "CaseB": "Thanh nhôm",
+        "CaseC": "Thanh sắt",
+        "CaseD": "Sắt và đồng",
+        "Question": "1 thanh đồng, 1 thanh nhôm, và 1 thanh sắt, thành nào dẫn nhiệt nhanh nhất khi đun nóng cùng một lúc?",
+        "TrueCase": 2,
+        "_id": 96
+    },
+    {
+        "CaseA": "EFTA",
+        "CaseB": "OAS",
+        "CaseC": "OAU",
+        "CaseD": "EU",
+        "Question": "Liên hợp châu Âu trước là cộng đồng châu Âu gọi tắt là gì?",
+        "TrueCase": 4,
+        "_id": 97
+    },
+    {
+        "CaseA": "Chiếc lá xanh ",
+        "CaseB": "Con gấu trúc ",
+        "CaseC": "Vòng tròn màu trắng",
+        "CaseD": "Một hồ nước ",
+        "Question": "Biểu tượng của quỹ bảo vệ thiên nhiên thế giới là gì?",
+        "TrueCase": 2,
+        "_id": 98
+    },
+    {
+        "CaseA": "Đà Nẵng ",
+        "CaseB": "Huế ",
+        "CaseC": "Bà Rịa  Vũng Tàu ",
+        "CaseD": "Quảng Bình ",
+        "Question": "Bãi tắm non nước, Bắc Mỹ An thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 99
+    },
+    {
+        "CaseA": "Ecuador ",
+        "CaseB": "El Salvador",
+        "CaseC": "Estonia",
+        "CaseD": "Ethiopia",
+        "Question": "Quito là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 100
+    },
+    {
+        "CaseA": "Arap Saudi",
+        "CaseB": "Tunisia",
+        "CaseC": "Mali",
+        "CaseD": "Senegal",
+        "Question": "Quốc gia nào sau đây không thuộc Châu Phi?",
+        "TrueCase": 1,
+        "_id": 101
+    },
+    {
+        "CaseA": "Iceland Iceland ",
+        "CaseB": "Stockholm Thuỵ Điển  ",
+        "CaseC": "Moskva Nga ",
+        "CaseD": "Victoria Canada",
+        "Question": "Thành phố thủ đô của quốc gia nào nằm ở gần cực Bắc nhất?",
+        "TrueCase": 1,
+        "_id": 102
+    },
+    {
+        "CaseA": "Cung tên ",
+        "CaseB": "Nỏ ",
+        "CaseC": "Boomerang ",
+        "CaseD": "Giáo ",
+        "Question": "Vũ khí nổi tiếng của thổ dân Úc là gì?",
+        "TrueCase": 3,
+        "_id": 103
+    },
+    {
+        "CaseA": "Lam ",
+        "CaseB": "Danh ",
+        "CaseC": "Thắng ",
+        "CaseD": "Cảnh ",
+        "Question": "Trong cụm từ Hán Việt Danh Lam Thắng Cảnh, từ nào chỉ chùa?",
+        "TrueCase": 1,
+        "_id": 104
+    },
+    {
+        "CaseA": "Thái Bình ",
+        "CaseB": "Hà Nam ",
+        "CaseC": "Thanh Hoá",
+        "CaseD": "Hoà Bình ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Nam Định?",
+        "TrueCase": 3,
+        "_id": 105
+    },
+    {
+        "CaseA": "Bình Phước ",
+        "CaseB": "Lâm Đồng ",
+        "CaseC": "Bình Thuận ",
+        "CaseD": "Ninh Thuận",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Đồng Nai?",
+        "TrueCase": 4,
+        "_id": 106
+    },
+    {
+        "CaseA": "FAO",
+        "CaseB": "UNESCO",
+        "CaseC": "UNICEF",
+        "CaseD": "WHO",
+        "Question": "Tổ chức nào sau đây của Liên Hợp Quốc chuyên lo các vấn đề về lương thực?",
+        "TrueCase": 1,
+        "_id": 107
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Tại Seagames 22, hành tích của Đoàn thể thao Việt Nam đứng thứ mấy?",
+        "TrueCase": 1,
+        "_id": 108
+    },
+    {
+        "CaseA": "63.780",
+        "CaseB": "6.378.000",
+        "CaseC": "6.873",
+        "CaseD": "6.378",
+        "Question": "Bán kính trái đất chúng ta khoảng bao nhiêu kilomet?",
+        "TrueCase": 4,
+        "_id": 109
+    },
+    {
+        "CaseA": "Proton và Electron ",
+        "CaseB": "Proton và Nơtron ",
+        "CaseC": "Nơtron và Electron",
+        "CaseD": "Proton, Nơtron và Electron",
+        "Question": "Trong mọi nguyên tử đều có?",
+        "TrueCase": 1,
+        "_id": 110
+    },
+    {
+        "CaseA": "Na  Mg",
+        "CaseB": "Na  K",
+        "CaseC": "K  Ag ",
+        "CaseD": "Mg  Al",
+        "Question": "Cặp nguyên tố hoá học nào sau đây có tính chất hoá học giống nhau nhất?",
+        "TrueCase": 2,
+        "_id": 111
+    },
+    {
+        "CaseA": "Canberra",
+        "CaseB": "Wellington",
+        "CaseC": "Greenland",
+        "CaseD": "Fiji",
+        "Question": "Thủ đô của New Zealand?",
+        "TrueCase": 2,
+        "_id": 112
+    },
+    {
+        "CaseA": "Hà Lan ",
+        "CaseB": "Anh ",
+        "CaseC": "New Zealand",
+        "CaseD": "Singapore",
+        "Question": "Quốc gia nào có 40 diện tích nằm dưới mực nước biển?",
+        "TrueCase": 1,
+        "_id": 113
+    },
+    {
+        "CaseA": "Nguyễn Trãi ",
+        "CaseB": "Hồ Chí Minh ",
+        "CaseC": "Tago ",
+        "CaseD": "M.Gorki ",
+        "Question": "\"Văn học là nhân học\" là câu nói nổi tiếng của ai?",
+        "TrueCase": 4,
+        "_id": 114
+    },
+    {
+        "CaseA": "2004",
+        "CaseB": "2005 ",
+        "CaseC": "2006 ",
+        "CaseD": "2007",
+        "Question": "Năm bao nhiêu thì đội đương kim vô địch thế giới phải đá vòng loại?",
+        "TrueCase": 3,
+        "_id": 115
+    },
+    {
+        "CaseA": "Hơ nóng nút ",
+        "CaseB": "Hơ nóng cổ lọ ",
+        "CaseC": "Hơ nóng cả nút và lọ ",
+        "CaseD": "Ngâm trong nước lạnh ",
+        "Question": "Một lọ thuỷ tinh được đậy bằng nút thuỷ tinh, nút bị kẹt. Hỏi phải mở nút bằng cách nào trong các cách sau đây?",
+        "TrueCase": 2,
+        "_id": 116
+    },
+    {
+        "CaseA": "CACM",
+        "CaseB": "COMECON",
+        "CaseC": "LAIA",
+        "CaseD": "OECD",
+        "Question": "Liên hiệp hội nhập của châu Mỹ Latinh gọi tắt là gì?",
+        "TrueCase": 3,
+        "_id": 117
+    },
+    {
+        "CaseA": "Tiếng Áo ",
+        "CaseB": "Tiếng Anh ",
+        "CaseC": "Tiếng Pháp ",
+        "CaseD": "Tiếng Đức ",
+        "Question": "Người dân nước Áo chủ yếu sử dụng ngôn ngữ gì?",
+        "TrueCase": 4,
+        "_id": 118
+    },
+    {
+        "CaseA": "Quảng Nam ",
+        "CaseB": "Quảng Bình ",
+        "CaseC": "Quảng Ngãi ",
+        "CaseD": "Quảng Trị ",
+        "Question": "Bãi tắm Cửa Đại thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 119
+    },
+    {
+        "CaseA": "El Salvador",
+        "CaseB": "Estonia",
+        "CaseC": "Ethiopia",
+        "CaseD": "Ecuador",
+        "Question": "San Salvador là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 120
+    },
+    {
+        "CaseA": "Thuỵ Sĩ ",
+        "CaseB": "Thuỵ Điển ",
+        "CaseC": "Tunisia",
+        "CaseD": "Bồ Đào Nha ",
+        "Question": "Quốc gia nào sau đây không thuộc Châu Âu?",
+        "TrueCase": 3,
+        "_id": 121
+    },
+    {
+        "CaseA": "Đất phèn ",
+        "CaseB": "Đất mặn và cát biển ",
+        "CaseC": "Đất xám bạc màu ",
+        "CaseD": "Đất Glây và đất than bùn",
+        "Question": "Trong số các loại đất phải cải tạo của nước ta hiện nay, loại đất chiếm diện tích lớn nhất là?",
+        "TrueCase": 1,
+        "_id": 122
+    },
+    {
+        "CaseA": "Kuwait ",
+        "CaseB": "Oman ",
+        "CaseC": "Syria ",
+        "CaseD": "Yemen",
+        "Question": "Quốc gia nào sau đây có tên trùng với tên thủ đô?",
+        "TrueCase": 1,
+        "_id": 123
+    },
+    {
+        "CaseA": "Bắc",
+        "CaseB": "Nam ",
+        "CaseC": "Tây ",
+        "CaseD": "Đông ",
+        "Question": "Ở Việt Nam, bão thường đổ bộ vào đất liền theo hướng nào?",
+        "TrueCase": 4,
+        "_id": 124
+    },
+    {
+        "CaseA": "Thanh Hoá ",
+        "CaseB": "Sơn la ",
+        "CaseC": "Phú Thọ ",
+        "CaseD": "Thái Bình ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Hoà Bình?",
+        "TrueCase": 4,
+        "_id": 125
+    },
+    {
+        "CaseA": "Ninh Thuận ",
+        "CaseB": "Bình Phước",
+        "CaseC": "Lâm Đồng ",
+        "CaseD": "Bà Rịa  Vũng Tàu",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bình Thuận?",
+        "TrueCase": 2,
+        "_id": 126
+    },
+    {
+        "CaseA": "Châu Á ",
+        "CaseB": "Châu Mỹ ",
+        "CaseC": "Châu Phi ",
+        "CaseD": "Châu Úc",
+        "Question": "Ấn Độ đỏ là tên gọi khác của châu lục nào?",
+        "TrueCase": 2,
+        "_id": 127
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Seagames 2009, đoàn thể thao Việt Nam đứng thứ mấy trong bảng tổng sắp?",
+        "TrueCase": 2,
+        "_id": 128
+    },
+    {
+        "CaseA": "5",
+        "CaseB": "6",
+        "CaseC": "7",
+        "CaseD": "8",
+        "Question": "Tiếng Việt là ngôn ngữ phổ biến thứ mấy ở Hoa Kỳ?",
+        "TrueCase": 3,
+        "_id": 129
+    },
+    {
+        "CaseA": "Số proton ",
+        "CaseB": "Số nơtron ",
+        "CaseC": "Số electron ",
+        "CaseD": "Số hiệu nguyên tử ",
+        "Question": "Nguyên tử của các nguyên tố khác nhau có thể giống nhau về?",
+        "TrueCase": 2,
+        "_id": 130
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "3",
+        "CaseC": "4",
+        "CaseD": "5",
+        "Question": "Trong 20 nguyên tố đầu tiên của bảng tuần hoàn, có bao nhiêu nguyên tố khí hiếm?",
+        "TrueCase": 2,
+        "_id": 131
+    },
+    {
+        "CaseA": "Google",
+        "CaseB": "Yahoo",
+        "CaseC": "Live.com",
+        "CaseD": "YouTube",
+        "Question": "Trang web tìm kiếm được nhiều người truy cập nhất hiện nay?",
+        "TrueCase": 1,
+        "_id": 132
+    },
+    {
+        "CaseA": "Quang Trung",
+        "CaseB": "Trần Thánh Tông",
+        "CaseC": "An Dương Vương ",
+        "CaseD": "Lý Nam Đế",
+        "Question": "Vị hoàng đế đầu tiên của lịch sử nước ta?",
+        "TrueCase": 4,
+        "_id": 133
+    },
+    {
+        "CaseA": "Tán sắc ",
+        "CaseB": "Giao thoa ",
+        "CaseC": "Đảo sắc ",
+        "CaseD": "Vạch quang phổ ",
+        "Question": "Hiện tượng nào chứng tỏ rằng ánh sáng có tính chất sóng?",
+        "TrueCase": 2,
+        "_id": 134
+    },
+    {
+        "CaseA": "Con ruồi ",
+        "CaseB": "Con muỗi ",
+        "CaseC": "Con gà ",
+        "CaseD": "Con chó ",
+        "Question": "Con vật gì đã giúp nhà bác học Vonta phát minh ra pin?",
+        "TrueCase": 2,
+        "_id": 135
+    },
+    {
+        "CaseA": "Tăng dần lên",
+        "CaseB": "Không thay đổi ",
+        "CaseC": "Tăng rồi giảm ",
+        "CaseD": "Giảm dần ",
+        "Question": " Trong suốt thời gian sôi, nhiệt độ của nước thay đổi như thế nào?",
+        "TrueCase": 2,
+        "_id": 136
+    },
+    {
+        "CaseA": "CACM",
+        "CaseB": "COMECO",
+        "CaseC": "EU",
+        "CaseD": "NATO",
+        "Question": "Tổ chức  liên minh ước Bắc Đại Tây Dương gọi tắt là gì?",
+        "TrueCase": 4,
+        "_id": 137
+    },
+    {
+        "CaseA": "Silic ",
+        "CaseB": "Magie ",
+        "CaseC": "Canxi ",
+        "CaseD": "Đất ",
+        "Question": "Thành phần chính của thạch anh là gì?",
+        "TrueCase": 1,
+        "_id": 138
+    },
+    {
+        "CaseA": "Quảng Trị ",
+        "CaseB": "Quảng Ngãi ",
+        "CaseC": "Bình Định ",
+        "CaseD": "Cà Mau ",
+        "Question": "Bãi tắm Sa Huỳnh, Mỹ Khê thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 139
+    },
+    {
+        "CaseA": "Jamaica ",
+        "CaseB": "Jordan ",
+        "CaseC": "Ấn Độ",
+        "CaseD": "Indonesia ",
+        "Question": "Kingston là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 140
+    },
+    {
+        "CaseA": "Latvia ",
+        "CaseB": "Ba Lan ",
+        "CaseC": "Uzbekistan ",
+        "CaseD": "Serbia and Monte Negro ",
+        "Question": "Quốc gia nào sau đây không thuộc Châu Âu?",
+        "TrueCase": 3,
+        "_id": 141
+    },
+    {
+        "CaseA": "9",
+        "CaseB": "12",
+        "CaseC": "15",
+        "CaseD": "17",
+        "Question": "Có bao nhiêu vị thần trên đỉnh Olympus?",
+        "TrueCase": 2,
+        "_id": 142
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Thổ Nhĩ Kì ",
+        "Question": "Ở đâu uống trà được coi như 1 nghi lễ?",
+        "TrueCase": 2,
+        "_id": 143
+    },
+    {
+        "CaseA": "Động cơ điện ",
+        "CaseB": "Động cơ nhiệt ",
+        "CaseC": "Động cơ xăng ",
+        "CaseD": "Động cơ máy ",
+        "Question": "Động cơ nào phải có bộ phận đánh lửa?",
+        "TrueCase": 3,
+        "_id": 144
+    },
+    {
+        "CaseA": "Nghệ An ",
+        "CaseB": "Hà Tây ",
+        "CaseC": "Sơn La ",
+        "CaseD": "Hoà Bình ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Thanh Hoá?",
+        "TrueCase": 2,
+        "_id": 145
+    },
+    {
+        "CaseA": "Bình Dương ",
+        "CaseB": "Tây Ninh ",
+        "CaseC": "Lâm Đồng ",
+        "CaseD": "Bà Rịa  Vũng Tàu ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bình Phước?",
+        "TrueCase": 4,
+        "_id": 146
+    },
+    {
+        "CaseA": "Nguyễn Trường Tộ ",
+        "CaseB": "Thần Y ",
+        "CaseC": "Lê Hữu Trác ",
+        "CaseD": "Dược Y ",
+        "Question": "Danh y nào của Việt Nam tự nhận mình là ông già lười?",
+        "TrueCase": 3,
+        "_id": 147
+    },
+    {
+        "CaseA": "Châu Á",
+        "CaseB": "Đông Nam Á",
+        "CaseC": "Nam Á",
+        "CaseD": "Trung Á",
+        "Question": "Seagames là đại hội thể thao của khu vực nào?",
+        "TrueCase": 2,
+        "_id": 148
+    },
+    {
+        "CaseA": "Việt Nam ",
+        "CaseB": "Lào",
+        "CaseC": "Indonesia",
+        "CaseD": "Campuchia",
+        "Question": " Ở Đông Nam Á, Đảng Cộng Sản đầu tiên được thành lập ở quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 149
+    },
+    {
+        "CaseA": "Proton ",
+        "CaseB": "Electron ",
+        "CaseC": "Nơtron",
+        "CaseD": "Proton và Electron ",
+        "Question": "Trong mọi hạt của nguyên tử các nguyên  tố đều có?",
+        "TrueCase": 1,
+        "_id": 150
+    },
+    {
+        "CaseA": "Thần công ",
+        "CaseB": "Đại súng ",
+        "CaseC": "Súng thần cơ ",
+        "CaseD": "Đại bác lớn",
+        "Question": "Kiểu đại bác đầu tiên ở nước ta tên là gì?",
+        "TrueCase": 3,
+        "_id": 151
+    },
+    {
+        "CaseA": "Yahoo",
+        "CaseB": "Google",
+        "CaseC": "MSN",
+        "CaseD": "VnExpress",
+        "Question": "Trang web được nhiều người truy cập nhất theo thống kê của Alexa là gì?",
+        "TrueCase": 1,
+        "_id": 152
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Hàn Quốc ",
+        "CaseC": "Triều Tiên ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Quốc gia duy nhất của Đông Á thuộc G8?",
+        "TrueCase": 1,
+        "_id": 153
+    },
+    {
+        "CaseA": "Heli ",
+        "CaseB": "Titan ",
+        "CaseC": "Hidro ",
+        "CaseD": "Đồng ",
+        "Question": "H, D, T là 3 đồng vị của nguyên tố nào?",
+        "TrueCase": 3,
+        "_id": 154
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Chile",
+        "CaseC": "Argentina ",
+        "CaseD": "Thuỵ Điển ",
+        "Question": "Quốc gia nào trải dài nhiều vĩ tuyến nhất?",
+        "TrueCase": 2,
+        "_id": 155
+    },
+    {
+        "CaseA": "Nhiệt kế thuỷ ngân ",
+        "CaseB": "Nhiệt kế rượu ",
+        "CaseC": "Nhiệt kế y tế ",
+        "CaseD": "Vôn kế ",
+        "Question": "Dụng cụ nào dùng để đo nhiệt độ của nước đang sôi?",
+        "TrueCase": 1,
+        "_id": 156
+    },
+    {
+        "CaseA": "OAS",
+        "CaseB": "OECD",
+        "CaseC": "OAV",
+        "CaseD": "UN",
+        "Question": "Tổ chức các bang của Mỹ gọi tắt là gì?",
+        "TrueCase": 1,
+        "_id": 157
+    },
+    {
+        "CaseA": "Sốt xuất huyết ",
+        "CaseB": "Sốt rét ",
+        "CaseC": "Nhức cơ thể ",
+        "CaseD": "Mộng tinh ",
+        "Question": "Thuốc ký ninh chữa bệnh gì?",
+        "TrueCase": 2,
+        "_id": 158
+    },
+    {
+        "CaseA": "Bình Thuận ",
+        "CaseB": "Ninh Thuận ",
+        "CaseC": "Bình Định ",
+        "CaseD": "Cà Mau ",
+        "Question": "Bãi tắm Hoàng Hậu, Hải Âu thuộc tỉnh nào?",
+        "TrueCase": 3,
+        "_id": 159
+    },
+    {
+        "CaseA": "Kuwait",
+        "CaseB": "Kazakhstan",
+        "CaseC": "Kyrgystan",
+        "CaseD": "Kiribati",
+        "Question": "Tarawa là thủ đô nước nào?",
+        "TrueCase": 4,
+        "_id": 160
+    },
+    {
+        "CaseA": "Syria",
+        "CaseB": "Palestine",
+        "CaseC": "Jordan",
+        "CaseD": "Malawi",
+        "Question": "Quốc gia nào sau đây không thuộc Châu Á?",
+        "TrueCase": 4,
+        "_id": 161
+    },
+    {
+        "CaseA": "Ninh Bình ",
+        "CaseB": "Hà Nội ",
+        "CaseC": "Bình Dương ",
+        "CaseD": "Hà Tây ",
+        "Question": "Giếng nước lớn nhất Việt Nam ở đâu?",
+        "TrueCase": 1,
+        "_id": 162
+    },
+    {
+        "CaseA": "Lê Hoàn ",
+        "CaseB": "Lý Thái Tổ ",
+        "CaseC": "Lê Thái Tổ ",
+        "CaseD": "Đinh Bộ Lĩnh ",
+        "Question": "Hoa Lư là kinh đô của nước ta từ thời nào?",
+        "TrueCase": 4,
+        "_id": 163
+    },
+    {
+        "CaseA": "27/06 ",
+        "CaseB": "28/06",
+        "CaseC": "29/06",
+        "CaseD": "30/06 ",
+        "Question": "Ngày nào là ngày gia đình Việt Nam?",
+        "TrueCase": 2,
+        "_id": 164
+    },
+    {
+        "CaseA": "Thái Nguyên ",
+        "CaseB": "Lạng Sơn",
+        "CaseC": "Bắc Giang ",
+        "CaseD": "Vĩnh Phúc",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với Hà Nội?",
+        "TrueCase": 2,
+        "_id": 165
+    },
+    {
+        "CaseA": "Bình Phước",
+        "CaseB": "Tây Ninh ",
+        "CaseC": "Bà Rịa  Vũng Tàu",
+        "CaseD": "Đồng Nai",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bình Dương?",
+        "TrueCase": 3,
+        "_id": 166
+    },
+    {
+        "CaseA": "Einstein ",
+        "CaseB": "Nicolas Copernicus ",
+        "CaseC": "Newton ",
+        "CaseD": "Gallile ",
+        "Question": "Trên bia mộ của ai có khắc dòng chữ: Người đã giữ lại mặt trời và đẩy trái đất dịch chuyển?",
+        "TrueCase": 2,
+        "_id": 167
+    },
+    {
+        "CaseA": "Châu Phi",
+        "CaseB": "Châu Á",
+        "CaseC": "Châu Mỹ",
+        "CaseD": "Châu Âu",
+        "Question": "Euro là vòng chung kết cúp bóng đá của châu lục nào?",
+        "TrueCase": 4,
+        "_id": 168
+    },
+    {
+        "CaseA": "Lê Chiêu Tông ",
+        "CaseB": "Lê Hiền Tông",
+        "CaseC": "Lê Thánh Tông",
+        "CaseD": "Lê Thái Tổ",
+        "Question": "Vua Lê nào được lịch sử tôn làm anh hùng?",
+        "TrueCase": 4,
+        "_id": 169
+    },
+    {
+        "CaseA": "Đồng lượng ",
+        "CaseB": "Đồng vị ",
+        "CaseC": "Đồng phân",
+        "CaseD": "Đồng đẳng ",
+        "Question": "Những nguyên tử có cùng số proton nhưng khác nhau về số nơtron, gọi là?",
+        "TrueCase": 2,
+        "_id": 170
+    },
+    {
+        "CaseA": "Bằng lông bơi ",
+        "CaseB": "Bằng cả cơ thể ",
+        "CaseC": "Bằng chân giả ",
+        "CaseD": "Bằng roi bơi ",
+        "Question": "Trùng roi di chuyển như thế nào?",
+        "TrueCase": 4,
+        "_id": 171
+    },
+    {
+        "CaseA": "Bùi Xuân Phái",
+        "CaseB": "Tô Ngọc Vân",
+        "CaseC": "Nguyễn Đình Thi",
+        "CaseD": "Kim Lân",
+        "Question": "Thiếu nữ bên hoa Huệ là tác phẩm của hoạ sỹ nào?",
+        "TrueCase": 2,
+        "_id": 172
+    },
+    {
+        "CaseA": "Sài Gòn ",
+        "CaseB": "HongKong ",
+        "CaseC": "Băng Cốc",
+        "CaseD": "Thượng Hải ",
+        "Question": "Thành phố nào được coi là Paris của phương Đông?",
+        "TrueCase": 4,
+        "_id": 173
+    },
+    {
+        "CaseA": "Sông Gianh ",
+        "CaseB": "Sông Hương ",
+        "CaseC": "Sông Hồng ",
+        "CaseD": "Sông Nhật Lệ ",
+        "Question": "Sông Linh Giang hay Thanh Hà là tên gọi khác của sông nào?",
+        "TrueCase": 1,
+        "_id": 174
+    },
+    {
+        "CaseA": "Ruồi giấm ",
+        "CaseB": "Giáp xác ",
+        "CaseC": "Chuột nhà ",
+        "CaseD": "Giun tròn ",
+        "Question": "Loài nào có số lượng nhiễm sắc thể lớn nhất trong các loài sau?",
+        "TrueCase": 2,
+        "_id": 175
+    },
+    {
+        "CaseA": "Rắn  lỏng  khí ",
+        "CaseB": "Lỏng  rắn  khí ",
+        "CaseC": "Khí  rắn  lỏng",
+        "CaseD": "Khí  lỏng  rắn ",
+        "Question": "Trong các chất sắp xếp dưới đây cho các chất nở vì nhiệt nhiều tới ít, thứ tự nào đúng nhất?",
+        "TrueCase": 4,
+        "_id": 176
+    },
+    {
+        "CaseA": "OECD",
+        "CaseB": "UN",
+        "CaseC": "GATT",
+        "CaseD": "OAV",
+        "Question": "Tổ chức thống nhất châu Phi gọi tắt là gì?",
+        "TrueCase": 4,
+        "_id": 177
+    },
+    {
+        "CaseA": "Thợ săn ",
+        "CaseB": "Thợ mỏ ",
+        "CaseC": "Thợ hàn ",
+        "CaseD": "Thợ lặn ",
+        "Question": "Bệnh khí áp là bệnh nghề nghiệp của thợ nào dưới đây?",
+        "TrueCase": 4,
+        "_id": 178
+    },
+    {
+        "CaseA": "Phú Yên ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Thanh Hoá ",
+        "CaseD": "Nghệ An ",
+        "Question": "Bãi tắm Mỹ Á, Bãi Bàng thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 179
+    },
+    {
+        "CaseA": "Madagascar",
+        "CaseB": "Malaysia",
+        "CaseC": "Macau",
+        "CaseD": "Malawi",
+        "Question": "Lilongwe là thủ đô nước nào?",
+        "TrueCase": 4,
+        "_id": 180
+    },
+    {
+        "CaseA": "Bahrain",
+        "CaseB": "Pakistan",
+        "CaseC": "Maldiver",
+        "CaseD": "Lesotho",
+        "Question": "Quốc gia nào sau đây không thuộc châu Á?",
+        "TrueCase": 4,
+        "_id": 181
+    },
+    {
+        "CaseA": "Châu Ân Lai ",
+        "CaseB": "Mao Trạch Đông ",
+        "CaseC": "Lưu Thiếu Kỳ ",
+        "CaseD": "Tưởng Giới Thạch ",
+        "Question": "Nước Cộng hoà nhân dân Trung hoa thành lập 1949 do ai đứng đầu?",
+        "TrueCase": 2,
+        "_id": 182
+    },
+    {
+        "CaseA": "Da ",
+        "CaseB": "Não ",
+        "CaseC": "Dạ dày ",
+        "CaseD": "Thận ",
+        "Question": "Cơ quan lớn nhất trong cơ thể?",
+        "TrueCase": 1,
+        "_id": 183
+    },
+    {
+        "CaseA": "Chợ Đầm",
+        "CaseB": "Chợ Gạo ",
+        "CaseC": "Chợ Cầu Muối ",
+        "CaseD": "Chợ Chiếu ",
+        "Question": "Chợ trung tâm của thành phố Nha Trang là chợ gì?",
+        "TrueCase": 1,
+        "_id": 184
+    },
+    {
+        "CaseA": "Yên Bái ",
+        "CaseB": "Phú Thọ ",
+        "CaseC": "Hà Tây ",
+        "CaseD": "Thái Nguyên ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Vĩnh Phúc?",
+        "TrueCase": 1,
+        "_id": 185
+    },
+    {
+        "CaseA": "Bình Thuận ",
+        "CaseB": "Đồng Nai ",
+        "CaseC": "Bình Dương ",
+        "CaseD": "Tp. Hồ Chí Minh ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bà Rịa  Vũng Tàu?",
+        "TrueCase": 3,
+        "_id": 186
+    },
+    {
+        "CaseA": "Chân",
+        "CaseB": "Râu ",
+        "CaseC": "Ngực ",
+        "CaseD": "Lưỡi ",
+        "Question": "Con ốc sên thở bằng cái gì?",
+        "TrueCase": 1,
+        "_id": 187
+    },
+    {
+        "CaseA": "Châu Âu",
+        "CaseB": "Châu Phi ",
+        "CaseC": "Châu Á",
+        "CaseD": "Châu Mỹ",
+        "Question": "Asiad là đại hội thể thao của châu lục nào?",
+        "TrueCase": 3,
+        "_id": 188
+    },
+    {
+        "CaseA": "68",
+        "CaseB": "85",
+        "CaseC": "90",
+        "CaseD": "95",
+        "Question": "Khoảng bao nhiêu phần trăm người Việt Nam sử dụng tiếng Việt?",
+        "TrueCase": 3,
+        "_id": 189
+    },
+    {
+        "CaseA": "Số electron",
+        "CaseB": "Số proton ",
+        "CaseC": "Số nơtron ",
+        "CaseD": "Số khối ",
+        "Question": "Đại lượng đặc trưng của nguyên tố hoá học gọi là?",
+        "TrueCase": 2,
+        "_id": 190
+    },
+    {
+        "CaseA": "Tự dưỡng ",
+        "CaseB": "Dị dưỡng",
+        "CaseC": "Tự dưỡng và dị dưỡng",
+        "CaseD": "Kí sinh ",
+        "Question": "Trùng roi xanh dinh dưỡng bằng hình thức nào?",
+        "TrueCase": 3,
+        "_id": 191
+    },
+    {
+        "CaseA": "Paris",
+        "CaseB": "Genève",
+        "CaseC": "London",
+        "CaseD": "New York",
+        "Question": "Hội nghị thành lập GATT diển ra ở đâu?",
+        "TrueCase": 2,
+        "_id": 192
+    },
+    {
+        "CaseA": "Kitô ",
+        "CaseB": "Phật giáo",
+        "CaseC": "Hồi giáo ",
+        "CaseD": "Ấn Độ giáo",
+        "Question": "Thiên Chúa và Tin Lành là 2 tôn giáo cùng xuất phát từ tôn giáo nào?",
+        "TrueCase": 1,
+        "_id": 193
+    },
+    {
+        "CaseA": "Tahamat ",
+        "CaseB": "Komamoto ",
+        "CaseC": "Lục Thiên Bảo ",
+        "CaseD": "Phạm Tuân",
+        "Question": "Người châu Á đầu tiên bay vào vũ trụ?",
+        "TrueCase": 3,
+        "_id": 194
+    },
+    {
+        "CaseA": "Chuỗi thức ăn ",
+        "CaseB": "Chuỗi sinh vật ",
+        "CaseC": "Lưới thức ăn ",
+        "CaseD": "Lưới sinh vật ",
+        "Question": "Một dãy nhiều sinh vật có quan hệ sinh dưỡng với nhau gọi là gì?",
+        "TrueCase": 1,
+        "_id": 195
+    },
+    {
+        "CaseA": "Nhôm  đồng  sắt ",
+        "CaseB": "Sắt  nhôm  đồng ",
+        "CaseC": "Sắt  đồng  nhôm ",
+        "CaseD": "Đồng  nhôm  sắt ",
+        "Question": "Trong các cách sắp xếp các chất nở vì nhiệt từ ít tới nhiều sau đây, thứ tự nào đúng?",
+        "TrueCase": 3,
+        "_id": 196
+    },
+    {
+        "CaseA": "EU",
+        "CaseB": "EFTA",
+        "CaseC": "LAIA",
+        "CaseD": "OECD",
+        "Question": "Tổ chức cộng tác kinh tế và phát triển gọi tắt là gì?",
+        "TrueCase": 4,
+        "_id": 197
+    },
+    {
+        "CaseA": "Etilic",
+        "CaseB": "Metilic",
+        "CaseC": "Axeton",
+        "CaseD": "Oxi già ",
+        "Question": "Tên một chất hữu cơ có lợi cho người rửa móng tay là chất nào?",
+        "TrueCase": 3,
+        "_id": 198
+    },
+    {
+        "CaseA": "Khánh Hoà ",
+        "CaseB": "Bà Rịa  Vũng Tàu ",
+        "CaseC": "Cà Mau ",
+        "CaseD": "Kiên Giang ",
+        "Question": "Bãi tắm Đại Lãnh, Dốc Lết, Hòn Chông thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 199
+    },
+    {
+        "CaseA": "Rumania",
+        "CaseB": "Rwanda",
+        "CaseC": "Peru",
+        "CaseD": "Panama",
+        "Question": "Bucharest là thủ đô nước nào? ",
+        "TrueCase": 1,
+        "_id": 200
+    },
+    {
+        "CaseA": "Madagascar",
+        "CaseB": "Nepal ",
+        "CaseC": "Ấn Độ ",
+        "CaseD": "Cambodia ",
+        "Question": "Quốc gia nào sau đây không thuộc châu Á?",
+        "TrueCase": 1,
+        "_id": 201
+    },
+    {
+        "CaseA": "Dê ",
+        "CaseB": "Gà ",
+        "CaseC": "Bò ",
+        "CaseD": "Chó ",
+        "Question": "Những người theo đạo Hồi không ăn các món như tôm, thịt chim, lợn và món nào?",
+        "TrueCase": 3,
+        "_id": 202
+    },
+    {
+        "CaseA": "Lý Công Uẩn ",
+        "CaseB": "Lý Thường Kiệt ",
+        "CaseC": "Nguyễn Trãi ",
+        "CaseD": "Lê Lợi ",
+        "Question": "Ai đã sáng tác bài thơ Nam Quốc Sơn Hà?",
+        "TrueCase": 2,
+        "_id": 203
+    },
+    {
+        "CaseA": "Mường ",
+        "CaseB": "Hmông ",
+        "CaseC": "Êđê ",
+        "CaseD": "Chăm ",
+        "Question": "Nối dây là tập tục của dân tộc?",
+        "TrueCase": 3,
+        "_id": 204
+    },
+    {
+        "CaseA": "Nghệ An ",
+        "CaseB": "Thanh Hoá ",
+        "CaseC": "Hà Tĩnh ",
+        "CaseD": "Thừa Thiên Huế",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào giáp với tỉnh Quảng Bình?",
+        "TrueCase": 3,
+        "_id": 205
+    },
+    {
+        "CaseA": "Đồng Nai ",
+        "CaseB": "Tiền Giang ",
+        "CaseC": "Bình Dương ",
+        "CaseD": "Long An ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với thành phố Hồ Chí Minh?",
+        "TrueCase": 2,
+        "_id": 206
+    },
+    {
+        "CaseA": "Phan Huỳnh Điểu ",
+        "CaseB": "Nguyễn Văn Trương ",
+        "CaseC": "Quốc Dũng ",
+        "CaseD": "Trần Long Ẩn ",
+        "Question": "Đêm thành phố đầy sao là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 4,
+        "_id": 207
+    },
+    {
+        "CaseA": "Asian cup",
+        "CaseB": "EURO",
+        "CaseC": "Copa America",
+        "CaseD": "CAN cup",
+        "Question": "Vòng chung kết cúp bóng đá các quốc gia Châu Á được gọi là gì?",
+        "TrueCase": 1,
+        "_id": 208
+    },
+    {
+        "CaseA": "1999",
+        "CaseB": "2000",
+        "CaseC": "2001",
+        "CaseD": "2002",
+        "Question": "Đồng tiền chung của châu Âu được chính thức đưa vào sử dụng vào năm nào?",
+        "TrueCase": 4,
+        "_id": 209
+    },
+    {
+        "CaseA": "Số proton ",
+        "CaseB": "Số electron ",
+        "CaseC": "Số nơtron",
+        "CaseD": "Cả 3",
+        "Question": "Cho số khối của A của một nguyên tử thì chưa thể xác định được?",
+        "TrueCase": 4,
+        "_id": 210
+    },
+    {
+        "CaseA": "Phân đôi theo chiều ngang ",
+        "CaseB": "Phân đôi theo chiều dọc ",
+        "CaseC": "Tiếp hợp ",
+        "CaseD": "Ghép đôi ",
+        "Question": "Trùng roi xanh sinh sản bằng cách nào?",
+        "TrueCase": 2,
+        "_id": 211
+    },
+    {
+        "CaseA": "GATT",
+        "CaseB": "WTA",
+        "CaseC": "HCI",
+        "CaseD": "ICAO",
+        "Question": "Tiền thân của WTO là tổ chức nào?",
+        "TrueCase": 1,
+        "_id": 212
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Việt Nam ",
+        "Question": "Bột ngọt mì chính  là phát minh của nước nào?",
+        "TrueCase": 2,
+        "_id": 213
+    },
+    {
+        "CaseA": "Hungaria",
+        "CaseB": "Rumania",
+        "CaseC": "Bulgaria",
+        "CaseD": "Gruzia",
+        "Question": "Sông Danuyp đổ ra Biển Đen tại Quốc Gia nào?",
+        "TrueCase": 2,
+        "_id": 214
+    },
+    {
+        "CaseA": "1942",
+        "CaseB": "1043 ",
+        "CaseC": "1944",
+        "CaseD": "1945 ",
+        "Question": "Bản giao bài hát Tiến Quân  ca được sáng tác vào năm nào?",
+        "TrueCase": 3,
+        "_id": 215
+    },
+    {
+        "CaseA": "Nhiệt kế ",
+        "CaseB": "Khinh khí cầu ",
+        "CaseC": "Quả bóng bàn ",
+        "CaseD": "Băng kép ",
+        "Question": "Trong các vật dưới đây, vật nào có nguyên tắc hoạt động không dựa trên sự nở vì nhiệt?",
+        "TrueCase": 3,
+        "_id": 216
+    },
+    {
+        "CaseA": "UN",
+        "CaseB": "GATT",
+        "CaseC": "IMF",
+        "CaseD": "UNESCO",
+        "Question": "Liên Hiệp Quốc gọi tắt là gì?",
+        "TrueCase": 1,
+        "_id": 217
+    },
+    {
+        "CaseA": "Tây Nguyên ",
+        "CaseB": "Bắc Bộ ",
+        "CaseC": "Vịnh Hạ Long ",
+        "CaseD": "Bắc Trung Bộ ",
+        "Question": "Khu vực có nhiều mỏ quặng Boxit lớn nhất nước ta là?",
+        "TrueCase": 1,
+        "_id": 218
+    },
+    {
+        "CaseA": "Đại Lãnh ",
+        "CaseB": "Mỹ Á ",
+        "CaseC": "Hoàng Hậu ",
+        "CaseD": "Cửa Tùng ",
+        "Question": "Biển nào của nước ta được ví như Địa Trung Hải của Việt Nam?",
+        "TrueCase": 1,
+        "_id": 219
+    },
+    {
+        "CaseA": "Ethiopia",
+        "CaseB": "Sudan",
+        "CaseC": "Kenya",
+        "CaseD": "Nigeria",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 3,
+        "_id": 220
+    },
+    {
+        "CaseA": "Afganistan ",
+        "CaseB": "Li Băng ",
+        "CaseC": "Đông Timor",
+        "CaseD": "Samoa ",
+        "Question": "Quốc gia nào sau đây không thuộc châu Á?",
+        "TrueCase": 4,
+        "_id": 221
+    },
+    {
+        "CaseA": "18h ",
+        "CaseB": "20h ",
+        "CaseC": "22h ",
+        "CaseD": "23h ",
+        "Question": "Người Tây Ban Nha thường đặt bàn ăn cho bữa tối vào lúc mấy giờ?",
+        "TrueCase": 2,
+        "_id": 222
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Italia",
+        "CaseC": "Pháp ",
+        "CaseD": "Đức ",
+        "Question": "Christopher Columbus được sinh ra tại nước nào?",
+        "TrueCase": 2,
+        "_id": 223
+    },
+    {
+        "CaseA": "Cần Giờ ",
+        "CaseB": "Cát Tiên ",
+        "CaseC": "Bình Châu ",
+        "CaseD": "Mã Đà ",
+        "Question": "Tên một vườn quốc gia nổi tiếng ở Đồng Nai?",
+        "TrueCase": 2,
+        "_id": 224
+    },
+    {
+        "CaseA": "Quảng Bình ",
+        "CaseB": "Hà Tĩnh ",
+        "CaseC": "Quảng Nam ",
+        "CaseD": "Tp. Đà Nẵng",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào giáp với tỉnh Quảng Trị?",
+        "TrueCase": 1,
+        "_id": 225
+    },
+    {
+        "CaseA": "Đồng Tháp ",
+        "CaseB": "An Giang ",
+        "CaseC": "Tây Ninh ",
+        "CaseD": "Tiền Giang ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Long An?",
+        "TrueCase": 2,
+        "_id": 226
+    },
+    {
+        "CaseA": "Vũ Trọng Hồi ",
+        "CaseB": "Trần Tiến ",
+        "CaseC": "Đoàn Chuẩn",
+        "CaseD": "Phạm Tuyên",
+        "Question": "Đường tôi đi dài theo đất nước là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 1,
+        "_id": 227
+    },
+    {
+        "CaseA": "Copa America",
+        "CaseB": "Asian Cup",
+        "CaseC": "Euro",
+        "CaseD": "CAN cup",
+        "Question": "Vòng chung kết cúp bóng đá các quốc gia châu Mỹ được gọi là gì?",
+        "TrueCase": 1,
+        "_id": 228
+    },
+    {
+        "CaseA": "10",
+        "CaseB": "11",
+        "CaseC": "12",
+        "CaseD": "13",
+        "Question": "Có bao nhiêu vị thần trên đỉnh Olympia?",
+        "TrueCase": 3,
+        "_id": 229
+    },
+    {
+        "CaseA": "Số nơtron",
+        "CaseB": "Số proton ",
+        "CaseC": "Điện tích hạt nhân ",
+        "CaseD": "Dố hiệu nguyên tử ",
+        "Question": "Đại lượng không đặc trưng cho một nguyên tố hoá học là?",
+        "TrueCase": 1,
+        "_id": 230
+    },
+    {
+        "CaseA": "Tự dưỡng ",
+        "CaseB": "Dị dưỡng ",
+        "CaseC": "Tự dưỡng và dị dưỡng ",
+        "CaseD": "Cộng sinh ",
+        "Question": "Hình thức dinh dưỡng của trùng biến hình là gì?",
+        "TrueCase": 2,
+        "_id": 231
+    },
+    {
+        "CaseA": "Stockholm",
+        "CaseB": "Amsterdam",
+        "CaseC": "Copenhagen",
+        "CaseD": "Helsinky",
+        "Question": "Thành phố nào được mệnh danh là Venice của phương Bắc?",
+        "TrueCase": 1,
+        "_id": 232
+    },
+    {
+        "CaseA": "Nga ",
+        "CaseB": "Canada",
+        "CaseC": " Na Uy ",
+        "CaseD": "Iceland",
+        "Question": "Nước nào có thủ đô gần cực Bắc nhất?",
+        "TrueCase": 4,
+        "_id": 233
+    },
+    {
+        "CaseA": "Davy",
+        "CaseB": "Rutherford",
+        "CaseC": "Faraday",
+        "CaseD": "Marie Curie",
+        "Question": "Ai là người thực hiện phản ứng hạt nhân đầu tiên?",
+        "TrueCase": 2,
+        "_id": 234
+    },
+    {
+        "CaseA": "Sao Thổ ",
+        "CaseB": "Sao Diêm Vương",
+        "CaseC": "Sao Hải Vương ",
+        "CaseD": "Sao Thiên Vương",
+        "Question": "Trong hệ mặt trời, hành tinh nào cách xa mặt trời nhất?",
+        "TrueCase": 2,
+        "_id": 235
+    },
+    {
+        "CaseA": "Nước ở trên cao ",
+        "CaseB": "Không có gì cản ",
+        "CaseC": "Trọng lực ",
+        "CaseD": "Mặt đất nhấp nhô ",
+        "Question": "Thác nước chảy từ trên cao xuống là do?",
+        "TrueCase": 3,
+        "_id": 236
+    },
+    {
+        "CaseA": "GATT",
+        "CaseB": "IMF",
+        "CaseC": "OECD",
+        "CaseD": "OAV",
+        "Question": "Thoả ước chung về thuế quan và thương mại gọi tắt là gì?",
+        "TrueCase": 1,
+        "_id": 237
+    },
+    {
+        "CaseA": "Quảng Bình ",
+        "CaseB": "Quảng Trị ",
+        "CaseC": "Quảng Ninh ",
+        "CaseD": "Quảng Nam ",
+        "Question": "Đảo Khỉ ở tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 238
+    },
+    {
+        "CaseA": "Ninh Thuận ",
+        "CaseB": "Bình Thuận ",
+        "CaseC": "Bình Định ",
+        "CaseD": "Bà Rịa  Vũng Tàu ",
+        "Question": "Bãi biển Mũi, Đồi Dương thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 239
+    },
+    {
+        "CaseA": "CH Tchad ",
+        "CaseB": "Niger ",
+        "CaseC": "Tanzania ",
+        "CaseD": "Guinea Xích Đạo ",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 4,
+        "_id": 240
+    },
+    {
+        "CaseA": "Colombia ",
+        "CaseB": "Lesotho ",
+        "CaseC": "Peru ",
+        "CaseD": "Chile ",
+        "Question": "Quốc gia nào sau đây không thuộc châu Mỹ?",
+        "TrueCase": 2,
+        "_id": 241
+    },
+    {
+        "CaseA": "Maiko ",
+        "CaseB": "Geisha ",
+        "CaseC": "Samurai ",
+        "CaseD": "Kimono ",
+        "Question": "Con người của nghệ thuật ở Nhật Bản được gọi là gì?",
+        "TrueCase": 2,
+        "_id": 242
+    },
+    {
+        "CaseA": "22  06 ",
+        "CaseB": "23  07 ",
+        "CaseC": "21  05 ",
+        "CaseD": "25  08 ",
+        "Question": "Hạ chí là ngày mấy tháng mấy của âm lịch Việt Nam?",
+        "TrueCase": 1,
+        "_id": 243
+    },
+    {
+        "CaseA": "Malaysia",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Indonesia ",
+        "Question": "Java là tên một quần đảo nằm ở đâu?",
+        "TrueCase": 4,
+        "_id": 244
+    },
+    {
+        "CaseA": "Quảng Trị ",
+        "CaseB": "Quảng Bình ",
+        "CaseC": "Quảng Ngãi ",
+        "CaseD": "Kon Tum",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào giáp với tỉnh Thừa Thiên Huế?",
+        "TrueCase": 1,
+        "_id": 245
+    },
+    {
+        "CaseA": "Long An ",
+        "CaseB": "Đồng Tháp ",
+        "CaseC": "An Giang ",
+        "CaseD": "Bến Tre ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Tiền Giang?",
+        "TrueCase": 3,
+        "_id": 246
+    },
+    {
+        "CaseA": "Từ Linh và Đoàn Chuẩn ",
+        "CaseB": "Trần Tiến ",
+        "CaseC": "Phạm Tuyên ",
+        "CaseD": "Vũ Trọng Hồi ",
+        "Question": "Gửi người em gái là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 1,
+        "_id": 247
+    },
+    {
+        "CaseA": "Euro",
+        "CaseB": "CAN cup",
+        "CaseC": "Asian cup ",
+        "CaseD": "Copa America",
+        "Question": "Vòng chung kết cúp bóng đá các quốc gia Châu Phi được gọi là gì?",
+        "TrueCase": 2,
+        "_id": 248
+    },
+    {
+        "CaseA": "3001",
+        "CaseB": "3514",
+        "CaseC": "3203",
+        "CaseD": "3254",
+        "Question": "Truyện Kiều của Nguyễn Du gồm tổng cộng bao nhiêu câu?",
+        "TrueCase": 4,
+        "_id": 249
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Nguyên tố Hidro trong tự nhiên có bao nhiêu đồng vị?",
+        "TrueCase": 3,
+        "_id": 250
+    },
+    {
+        "CaseA": "Roi bơi ",
+        "CaseB": "Vây bơi ",
+        "CaseC": "Lông bơi",
+        "CaseD": "Chân giả",
+        "Question": "Trùng giày di chuyển nhờ bộ phận nào?",
+        "TrueCase": 3,
+        "_id": 251
+    },
+    {
+        "CaseA": "hidro",
+        "CaseB": "Natri",
+        "CaseC": "Heli",
+        "CaseD": "Oxi",
+        "Question": "Nguyên tố hoá học nào đứng đầu bảng tuần hoàn?",
+        "TrueCase": 1,
+        "_id": 252
+    },
+    {
+        "CaseA": "Ấn Độ Dương ",
+        "CaseB": "Hắc Hải ",
+        "CaseC": "Hồng Hải",
+        "CaseD": "Thái Bình Dương",
+        "Question": "Kênh đào Suez nối liền Địa Trung Hải với biển nào?",
+        "TrueCase": 3,
+        "_id": 253
+    },
+    {
+        "CaseA": "Hawaii ",
+        "CaseB": "Saint Helen ",
+        "CaseC": "Madagasca",
+        "CaseD": "Java",
+        "Question": "Napoleon đã bị trục xuất và sống những ngày cuối đời tại hòn đảo nào?",
+        "TrueCase": 2,
+        "_id": 254
+    },
+    {
+        "CaseA": "Sao Kim",
+        "CaseB": "Sao Thổ ",
+        "CaseC": "Sao Thuỷ ",
+        "CaseD": "Sao Mộc ",
+        "Question": "Trong hệ mặt trời, hành tinh nào gần trái đất hơn các hành tinh còn lại?",
+        "TrueCase": 1,
+        "_id": 255
+    },
+    {
+        "CaseA": "Quả bóng cao su trên mặt nước ",
+        "CaseB": "Quả bóng đập vào tường ",
+        "CaseC": "Lò xo để tự nhiên ",
+        "CaseD": "Tờ giấy gập đôi ",
+        "Question": "Trường hợp nào sau đây xuất hiện lực đàn hồi?",
+        "TrueCase": 2,
+        "_id": 256
+    },
+    {
+        "CaseA": "IMF",
+        "CaseB": "WTO",
+        "CaseC": "WHO",
+        "CaseD": "NATO",
+        "Question": "Quỹ tiền tệ quốc tế gọi tắt là gì?",
+        "TrueCase": 1,
+        "_id": 257
+    },
+    {
+        "CaseA": "Hidro ",
+        "CaseB": "Heli ",
+        "CaseC": "Clo ",
+        "CaseD": "Nitơ",
+        "Question": "Khi đóng hộp các hộp sữa, người ta bơm khí gì để loại hết oxi tránh các phản ứng oxi hoá khử?",
+        "TrueCase": 4,
+        "_id": 258
+    },
+    {
+        "CaseA": "Cà Mau ",
+        "CaseB": "Kiên Giang ",
+        "CaseC": "Trà Vinh ",
+        "CaseD": "Bà Rịa  Vũng Tàu ",
+        "Question": "Bãi Trước, bãi Sau, Nghinh Phong, Long Hải thuộc tỉnh nào?",
+        "TrueCase": 4,
+        "_id": 259
+    },
+    {
+        "CaseA": "Cameroon",
+        "CaseB": "Mali",
+        "CaseC": "Angola",
+        "CaseD": "Gabong",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 4,
+        "_id": 260
+    },
+    {
+        "CaseA": "Senegal ",
+        "CaseB": "Ecuador ",
+        "CaseC": "Uruguay ",
+        "CaseD": "Bolivia ",
+        "Question": "Quốc gia nào sau đây không thuộc châu Mỹ?",
+        "TrueCase": 1,
+        "_id": 261
+    },
+    {
+        "CaseA": "Cầu vồng ",
+        "CaseB": "Phản xạ ",
+        "CaseC": "Cực quang ",
+        "CaseD": "Ảo giác",
+        "Question": "Hiện tượng gây ra bởi sự tán sắc ánh sáng mặt trời qua các giọt nước mưa có tên là gì?",
+        "TrueCase": 1,
+        "_id": 262
+    },
+    {
+        "CaseA": "Bahrain",
+        "CaseB": "Belarus",
+        "CaseC": "Bangladesk",
+        "CaseD": "Benin",
+        "Question": "Quốc kỳ quốc gia nào có nền màu xanh lá cây, có vòng tròn màu đỏ ở giữa?",
+        "TrueCase": 3,
+        "_id": 263
+    },
+    {
+        "CaseA": "Lai Châu ",
+        "CaseB": "Sơn La ",
+        "CaseC": "Yên Bái ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Lào Cai?",
+        "TrueCase": 4,
+        "_id": 264
+    },
+    {
+        "CaseA": "Quảng Nam ",
+        "CaseB": "Quảng Ngãi ",
+        "CaseC": "Quảng Bình ",
+        "CaseD": "Quảng Trị ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào giáp với thành phố Đà Nẵng?",
+        "TrueCase": 1,
+        "_id": 265
+    },
+    {
+        "CaseA": "Long An ",
+        "CaseB": "Tiền Giang ",
+        "CaseC": "Bến Tre ",
+        "CaseD": "An Giang ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Đồng Tháp?",
+        "TrueCase": 3,
+        "_id": 266
+    },
+    {
+        "CaseA": "Văn Cao ",
+        "CaseB": "Trịnh Công Sơn ",
+        "CaseC": "Phan Huỳnh Điểu ",
+        "CaseD": "Phan Minh Tuấn ",
+        "Question": "Huyền thoại mẹ là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 2,
+        "_id": 267
+    },
+    {
+        "CaseA": "Tứ kết",
+        "CaseB": "Bán kết",
+        "CaseC": "Tranh hạng ba",
+        "CaseD": "Không qua vòng loại",
+        "Question": "Thành tích cao nhất của bóng đá Việt Nam tại các kì Asian cup trước năm 2010?",
+        "TrueCase": 1,
+        "_id": 268
+    },
+    {
+        "CaseA": "Rheil",
+        "CaseB": "Volga",
+        "CaseC": "Danube",
+        "CaseD": "Themes",
+        "Question": "Con sông nào chảy qua 10 nước châu Âu và 3 thủ đô?",
+        "TrueCase": 3,
+        "_id": 269
+    },
+    {
+        "CaseA": "Hidro ",
+        "CaseB": "Cacbon ",
+        "CaseC": "Oxi ",
+        "CaseD": "Brom",
+        "Question": "Nguyên tố hoá  học nào có một đồng vị mà hạt nhân có số nơtron bằng 2 lần số proton?",
+        "TrueCase": 1,
+        "_id": 270
+    },
+    {
+        "CaseA": "Hồng cầu ",
+        "CaseB": "Bạch cầu ",
+        "CaseC": "Tiểu cầu ",
+        "CaseD": "Ruột người",
+        "Question": "Trùng kiết lị ký sinh ở đâu?",
+        "TrueCase": 4,
+        "_id": 271
+    },
+    {
+        "CaseA": "Vườn treo Babylon",
+        "CaseB": "Vạn lý trường thành",
+        "CaseC": "Kim tự tháp Keops",
+        "CaseD": "Ngọn hải đăng Alexandria",
+        "Question": "Kỳ quan cổ đại duy nhất còn tồn tại cho tới nay?",
+        "TrueCase": 3,
+        "_id": 272
+    },
+    {
+        "CaseA": "Thuỵ Điển",
+        "CaseB": "Ba Lan ",
+        "CaseC": "Iceland",
+        "CaseD": "Pháp ",
+        "Question": "Quốc gia nào ở châu Âu có nhiều núi lửa nhất?",
+        "TrueCase": 3,
+        "_id": 273
+    },
+    {
+        "CaseA": "Tia lửa dân tộc ",
+        "CaseB": "Búa liềm ",
+        "CaseC": "Dân tộc ",
+        "CaseD": "Cùng khổ ",
+        "Question": "Tờ báo đầu tiên của cách mạng Nga là gì?",
+        "TrueCase": 1,
+        "_id": 274
+    },
+    {
+        "CaseA": "Sao Hoả ",
+        "CaseB": "Sao Thuỷ ",
+        "CaseC": "Sao Kim ",
+        "CaseD": "Sao Mộc ",
+        "Question": "Một người tinh mắt có thể đọc sách dưới ánh sáng của sao nào?",
+        "TrueCase": 3,
+        "_id": 275
+    },
+    {
+        "CaseA": "Mĩ ",
+        "CaseB": "Liên Xô ",
+        "CaseC": "Anh ",
+        "CaseD": "Nhật Bản ",
+        "Question": "Nước đầu tiên phóng thành công vệ tinh nhân tạo lên vũ trụ là?",
+        "TrueCase": 2,
+        "_id": 276
+    },
+    {
+        "CaseA": "Hà Đông ",
+        "CaseB": "Hà Tây ",
+        "CaseC": "Hà Nội ",
+        "CaseD": "Hà Nam ",
+        "Question": "Nghề mộc phát triển ở tỉnh nào nhất?",
+        "TrueCase": 2,
+        "_id": 277
+    },
+    {
+        "CaseA": "Quảng Bình ",
+        "CaseB": "Quảng Ninh ",
+        "CaseC": "Quảng Ngãi ",
+        "CaseD": "Quảng Nam ",
+        "Question": "Bãi tắm Trà Cổ là một trong những bãi tắm đẹp nhất, nó thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 278
+    },
+    {
+        "CaseA": "Sóc Trăng ",
+        "CaseB": "Kiên Giang ",
+        "CaseC": "Trà Vinh ",
+        "CaseD": "Cà Mau ",
+        "Question": "Bãi biển Ba Động thuộc tỉnh nào?",
+        "TrueCase": 3,
+        "_id": 279
+    },
+    {
+        "CaseA": "Uganda ",
+        "CaseB": "Tanzania ",
+        "CaseC": "Angola ",
+        "CaseD": "Sudan ",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 1,
+        "_id": 280
+    },
+    {
+        "CaseA": "Solomon",
+        "CaseB": "Tuvalu ",
+        "CaseC": "Haiti ",
+        "CaseD": "New Zealand ",
+        "Question": "Quốc gia nào sau đây không thuộc châu Đại Dương?",
+        "TrueCase": 3,
+        "_id": 281
+    },
+    {
+        "CaseA": "100",
+        "CaseB": "1.000.000",
+        "CaseC": "500 ",
+        "CaseD": "5000",
+        "Question": "Đường kính của sợi tóc lớn gấp bao nhiêu lần độ dày của màng xà phòng?",
+        "TrueCase": 4,
+        "_id": 282
+    },
+    {
+        "CaseA": "Nhật Bản",
+        "CaseB": "Triều Tiên ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Quốc kỳ quốc gia nào có hình bát quái?",
+        "TrueCase": 3,
+        "_id": 283
+    },
+    {
+        "CaseA": "Bắc Kạn",
+        "CaseB": "Lào Cai ",
+        "CaseC": "Yên Bái ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Hà Giang?",
+        "TrueCase": 1,
+        "_id": 284
+    },
+    {
+        "CaseA": "Thừa Thiên Huế ",
+        "CaseB": "Tp. Đà  Nẵng",
+        "CaseC": "Quảng Ngãi ",
+        "CaseD": "Quảng Trị",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Quảng Nam?",
+        "TrueCase": 4,
+        "_id": 285
+    },
+    {
+        "CaseA": "Đồng Tháp ",
+        "CaseB": "Long An ",
+        "CaseC": "Kiên Giang ",
+        "CaseD": "Cần Thơ ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh An Giang?",
+        "TrueCase": 2,
+        "_id": 286
+    },
+    {
+        "CaseA": "Ngọc Khuê",
+        "CaseB": "Đàm Thanh ",
+        "CaseC": "Xuân Hồng ",
+        "CaseD": "Doãn Nho ",
+        "Question": "Mùa xuân trên thành phố Hồ Chí Minh là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 3,
+        "_id": 287
+    },
+    {
+        "CaseA": "1958",
+        "CaseB": "1959",
+        "CaseC": "1960",
+        "CaseD": "1961",
+        "Question": " Seagames được tổ chức lần đầu tiên vào năm nào?",
+        "TrueCase": 2,
+        "_id": 288
+    },
+    {
+        "CaseA": "Nước",
+        "CaseB": "Lửa ",
+        "CaseC": "Đất",
+        "CaseD": "Vũ trụ",
+        "Question": "Heraclit coi cái gì là yếu tố đầu tiên của nguồn gốc loài người?",
+        "TrueCase": 2,
+        "_id": 289
+    },
+    {
+        "CaseA": "Số proton ",
+        "CaseB": "Số nơtron ",
+        "CaseC": "Số electron ",
+        "CaseD": "Số hiệu nguyên tử ",
+        "Question": "Các đồng vị có số khối khác nhau là do khác nhau về?",
+        "TrueCase": 2,
+        "_id": 290
+    },
+    {
+        "CaseA": "Roi bơi ",
+        "CaseB": "Vây bơi ",
+        "CaseC": "Không có bộ phận di chuyển ",
+        "CaseD": "Chân giả",
+        "Question": "Trùng sốt rét di chuyển bằng bộ phận nào?",
+        "TrueCase": 3,
+        "_id": 291
+    },
+    {
+        "CaseA": "Hàn Quốc",
+        "CaseB": "Nhật Bản",
+        "CaseC": "Phillipin",
+        "CaseD": "Indonesia",
+        "Question": "Nước có cộng đồng Thiên chúa giáo lớn nhất châu Á",
+        "TrueCase": 3,
+        "_id": 292
+    },
+    {
+        "CaseA": "Milan ",
+        "CaseB": "Napoli ",
+        "CaseC": "Pisa",
+        "CaseD": "Rome ",
+        "Question": "Bánh Pizza có xuất xứ từ thành phố nào của Italia?",
+        "TrueCase": 3,
+        "_id": 293
+    },
+    {
+        "CaseA": "Acsimet",
+        "CaseB": "Galile",
+        "CaseC": "Pascal",
+        "CaseD": "Newton",
+        "Question": "Ai là người đầu tiên đưa ra công thức của bài toán cơ học?",
+        "TrueCase": 1,
+        "_id": 294
+    },
+    {
+        "CaseA": "Rowan Atkinson",
+        "CaseB": "Ben Miller",
+        "CaseC": "Bruce Willis",
+        "CaseD": "Chưa có ai",
+        "Question": "Diễn viên nào đã thành công trong vai diễn Mr. Bean ?",
+        "TrueCase": 1,
+        "_id": 295
+    },
+    {
+        "CaseA": "Hà Nội ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Tuyên  Quang ",
+        "CaseD": "Thái Nguyên ",
+        "Question": "Hội nghị Trung ương Đảng Cộng sản Đông Dương lần thứ VIII 51941 diễn ra tại đâu?",
+        "TrueCase": 2,
+        "_id": 296
+    },
+    {
+        "CaseA": "Xe đạp ",
+        "CaseB": "Gạo ",
+        "CaseC": "Muối ",
+        "CaseD": "Tủ lạnh ",
+        "Question": "Những hàng hoá nào dưới đây bạn cho là hàng bình thường?",
+        "TrueCase": 4,
+        "_id": 297
+    },
+    {
+        "CaseA": "Nghệ An ",
+        "CaseB": "Nghệ Tĩnh ",
+        "CaseC": "Thanh Hoá ",
+        "CaseD": "Hải Phòng ",
+        "Question": "Bãi tắm Đồ Sơn thuộc tỉnh nào?",
+        "TrueCase": 4,
+        "_id": 298
+    },
+    {
+        "CaseA": "Cà Mau ",
+        "CaseB": "Trà Vinh ",
+        "CaseC": "Bà Rịa  Vũng Tàu ",
+        "CaseD": "Kiên Giang ",
+        "Question": "Bãi biển Kiên Lương, Ba Hòn thuộc tỉnh nào?",
+        "TrueCase": 4,
+        "_id": 299
+    },
+    {
+        "CaseA": "Djibouti",
+        "CaseB": "Somalia",
+        "CaseC": "Ethiopia",
+        "CaseD": "Malawi",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 2,
+        "_id": 300
+    },
+    {
+        "CaseA": "Fiji ",
+        "CaseB": "Samoa ",
+        "CaseC": "Tonga ",
+        "CaseD": "Congo",
+        "Question": "Quốc gia nào sau đây không thuộc châu Đại Dương?",
+        "TrueCase": 4,
+        "_id": 301
+    },
+    {
+        "CaseA": "Chân đế",
+        "CaseB": "Nguồn sáng ",
+        "CaseC": "Lăng kính ",
+        "CaseD": "Kính hội tụ ",
+        "Question": " Bộ phận quan trọng nhất của máy quang phổ là gì?",
+        "TrueCase": 3,
+        "_id": 302
+    },
+    {
+        "CaseA": "Rùa ",
+        "CaseB": "Bạch tuộc ",
+        "CaseC": "Đà điểu ",
+        "CaseD": "Cá voi xanh ",
+        "Question": "Trong các loài động vật sau đây, loài nào có tới 3 trái tim?",
+        "TrueCase": 2,
+        "_id": 303
+    },
+    {
+        "CaseA": "Lai Châu ",
+        "CaseB": "Yên Bái ",
+        "CaseC": "Phú Thọ ",
+        "CaseD": "Bắc Kạn ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Tuyên Quang?",
+        "TrueCase": 1,
+        "_id": 304
+    },
+    {
+        "CaseA": "Quảng Trị ",
+        "CaseB": "Quảng Ngãi ",
+        "CaseC": "Quảng Nam ",
+        "CaseD": "Tp. Đà Nẵng ",
+        "Question": "Trong các tỉnh sau đây, tỉnh thành phố nào không giáp với tỉnh Thừa Thiên Huế?",
+        "TrueCase": 2,
+        "_id": 305
+    },
+    {
+        "CaseA": "Cần Thơ ",
+        "CaseB": "Đồng Tháp ",
+        "CaseC": "Long An ",
+        "CaseD": "Bến Tre ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Vĩnh Long?",
+        "TrueCase": 3,
+        "_id": 306
+    },
+    {
+        "CaseA": "Trần Tiến",
+        "CaseB": "Xuân Quỳnh ",
+        "CaseC": "Phan Huỳnh Điểu ",
+        "CaseD": "Văn Cao ",
+        "Question": "Thuyền và Biển là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 3,
+        "_id": 307
+    },
+    {
+        "CaseA": "Hình tròn",
+        "CaseB": "Hình Elip",
+        "CaseC": "Hình Parabol ",
+        "CaseD": "Hình Hyperbol",
+        "Question": "Các hành tinh chuyển động xung quanh mặt trời theo quỹ đạo nào?",
+        "TrueCase": 2,
+        "_id": 308
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "3",
+        "CaseC": "4",
+        "CaseD": "5",
+        "Question": "Chân đà điểu có bao nhiêu móng?",
+        "TrueCase": 1,
+        "_id": 309
+    },
+    {
+        "CaseA": "g",
+        "CaseB": "Kg",
+        "CaseC": "u",
+        "CaseD": "gmol",
+        "Question": "Nguyên tử khối có đơn vị?",
+        "TrueCase": 3,
+        "_id": 310
+    },
+    {
+        "CaseA": "Sông Danube",
+        "CaseB": "Sông Trường Giang",
+        "CaseC": "Sông Mekong",
+        "CaseD": "Sông Vonga",
+        "Question": "Con sông chảy qua nhiều quốc gia nhất?",
+        "TrueCase": 1,
+        "_id": 311
+    },
+    {
+        "CaseA": "Nam Phi",
+        "CaseB": "Nga",
+        "CaseC": "Mỹ",
+        "CaseD": "Trung Quốc",
+        "Question": "Nước nào có sản lưọng khai thác vàng lớn nhất thế giới hiện nay?",
+        "TrueCase": 1,
+        "_id": 312
+    },
+    {
+        "CaseA": "San Francisco",
+        "CaseB": "Chicago ",
+        "CaseC": "Miami ",
+        "CaseD": "Los Angeles",
+        "Question": "Thành phố nào sau đây không thuộc vành đai mặt trời của Mỹ?",
+        "TrueCase": 2,
+        "_id": 313
+    },
+    {
+        "CaseA": "Thanh Hoá ",
+        "CaseB": "Phú Thọ ",
+        "CaseC": "Hà Giang ",
+        "CaseD": "Nghệ An ",
+        "Question": "Muốn đến thăn di tích lịch sử Dinh Họ Vương, bạn phải đến địa danh nào?",
+        "TrueCase": 3,
+        "_id": 314
+    },
+    {
+        "CaseA": "Xã hội chiếm hữu nô lệ ",
+        "CaseB": "Xã hội nguyên thuỷ ",
+        "CaseC": "Xã hội phong kiến ",
+        "CaseD": "Xã hội tư bản chủ nghĩa ",
+        "Question": "Giai cấp địa chủ và nông dân tá điền là 2 giai cấp chính của?",
+        "TrueCase": 3,
+        "_id": 315
+    },
+    {
+        "CaseA": "Sắt ",
+        "CaseB": "Boxit ",
+        "CaseC": "Kẽm ",
+        "CaseD": "Thiếc ",
+        "Question": "Loại khoáng sản có trữ lượng lớn nhất ở Tây Nguyên là?",
+        "TrueCase": 2,
+        "_id": 316
+    },
+    {
+        "CaseA": "Gạo ",
+        "CaseB": "Tivi màu",
+        "CaseC": "xe ô tô",
+        "CaseD": "Xe gắn máy ",
+        "Question": "Những hàng hoá nào dưới đây là hàng thứ cấp?",
+        "TrueCase": 1,
+        "_id": 317
+    },
+    {
+        "CaseA": "Hải Phòng ",
+        "CaseB": "Quảng Ninh ",
+        "CaseC": "Bình Thuận ",
+        "CaseD": "Ninh Thuận ",
+        "Question": "Bãi tắm Cát Bà thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 318
+    },
+    {
+        "CaseA": "Trà Vinh ",
+        "CaseB": "Kiên Giang ",
+        "CaseC": "Cà Mau ",
+        "CaseD": "Bến Tre ",
+        "Question": "Bãi biển Khai Long thuộc tỉnh nào?",
+        "TrueCase": 3,
+        "_id": 319
+    },
+    {
+        "CaseA": "Trung Phi ",
+        "CaseB": "Congo ",
+        "CaseC": "Angola ",
+        "CaseD": "Zambia ",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 2,
+        "_id": 320
+    },
+    {
+        "CaseA": "Úc",
+        "CaseB": "New Zealand",
+        "CaseC": "Papua New Guinea",
+        "CaseD": "Trinidad  Tobago ",
+        "Question": "Quốc gia nào sau đây không thuộc châu Đại Dương?",
+        "TrueCase": 1,
+        "_id": 321
+    },
+    {
+        "CaseA": "Phật giáo",
+        "CaseB": "Khổng giáo ",
+        "CaseC": "Minh giáo ",
+        "CaseD": "Đạo giáo ",
+        "Question": "Nho giáo còn được gọi là?",
+        "TrueCase": 2,
+        "_id": 322
+    },
+    {
+        "CaseA": "Hình tròn ",
+        "CaseB": "Bằng đồng ",
+        "CaseC": "Đánh bằng dùi ",
+        "CaseD": "Có núm ",
+        "Question": "Chiêng khác với cồng ở điểm gì?",
+        "TrueCase": 4,
+        "_id": 323
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Tuyên Quang ",
+        "CaseC": "Hà Giang ",
+        "CaseD": "Lạng Sơn ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bắc Kạn?",
+        "TrueCase": 2,
+        "_id": 324
+    },
+    {
+        "CaseA": "Kontum ",
+        "CaseB": "Quảng Nam ",
+        "CaseC": "Tp. Đà Nẵng ",
+        "CaseD": "Bình Định ",
+        "Question": "Trong các tỉnh sau đây, tỉnh thành phố nào không giáp với tỉnh Quảng Ngãi?",
+        "TrueCase": 3,
+        "_id": 325
+    },
+    {
+        "CaseA": "Vĩnh Long ",
+        "CaseB": "Tiền Giang ",
+        "CaseC": "Trà Vinh ",
+        "CaseD": "Đồng Tháp",
+        "Question": "Trong các tỉnh sau đây, tình nào không giáp với tỉnh Bến Tre?",
+        "TrueCase": 4,
+        "_id": 326
+    },
+    {
+        "CaseA": "Nguyễn Hữu Trí ",
+        "CaseB": "Hoàng Việt ",
+        "CaseC": " Bùi Đức Hạnh ",
+        "CaseD": "Trần Long Ẩn ",
+        "Question": "Tiểu đoàn 307 là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 1,
+        "_id": 327
+    },
+    {
+        "CaseA": "Iceland",
+        "CaseB": "Qatar",
+        "CaseC": "Namibia",
+        "CaseD": "Sudan",
+        "Question": "Quốc gia nào có sự chênh lệch về giới tính nhất hành tinh?",
+        "TrueCase": 2,
+        "_id": 328
+    },
+    {
+        "CaseA": "1053 ",
+        "CaseB": "1054 ",
+        "CaseC": "1055",
+        "CaseD": "1056",
+        "Question": "Quốc hiệu Đại Việt chính thức bắt đầu từ năm nào?",
+        "TrueCase": 2,
+        "_id": 329
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "6",
+        "CaseC": "10",
+        "CaseD": "14",
+        "Question": "Trong nguyên tử, phân lớp d có tối đa bao nhiêu electron?",
+        "TrueCase": 3,
+        "_id": 330
+    },
+    {
+        "CaseA": "FAO",
+        "CaseB": "FOA",
+        "CaseC": "FTU",
+        "CaseD": "UFO",
+        "Question": "Tổ chức Nông lương Liên hợp quốc có tên viết tắt là gì?",
+        "TrueCase": 1,
+        "_id": 331
+    },
+    {
+        "CaseA": "Nga",
+        "CaseB": "Trung Quốc ",
+        "CaseC": "Iraq",
+        "CaseD": "Iran",
+        "Question": "Nước nào có trữ lượng dầu lớn thứ 2 thế giới?",
+        "TrueCase": 1,
+        "_id": 332
+    },
+    {
+        "CaseA": "Stockholm",
+        "CaseB": "Salzburg",
+        "CaseC": "Cock",
+        "CaseD": "Copenhagen",
+        "Question": "Thành phố nào được chọn làm thủ đô văn hoá của châu Âu năm 2005?",
+        "TrueCase": 3,
+        "_id": 333
+    },
+    {
+        "CaseA": "Manneken Pis",
+        "CaseB": "Wallonia",
+        "CaseC": "Sambre Meuse",
+        "CaseD": "Passendale",
+        "Question": "Bưc tượng cậu bé đứng tè, biểu tượng của nước Bỉ có tên riêng là gì?",
+        "TrueCase": 1,
+        "_id": 334
+    },
+    {
+        "CaseA": "Nguyễn Trãi ",
+        "CaseB": "Đinh Liệt",
+        "CaseC": "Lê Lợi ",
+        "CaseD": "Lưu Nhân Chí ",
+        "Question": "Người đứng đầu cuộc khởi nghĩa Lam Sơn là ai?",
+        "TrueCase": 3,
+        "_id": 335
+    },
+    {
+        "CaseA": "Nước lạnh",
+        "CaseB": "Nước mưa ",
+        "CaseC": "Nước nóng ",
+        "CaseD": "Nước giếng ",
+        "Question": "Khi mùa hè đến, người ta dùng nước gì để lau người để cảm thấy mát mẻ?",
+        "TrueCase": 3,
+        "_id": 336
+    },
+    {
+        "CaseA": "Phần Lan ",
+        "CaseB": "Hà Lan ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Argentina ",
+        "Question": "Quốc gia có diện tích rừng bình quân đầu người nhiều nhất thế giới?",
+        "TrueCase": 1,
+        "_id": 337
+    },
+    {
+        "CaseA": "Ninh Bình ",
+        "CaseB": "Nam Định ",
+        "CaseC": "Đà Nẵng ",
+        "CaseD": "Thanh Hoá ",
+        "Question": "Bãi tắm Hải Thịnh, Quất Lâm thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 338
+    },
+    {
+        "CaseA": "Chile",
+        "CaseB": "Cameroon",
+        "CaseC": "Colombia",
+        "CaseD": "Congo",
+        "Question": "Kinshasa là thủ đô nước nào?",
+        "TrueCase": 4,
+        "_id": 339
+    },
+    {
+        "CaseA": "Brazil",
+        "CaseB": "Suriname",
+        "CaseC": "Venezuela",
+        "CaseD": "Trinidad and Tobago",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 1,
+        "_id": 340
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Nga ",
+        "CaseC": "Hy Lạp ",
+        "CaseD": "Ấn Độ ",
+        "Question": "Cờ vây do nước nào phát minh ra?",
+        "TrueCase": 1,
+        "_id": 341
+    },
+    {
+        "CaseA": "Bùi Nhật Quang ",
+        "CaseB": "Nguyễn Thái Hùng ",
+        "CaseC": "Nguyễn Quang Vinh ",
+        "CaseD": "Nguyễn Chí Long ",
+        "Question": "Biểu trưng của Sea Games 22 logo do ai sáng tác?",
+        "TrueCase": 4,
+        "_id": 342
+    },
+    {
+        "CaseA": "Nguyễn Minh Triết ",
+        "CaseB": "Nguyễn Tấn Dũng ",
+        "CaseC": "Nông Đức Mạnh ",
+        "CaseD": "Đỗ Mười ",
+        "Question": "Đoàn xe đầu tiên chở nguyên thủ quốc gia nào đi qua cây cầu Cần Thơ vào ngày khánh thành 24042010?",
+        "TrueCase": 2,
+        "_id": 343
+    },
+    {
+        "CaseA": "Hà Giang ",
+        "CaseB": "Thái Nguyên ",
+        "CaseC": "Bắc Kạn ",
+        "CaseD": "Lạng Sơn ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Cao Bằng?",
+        "TrueCase": 2,
+        "_id": 344
+    },
+    {
+        "CaseA": "Quảng Nam ",
+        "CaseB": "Bình Định ",
+        "CaseC": "Quảng Ngãi ",
+        "CaseD": "Gia Lai ",
+        "Question": "Trong các tỉnh sau đây, tỉnh thành phố nào không giáp với tỉnh Kontum?",
+        "TrueCase": 2,
+        "_id": 345
+    },
+    {
+        "CaseA": "Đồng Tháp ",
+        "CaseB": "An Giang ",
+        "CaseC": "Kiên Giang ",
+        "CaseD": "Cà Mau ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Cần Thơ?",
+        "TrueCase": 4,
+        "_id": 346
+    },
+    {
+        "CaseA": "Algieria",
+        "CaseB": "Ghana",
+        "CaseC": "Pakistan",
+        "CaseD": "Afghanistan",
+        "Question": "Đàn ông nước nào có tuổi thọ thấp nhất hành tinh?",
+        "TrueCase": 4,
+        "_id": 347
+    },
+    {
+        "CaseA": "Sao Hoả ",
+        "CaseB": "Sao Thuỷ ",
+        "CaseC": "Sao Kim ",
+        "CaseD": "Sao Thổ ",
+        "Question": "Sao Hôm hoặc sao Mai tên gọi dân gian của hành tinh nào?",
+        "TrueCase": 3,
+        "_id": 348
+    },
+    {
+        "CaseA": "1, 2, 3 ",
+        "CaseB": "4",
+        "CaseC": "3, 6, 7",
+        "CaseD": "8",
+        "Question": "Các nguyên tử khí hiếm trừ He có số electron ở lớp ngoài cùng là?",
+        "TrueCase": 4,
+        "_id": 349
+    },
+    {
+        "CaseA": "Nigeria",
+        "CaseB": "Tanzania",
+        "CaseC": "Somali",
+        "CaseD": "Lebanon",
+        "Question": "Quốc gia đông dân nhất ở Châu Phi?",
+        "TrueCase": 1,
+        "_id": 350
+    },
+    {
+        "CaseA": "Trần Long Ẩn ",
+        "CaseB": "Triều Dâng",
+        "CaseC": "Trần Kiết Tường ",
+        "CaseD": "Bùi Đức Hạnh ",
+        "Question": "Tình ca Tây Bắc là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 4,
+        "_id": 351
+    },
+    {
+        "CaseA": "Amitier",
+        "CaseB": "Krubera",
+        "CaseC": "Femme",
+        "CaseD": "Chiens",
+        "Question": "Hang nào ở Gruzia sâu nhất thế giới theo phương thẳng đứng?",
+        "TrueCase": 2,
+        "_id": 352
+    },
+    {
+        "CaseA": "Hoa cú ",
+        "CaseB": "Hoa gạo ",
+        "CaseC": "Hoa hồng ",
+        "CaseD": "Hoa Đỗ quyên ",
+        "Question": "Loài hoa nào là biểu tượng của Argentina?",
+        "TrueCase": 2,
+        "_id": 353
+    },
+    {
+        "CaseA": "Nghệ An ",
+        "CaseB": "Thuận Hoá ",
+        "CaseC": "Lam Sơn ",
+        "CaseD": "Tân Bình ",
+        "Question": "Lê Lợi dựng cờ khởi nghĩa ở đâu?",
+        "TrueCase": 3,
+        "_id": 354
+    },
+    {
+        "CaseA": "Màu xanh da trời ",
+        "CaseB": "Màu xanh đậm ",
+        "CaseC": "Màu đỏ ",
+        "CaseD": "Màu hồng ",
+        "Question": "Nước biển của Hồng Hải có màu gì?",
+        "TrueCase": 3,
+        "_id": 355
+    },
+    {
+        "CaseA": "Cỏ ",
+        "CaseB": "Quyết trần ",
+        "CaseC": "Nấm ",
+        "CaseD": "Nha đam ",
+        "Question": "Loải thực vật đầu tiên xuất hiện ở môi trường trên cạn là gì?",
+        "TrueCase": 2,
+        "_id": 356
+    },
+    {
+        "CaseA": "Thái Bình ",
+        "CaseB": "Bình Thuận ",
+        "CaseC": "Thanh Hoá ",
+        "CaseD": "Hải Phòng ",
+        "Question": "Bãi tắm Tiền Hải, Đồng Châu là một trong những bãi tắm đẹp nhất, nó thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 357
+    },
+    {
+        "CaseA": "Canada",
+        "CaseB": "Cuba",
+        "CaseC": "CH Sip",
+        "CaseD": "Costa Rica ",
+        "Question": "San Jose là thủ đô nước nào?",
+        "TrueCase": 4,
+        "_id": 358
+    },
+    {
+        "CaseA": "Venezuela",
+        "CaseB": "Colombia",
+        "CaseC": "Peru",
+        "CaseD": "Argentina",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 2,
+        "_id": 359
+    },
+    {
+        "CaseA": "Toán học ",
+        "CaseB": "Vật lý học ",
+        "CaseC": "Thiên văn học ",
+        "CaseD": "Báo chí và văn học ",
+        "Question": "Phát minh trong lĩnh vực nào góp phần quan trọng trong việc sản xuất ra những công cụ mới, vật liệu mới, nguồn năng lượng mới?",
+        "TrueCase": 2,
+        "_id": 360
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "5",
+        "CaseC": "6",
+        "CaseD": "7",
+        "Question": "Cho đến năm 2007, Thái Lan đã tổ chức bao nhiêu lần Đại hội Sea Games?",
+        "TrueCase": 3,
+        "_id": 361
+    },
+    {
+        "CaseA": "Khởi công ",
+        "CaseB": "Dừng thi công ",
+        "CaseC": "Sập 2 nhịp dẫn ",
+        "CaseD": "Khánh thành ",
+        "Question": "Ngày 26092007, cầu Cần Thơ xảy ra hiện tượng gì khiến người dân cả nước bàng hoàng?",
+        "TrueCase": 3,
+        "_id": 362
+    },
+    {
+        "CaseA": "Cao Bằng ",
+        "CaseB": "Bắc Kạn",
+        "CaseC": "Thái Nguyên ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Lạng Sơn?",
+        "TrueCase": 4,
+        "_id": 363
+    },
+    {
+        "CaseA": "Quảng Ngãi ",
+        "CaseB": "Gia Lai ",
+        "CaseC": "Đắc Lắc ",
+        "CaseD": "Phú Yên ",
+        "Question": "Trong các tỉnh sau đây, tỉnh thành phố nào không giáp với tỉnh Bình Định?",
+        "TrueCase": 3,
+        "_id": 364
+    },
+    {
+        "CaseA": "Sóc Trăng ",
+        "CaseB": "Vĩnh Long ",
+        "CaseC": "Bến Tre ",
+        "CaseD": "Đồng Tháp ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Trà Vinh?",
+        "TrueCase": 4,
+        "_id": 365
+    },
+    {
+        "CaseA": "Zimbabwe",
+        "CaseB": "Jamaica",
+        "CaseC": "Mông Cổ",
+        "CaseD": "Zambia",
+        "Question": "Phụ nữ quốc gia nào có tuổi thọ trung bình thấp nhất?",
+        "TrueCase": 1,
+        "_id": 366
+    },
+    {
+        "CaseA": "1990 ",
+        "CaseB": "1991",
+        "CaseC": "1992",
+        "CaseD": "1993",
+        "Question": "Ca ghép thận thành công đầu tiên ở Việt Nam được thực hiện vào năm nào?",
+        "TrueCase": 3,
+        "_id": 367
+    },
+    {
+        "CaseA": "Kim loại ",
+        "CaseB": "Phi kim ",
+        "CaseC": "Á kim ",
+        "CaseD": "Khí hiếm",
+        "Question": "Nguyên tử có Z  17, đó là nguyên tử của nguyên tố nào?",
+        "TrueCase": 2,
+        "_id": 368
+    },
+    {
+        "CaseA": "Iran",
+        "CaseB": "Iraq",
+        "CaseC": "Ai cập",
+        "CaseD": "Butan",
+        "Question": "Batư là tên gọi cũ của nước này?",
+        "TrueCase": 2,
+        "_id": 369
+    },
+    {
+        "CaseA": "4200km",
+        "CaseB": "5300km",
+        "CaseC": "6400km",
+        "CaseD": "7500km ",
+        "Question": "Bán kính trái đất khoảng bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 370
+    },
+    {
+        "CaseA": "Tokyo ",
+        "CaseB": "Bombay ",
+        "CaseC": "Bắc Kinh ",
+        "CaseD": "Seoul ",
+        "Question": "Thành phố đầu tiên ở châu Á tổ chức Olympic là thành phố nào?",
+        "TrueCase": 1,
+        "_id": 371
+    },
+    {
+        "CaseA": "Andalucia",
+        "CaseB": "Valencia",
+        "CaseC": "La Mancha",
+        "CaseD": "Galicia",
+        "Question": "Điệu Flamengo xuất xứ từ vung nào của Tây Ban Nha?",
+        "TrueCase": 1,
+        "_id": 372
+    },
+    {
+        "CaseA": "Trống đồng Đông Sơn ",
+        "CaseB": "Lễ hội đền Hùng ",
+        "CaseC": "Hoàng thành Thăng Long ",
+        "CaseD": "Bến nhà Rồng",
+        "Question": "Di sản văn hoá nào dưới đây là di sản văn hoá phi vật thể?",
+        "TrueCase": 2,
+        "_id": 373
+    },
+    {
+        "CaseA": "UNICEP",
+        "CaseB": "WHO",
+        "CaseC": "UNESCO",
+        "CaseD": "ASEAN",
+        "Question": "Tổ chức của Liên hiệp quốc về giáo dục, khoa học và văn hoá gọi tắt là gì?",
+        "TrueCase": 3,
+        "_id": 374
+    },
+    {
+        "CaseA": "Phổi ",
+        "CaseB": "Gan ",
+        "CaseC": "Mật ",
+        "CaseD": "Thận",
+        "Question": "Tiểu tuần hoàn là vòng tuần hoàn từ tim tới bộ phận nào?",
+        "TrueCase": 1,
+        "_id": 375
+    },
+    {
+        "CaseA": "Thanh Hoá ",
+        "CaseB": "Khánh Hoà ",
+        "CaseC": "Bà Rịa  Vũng Tàu ",
+        "CaseD": "Nghệ An ",
+        "Question": "Bãi tắm Sầm Sơn thuộc tỉnh nào?",
+        "TrueCase": 1,
+        "_id": 376
+    },
+    {
+        "CaseA": "Croatia",
+        "CaseB": "Cuba",
+        "CaseC": "Bờ Biển Ngà ",
+        "CaseD": "Chile ",
+        "Question": "Yamoussoukro là thủ đô nước nào?",
+        "TrueCase": 3,
+        "_id": 377
+    },
+    {
+        "CaseA": "Uruguay",
+        "CaseB": "Ecuador",
+        "CaseC": "Chile",
+        "CaseD": "Argentina",
+        "Question": "Quốc gia nào sau đây có đường xích đạo chạy qua?",
+        "TrueCase": 2,
+        "_id": 378
+    },
+    {
+        "CaseA": "Toán học ",
+        "CaseB": "Âm nhạc ",
+        "CaseC": "Thiên văn học ",
+        "CaseD": "Báo chí và văn học ",
+        "Question": "Giải Pulitzer là một giải thưởng của Mỹ, trao cho nhiều lĩnh vực, trong đó quan trọng hơn cả là về lĩnh vực nào?",
+        "TrueCase": 4,
+        "_id": 379
+    },
+    {
+        "CaseA": "Indonesia ",
+        "CaseB": "Việt Nam ",
+        "CaseC": "Myanmar ",
+        "CaseD": "Thái Lan ",
+        "Question": "Lần đầu tiên Sea games có đủ 10 quốc gia tham dự được tổ chức tại nước nào?",
+        "TrueCase": 4,
+        "_id": 380
+    },
+    {
+        "CaseA": "Tháng 012008 ",
+        "CaseB": "Tháng 022008",
+        "CaseC": "Tháng 032008",
+        "CaseD": "Tháng 042008",
+        "Question": "Sau sự cố sập nhịp cầu Cần Thơ, đến thời gian nào thì cầu mới được thi công trở lại?",
+        "TrueCase": 3,
+        "_id": 381
+    },
+    {
+        "CaseA": "Tuyên Quang ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Bắc Kạn ",
+        "CaseD": "Lạng Sơn ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Thái Nguyên?",
+        "TrueCase": 2,
+        "_id": 382
+    },
+    {
+        "CaseA": "Kontum ",
+        "CaseB": "Bình Định ",
+        "CaseC": "Đắc Lắc ",
+        "CaseD": "Khánh Hoà ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Gia Lai?",
+        "TrueCase": 4,
+        "_id": 383
+    },
+    {
+        "CaseA": "Kiên Giang ",
+        "CaseB": "Cà Mau ",
+        "CaseC": "Cần Thơ ",
+        "CaseD": "Trà Vinh ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Sóc Trăng?",
+        "TrueCase": 1,
+        "_id": 384
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Mỹ",
+        "CaseC": "Nga",
+        "CaseD": "Nhật Bản",
+        "Question": "Dân số nước nào có tuổi thọ trung bình cao nhất thế giới?",
+        "TrueCase": 4,
+        "_id": 385
+    },
+    {
+        "CaseA": "Si",
+        "CaseB": "Au ",
+        "CaseC": "Cu ",
+        "CaseD": "Al",
+        "Question": "Thành phần chính của cát là nguyên tố nào?",
+        "TrueCase": 1,
+        "_id": 386
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bảng tuần hoàn các nguyên tố hoá học có bao nhiêu chu kì nhỏ?",
+        "TrueCase": 3,
+        "_id": 387
+    },
+    {
+        "CaseA": "Chỉ dùng tay",
+        "CaseB": "Nhu thuật",
+        "CaseC": "Vật",
+        "CaseD": "Tay không",
+        "Question": "Karate có nghĩa là gì?",
+        "TrueCase": 4,
+        "_id": 388
+    },
+    {
+        "CaseA": "Thực vật ",
+        "CaseB": "Động vật ",
+        "CaseC": "Nấm biển ",
+        "CaseD": "Rong ",
+        "Question": "San hô là sinh vật loại nào?",
+        "TrueCase": 2,
+        "_id": 389
+    },
+    {
+        "CaseA": "Benz",
+        "CaseB": "Ford",
+        "CaseC": "Toyota",
+        "CaseD": "Mercedec",
+        "Question": "Vua xe hơi của Mỹ là ai?",
+        "TrueCase": 2,
+        "_id": 390
+    },
+    {
+        "CaseA": "Do Thái ",
+        "CaseB": "Hồi giáo ",
+        "CaseC": "Ấn Độ giáo ",
+        "CaseD": "Phật giáo",
+        "Question": "Tôn giáo nào xuất hiện muộn nhất trong các tôn giáo sau?",
+        "TrueCase": 2,
+        "_id": 391
+    },
+    {
+        "CaseA": "Cố đô Huế ",
+        "CaseB": "Nghề đúc đồng ",
+        "CaseC": "Hát ca trù ",
+        "CaseD": "Áo dài truyền thống",
+        "Question": "Di sản văn hoá nào dưới đây là di sản văn hoá vật thể?",
+        "TrueCase": 1,
+        "_id": 392
+    },
+    {
+        "CaseA": "UNESCO",
+        "CaseB": "UNICEF",
+        "CaseC": "IMF",
+        "CaseD": "ASEAN",
+        "Question": "Quỹ trẻ em của Liên Hiệp Quốc gọi tắt là gì?",
+        "TrueCase": 2,
+        "_id": 393
+    },
+    {
+        "CaseA": "Giờ Ngọ",
+        "CaseB": "Giờ Thìn ",
+        "CaseC": "Giờ Tý ",
+        "CaseD": "Giờ Mùi ",
+        "Question": "Lịch canchi cổ truyền của nước ta lúc nửa đêm 0 giờ là vào giờ nào?",
+        "TrueCase": 3,
+        "_id": 394
+    },
+    {
+        "CaseA": "Nghệ Tĩnh ",
+        "CaseB": "Quảng Ninh ",
+        "CaseC": "Kiên Giang ",
+        "CaseD": "Nghệ An ",
+        "Question": "Bãi tắm Cửa Lò thuộc tỉnh nào?",
+        "TrueCase": 3,
+        "_id": 395
+    },
+    {
+        "CaseA": "Croatia",
+        "CaseB": "Canada",
+        "CaseC": "Cape Verde",
+        "CaseD": "Cambodia",
+        "Question": "Zagreb là thủ đô nước nào?",
+        "TrueCase": 1,
+        "_id": 396
+    },
+    {
+        "CaseA": "Hồ Dầu Tiếng ",
+        "CaseB": "Hồ Đa Nhim ",
+        "CaseC": "Hồ Than Thở ",
+        "CaseD": "Hồ Hoà Bình ",
+        "Question": "Hồ nước nhân tạo lớn nhất nước ta là hồ nào?",
+        "TrueCase": 4,
+        "_id": 397
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Việt Nam ",
+        "CaseD": "Nhật Bản ",
+        "Question": "Cờ tướng được phát minh ở đâu?",
+        "TrueCase": 2,
+        "_id": 398
+    },
+    {
+        "CaseA": "24 ",
+        "CaseB": "20 ",
+        "CaseC": "34 ",
+        "CaseD": "42 ",
+        "Question": "Cho đến năm 2003, số môn thi đấu nhiều nhất tại Sea Games là bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 399
+    },
+    {
+        "CaseA": "Bình Minh ",
+        "CaseB": "Thị xã Vĩnh Long ",
+        "CaseC": "Châu Thành ",
+        "CaseD": "Trà Ôn ",
+        "Question": "Điểm đầu của cầu Cần Thơ thuộc huyện nào của Vĩnh Long?",
+        "TrueCase": 1,
+        "_id": 400
+    },
+    {
+        "CaseA": "Tuyên Quang ",
+        "CaseB": "Lạng Sơn ",
+        "CaseC": "Thái Nguyên ",
+        "CaseD": "Bắc Ninh ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bắc Giang?",
+        "TrueCase": 1,
+        "_id": 401
+    },
+    {
+        "CaseA": "Gia Lai ",
+        "CaseB": "Bình Định ",
+        "CaseC": "Phú Yên ",
+        "CaseD": "Khánh Hoà ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Đắc Lắc?",
+        "TrueCase": 2,
+        "_id": 402
+    },
+    {
+        "CaseA": "Đồng Tháp ",
+        "CaseB": "Trà Vinh ",
+        "CaseC": "Cà Mau ",
+        "CaseD": "Kiên Giang ",
+        "Question": "Trong các tỉnh sau đây, tỉnh nào không giáp với tỉnh Bạc Liêu?",
+        "TrueCase": 1,
+        "_id": 403
+    }
+]

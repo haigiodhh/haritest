@@ -1,0 +1,1910 @@
+[
+    {
+        "CaseA": "Những câu hỏi thường gặp.",
+        "CaseB": "Tổ chức thực phẩm Châu Á",
+        "CaseC": "Liên đoàn bóng đá Quata",
+        "CaseD": "Tổ chức khủng bố Nam á",
+        "Question": "FAQ là tên viết tắt của?",
+        "TrueCase": 1,
+        "_id": 1
+    },
+    {
+        "CaseA": "Mùa xuân",
+        "CaseB": "Mùa Hạ",
+        "CaseC": "Mùa Thu",
+        "CaseD": "Mùa Đông",
+        "Question": "Bài hát \"Tình ca\" của Hoàng Việt nói đến mùa nào trong năm?",
+        "TrueCase": 1,
+        "_id": 2
+    },
+    {
+        "CaseA": "Hồ Tây",
+        "CaseB": "Hồ Trúc Bạch",
+        "CaseC": "Hồ Hữu Tiệp",
+        "CaseD": "Hồ Ngọc Khánh",
+        "Question": "Hồ nào có xác máy bay B52 rơi xuống?",
+        "TrueCase": 3,
+        "_id": 3
+    },
+    {
+        "CaseA": "Con thoi",
+        "CaseB": " Alpha 2",
+        "CaseC": "Apollo 11",
+        "CaseD": "Gamax",
+        "Question": "Chuyến bay đầu tiên lên mặt trăng thực hiện bằng con tàu vũ trụ nào?",
+        "TrueCase": 3,
+        "_id": 4
+    },
+    {
+        "CaseA": "Đinh Liễn",
+        "CaseB": "Đinh Toàn",
+        "CaseC": "Đinh Bộ Sứ",
+        "CaseD": "Đinh Công Trứ",
+        "Question": "Thân sinh của Đinh Bộ Lĩnh là ai?",
+        "TrueCase": 4,
+        "_id": 5
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "30",
+        "CaseC": "300",
+        "CaseD": "3000",
+        "Question": "Dương Đình Nghệ, nhạc phụ của Ngô Quyền có bao nhiêu con nuôi?",
+        "TrueCase": 4,
+        "_id": 6
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Israel ",
+        "CaseC": "Đan Mạch",
+        "CaseD": "Hà Lan",
+        "Question": "Quốc gia có lá quốc kỳ cổ nhất thế giới?",
+        "TrueCase": 3,
+        "_id": 7
+    },
+    {
+        "CaseA": "Nam Phi ",
+        "CaseB": "Marroc",
+        "CaseC": "Madagasca",
+        "CaseD": "Ai Cập ",
+        "Question": "Quốc gia nào ở Châu Phi có tỉ lệ người da trắng xấp xỉ tỉ lệ người da đen?",
+        "TrueCase": 1,
+        "_id": 8
+    },
+    {
+        "CaseA": "Liên Xô ",
+        "CaseB": "Hoa Kỳ ",
+        "CaseC": "Canada",
+        "CaseD": "Australia",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1976?",
+        "TrueCase": 3,
+        "_id": 9
+    },
+    {
+        "CaseA": "Tương tư ",
+        "CaseB": "Cô hái mơ ",
+        "CaseC": "Cô lái đò ",
+        "CaseD": "Cô hàng xóm ",
+        "Question": "Bài thơ đăng báo đầu tiên của Nguyễn Bính?",
+        "TrueCase": 2,
+        "_id": 10
+    },
+    {
+        "CaseA": "3 loài ",
+        "CaseB": "4 loài ",
+        "CaseC": "5 loài ",
+        "CaseD": "6 loài ",
+        "Question": "Theo sách đỏ Việt Nam năm 2007, có mấy loài động vật hoang dã đã bị tuyệt chủng ở nước ta, nhưng vẫn còn một vài ở nước lân cận?",
+        "TrueCase": 3,
+        "_id": 11
+    },
+    {
+        "CaseA": "Systems32",
+        "CaseB": "System32",
+        "CaseC": "System",
+        "CaseD": "Program File",
+        "Question": "Trò chơi dò mìn Minesweeper của Windows nằm ở thư mục nào?",
+        "TrueCase": 2,
+        "_id": 12
+    },
+    {
+        "CaseA": "Bolivia",
+        "CaseB": "Bosnia and Herzegovina",
+        "CaseC": "Botswana",
+        "CaseD": "Bolivia",
+        "Question": "Sarajevo là thủ đô của quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 13
+    },
+    {
+        "CaseA": "1887 - 1889",
+        "CaseB": "1888 - 1889",
+        "CaseC": "1887 - 1890",
+        "CaseD": "1887 -  1891 ",
+        "Question": "Tháp Eiffel được ra đời hoàn tất vào năm nào?",
+        "TrueCase": 1,
+        "_id": 14
+    },
+    {
+        "CaseA": "Cây thuốc lá ",
+        "CaseB": "Cây đai ",
+        "CaseC": "Cây lúa mạch ",
+        "CaseD": "Cây trà ",
+        "Question": "Bangladesh là nước đầu tiên trên thế giới sản xuất cây gì?",
+        "TrueCase": 2,
+        "_id": 15
+    },
+    {
+        "CaseA": "Picasso",
+        "CaseB": "Leonardo de Vinci",
+        "CaseC": "Vangogh",
+        "CaseD": "Mozart",
+        "Question": "Bức hoạ La Joncode do ai vẽ?",
+        "TrueCase": 2,
+        "_id": 16
+    },
+    {
+        "CaseA": "Xương ",
+        "CaseB": "Mang cá ",
+        "CaseC": "Gân ",
+        "CaseD": "Răng ",
+        "Question": "Trong cơ thể cá mập, sẽ không tìm thấy vật gì?",
+        "TrueCase": 1,
+        "_id": 17
+    },
+    {
+        "CaseA": "Đan Mạch",
+        "CaseB": "Thuỵ Điển",
+        "CaseC": "Phần Lan ",
+        "CaseD": "Ai Cập",
+        "Question": "Lá quốc kỳ cổ nhất thế giới thuộc về quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 18
+    },
+    {
+        "CaseA": "Tầy ",
+        "CaseB": "Nùng ",
+        "CaseC": "Mường ",
+        "CaseD": "Hoa ",
+        "Question": "Dân tộc nào có dân số đông thứ 2 nước ta?",
+        "TrueCase": 1,
+        "_id": 19
+    },
+    {
+        "CaseA": "Canada",
+        "CaseB": "Liên Xô ",
+        "CaseC": "Trung Quốc",
+        "CaseD": "Tây Đức",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1972?",
+        "TrueCase": 4,
+        "_id": 20
+    },
+    {
+        "CaseA": "Chúc phát tài",
+        "CaseB": "Chúc may mắn",
+        "CaseC": "Chúc sức khoẻ",
+        "CaseD": "Chúc chóng lớn",
+        "Question": "Người Singapore rất kỵ câu chúc nào?",
+        "TrueCase": 1,
+        "_id": 21
+    },
+    {
+        "CaseA": "Từ thế kỷ V đến thế kỷ X",
+        "CaseB": "Từ thế kỷ X đến thế kỷ XV",
+        "CaseC": "Từ thế kỷ XVI đến thế kỷ XIX",
+        "CaseD": "Từ thế kỷ XIV đến thế kỷ XX",
+        "Question": "Thời kỳ hình thành của xã hội phong kiến châu Âu là thời kỳ nào?",
+        "TrueCase": 1,
+        "_id": 22
+    },
+    {
+        "CaseA": "Băng Cốc ",
+        "CaseB": "Rangon ",
+        "CaseC": "Thimpu",
+        "CaseD": "Niu Deli ",
+        "Question": "Thành phố nào đông dân nhất bán đảo Trung Ấn?",
+        "TrueCase": 1,
+        "_id": 23
+    },
+    {
+        "CaseA": "Botswana",
+        "CaseB": "Brazil",
+        "CaseC": "Belarus",
+        "CaseD": "Bangladesh",
+        "Question": "Gaborone là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 24
+    },
+    {
+        "CaseA": "Cholorella",
+        "CaseB": "Tảo vi sinh ",
+        "CaseC": "Tảo trắng ",
+        "CaseD": "Tảo lam ",
+        "Question": "Loại tảo đơn bào nào được dùng trong các cuộc thám hiểm vũ trụ?",
+        "TrueCase": 1,
+        "_id": 25
+    },
+    {
+        "CaseA": "Bế Văn Đàn ",
+        "CaseB": "Tô Vĩnh Diện ",
+        "CaseC": "Phan Đình Giót ",
+        "CaseD": "Lê Văn Tám ",
+        "Question": "Câu nói: Quyết hy sinh vì Đảng, vì dân là của ai?",
+        "TrueCase": 3,
+        "_id": 26
+    },
+    {
+        "CaseA": "Kiếm hiệp ",
+        "CaseB": "Tình cảm ",
+        "CaseC": "Trinh thám ",
+        "CaseD": "Tự sự ",
+        "Question": "Agatha nữ sĩ người Anh chuyên viết truyện về thể loại gì?",
+        "TrueCase": 3,
+        "_id": 27
+    },
+    {
+        "CaseA": "Hà Nội ",
+        "CaseB": "Băng Cốc ",
+        "CaseC": "Mát-x-cơ-va",
+        "CaseD": "Sydney ",
+        "Question": "Thành phố nào sau đây luôn luôn vào giữa trưa thấy mặt trời ở phía Nam?",
+        "TrueCase": 3,
+        "_id": 28
+    },
+    {
+        "CaseA": "Tên một địa danh",
+        "CaseB": "Tên một nhà soạn nhạc",
+        "CaseC": "Tên một phong cách kiến trúc",
+        "CaseD": "Tên một phụ nữ",
+        "Question": "Âm nhạc thế kỷ 17, đầu thế kỷ 18 được gọi là Baroque, tên này được lấy từ đâu?",
+        "TrueCase": 3,
+        "_id": 29
+    },
+    {
+        "CaseA": "Brau",
+        "CaseB": "Odu ",
+        "CaseC": "Co ",
+        "CaseD": "Sila ",
+        "Question": "Dân tộc nào ở Việt Nam có dân số thấp nhất hiện nay?",
+        "TrueCase": 2,
+        "_id": 30
+    },
+    {
+        "CaseA": "Tây Đức",
+        "CaseB": "Liên Xô ",
+        "CaseC": "Mexico ",
+        "CaseD": "Hy Lạp ",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1968?",
+        "TrueCase": 3,
+        "_id": 31
+    },
+    {
+        "CaseA": "Sa mạc",
+        "CaseB": "Con sông",
+        "CaseC": "Dãy núi ",
+        "CaseD": "Biển ",
+        "Question": "Biên giới tự nhiên giữa Isarel và Jordani là gì?",
+        "TrueCase": 2,
+        "_id": 32
+    },
+    {
+        "CaseA": "Đông Á ",
+        "CaseB": "Nam Á ",
+        "CaseC": "Đông Nam Á ",
+        "CaseD": "Tây Nam Á ",
+        "Question": "Khu vực có mật độ dân số cao nhất châu Á là?",
+        "TrueCase": 2,
+        "_id": 33
+    },
+    {
+        "CaseA": "Bình Thuận ",
+        "CaseB": "Quảng Nam ",
+        "CaseC": "Khánh Hoà ",
+        "CaseD": "Bà Rịa  Vũng Tàu ",
+        "Question": "Thành phố nào ở nước ta có sản lượng yến sào nhiều nhất?",
+        "TrueCase": 3,
+        "_id": 34
+    },
+    {
+        "CaseA": "Brazil",
+        "CaseB": "Bolivia",
+        "CaseC": "Bangladesh",
+        "CaseD": "Brunei",
+        "Question": "Bandar Seri Begawan là thủ đô của quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 35
+    },
+    {
+        "CaseA": "Đất nhiễm mặn ",
+        "CaseB": "Đất phù sa",
+        "CaseC": "Đất bạc màu ",
+        "CaseD": "Đất xám ",
+        "Question": "Đậu tương, lạc, thuốc lá được trồng nhiều nhất trên loại đất nào?",
+        "TrueCase": 3,
+        "_id": 36
+    },
+    {
+        "CaseA": "Lê Lợi ",
+        "CaseB": "Lê Thái Tổ ",
+        "CaseC": "Lê Hoàn ",
+        "CaseD": "Lê Thánh Tông ",
+        "Question": "Thời Tiền Lê trong lịch sử Việt Nam do ai lập nên?",
+        "TrueCase": 3,
+        "_id": 37
+    },
+    {
+        "CaseA": "12 ",
+        "CaseB": "13 ",
+        "CaseC": "14",
+        "CaseD": "15",
+        "Question": "Đường xích đạo chạy qua bao nhiêu quốc gia?",
+        "TrueCase": 1,
+        "_id": 38
+    },
+    {
+        "CaseA": "21/03",
+        "CaseB": "22/06",
+        "CaseC": "23/09",
+        "CaseD": "22/12",
+        "Question": "Ở vòng cực Bắc, ngày duy nhất dài 24h là?",
+        "TrueCase": 2,
+        "_id": 39
+    },
+    {
+        "CaseA": "1974",
+        "CaseB": "1975",
+        "CaseC": "1976",
+        "CaseD": "1977 ",
+        "Question": "Việt Nam trở thành thành viên của Liên Hợp Quốc vào năm nào?",
+        "TrueCase": 3,
+        "_id": 40
+    },
+    {
+        "CaseA": "Warsaw",
+        "CaseB": "Versailles",
+        "CaseC": "Paris",
+        "CaseD": "Geneve",
+        "Question": "Hiệp ước nào chấm dứt chiến tranh thế giới thứ hai?",
+        "TrueCase": 2,
+        "_id": 41
+    },
+    {
+        "CaseA": "Mexico ",
+        "CaseB": "Canada",
+        "CaseC": "Liên Xô ",
+        "CaseD": "Nhật Bản ",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1964?",
+        "TrueCase": 4,
+        "_id": 42
+    },
+    {
+        "CaseA": "Sri Lanka",
+        "CaseB": "Butan",
+        "CaseC": "Myanmar",
+        "CaseD": "Nepal",
+        "Question": "Mandalay là cố đô của đất nước Châu Á nào?",
+        "TrueCase": 3,
+        "_id": 43
+    },
+    {
+        "CaseA": "Amua ",
+        "CaseB": "Ơ  phrat ",
+        "CaseC": "Hoàng Hà ",
+        "CaseD": "Trường Giang ",
+        "Question": "Sông nào không phải của khu vực Đông Á?",
+        "TrueCase": 2,
+        "_id": 44
+    },
+    {
+        "CaseA": "Gạo, hoa ",
+        "CaseB": "Gạo, muối ",
+        "CaseC": "Gạo, đường",
+        "CaseD": "Đường, hoa ",
+        "Question": "Quốc kỳ Indonesia có 2 màu tượng trưng cho điều gì?",
+        "TrueCase": 3,
+        "_id": 45
+    },
+    {
+        "CaseA": "Brunei",
+        "CaseB": "Bangladesh",
+        "CaseC": "Bulgaria",
+        "CaseD": "Hungaria",
+        "Question": "Sofia là thủ đô của quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 46
+    },
+    {
+        "CaseA": "Hồ Victoria ",
+        "CaseB": "Hồ Ladoga ",
+        "CaseC": "Hồ Baikal ",
+        "CaseD": "Hồ Tonglesap ",
+        "Question": "Hồ nước nào có đường xích đạo chạy qua?",
+        "TrueCase": 1,
+        "_id": 47
+    },
+    {
+        "CaseA": "Công nghiệp chế biến ",
+        "CaseB": "Nông nghiệp và khai thác ",
+        "CaseC": "Nông nghiệp và thương mại ",
+        "CaseD": "Giao thông vận tải ",
+        "Question": "Trong cuộc khai thác thuộc địa lần 2, thực dân Pháp đầu tư vốn nhiều nhất vào ngành nào?",
+        "TrueCase": 2,
+        "_id": 48
+    },
+    {
+        "CaseA": "Quân sự ",
+        "CaseB": "Điện toán ",
+        "CaseC": "Kinh tế ",
+        "CaseD": "Khoa học ",
+        "Question": "Máy vi tính vào giai đoạn đầu được dùng cho?",
+        "TrueCase": 1,
+        "_id": 49
+    },
+    {
+        "CaseA": "Xích đạo ",
+        "CaseB": "Vòng cực ",
+        "CaseC": "Cực ",
+        "CaseD": "Chí tuyến ",
+        "Question": "Trên trái đất, nơi mỗi năm chỉ có 1 ngày dài 24h là?",
+        "TrueCase": 2,
+        "_id": 50
+    },
+    {
+        "CaseA": "Hà Nội ",
+        "CaseB": "Băng Cốc",
+        "CaseC": "Phnom Penh",
+        "CaseD": "Viên Chăn",
+        "Question": "Thủ đô nào lâu đời nhất Đông Nam Á?",
+        "TrueCase": 1,
+        "_id": 51
+    },
+    {
+        "CaseA": "Thái ",
+        "CaseB": "Raglai ",
+        "CaseC": "Vân Kiều ",
+        "CaseD": "HMông",
+        "Question": "Đàn Talư là của dân tộc nào ở nước ta?",
+        "TrueCase": 3,
+        "_id": 52
+    },
+    {
+        "CaseA": "Nhật Bản ",
+        "CaseB": "Nga ",
+        "CaseC": "Hoa Kỳ ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Sản lượng điện bình quân theo đầu người cao nhất thế giới thuộc về?",
+        "TrueCase": 3,
+        "_id": 53
+    },
+    {
+        "CaseA": "Pháp",
+        "CaseB": "Bồ Đào Nha ",
+        "CaseC": "Hà Lan ",
+        "CaseD": "Tây Ban Nha",
+        "Question": "Người châu Âu đầu tiên thám hiểm sông Mekong là người quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 54
+    },
+    {
+        "CaseA": "10",
+        "CaseB": "9",
+        "CaseC": "8",
+        "CaseD": "7",
+        "Question": "Đến năm 2002 tổ chức ASEAN gồm bao nhiêu quốc gia?",
+        "TrueCase": 1,
+        "_id": 55
+    },
+    {
+        "CaseA": "Khởi nghĩa Nam Kỳ ",
+        "CaseB": "Khởi nghĩa Lam Sơn ",
+        "CaseC": "Đồng khởi Bến Tre ",
+        "CaseD": "Khởi nghĩa Hai Bà Trưng ",
+        "Question": "Chiến thắng Giồng Thị Đam , Gò Quảng Cung là mở màn của cuộc khởi nghĩa nào?",
+        "TrueCase": 3,
+        "_id": 56
+    },
+    {
+        "CaseA": " ",
+        "CaseB": "Đức ",
+        "CaseC": "Pháp ",
+        "CaseD": "Rumania ",
+        "Question": "Kênh lớn  Đường phố đẹp nhất thế giới tại quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 57
+    },
+    {
+        "CaseA": "69.000Km2",
+        "CaseB": "96.000Km2",
+        "CaseC": "690.000Km2",
+        "CaseD": "960.000Km2",
+        "Question": "Victoria là hồ nước ngọt lớn nhất châu Phi và thứ nhì thế giới. Nó rộng khoảng bao nhiêu?",
+        "TrueCase": 1,
+        "_id": 58
+    },
+    {
+        "CaseA": "Ai Len ",
+        "CaseB": "Pháp ",
+        "CaseC": "Đức ",
+        "CaseD": "Hà Lan ",
+        "Question": "Món gà quay có ý nghĩa là xin chúc sức khoẻ anh tương ứng với quan niệm của người nước nào khi ăn?",
+        "TrueCase": 1,
+        "_id": 59
+    },
+    {
+        "CaseA": "Bồ Đào Nha ",
+        "CaseB": "Anh ",
+        "CaseC": "Tây Ban Nha ",
+        "CaseD": "Đức ",
+        "Question": "Người đầu tiên thám hiểm vòng quanh trái đất là người nước nào?",
+        "TrueCase": 1,
+        "_id": 60
+    },
+    {
+        "CaseA": "2 cực ",
+        "CaseB": "Xích đạo ",
+        "CaseC": "Chí tuyến Bắc ",
+        "CaseD": "Vòng cực",
+        "Question": "Trên trái đất, nơi không có sự chênh lệch giữa ngày và đêm là?",
+        "TrueCase": 2,
+        "_id": 61
+    },
+    {
+        "CaseA": "London",
+        "CaseB": "Thượng Hải",
+        "CaseC": "Trân Châu Cảng",
+        "CaseD": "New York ",
+        "Question": "Thành phố nào có Hải cảng nào sầm uất nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 62
+    },
+    {
+        "CaseA": "Menđêlêép ",
+        "CaseB": "Lavoađiê",
+        "CaseC": "Đêmôcrit ",
+        "CaseD": "Rơdơpho",
+        "Question": "Nhà bác học đầu tiên đưa ra khái niệm nguyên tử là?",
+        "TrueCase": 3,
+        "_id": 63
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Hy Lạp ",
+        "CaseD": "Trung Quốc",
+        "Question": "Giấy được sử dụng đầu tiên ở nước nào?",
+        "TrueCase": 4,
+        "_id": 64
+    },
+    {
+        "CaseA": "II",
+        "CaseB": "III",
+        "CaseC": "VI",
+        "CaseD": "V",
+        "Question": "Quốc hội khoá mấy là quốc hội ngắn nhất nước ta?",
+        "TrueCase": 4,
+        "_id": 65
+    },
+    {
+        "CaseA": "Kinh tế ",
+        "CaseB": "Văn hoá ",
+        "CaseC": "Giáo dục ",
+        "CaseD": "Tất cả ",
+        "Question": "Liên Hợp Quốc giúp nước ta về?",
+        "TrueCase": 4,
+        "_id": 66
+    },
+    {
+        "CaseA": "Năm 1966 ",
+        "CaseB": "Năm 1999",
+        "CaseC": "Năm 1969 ",
+        "CaseD": "Năm 1996 ",
+        "Question": "Lần đầu tiên con người đặt chân lên mặt trăng vào năm nào?",
+        "TrueCase": 3,
+        "_id": 67
+    },
+    {
+        "CaseA": "Rumania ",
+        "CaseB": "Bungaria ",
+        "CaseC": "Séc ",
+        "CaseD": " ",
+        "Question": "Giáo đường Saint Pierre bắt đầu xây dựng năm 1506 ở đâu?",
+        "TrueCase": 4,
+        "_id": 68
+    },
+    {
+        "CaseA": "Đá vôi ",
+        "CaseB": "Đá catket ",
+        "CaseC": "Đá trầm tích ",
+        "CaseD": "Đá magma ",
+        "Question": "Loại đá nào được hình thành từ xác động vật?",
+        "TrueCase": 1,
+        "_id": 69
+    },
+    {
+        "CaseA": "Con mái ",
+        "CaseB": "Con trống ",
+        "CaseC": "Cặp trống mái ",
+        "CaseD": "Không xác định ",
+        "Question": "Trong truyền thuyết Á Đông trước đây, Phượng Hoàng là?",
+        "TrueCase": 3,
+        "_id": 70
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Từng vang danh một thời, nhóm nhạc Bee Gees gồm mấy thành viên?",
+        "TrueCase": 3,
+        "_id": 71
+    },
+    {
+        "CaseA": "Hoá chất cơ bản ",
+        "CaseB": "Hoá tổng hợp hữu cơ ",
+        "CaseC": "Hoá dầu",
+        "CaseD": "Hoá học vô cơ ",
+        "Question": "Sản xuất axit vô cơ, phân bón, thuốc trừ sâu, thuốc nhuộm thuộc vào?",
+        "TrueCase": 1,
+        "_id": 72
+    },
+    {
+        "CaseA": "Châu Âu",
+        "CaseB": "Châu Mỹ",
+        "CaseC": "Châu Á",
+        "CaseD": "Châu Phi",
+        "Question": "Châu lục nào mà hầu hết các quốc gia đều trồng lúa?",
+        "TrueCase": 4,
+        "_id": 73
+    },
+    {
+        "CaseA": "1984",
+        "CaseB": "1985",
+        "CaseC": "1986",
+        "CaseD": "1987",
+        "Question": "Electron được tìm thấy vào năm nào?",
+        "TrueCase": 4,
+        "_id": 74
+    },
+    {
+        "CaseA": "Christensen Roeme",
+        "CaseB": "Issac Newton",
+        "CaseC": "Galileo",
+        "CaseD": "Anbe Einstein",
+        "Question": "Ai là người đầu tiên phát hiện: Ánh sáng có vận tốc hữu hạn?",
+        "TrueCase": 1,
+        "_id": 75
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "3",
+        "CaseC": "5",
+        "CaseD": "7",
+        "Question": "Châu Á hiện nay có bao nhiêu loài Tê giác?",
+        "TrueCase": 2,
+        "_id": 76
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Việt Nam ",
+        "CaseC": "Mông Cổ ",
+        "CaseD": "Hoa Kỳ ",
+        "Question": "Quốc gia nào là quê hương của diều, một trò chơi dân gian nổi tiếng?",
+        "TrueCase": 1,
+        "_id": 77
+    },
+    {
+        "CaseA": "Hà Tây ",
+        "CaseB": "Thanh Hoá ",
+        "CaseC": "Nghệ An ",
+        "CaseD": "Nghệ Tĩnh ",
+        "Question": "Tên gọi Ba Đình xuất phát từ địa danh nào?",
+        "TrueCase": 2,
+        "_id": 78
+    },
+    {
+        "CaseA": "Thứ 1 ",
+        "CaseB": "Thứ 2 ",
+        "CaseC": "Thứ 3 ",
+        "CaseD": "Thứ 4 ",
+        "Question": "Việt Nam đứng thứ mấy thế giới về xuất khẩu gỗ?",
+        "TrueCase": 3,
+        "_id": 79
+    },
+    {
+        "CaseA": "Từ năm 1418 - 1428",
+        "CaseB": "Từ năm 1417 - 1427",
+        "CaseC": "Từ năm 1418 - 1427",
+        "CaseD": "Từ năm 1417- 1428",
+        "Question": "Khởi nghĩa Lam Sơn kéo dài trong khoảng thời gian nào?",
+        "TrueCase": 3,
+        "_id": 80
+    },
+    {
+        "CaseA": "Sông Nil",
+        "CaseB": "Sông Hoàng Hà ",
+        "CaseC": "Sông Volga ",
+        "CaseD": "Sông Mekong ",
+        "Question": "Con sông nào đục nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 81
+    },
+    {
+        "CaseA": "Kiên Giang ",
+        "CaseB": "Trà Vinh ",
+        "CaseC": "Bạc Liêu ",
+        "CaseD": "Cà Mau ",
+        "Question": "Huyện U Minh trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 82
+    },
+    {
+        "CaseA": "Vượn",
+        "CaseB": "Khỉ Gôrila",
+        "CaseC": "Tinh tinh ",
+        "CaseD": "Đười ươi",
+        "Question": "Trong các dạng vượn người, loài vượn nào có đặc điểm gần giống với con người nhất?",
+        "TrueCase": 2,
+        "_id": 83
+    },
+    {
+        "CaseA": "Rơdơpho",
+        "CaseB": "Tômxơn ",
+        "CaseC": "Chatwich",
+        "CaseD": "Culông",
+        "Question": "Electron được ai tìm ra?",
+        "TrueCase": 2,
+        "_id": 84
+    },
+    {
+        "CaseA": "Tia Hồng Ngoại ",
+        "CaseB": "Tia X",
+        "CaseC": "Tia tử ngoại ",
+        "CaseD": "Tia Gamma",
+        "Question": "Trong các tia sau đây, tia nào có bước sóng ngắn nhất?",
+        "TrueCase": 4,
+        "_id": 85
+    },
+    {
+        "CaseA": "Conggo ",
+        "CaseB": "Israel ",
+        "CaseC": "Mông Cổ",
+        "CaseD": "Hy Lạp ",
+        "Question": "Hatikva bài ca hy vọng là tên bản quốc ca của nước nào?",
+        "TrueCase": 2,
+        "_id": 86
+    },
+    {
+        "CaseA": "1884  1896",
+        "CaseB": "1885  1986",
+        "CaseC": "1885  1896",
+        "CaseD": "1858  1896",
+        "Question": "Cuộc khởi nghĩa Hương Khê bắt đầu và kết thúc năm nào?",
+        "TrueCase": 3,
+        "_id": 87
+    },
+    {
+        "CaseA": "Tên 1 người dân ",
+        "CaseB": "Tên 1 ngọn núi ",
+        "CaseC": "Tên 1 cái hồ ",
+        "CaseD": "Tên 1 loài chim ",
+        "Question": "Sông Tô Lịch Hà Nội là tên gọi bắt nguồn từ đâu?",
+        "TrueCase": 1,
+        "_id": 88
+    },
+    {
+        "CaseA": "10",
+        "CaseB": "11",
+        "CaseC": "12",
+        "CaseD": "13",
+        "Question": "Từ 6 giờ sáng đến 6 giờ chiều, kim giờ và kim phút trùng nhau bao nhiêu lần?",
+        "TrueCase": 2,
+        "_id": 89
+    },
+    {
+        "CaseA": "Toronto ",
+        "CaseB": "Rio De Janeirol",
+        "CaseC": "Montreal",
+        "CaseD": "Melbource",
+        "Question": "Nếu không kể Paris thì thành phố nào nói tiếng Pháp nhiều nhất Thế Giới?",
+        "TrueCase": 3,
+        "_id": 90
+    },
+    {
+        "CaseA": "Thác Angel ",
+        "CaseB": "Thác Victoria ",
+        "CaseC": "Thác Jolie ",
+        "CaseD": "Thác Maria ",
+        "Question": "Thác nước cao nhất trên thế giới?",
+        "TrueCase": 1,
+        "_id": 91
+    },
+    {
+        "CaseA": "Sơn La ",
+        "CaseB": "Phú Thọ ",
+        "CaseC": "Ninh Bình ",
+        "CaseD": "Hoà Bình ",
+        "Question": "Huyện Kim Bôi trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 92
+    },
+    {
+        "CaseA": "Phát triển tiếng nói ",
+        "CaseB": "Sử dụng công cụ ",
+        "CaseC": "Đi, đứng thẳng",
+        "CaseD": "Tư duy trừu tượng",
+        "Question": "Cột sống hình chữ S ở người có liên quan đến hoạt động nào sau đây?",
+        "TrueCase": 3,
+        "_id": 93
+    },
+    {
+        "CaseA": "Dạ dày ",
+        "CaseB": "Gan ",
+        "CaseC": "Mật ",
+        "CaseD": "Ruột ",
+        "Question": "Enzym Pepsin do cơ quan nào tiết ra?",
+        "TrueCase": 1,
+        "_id": 94
+    },
+    {
+        "CaseA": "1946",
+        "CaseB": "1954",
+        "CaseC": "1961",
+        "CaseD": "1975",
+        "Question": "Chuyến bay đầu tiên của con người vào vũ trụ tiến hành vào năm nào?",
+        "TrueCase": 3,
+        "_id": 95
+    },
+    {
+        "CaseA": "9 tỉ USD",
+        "CaseB": "90 tỉ USD",
+        "CaseC": "900 tỉ USD",
+        "CaseD": "9000 tỉ USD",
+        "Question": "Chi phí Mỹ đổ vào chiến tranh Việt Nam, kể cả chi phí gián tiếp là khoảng bao nhiêu?",
+        "TrueCase": 3,
+        "_id": 96
+    },
+    {
+        "CaseA": "1996",
+        "CaseB": "2000",
+        "CaseC": "2004",
+        "CaseD": "2008",
+        "Question": "Trần Hiếu Ngân là vận động viên đầu tiên của Việt Nam nhận Huy chương Bạc ở Olympic năm nào?",
+        "TrueCase": 2,
+        "_id": 97
+    },
+    {
+        "CaseA": "Ulan Bato ",
+        "CaseB": "New Deli ",
+        "CaseC": "Mexico ",
+        "CaseD": "Panama ",
+        "Question": "Thành phố cổ nhất của tân thế giới là thành phố nào?",
+        "TrueCase": 3,
+        "_id": 98
+    },
+    {
+        "CaseA": "Đại Số ",
+        "CaseB": "Hình Học ",
+        "CaseC": "Động Lực học ",
+        "CaseD": "Hoá học ",
+        "Question": "Đê  Các là cha đẻ của môn học nào?",
+        "TrueCase": 2,
+        "_id": 99
+    },
+    {
+        "CaseA": "Melisa",
+        "CaseB": "Love Bug ",
+        "CaseC": "Sasser ",
+        "CaseD": "Slammer ",
+        "Question": "Đánh dấu một thế hệ mới của virus máy tính là virus nào?",
+        "TrueCase": 3,
+        "_id": 100
+    },
+    {
+        "CaseA": "Người cùng khổ ",
+        "CaseB": "Thanh niên ",
+        "CaseC": "Sài Gòn giải phóng ",
+        "CaseD": "Gia Định báo",
+        "Question": "Tờ báo đầu tiên ở Việt Nam được in bằng chữ quốc ngữ là tờ báo nào?",
+        "TrueCase": 4,
+        "_id": 101
+    },
+    {
+        "CaseA": "Nam Định ",
+        "CaseB": "Ninh Bình ",
+        "CaseC": "Thái Bình ",
+        "CaseD": "Hà Nam ",
+        "Question": "Huyện Giao Thuỷ trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 102
+    },
+    {
+        "CaseA": "Copecnic",
+        "CaseB": "Galileo",
+        "CaseC": "Acsimet",
+        "CaseD": "Aristole",
+        "Question": "Ai là người đầu tiên chứng minh trái đất có dạng hình cầu?",
+        "TrueCase": 4,
+        "_id": 103
+    },
+    {
+        "CaseA": "1993",
+        "CaseB": "1994",
+        "CaseC": "1995",
+        "CaseD": "1996",
+        "Question": "Việt Nam và Mỹ chính thức lập lại quan hệ bình thường vào năm nào?",
+        "TrueCase": 3,
+        "_id": 104
+    },
+    {
+        "CaseA": "Tố Hữu ",
+        "CaseB": "Tản Đà",
+        "CaseC": "Nguyễn Đình Chiểu ",
+        "CaseD": "Tú Xương ",
+        "Question": "Nguyễn Khắc Hiếu  là tên thật của nhà thơ nào?",
+        "TrueCase": 2,
+        "_id": 105
+    },
+    {
+        "CaseA": "2  1 ",
+        "CaseB": "3  1",
+        "CaseC": "2  0 ",
+        "CaseD": "3  0 ",
+        "Question": "Tại trận chung kết World Cup 98, Pháp thắng Brazil với tỉ số bao nhiêu?",
+        "TrueCase": 4,
+        "_id": 106
+    },
+    {
+        "CaseA": "Hà Lan ",
+        "CaseB": "Phần Lan ",
+        "CaseC": "Ba Lan ",
+        "CaseD": "Thuỵ Sĩ ",
+        "Question": "Bracoc là cố đô ít bị tàn phá nhất ở châu Âu, nó thuộc quốc gia nào?",
+        "TrueCase": 3,
+        "_id": 107
+    },
+    {
+        "CaseA": "Bắc Kinh ",
+        "CaseB": "New Deli ",
+        "CaseC": "Washington ",
+        "CaseD": "Mexico ",
+        "Question": "Thành phố có mât độ dân số đông nhất thế giới là thành phố nào?",
+        "TrueCase": 3,
+        "_id": 108
+    },
+    {
+        "CaseA": "107.000 Kmh",
+        "CaseB": "177.000 Kmh",
+        "CaseC": "707.000 Kmh",
+        "CaseD": "101.000 Kmh",
+        "Question": "Vận tốc của trái đất bay xung quanh mặt trời là bao nhiêu?",
+        "TrueCase": 1,
+        "_id": 109
+    },
+    {
+        "CaseA": "Campuchia ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Lào ",
+        "Question": "Bayon là ngôi đền ấn tượng nhất của kiến trúc đền núi do sự hùng vĩ về qui mô cũng như về cảm xúc mà nó đem lại cho người xem?",
+        "TrueCase": 1,
+        "_id": 110
+    },
+    {
+        "CaseA": "Nguyễn Lộc ",
+        "CaseB": "Nguyễn Văn ",
+        "CaseC": "Nguyễn Tuấn ",
+        "CaseD": "Nguyễn Ngọc ",
+        "Question": "Võ sư sáng lập ra môn võ Vovinam tên là gì?",
+        "TrueCase": 1,
+        "_id": 111
+    },
+    {
+        "CaseA": "Thái Bình ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Nam Định ",
+        "CaseD": "Hà Nam ",
+        "Question": "Huyện Kiến Xương trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 112
+    },
+    {
+        "CaseA": "Mộc tinh và Kim tinh ",
+        "CaseB": "Thổ tinh và Kim tinh ",
+        "CaseC": "Thổ tinh và Mộc tinh ",
+        "CaseD": "Kim tinh và Hoả tinh ",
+        "Question": "Hành tinh nào tự quay nhanh đến mức 1 ngày ở đó chỉ khoảng 10h đồng hồ?",
+        "TrueCase": 3,
+        "_id": 113
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Brazil ",
+        "CaseD": "Canada",
+        "Question": "Quốc gia nào sẽ tổ chức Thế vận hội mùa hè Olympic năm 2016?",
+        "TrueCase": 3,
+        "_id": 114
+    },
+    {
+        "CaseA": "Bạn",
+        "CaseB": "Cháu ",
+        "CaseC": "Con ",
+        "CaseD": "Con rể",
+        "Question": "Ngô Quyền có quan hệ gì với Dương Đình Nghệ ",
+        "TrueCase": 4,
+        "_id": 115
+    },
+    {
+        "CaseA": "Cái chậu ",
+        "CaseB": "Cái ấm ",
+        "CaseC": "Cái tách ",
+        "CaseD": "Cái lọ ",
+        "Question": "Tasse trong tiếng Pháp nghĩa là gì?",
+        "TrueCase": 3,
+        "_id": 116
+    },
+    {
+        "CaseA": "02/07/1970",
+        "CaseB": "07/02/1970",
+        "CaseC": "02/02/1970",
+        "CaseD": "07/07/1970",
+        "Question": "Thành phố Hồ Chí Minh chính thức mang tên Bác vào ngày tháng năm nào?",
+        "TrueCase": 1,
+        "_id": 117
+    },
+    {
+        "CaseA": "Mexico",
+        "CaseB": "New Deli",
+        "CaseC": "Hà Nội ",
+        "CaseD": "Jorhanesburg",
+        "Question": "Thành phố ô nhiễm nhất thế giới là thành phố nào?",
+        "TrueCase": 1,
+        "_id": 118
+    },
+    {
+        "CaseA": "Bình Định ",
+        "CaseB": "Bình Thuận ",
+        "CaseC": "Ninh Thuận ",
+        "CaseD": "Quảng Nam ",
+        "Question": "Quê hương của Quang Trung?",
+        "TrueCase": 1,
+        "_id": 119
+    },
+    {
+        "CaseA": "Thế kỷ thứ 7 ",
+        "CaseB": "Thế kỷ thứ 9 ",
+        "CaseC": "Thế kỷ thứ 11 ",
+        "CaseD": "Thế kỷ thứ 17 ",
+        "Question": "Đàn bầu xuất hiện ở Việt Nam vào khoảng thời gian nào?",
+        "TrueCase": 1,
+        "_id": 120
+    },
+    {
+        "CaseA": "Cuba ",
+        "CaseB": "Argentina ",
+        "CaseC": "Venezuela ",
+        "CaseD": "Mexico ",
+        "Question": "Ernesto Guevara de la Serna 19281967, thường được biết đến với tên Che Guevara, ông là người nước nào?",
+        "TrueCase": 2,
+        "_id": 121
+    },
+    {
+        "CaseA": "Nam Định ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Hải Dương ",
+        "CaseD": "Thái Bình ",
+        "Question": "Huyện Tiền Hải trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 122
+    },
+    {
+        "CaseA": "Kim tinh ",
+        "CaseB": "Mộc tinh",
+        "CaseC": "Thuỷ tinh ",
+        "CaseD": "Trái đất",
+        "Question": "Hành tinh nào không có bầu khí quyển?",
+        "TrueCase": 1,
+        "_id": 123
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Brazil ",
+        "CaseC": "Hoa Kỳ ",
+        "CaseD": "Nhật Bản",
+        "Question": "Quốc gia nào sẽ tổ chức thế vận hội mùa hè Olympic năm 2012?",
+        "TrueCase": 1,
+        "_id": 124
+    },
+    {
+        "CaseA": "Ức Trai thi tập ",
+        "CaseB": "Hịch tướng sĩ ",
+        "CaseC": "Bình Ngô đại cáo ",
+        "CaseD": "Lục Vân Tiên",
+        "Question": "Gươm màu đá, đá núi cũng mòn có trong tác phầm nào của Nguyễn Trãi?",
+        "TrueCase": 3,
+        "_id": 125
+    },
+    {
+        "CaseA": "Thạch Lam ",
+        "CaseB": "Nam Cao ",
+        "CaseC": "Hồng Phát ",
+        "CaseD": "Quang Sáng ",
+        "Question": "Bộ phim Cánh đồng hoang dựa trên tác phầm của nhà văn nào?",
+        "TrueCase": 4,
+        "_id": 126
+    },
+    {
+        "CaseA": "10/10/1877",
+        "CaseB": "07/07/1877",
+        "CaseC": "07/10/1877",
+        "CaseD": "10/07/1877",
+        "Question": "Nhà thờ Đức Bà ở thành phố Hồ Chí Minh được xây dựng vào thời gian nào?",
+        "TrueCase": 3,
+        "_id": 127
+    },
+    {
+        "CaseA": "Thimpu Butan",
+        "CaseB": "Pushkar Ấn Độ ",
+        "CaseC": "Rangon Myanmar",
+        "CaseD": "Viêng Chăn Lào",
+        "Question": "Thành phố nào có nhiều đền thờ nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 128
+    },
+    {
+        "CaseA": "1940",
+        "CaseB": "1928 ",
+        "CaseC": "1956 ",
+        "CaseD": "1917 ",
+        "Question": "Chuột Micky là nhân vật hoạt hình của điện ảnh Hoa Kỳ, bạn cho biết chú chuột này ra đời năm nào?",
+        "TrueCase": 2,
+        "_id": 129
+    },
+    {
+        "CaseA": "Lý Bạch ",
+        "CaseB": "Từ Ngưng ",
+        "CaseC": "Ngô Quân ",
+        "CaseD": "Đỗ Phủ ",
+        "Question": "Hành lộ nan, Tĩnh dạ thư, Thái liên khúc là những bài thơ của tác giả nào sau đây?",
+        "TrueCase": 1,
+        "_id": 130
+    },
+    {
+        "CaseA": "Nhà Đinh ",
+        "CaseB": "Nhà Trần ",
+        "CaseC": "Nhà hậu Lê ",
+        "CaseD": "Nhà Nguyễn ",
+        "Question": "Đồng tiền đầu tiên trong lịch sử nước ta được đúc dưới thời nào?",
+        "TrueCase": 1,
+        "_id": 131
+    },
+    {
+        "CaseA": "Bạch Đằng Giang ",
+        "CaseB": "Chi Lăng  Xương Giang ",
+        "CaseC": "Ngọc Hồi  Đống Đa ",
+        "CaseD": "Điện Biên Phủ ",
+        "Question": "Chiến thắng nào của nước ta đã chấm dứt vĩnh viễn nạn xâm lăng của phong kiến phương Bắc với nước ta?",
+        "TrueCase": 3,
+        "_id": 132
+    },
+    {
+        "CaseA": "Thuỵ Điển",
+        "CaseB": "Thuỵ Sĩ",
+        "CaseC": "Ba Lan ",
+        "CaseD": "Hà Lan ",
+        "Question": "Quốc gia nào là quê hương của bia Heiniken?",
+        "TrueCase": 4,
+        "_id": 133
+    },
+    {
+        "CaseA": "Australia",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Trung Quốc",
+        "CaseD": "",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 2008?",
+        "TrueCase": 3,
+        "_id": 134
+    },
+    {
+        "CaseA": "6",
+        "CaseB": "7",
+        "CaseC": "8",
+        "CaseD": "9",
+        "Question": "Tất cả các động vật có vú đều có mấy đốt sống cổ?",
+        "TrueCase": 2,
+        "_id": 135
+    },
+    {
+        "CaseA": "27",
+        "CaseB": "38 ",
+        "CaseC": "45",
+        "CaseD": "61",
+        "Question": "Triều Tiên bị chia làm 2 miền Nam Bắc tại vĩ tuyến số bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 136
+    },
+    {
+        "CaseA": "07/06/1997",
+        "CaseB": "06/07/1997",
+        "CaseC": "06/06/1997",
+        "CaseD": "07/07/1997",
+        "Question": "Cầu Mỹ Thuận bắt đầu xây dựng vào ngày tháng năm nào?",
+        "TrueCase": 2,
+        "_id": 137
+    },
+    {
+        "CaseA": "Algie Algeria",
+        "CaseB": "Huế Việt Nam ",
+        "CaseC": "Paris Pháp",
+        "CaseD": "Ulan Bato Mông Cổ ",
+        "Question": "Thành phố yên tĩnh nhất thế giới là thành phố nào?",
+        "TrueCase": 1,
+        "_id": 138
+    },
+    {
+        "CaseA": "Ấn Độ ",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Ai Cập ",
+        "Question": "Địa chấn kế, một công cụ để phát hiện những chấn động của trái đất, đầu tiên được phát minh vào thế kỉ thứ nhất trước công nguyên, tại?",
+        "TrueCase": 3,
+        "_id": 139
+    },
+    {
+        "CaseA": "Thần Dớt ",
+        "CaseB": "Odixe ",
+        "CaseC": "Hecquyn ",
+        "CaseD": "Asin ",
+        "Question": "Người hiện thân cho sức mạnh và vẻ đẹp của người Hy Lạp trong trường ca Illiat và Odyssey?",
+        "TrueCase": 4,
+        "_id": 140
+    },
+    {
+        "CaseA": "Nắng trong vườn ",
+        "CaseB": "Sông Côn mùa lũ ",
+        "CaseC": "Lão Hạc ",
+        "CaseD": "Ngọn cỏ gió đùa ",
+        "Question": "Hồ Biểu Chánh là tác giả của tác phầm nào dưới đây?",
+        "TrueCase": 4,
+        "_id": 141
+    },
+    {
+        "CaseA": "John Boyd Dunlop",
+        "CaseB": "Neil Amstrong",
+        "CaseC": "John Davison Rockefeller",
+        "CaseD": "Henry Ford",
+        "Question": "Câu nói nổi tiếng: Một bước nhỏ của người là bước nhảy vọt khổng lồ của nhân loại là của ai?",
+        "TrueCase": 2,
+        "_id": 142
+    },
+    {
+        "CaseA": "Đá Catket ",
+        "CaseB": "Đá Trầm tích",
+        "CaseC": "Đá Magma",
+        "CaseD": "Đá vôi ",
+        "Question": "Loại đá được hình thành từ xác động vật?",
+        "TrueCase": 4,
+        "_id": 143
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Brazil",
+        "CaseC": "Hy Lạp ",
+        "CaseD": "Anh ",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 2004?",
+        "TrueCase": 3,
+        "_id": 144
+    },
+    {
+        "CaseA": "Trong mang ",
+        "CaseB": "Dưới cát ",
+        "CaseC": "Trong miệng ",
+        "CaseD": "Trên tảo ",
+        "Question": "Cá rô phi ấp trứng ở đâu?",
+        "TrueCase": 3,
+        "_id": 145
+    },
+    {
+        "CaseA": "225 nghìn năm ",
+        "CaseB": "225 vạn năm ",
+        "CaseC": "225 triệu năm ",
+        "CaseD": "225 tỉ năm ",
+        "Question": "Thời gian để mặt trời quay quanh tâm Thiên Hà của chúng ta?",
+        "TrueCase": 3,
+        "_id": 146
+    },
+    {
+        "CaseA": "21122000",
+        "CaseB": "12052000",
+        "CaseC": "21052000",
+        "CaseD": "05122000",
+        "Question": "Cầu Mỹ Thuận được khánh thành vào ngày tháng năm nào?",
+        "TrueCase": 3,
+        "_id": 147
+    },
+    {
+        "CaseA": "Deciben",
+        "CaseB": "Decimet",
+        "CaseC": "Decagam",
+        "CaseD": "Không có ",
+        "Question": "Đơn vị nào sau đây được dùng để đo tiếng ồn, tiếng động?",
+        "TrueCase": 1,
+        "_id": 148
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Đức ",
+        "CaseC": "Hàn Quốc ",
+        "CaseD": "Nhật Bản ",
+        "Question": "Nước nào sản xuất ô tô nhiều nhất thế giới?",
+        "TrueCase": 4,
+        "_id": 149
+    },
+    {
+        "CaseA": "Thánh Peter",
+        "CaseB": "Thánh Paul ",
+        "CaseC": "Thánh John ",
+        "CaseD": "Thánh Marc",
+        "Question": "Vị Giáo Hoàng đầu tiên là ai?",
+        "TrueCase": 1,
+        "_id": 150
+    },
+    {
+        "CaseA": "Tập 2 ",
+        "CaseB": "Tập 3 ",
+        "CaseC": "Tập 6 ",
+        "CaseD": "Tập 9 ",
+        "Question": "Trong truyện 7 viên ngọc rồng nổi tiếng, rồng thiêng xuất hiện lần đầu tiên ở tập bao nhiêu?",
+        "TrueCase": 2,
+        "_id": 151
+    },
+    {
+        "CaseA": "Hoàng Việt ",
+        "CaseB": "Nguyễn  Đình Tân ",
+        "CaseC": "Nguyễn Thị Nhung ",
+        "CaseD": "Nguyễn Xinh ",
+        "Question": "Giao hưởng thơ Nữ anh hùng miền Nam là sáng tác của nhạc sĩ nào?",
+        "TrueCase": 3,
+        "_id": 152
+    },
+    {
+        "CaseA": "Lý ",
+        "CaseB": "Triệu ",
+        "CaseC": "Trần",
+        "CaseD": "Hồ ",
+        "Question": "Siêu sao điện ảnh Thành Long của Trung Quốc có họ là gì?",
+        "TrueCase": 3,
+        "_id": 153
+    },
+    {
+        "CaseA": "Hy Lạp ",
+        "CaseB": "Trung Quốc",
+        "CaseC": "Australia",
+        "CaseD": "Tây Ban Nha",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 2000?",
+        "TrueCase": 3,
+        "_id": 154
+    },
+    {
+        "CaseA": "Áo dài ",
+        "CaseB": "Tranh Đông Hồ ",
+        "CaseC": "Cồng  chiêng ",
+        "CaseD": "Trống đồng",
+        "Question": "Di sản nào của Việt Nam được UNESCO công nhận là di sản văn hoá phi vật thể 2005?",
+        "TrueCase": 3,
+        "_id": 155
+    },
+    {
+        "CaseA": "Lomonosov",
+        "CaseB": "Kepler",
+        "CaseC": "Copernicus",
+        "CaseD": "Galileo",
+        "Question": "Ai là người phát hiện ra khí quyển trên sao Kim?",
+        "TrueCase": 1,
+        "_id": 156
+    },
+    {
+        "CaseA": "100 độ C ",
+        "CaseB": "7 độ C ",
+        "CaseC": "4 độ C ",
+        "CaseD": "0 độ C ",
+        "Question": "Nước có khối lượng riêng lớn nhất ở bao nhiêu độ C?",
+        "TrueCase": 3,
+        "_id": 157
+    },
+    {
+        "CaseA": "Thimpu Butan",
+        "CaseB": "Santiago Chile",
+        "CaseC": "Lapaz Bolivia",
+        "CaseD": "Panama Panama",
+        "Question": "Thành phố cao nhất thế giới là thành phố nào trong các thành phố sau?",
+        "TrueCase": 3,
+        "_id": 158
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Nga ",
+        "Question": "Trụ sở của ngân hàng thế giới ở quốc gia nào?",
+        "TrueCase": 2,
+        "_id": 159
+    },
+    {
+        "CaseA": "Trương Định",
+        "CaseB": "Thiện Hộ Dương ",
+        "CaseC": "Thủ Khoa Huân ",
+        "CaseD": "Nguyễn Trung Trực ",
+        "Question": "Người anh hùng đã làm nên chiến công đốt cháy tàu Hy Vọng của Pháp trên sông Nhật Tảo là ai?",
+        "TrueCase": 4,
+        "_id": 160
+    },
+    {
+        "CaseA": "Sư phụ rùa già",
+        "CaseB": "Người bạn đồng môn ",
+        "CaseC": "Lên đường tìm ngọc ",
+        "CaseD": "Đụng độ băng cướp Yamcha",
+        "Question": "Truyện 7 viên ngọc rồng nổi tiếng thế giới, tập đầu tiên mang tên là gì?",
+        "TrueCase": 3,
+        "_id": 161
+    },
+    {
+        "CaseA": "Toán học ",
+        "CaseB": "Hoá học ",
+        "CaseC": "Văn học ",
+        "CaseD": "Y học ",
+        "Question": "Rabindranath Tagore đã nhận giải Nobel ở lĩnh vực nào?",
+        "TrueCase": 3,
+        "_id": 162
+    },
+    {
+        "CaseA": "K. Rowling",
+        "CaseB": "Oprah Gail Winfrey ",
+        "CaseC": "Ingvar Kamprad",
+        "CaseD": "Carlos Slim Helus",
+        "Question": "Ai là người trở thành triệu phú đô la Mỹ nhờ viết sách?",
+        "TrueCase": 1,
+        "_id": 163
+    },
+    {
+        "CaseA": "Brazil ",
+        "CaseB": "Australia",
+        "CaseC": "Anh ",
+        "CaseD": "Hoa Kỳ",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1996?",
+        "TrueCase": 4,
+        "_id": 164
+    },
+    {
+        "CaseA": "Nam Cao ",
+        "CaseB": "Thạch Lam ",
+        "CaseC": "Vũ Trọng Phụng",
+        "CaseD": "Kim Lân ",
+        "Question": "Nguyễn Văn Tài là tên thật của nhà văn nào?",
+        "TrueCase": 4,
+        "_id": 165
+    },
+    {
+        "CaseA": "Karl đại đế",
+        "CaseB": " Alexander đại đế ",
+        "CaseC": "Heirich đệ tứ ",
+        "CaseD": "Otto đại đê",
+        "Question": "Charlemange là tên thật của vị vua nào?",
+        "TrueCase": 1,
+        "_id": 166
+    },
+    {
+        "CaseA": "1966",
+        "CaseB": "1967 ",
+        "CaseC": "1968",
+        "CaseD": "1969 ",
+        "Question": "Sư đoàn 308 có tên là Đại đoàn tiên phong được thành lập vào năm nào?",
+        "TrueCase": 4,
+        "_id": 167
+    },
+    {
+        "CaseA": "Dublin Ailen",
+        "CaseB": "London Anh",
+        "CaseC": "Paris Pháp ",
+        "CaseD": "Stockhom Thuỵ Điển ",
+        "Question": "Thành phố có nhiều bia nhất thế giới là thành phố nào?",
+        "TrueCase": 1,
+        "_id": 168
+    },
+    {
+        "CaseA": "1970 ",
+        "CaseB": "1971 ",
+        "CaseC": "1972",
+        "CaseD": "1973",
+        "Question": "Karaoke được phát minh vào năm nào?",
+        "TrueCase": 2,
+        "_id": 169
+    },
+    {
+        "CaseA": "Nguyễn Quang Bích ",
+        "CaseB": "Phan Đình Phùng",
+        "CaseC": "Đinh Công Tráng ",
+        "CaseD": "Tống Duy Tân ",
+        "Question": "Thủ lĩnh của cuộc khởi nghĩa Hương Khê là ai?",
+        "TrueCase": 2,
+        "_id": 170
+    },
+    {
+        "CaseA": "Thời thế tạo anh hùng ",
+        "CaseB": "Bí mật Ma Bư ",
+        "CaseC": "Ca khúc khải hoàn ",
+        "CaseD": "Tạm biệt ngọc rồng ",
+        "Question": "Truyện 7 viên ngọc rồng nổi tiếng, tập cuối cùng tên là gì?",
+        "TrueCase": 4,
+        "_id": 171
+    },
+    {
+        "CaseA": "Trung Quốc ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Ai Cập ",
+        "CaseD": "Hy Lạp ",
+        "Question": "Rabindranath Tagore là người nhận giải Nobel toán học, ông là người nước nào?",
+        "TrueCase": 2,
+        "_id": 172
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "0",
+        "Question": "Đàn Đáy có mấy dây?",
+        "TrueCase": 4,
+        "_id": 173
+    },
+    {
+        "CaseA": "Brazil ",
+        "CaseB": "Australia",
+        "CaseC": "Anh ",
+        "CaseD": "Hoa Kỳ",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1992?",
+        "TrueCase": 4,
+        "_id": 174
+    },
+    {
+        "CaseA": "Piano ",
+        "CaseB": "Guitar ",
+        "CaseC": "Đàn tranh ",
+        "CaseD": "Violon ",
+        "Question": "Đàn Lục huyền cầm thuộc loại đàn nào?",
+        "TrueCase": 2,
+        "_id": 175
+    },
+    {
+        "CaseA": "Màu đỏ ",
+        "CaseB": "Màu tím ",
+        "CaseC": "Màu xanh biếc ",
+        "CaseD": "Màu vàng ",
+        "Question": "Ánh sáng mặt trời phản xạ từ Thiên vương tinh có màu gì?",
+        "TrueCase": 3,
+        "_id": 176
+    },
+    {
+        "CaseA": "30041975",
+        "CaseB": "13121954",
+        "CaseC": "03031954",
+        "CaseD": "13031954",
+        "Question": "Chiến dịch Điện Biên Phủ bắt đầu vào ngày tháng năm nào?",
+        "TrueCase": 4,
+        "_id": 177
+    },
+    {
+        "CaseA": "Oslo Nauy",
+        "CaseB": "Hensinki Phần Lan",
+        "CaseC": "Ankara Thổ Nhĩ Kì",
+        "CaseD": "Stockhom Thuỵ Điển ",
+        "Question": "Thành phố nào được xem là thành phố hạnh phúc nhà nước quan tâm đến người Nghèo?",
+        "TrueCase": 4,
+        "_id": 178
+    },
+    {
+        "CaseA": "1981",
+        "CaseB": "1971",
+        "CaseC": "1960 ",
+        "CaseD": "1990 ",
+        "Question": "Email có từ năm nào?",
+        "TrueCase": 2,
+        "_id": 179
+    },
+    {
+        "CaseA": "Nguyễn Thiện Thuật ",
+        "CaseB": "Hoàng Hoa Thám ",
+        "CaseC": "Nguyễn Quang Bích ",
+        "CaseD": "Phan Đình Phùng ",
+        "Question": "Lãnh đạo cuộc khởi nghĩa Bãi Sậy là ai?",
+        "TrueCase": 3,
+        "_id": 180
+    },
+    {
+        "CaseA": "Boney M",
+        "CaseB": "ABBA",
+        "CaseC": "Pussy cat dolls",
+        "CaseD": "MTV ",
+        "Question": "Ban nhạc nổi tiếng nào sau đây đã từng đến Việt Nam trình diễn?",
+        "TrueCase": 1,
+        "_id": 181
+    },
+    {
+        "CaseA": "Trạng Quỳnh ",
+        "CaseB": "Trạng Trình ",
+        "CaseC": "Trạng Lường",
+        "CaseD": "Trạng Lợn ",
+        "Question": "Lương Thế Vinh thường được nhân gian gọi là trạng gì?",
+        "TrueCase": 3,
+        "_id": 182
+    },
+    {
+        "CaseA": "Sao Thuỷ ",
+        "CaseB": "Sao Kim ",
+        "CaseC": "Sao Hoả ",
+        "CaseD": "Sao Mộc ",
+        "Question": "Hành tinh nào nóng nhất trong hệ mặt trời?",
+        "TrueCase": 1,
+        "_id": 183
+    },
+    {
+        "CaseA": "Hàn Quốc",
+        "CaseB": "Hoa Kỳ ",
+        "CaseC": "Australia",
+        "CaseD": "Brazil",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm1988?",
+        "TrueCase": 1,
+        "_id": 184
+    },
+    {
+        "CaseA": "Thu ẩm ",
+        "CaseB": "Thu vịnh",
+        "CaseC": "Thu ngẫm ",
+        "CaseD": "Thu điếu ",
+        "Question": "Bài thơ nào không nằm trong chùm thơ mùa thu của Nguyễn Khuyến?",
+        "TrueCase": 3,
+        "_id": 185
+    },
+    {
+        "CaseA": "nAmylic",
+        "CaseB": "nAmyl axetat",
+        "CaseC": "Propionic",
+        "CaseD": "nValeric",
+        "Question": "Trong các chất sau đây, chất nào có nhiệt độ sôi cao nhất?",
+        "TrueCase": 2,
+        "_id": 186
+    },
+    {
+        "CaseA": "04041945",
+        "CaseB": "06061945",
+        "CaseC": "04061945",
+        "CaseD": "06041945",
+        "Question": "Thủ đô Tân Trào của khu giải phóng được thành lập vào ngày tháng năm nào?",
+        "TrueCase": 3,
+        "_id": 187
+    },
+    {
+        "CaseA": "Tokyo Nhật Bản ",
+        "CaseB": "Bắc Kinh Trung Quốc ",
+        "CaseC": "Berlin Đức ",
+        "CaseD": "London Anh ",
+        "Question": "Thành phố có hệ thống giao thông công cộng tốt nhất thế giới là thành phố nào?",
+        "TrueCase": 4,
+        "_id": 188
+    },
+    {
+        "CaseA": "1450 ",
+        "CaseB": "1340 ",
+        "CaseC": "1560 ",
+        "CaseD": "1730 ",
+        "Question": "Máy in được phát minh vào năm nào?",
+        "TrueCase": 4,
+        "_id": 189
+    },
+    {
+        "CaseA": "Nguyễn Huệ ",
+        "CaseB": "Trần Quốc Toản ",
+        "CaseC": "Lê Lợi ",
+        "CaseD": "Lê Lai ",
+        "Question": "Anh hùng áo vải là nói đến vị anh hùng dân tộc nào?",
+        "TrueCase": 1,
+        "_id": 190
+    },
+    {
+        "CaseA": "8 nước thành viên ",
+        "CaseB": "10 nước thành viên ",
+        "CaseC": "15 nước thành viên ",
+        "CaseD": "16 nước thành viên ",
+        "Question": "Khi tan vỡ, Liên bang Xô Viết có bao nhiêu nước thành viên?",
+        "TrueCase": 3,
+        "_id": 191
+    },
+    {
+        "CaseA": "1 Kg ",
+        "CaseB": "10 Kg ",
+        "CaseC": "100 Kg ",
+        "CaseD": "1000 Kg ",
+        "Question": "Người ta cần bao nhiêu cánh hoa hồng để tạo ra khoảng nửa kilogram tinh dầu hoa hồng?",
+        "TrueCase": 4,
+        "_id": 192
+    },
+    {
+        "CaseA": "1959",
+        "CaseB": "1958 ",
+        "CaseC": "1961",
+        "CaseD": "1960",
+        "Question": "Năm nào được gọi là Năm Châu Phi?",
+        "TrueCase": 4,
+        "_id": 193
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Tây Ban Nha",
+        "CaseC": "Hoa Kỳ",
+        "CaseD": "Anh",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1984?",
+        "TrueCase": 3,
+        "_id": 194
+    },
+    {
+        "CaseA": "Thạch cao ",
+        "CaseB": "Vàng",
+        "CaseC": "Thuỷ tinh ",
+        "CaseD": "Đồng ",
+        "Question": "Vào thế chiến thứ 2, tượng Oscar được làm bằng gì?",
+        "TrueCase": 1,
+        "_id": 195
+    },
+    {
+        "CaseA": "Pháp ",
+        "CaseB": "Mỹ",
+        "CaseC": "Đức ",
+        "CaseD": "Anh ",
+        "Question": "Nhà toán học Turing là người nước nào?",
+        "TrueCase": 4,
+        "_id": 196
+    },
+    {
+        "CaseA": "05051955",
+        "CaseB": "10101955",
+        "CaseC": "05101955",
+        "CaseD": "10051955",
+        "Question": "Toán lính Pháp cuối cùng rời khỏi miền Bắc nước ta vào ngày tháng năm nào?",
+        "TrueCase": 4,
+        "_id": 197
+    },
+    {
+        "CaseA": "Budapest Hungaria",
+        "CaseB": "Bucares Rumania",
+        "CaseC": "Sofia Bungaria",
+        "CaseD": "Viên Áo ",
+        "Question": "Thành phố nào sau đây có các công trình giống Paris của nước Pháp nhất thế giới?",
+        "TrueCase": 2,
+        "_id": 198
+    },
+    {
+        "CaseA": "1980 ",
+        "CaseB": "1845 ",
+        "CaseC": "1875 ",
+        "CaseD": "1825 ",
+        "Question": "Tàu hoả hơi nước ra đời vào năm nào?",
+        "TrueCase": 4,
+        "_id": 199
+    },
+    {
+        "CaseA": "Ai mà nó thích ",
+        "CaseB": "Không nộp cống vật cho nó ",
+        "CaseC": "Không giải được câu đố của nó ",
+        "CaseD": "Ai mà nó bắt gặp ",
+        "Question": "Theo truyền thuyết Ai Cập, Nhân Sư ăn thịt hết tất cả những ai?",
+        "TrueCase": 3,
+        "_id": 200
+    },
+    {
+        "CaseA": "Âm học ",
+        "CaseB": "Điện học ",
+        "CaseC": "Quang học ",
+        "CaseD": "Nhiệt học ",
+        "Question": "Con ếch được ngành vật lý nào sau đây sử dụng làm vật thí nghiệm đầu tiên?",
+        "TrueCase": 2,
+        "_id": 201
+    },
+    {
+        "CaseA": "Bác Hồ ",
+        "CaseB": "Phan Đình Phùng ",
+        "CaseC": "Phan Chu Trinh ",
+        "CaseD": "Phan Bội Châu ",
+        "Question": "Ông già Bến Ngự là ai?",
+        "TrueCase": 4,
+        "_id": 202
+    },
+    {
+        "CaseA": "Nepal ",
+        "CaseB": "Ấn Độ ",
+        "CaseC": "Pakistan ",
+        "CaseD": "Iran ",
+        "Question": "Quê hương của Đức Phật?",
+        "TrueCase": 1,
+        "_id": 203
+    },
+    {
+        "CaseA": "Liên Xô",
+        "CaseB": "Hàn Quốc",
+        "CaseC": "Thái Lan ",
+        "CaseD": "Việt Nam ",
+        "Question": "Quốc gia nào đã tổ chức Thế vận hội mùa hè Olympic năm 1980?",
+        "TrueCase": 1,
+        "_id": 204
+    },
+    {
+        "CaseA": "Fibonacci",
+        "CaseB": "Pithagor",
+        "CaseC": "Leonardo de Vinci",
+        "CaseD": "Euclid",
+        "Question": "Ai là người đầu tiên sử dụng thuật ngữ phép chia vàng?",
+        "TrueCase": 3,
+        "_id": 205
+    },
+    {
+        "CaseA": "Mỹ ",
+        "CaseB": "Hy Lạp ",
+        "CaseC": "Nhật Bản ",
+        "CaseD": "Hàn Quốc ",
+        "Question": "Giải vô địch bóng rổ thế giới lần thứ 15 năm 2006 được tổ chức ở nước nào?",
+        "TrueCase": 3,
+        "_id": 206
+    },
+    {
+        "CaseA": "Kiên Giang ",
+        "CaseB": "Cà Mau ",
+        "CaseC": "Trà Vinh ",
+        "CaseD": "Sóc Trăng ",
+        "Question": "Biển Ba Động thuộc tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 207
+    },
+    {
+        "CaseA": "Bolivia",
+        "CaseB": "Brazil",
+        "CaseC": "Bhutan",
+        "CaseD": "Belarus",
+        "Question": "Lapaz là thủ đô của quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 208
+    },
+    {
+        "CaseA": "1905 ",
+        "CaseB": "1889",
+        "CaseC": "1883 ",
+        "CaseD": "1911",
+        "Question": "Tháp Eiffel được hoàn tất vào năm nào?",
+        "TrueCase": 2,
+        "_id": 209
+    },
+    {
+        "CaseA": "Mỹ và Ấn Độ ",
+        "CaseB": "Anh và Ấn Độ",
+        "CaseC": "Mỹ và Trung Quốc ",
+        "CaseD": "Anh và Trung Quốc ",
+        "Question": "Chiến tranh nha phiến là cuộc chiến giữa ?",
+        "TrueCase": 4,
+        "_id": 210
+    },
+    {
+        "CaseA": "Acid Oleic",
+        "CaseB": "Acid Oxalic",
+        "CaseC": "Acid Glutamic",
+        "CaseD": "Acid Nitric",
+        "Question": "Khi trời mưa trong nước mưa có chất gì làm cho sắt chóng gỉ sét?",
+        "TrueCase": 4,
+        "_id": 211
+    },
+    {
+        "CaseA": "1920 ",
+        "CaseB": "1921 ",
+        "CaseC": "1922 ",
+        "CaseD": "1923 ",
+        "Question": "Báo Người cùng khổ ra đời năm nào?",
+        "TrueCase": 3,
+        "_id": 212
+    }
+]

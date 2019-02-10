@@ -1,0 +1,2729 @@
+[
+    {
+        "CaseA": "Khẩu huyết",
+        "CaseB": "Khẩu khí",
+        "CaseC": "Khẩu phục",
+        "CaseD": "Khẩu trang",
+        "Question": "Trong các danh từ sau, danh từ nào chỉ một vật dụng chống bụi?",
+        "TrueCase": 4,
+        "_id": 1
+    },
+    {
+        "CaseA": "Tối",
+        "CaseB": "Sáng",
+        "CaseC": "Râm",
+        "CaseD": "Thôi",
+        "Question": "Điền tiếp vào câu tục ngữ: \"Chuồn chuồn bay thấp thì mưa, bay cao thì nắng, bay vừa thì ...\"",
+        "TrueCase": 3,
+        "_id": 2
+    },
+    {
+        "CaseA": "Cao răng",
+        "CaseB": "Men răng",
+        "CaseC": "Tủy răng",
+        "CaseD": "Sâu răng",
+        "Question": "Lớp màng vôi mỏng xuất hiện trên răng khi bạn thường xuyên quên chải răng gọi là gì?",
+        "TrueCase": 1,
+        "_id": 3
+    },
+    {
+        "CaseA": "Sao",
+        "CaseB": "Ghê",
+        "CaseC": "Nên",
+        "CaseD": "Kinh",
+        "Question": "Điền vào chỗ trống: \"Có chí thì ...\"?",
+        "TrueCase": 3,
+        "_id": 4
+    },
+    {
+        "CaseA": "Kim",
+        "CaseB": "Xà beng",
+        "CaseC": "Kiếm",
+        "CaseD": "Dao",
+        "Question": "Điền tiếp vào câu tục ngữ \"Có công mài sắt, có ngày nên ...\"?",
+        "TrueCase": 1,
+        "_id": 5
+    },
+    {
+        "CaseA": "Nhịn đói",
+        "CaseB": "Lây bệnh",
+        "CaseC": "Bỏ cỏ",
+        "CaseD": "Mệt lử",
+        "Question": "Điền tiếp vào câu tục ngữ \"Một con ngựa đau, cả tàu ...\"?",
+        "TrueCase": 3,
+        "_id": 6
+    },
+    {
+        "CaseA": "Kem",
+        "CaseB": "Xôi",
+        "CaseC": "Cơm",
+        "CaseD": "Canh",
+        "Question": "Điền tiếp vào câu thành ngữ: \"Chịu đấm ăn ...\"?",
+        "TrueCase": 2,
+        "_id": 7
+    },
+    {
+        "CaseA": "Diều hâu",
+        "CaseB": "Trứng",
+        "CaseC": "Vịt",
+        "CaseD": "Ngan",
+        "Question": "Điền tiếp vào câu thành ngữ: \"Ông nói gà, bà nói ....\"?",
+        "TrueCase": 3,
+        "_id": 8
+    },
+    {
+        "CaseA": "Sâu róm",
+        "CaseB": "Sâu chiếu",
+        "CaseC": "Sâu xa",
+        "CaseD": "Sâu mèo",
+        "Question": "Đâu không phải là tên một loài sâu?",
+        "TrueCase": 3,
+        "_id": 9
+    },
+    {
+        "CaseA": "Quốc tế lao động",
+        "CaseB": "Quốc tế phụ nữ",
+        "CaseC": "Giải phóng miền Nam ",
+        "CaseD": "Chiến thắng Điện Biên Phủ ",
+        "Question": "Ngày 1-5 là ngày kỉ niệm gì?",
+        "TrueCase": 1,
+        "_id": 10
+    },
+    {
+        "CaseA": "19-5-1900",
+        "CaseB": "5-9-1890",
+        "CaseC": "2-9-1899",
+        "CaseD": "19-5-1890",
+        "Question": "Chủ tịch Hồ Chí Minh sinh vào ngày?",
+        "TrueCase": 4,
+        "_id": 11
+    },
+    {
+        "CaseA": "Rồng rắn cắn nhau",
+        "CaseB": "Rồng rắn lên mây",
+        "CaseC": "Rồng cắn rắn đớp",
+        "CaseD": "Rồng bay rắn cuộn",
+        "Question": "Đâu là tên một trò chơi dân gian Việt Nam?",
+        "TrueCase": 2,
+        "_id": 12
+    },
+    {
+        "CaseA": "Đống Gạch",
+        "CaseB": "Đống Đa",
+        "CaseC": "Bánh Đa",
+        "CaseD": "Gốc Đa",
+        "Question": "Đâu là tên một quận ở Hà nội?",
+        "TrueCase": 2,
+        "_id": 13
+    },
+    {
+        "CaseA": "Hành quân xa",
+        "CaseB": "Tiến Quân ca",
+        "CaseC": "Khúc hát hành quân",
+        "CaseD": "Khúc hát thanh niên",
+        "Question": "Quốc ca của Việt Nam là bài hát nào?",
+        "TrueCase": 2,
+        "_id": 14
+    },
+    {
+        "CaseA": "Con Hổ",
+        "CaseB": "Con Sói",
+        "CaseC": "Con Voi",
+        "CaseD": "Con cáo",
+        "Question": "Hình ảnh con vật gì thường được gắn với Bà Triệu?",
+        "TrueCase": 3,
+        "_id": 15
+    },
+    {
+        "CaseA": "22-12-1944",
+        "CaseB": "1-6-1945",
+        "CaseC": "7-5-1954",
+        "CaseD": "3-2-1930",
+        "Question": "Quân đội nhân dân Việt Nam được thành lập vào ngày nào?",
+        "TrueCase": 1,
+        "_id": 16
+    },
+    {
+        "CaseA": "Hải quan",
+        "CaseB": "Thuế quan",
+        "CaseC": "Quan ải",
+        "CaseD": "Quan quyền",
+        "Question": "Từ nào khác loại với 3 từ còn lại?",
+        "TrueCase": 4,
+        "_id": 17
+    },
+    {
+        "CaseA": "Con Dao",
+        "CaseB": "Con Cá",
+        "CaseC": "Con Bướm",
+        "CaseD": "Con Bê",
+        "Question": "Từ nào xuất hiện đầu tiên theo thứ tự từ điển?",
+        "TrueCase": 4,
+        "_id": 18
+    },
+    {
+        "CaseA": "Viettel ",
+        "CaseB": "Vinaphone",
+        "CaseC": "EVN ",
+        "CaseD": "Sfone ",
+        "Question": "\"Kết nối sức mạnh\" là khẩu hiệu của mạng di động nào nước ta?",
+        "TrueCase": 3,
+        "_id": 19
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Xe?",
+        "TrueCase": 2,
+        "_id": 20
+    },
+    {
+        "CaseA": "Quảng Bình",
+        "CaseB": "Hải Phòng",
+        "CaseC": "Quảng Trị",
+        "CaseD": "Quảng Ninh",
+        "Question": "Vịnh Hạ Long trước thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 4,
+        "_id": 21
+    },
+    {
+        "CaseA": "Ca ngợi ",
+        "CaseB": "Khuyên nhủ ",
+        "CaseC": "Phân tích ",
+        "CaseD": "Ngụ ngôn",
+        "Question": "Tính chất nào phù hợp với đề bài \"Đọc sách rất có lợi\"?",
+        "TrueCase": 2,
+        "_id": 22
+    },
+    {
+        "CaseA": "Vật lý ",
+        "CaseB": "Hoá học ",
+        "CaseC": "Địa lý ",
+        "CaseD": "Văn học ",
+        "Question": "Bản đồ Việt Nam ta đã được học ở môn học nào?",
+        "TrueCase": 3,
+        "_id": 23
+    },
+    {
+        "CaseA": "Lợn",
+        "CaseB": " Chó",
+        "CaseC": "Mèo ",
+        "CaseD": "Thỏ",
+        "Question": "Nhắc tới củ cà rốt, người ta liên tưởng tới con vật gì?",
+        "TrueCase": 4,
+        "_id": 24
+    },
+    {
+        "CaseA": "Fujico Fujio ",
+        "CaseB": "Takahashi Monona",
+        "CaseC": "Gosho Aoyama",
+        "CaseD": "Kajuki Takahashi",
+        "Question": "Tác giả của bộ tranh truyện Nhật Bản lừng danh thế giới Doraemon?",
+        "TrueCase": 1,
+        "_id": 25
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ vua có bao nhiêu quân Tượng trắng?",
+        "TrueCase": 1,
+        "_id": 26
+    },
+    {
+        "CaseA": "Chaien ",
+        "CaseB": "Chaikô",
+        "CaseC": "Mèo máy ",
+        "CaseD": "Nobita ",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào tốt bụng nhất?",
+        "TrueCase": 3,
+        "_id": 27
+    },
+    {
+        "CaseA": "Santa tóc xù ",
+        "CaseB": "Sôngôhan",
+        "CaseC": "Cađíc ",
+        "CaseD": "Sôngôku ",
+        "Question": "Ai là người tiêu diệt Xên Bọ Hung trong truyện 7 viên ngọc rồng?",
+        "TrueCase": 2,
+        "_id": 28
+    },
+    {
+        "CaseA": "Xe lửa ",
+        "CaseB": "Xe hơi ",
+        "CaseC": "Xe tải ",
+        "CaseD": "Xe môtô",
+        "Question": "Loại xe nào sau đây phải chạy trên đường ray?",
+        "TrueCase": 1,
+        "_id": 29
+    },
+    {
+        "CaseA": "Bà sơ ",
+        "CaseB": "Bà cố ",
+        "CaseC": "Bà ngoại ",
+        "CaseD": "Bà nội",
+        "Question": "Mẹ ruột của mẹ chúng ta gọi là gì?",
+        "TrueCase": 3,
+        "_id": 30
+    },
+    {
+        "CaseA": "Hoàng Thượng ",
+        "CaseB": "Bụt ",
+        "CaseC": "Cướp ",
+        "CaseD": "Giặc ",
+        "Question": "Điền vào chỗ trống: \"Ăn thì làm vua, thua thì làm ...\"?",
+        "TrueCase": 4,
+        "_id": 31
+    },
+    {
+        "CaseA": "Lực hấp dẫn ",
+        "CaseB": "Lực ma sát ",
+        "CaseC": "Lực đàn hồi ",
+        "CaseD": "Lực quán tính ",
+        "Question": "Loại lực nào sau đây không có phản lực?",
+        "TrueCase": 4,
+        "_id": 32
+    },
+    {
+        "CaseA": "Hưng Yên ",
+        "CaseB": "Hà Nam ",
+        "CaseC": "Nam Định ",
+        "CaseD": "Thái Bình ",
+        "Question": "Thị xã Thái Bình trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 33
+    },
+    {
+        "CaseA": "Sfone",
+        "CaseB": "Viettel ",
+        "CaseC": "EVN ",
+        "CaseD": "Mobiphone",
+        "Question": "\"Nghe là thấy\" là khẩu hiệu của mạng di động nào ở nước ta?",
+        "TrueCase": 1,
+        "_id": 34
+    },
+    {
+        "CaseA": "Đông Nam Bộ",
+        "CaseB": "Tây Nam Bộ",
+        "CaseC": "Tây Nguyên",
+        "CaseD": "Nam Trung Bộ",
+        "Question": "Đồng Tháp là một tỉnh thuộc miền nào của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 35
+    },
+    {
+        "CaseA": "Cà Mau ",
+        "CaseB": "Kiên Giang",
+        "CaseC": "An Giang",
+        "CaseD": "Trà Vinh",
+        "Question": "Đảo Phú Quốc trực thuộc tỉnh nào?",
+        "TrueCase": 2,
+        "_id": 36
+    },
+    {
+        "CaseA": "Phân tích ",
+        "CaseB": "Ca ngợi ",
+        "CaseC": "Tranh luận ",
+        "CaseD": "Khuyên nhủ ",
+        "Question": "Tính chất nào phù hợp nhất với đề bài \"Có công mài sắt có ngày nên kim\"?",
+        "TrueCase": 4,
+        "_id": 37
+    },
+    {
+        "CaseA": "Hoá học ",
+        "CaseB": "Văn học ",
+        "CaseC": "Vật lý ",
+        "CaseD": "Công nghệ ",
+        "Question": "Có chí thì nên chúng ta đã học được ở môn học nào?",
+        "TrueCase": 2,
+        "_id": 38
+    },
+    {
+        "CaseA": "Số tự nhiên ",
+        "CaseB": "Số nguyên ",
+        "CaseC": "Số hữu tỉ ",
+        "CaseD": "Số thực ",
+        "Question": "Tập hợp số nào lớn nhất trong toán học?",
+        "TrueCase": 4,
+        "_id": 39
+    },
+    {
+        "CaseA": "Fujico Fujio ",
+        "CaseB": "Takahashi Monona ",
+        "CaseC": "Gosho Aoyama",
+        "CaseD": "Kajuki Takahashi",
+        "Question": "Tác giả của bộ truyện tranh nổi tiếng Thám tử lừng danh Conan?",
+        "TrueCase": 3,
+        "_id": 40
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "7",
+        "CaseC": "8",
+        "CaseD": "9",
+        "Question": "Trong bàn cờ vua có thể có nhiều nhất bao nhiêu quân Hậu?",
+        "TrueCase": 4,
+        "_id": 41
+    },
+    {
+        "CaseA": "Cađíc ",
+        "CaseB": "Sôngôku ",
+        "CaseC": "Chaien ",
+        "CaseD": "Bumma ",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào thuộc bộ truyện tranh Đôrêmon?",
+        "TrueCase": 3,
+        "_id": 42
+    },
+    {
+        "CaseA": "Sôngôhan ",
+        "CaseB": "Cađíc ",
+        "CaseC": "Sôngôku ",
+        "CaseD": "Calíc ",
+        "Question": "Ai là người tiêu diệt Fide đại đế ở hành tinh Namếc trong truyện 7 viên ngọc rồng?",
+        "TrueCase": 3,
+        "_id": 43
+    },
+    {
+        "CaseA": "Xe lửa ",
+        "CaseB": "Xe hơi ",
+        "CaseC": "Xe đạp ",
+        "CaseD": "Xe môtô ",
+        "Question": "Loại xe nào sau đây khác với các loại xe còn lại?",
+        "TrueCase": 1,
+        "_id": 44
+    },
+    {
+        "CaseA": "Ông nội ",
+        "CaseB": "Ông sơ ",
+        "CaseC": "Ông cố ",
+        "CaseD": "Ông ngoại ",
+        "Question": "Cha ruột của mẹ chúng ta gọi ta gì?",
+        "TrueCase": 4,
+        "_id": 45
+    },
+    {
+        "CaseA": "Còng ",
+        "CaseB": "Cua ",
+        "CaseC": "Ghẹ ",
+        "CaseD": "Gà ",
+        "Question": "Điền vào chỗ trống: \"Ầu ơ, gió đưa về rẫy ăn ..., về sông ăn cá về đồng ăn cua\"?",
+        "TrueCase": 1,
+        "_id": 46
+    },
+    {
+        "CaseA": "1993",
+        "CaseB": "2001",
+        "CaseC": "1996",
+        "CaseD": "2003",
+        "Question": "Cừu Dolly sinh năm nào?",
+        "TrueCase": 3,
+        "_id": 47
+    },
+    {
+        "CaseA": "Thái Bình ",
+        "CaseB": "Ninh Bình ",
+        "CaseC": "Hoà Bình ",
+        "CaseD": "Thanh Hoá ",
+        "Question": "Thị xã Ninh Bình trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 2,
+        "_id": 48
+    },
+    {
+        "CaseA": "Độc ác",
+        "CaseB": "Hiểm độc",
+        "CaseC": "Ác nghiệt",
+        "CaseD": "Nhân từ",
+        "Question": "Trong các từ sau đây, từ nào không cùng nghĩa với các từ còn lại?",
+        "TrueCase": 4,
+        "_id": 49
+    },
+    {
+        "CaseA": "02/09/1975",
+        "CaseB": "30/04/1975",
+        "CaseC": "19/08/1975",
+        "CaseD": "26/03/1975",
+        "Question": "Ngày miền Nam Việt Nam hoàn toàn giải phóng thống nhất đất nước?",
+        "TrueCase": 2,
+        "_id": 50
+    },
+    {
+        "CaseA": "Côn Đảo",
+        "CaseB": "Phú Quốc",
+        "CaseC": "Thổ Chu",
+        "CaseD": "Cát Bà",
+        "Question": "Đảo nào lớn nhất Việt Nam?",
+        "TrueCase": 2,
+        "_id": 51
+    },
+    {
+        "CaseA": "Mở bài ",
+        "CaseB": "Thân bài ",
+        "CaseC": "Kết bài ",
+        "CaseD": "Cả 3 phần trên ",
+        "Question": "Lập luận diễn ra ở phần nào trong bài văn nghị luận?",
+        "TrueCase": 2,
+        "_id": 52
+    },
+    {
+        "CaseA": "Văn học ",
+        "CaseB": "Tiếng anh ",
+        "CaseC": "Toán học ",
+        "CaseD": "Hoá học ",
+        "Question": "Bài Bánh trôi nước chúng ta đã được học ở môn học nào?",
+        "TrueCase": 1,
+        "_id": 53
+    },
+    {
+        "CaseA": "29 ",
+        "CaseB": "30 ",
+        "CaseC": "31",
+        "CaseD": " 28 ",
+        "Question": "Tháng 3 có bao nhiêu ngày?",
+        "TrueCase": 3,
+        "_id": 54
+    },
+    {
+        "CaseA": "Doraemon ",
+        "CaseB": "Thám tử lừng danh Conan ",
+        "CaseC": "Dấu ấn rồng thiêng ",
+        "CaseD": "7 viên ngọc rồng ",
+        "Question": "Nobita là tên nhân vật nổi tiếng trong bộ truyện tranh lừng danh nào?",
+        "TrueCase": 1,
+        "_id": 55
+    },
+    {
+        "CaseA": "7",
+        "CaseB": "8",
+        "CaseC": "9",
+        "CaseD": "10",
+        "Question": "Trong bàn cờ vua có thể có nhiều nhất bao nhiêu quân Mã?",
+        "TrueCase": 4,
+        "_id": 56
+    },
+    {
+        "CaseA": "Đêkhi ",
+        "CaseB": "Chaikô",
+        "CaseC": "Xêkô ",
+        "CaseD": "Chaien ",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào hay ăn hiếp các bạn trong lớp?",
+        "TrueCase": 4,
+        "_id": 57
+    },
+    {
+        "CaseA": "Fide đại đế ",
+        "CaseB": "Thượng Đế",
+        "CaseC": "Ma Bư ",
+        "CaseD": "Đại ma vương Pôcôlô",
+        "Question": "Ai là người tiêu diệt Ka-ka-lát, cha ruột của Sôn-gô-ku trong truyện 7 viên ngọc rồng?",
+        "TrueCase": 1,
+        "_id": 58
+    },
+    {
+        "CaseA": "Xe hơi ",
+        "CaseB": "Xe đạp ",
+        "CaseC": "Xe ngựa ",
+        "CaseD": "Xe môtô ",
+        "Question": "Trong các loại xe sau đây, loại nào chạy nhanh hơn các loại còn lại?",
+        "TrueCase": 1,
+        "_id": 59
+    },
+    {
+        "CaseA": "Ao ",
+        "CaseB": "Hồ ",
+        "CaseC": "Sông ",
+        "CaseD": "Biển ",
+        "Question": "Điền vào chỗ trống: \"Ai đem con sáo sang ..., để cho con sáo sổ lồng bay xa\"?",
+        "TrueCase": 3,
+        "_id": 60
+    },
+    {
+        "CaseA": "Lửa ",
+        "CaseB": "Đèn  ",
+        "CaseC": "Nến",
+        "CaseD": "Nhang ",
+        "Question": "Điền vào chỗ trống: \"Anh buồn có chỗ thở than, em buồn như ngọn ... tàn sắp khuya\"?",
+        "TrueCase": 4,
+        "_id": 61
+    },
+    {
+        "CaseA": "Tuyên Quang ",
+        "CaseB": "Hà Giang ",
+        "CaseC": "Yên Bái ",
+        "CaseD": "Vĩnh Phúc",
+        "Question": "Thị xã Tuyên Quang thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 62
+    },
+    {
+        "CaseA": "Nghệ An ",
+        "CaseB": "Ninh Bình ",
+        "CaseC": "Nam Định ",
+        "CaseD": "Thanh Hoá ",
+        "Question": "Thành phố Thanh Hoá trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 63
+    },
+    {
+        "CaseA": "Hiền lành",
+        "CaseB": "Nhân từ",
+        "CaseC": "Hiểm độc",
+        "CaseD": " Nhân hậu",
+        "Question": "Trong các từ sau đây, từ nào không cùng nghĩa với các từ còn lại?",
+        "TrueCase": 3,
+        "_id": 64
+    },
+    {
+        "CaseA": "30-04",
+        "CaseB": "02-09",
+        "CaseC": "14-02",
+        "CaseD": "09-02",
+        "Question": "Quốc khánh nước Cộng hoà xã hội chủ nghĩa Việt Nam?",
+        "TrueCase": 2,
+        "_id": 65
+    },
+    {
+        "CaseA": "Tình yêu",
+        "CaseB": "Giấy đăng ký kết hôn",
+        "CaseC": "Đám cưới",
+        "CaseD": "Con cái",
+        "Question": "Đâu là bằng chứng khẳng định 2 người nam và nữ chính thức trở thành vợ chồng?",
+        "TrueCase": 2,
+        "_id": 66
+    },
+    {
+        "CaseA": "Tích cực ",
+        "CaseB": "Tiêu cực ",
+        "CaseC": "Chỉ trích",
+        "CaseD": "Phê bình ",
+        "Question": "Câu bị động có chứa từ \"được\" hàm ý đánh giá về sự việc trong câu như thế nào?",
+        "TrueCase": 1,
+        "_id": 67
+    },
+    {
+        "CaseA": "Vật lý ",
+        "CaseB": "Hoá học ",
+        "CaseC": "Toán học ",
+        "CaseD": "Tin học ",
+        "Question": "Gương cầu lồi chúng ta biết được ở môn học nào?",
+        "TrueCase": 1,
+        "_id": 68
+    },
+    {
+        "CaseA": "Nhớ đồng đội ",
+        "CaseB": "Nhớ Tây Tiến ",
+        "CaseC": "Quân không tóc ",
+        "CaseD": "Nhớ Việt Bắc",
+        "Question": "Bài thơ Tây Tiến của Quang Dũng lúc đầu được lấy tên là gì?",
+        "TrueCase": 2,
+        "_id": 69
+    },
+    {
+        "CaseA": "7 viên ngọc rồng ",
+        "CaseB": "Nhóc Marưko",
+        "CaseC": "Doraemon ",
+        "CaseD": "Conan ",
+        "Question": "Xuka là tên nhân vật nổi tiếng trong bộ truyện tranh lừng danh nào?",
+        "TrueCase": 3,
+        "_id": 70
+    },
+    {
+        "CaseA": "10",
+        "CaseB": "11",
+        "CaseC": "12",
+        "CaseD": "13",
+        "Question": "Trong bàn cờ vua có thể có nhiều nhất bao nhiêu quân Tượng?",
+        "TrueCase": 1,
+        "_id": 71
+    },
+    {
+        "CaseA": "Bưu điện ",
+        "CaseB": "Gửi người thân ",
+        "CaseC": "Email ",
+        "CaseD": "Bồ câu đưa thư ",
+        "Question": "Trong các phương tiện gửi thư sau đây, phương tiện nào nhanh nhất?",
+        "TrueCase": 3,
+        "_id": 72
+    },
+    {
+        "CaseA": "Daraemon ",
+        "CaseB": "Thám tử lừng danh ",
+        "CaseC": "7 viên ngọc rồng ",
+        "CaseD": "Dấu ấn rồng thiêng ",
+        "Question": "Đòn nội công Kamê Jôkô có trong bộ tranh truyện nổi tiếng nào?",
+        "TrueCase": 3,
+        "_id": 73
+    },
+    {
+        "CaseA": "Xe hơi ",
+        "CaseB": "Xe lửa ",
+        "CaseC": "Xe đạp ",
+        "CaseD": "Xe lu ",
+        "Question": " Trong các loại xe sau đây, loại nào có bánh to hơn bánh các loại còn lại?",
+        "TrueCase": 4,
+        "_id": 74
+    },
+    {
+        "CaseA": "Hoa ",
+        "CaseB": "Cây ",
+        "CaseC": "Đời ",
+        "CaseD": "Cành ",
+        "Question": "Điền vào chỗ trống: \"Ai làm cho bướm lìa ..., cho chim xanh nỡ bay qua vườn  hồng\"?",
+        "TrueCase": 1,
+        "_id": 75
+    },
+    {
+        "CaseA": "Mặn ",
+        "CaseB": "Ngọt ",
+        "CaseC": "Độc ",
+        "CaseD": "Bẩn ",
+        "Question": "Điền vào chỗ trống: \"Anh đi ba bữa anh về, rừng sâu nước ..., anh đừng ở lâu\"?",
+        "TrueCase": 3,
+        "_id": 76
+    },
+    {
+        "CaseA": "Bắc Kạn ",
+        "CaseB": "Cao Bằng ",
+        "CaseC": "Thái Nguyên",
+        "CaseD": "Lạng Sơn ",
+        "Question": "Thị xã Bắc Kạn thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 77
+    },
+    {
+        "CaseA": "Thanh Hoá ",
+        "CaseB": "Nghệ An ",
+        "CaseC": "Hà Tĩnh ",
+        "CaseD": "Hà Nam ",
+        "Question": "Thành phố Vinh trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 2,
+        "_id": 78
+    },
+    {
+        "CaseA": "0 ",
+        "CaseB": "1",
+        "CaseC": "2",
+        "CaseD": "3",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Sĩ?",
+        "TrueCase": 1,
+        "_id": 79
+    },
+    {
+        "CaseA": "13",
+        "CaseB": "4",
+        "CaseC": "2",
+        "CaseD": "50",
+        "Question": "Tính đến năm 2011, Việt Nam là nước có dân số đứng thứ mấy trên thế giới?",
+        "TrueCase": 1,
+        "_id": 80
+    },
+    {
+        "CaseA": "Viettel ",
+        "CaseB": "Mobiphone ",
+        "CaseC": "Vinaphone",
+        "CaseD": "Sfone ",
+        "Question": "\"Mọi lúc mọi nơi\" là khẩu hiệu của mạng di động nào?",
+        "TrueCase": 2,
+        "_id": 81
+    },
+    {
+        "CaseA": "Quả mận ",
+        "CaseB": "Quả quýt ",
+        "CaseC": "Quả ớt ",
+        "CaseD": "Quả bầu ",
+        "Question": "Khi em nhỏ em mặc áo xanh, khi lớn hơn anh em mặc áo đỏ, đó là quả gì?",
+        "TrueCase": 3,
+        "_id": 82
+    },
+    {
+        "CaseA": "Toán học ",
+        "CaseB": "Vật lý ",
+        "CaseC": "Hoá học ",
+        "CaseD": "Văn học ",
+        "Question": "Bảng tuần hoàn các nguyên tố chúng ta đã học ở môn học nào?",
+        "TrueCase": 3,
+        "_id": 83
+    },
+    {
+        "CaseA": "5",
+        "CaseB": "6",
+        "CaseC": "7",
+        "CaseD": "8",
+        "Question": "Cầu vồng có bao nhiêu màu cơ bản tất cả?",
+        "TrueCase": 3,
+        "_id": 84
+    },
+    {
+        "CaseA": "Con chim ưng ",
+        "CaseB": "Con lật đật ",
+        "CaseC": "Con đồi mồi ",
+        "CaseD": "Con diều ",
+        "Question": "Đầu rất nhẹ, bụng rất nặng, và có hình bán nguyệt trơn tru nên không thể ngã là cấu tạo của con gì?",
+        "TrueCase": 2,
+        "_id": 85
+    },
+    {
+        "CaseA": "7",
+        "CaseB": "8",
+        "CaseC": "9",
+        "CaseD": "10 ",
+        "Question": "Trong bàn cờ vua có thể có nhiều nhất bao nhiêu quân Xe?",
+        "TrueCase": 4,
+        "_id": 86
+    },
+    {
+        "CaseA": "Bộ tài chính ",
+        "CaseB": "Bộ ngoại giao ",
+        "CaseC": "Bộ giáo dục và đào tạo ",
+        "CaseD": "Bộ công thương ",
+        "Question": "Trong các Bộ sau đây, Bộ nào quản lý các bộ phận giáo dục trong cả nước?",
+        "TrueCase": 3,
+        "_id": 87
+    },
+    {
+        "CaseA": "3 ngôi sao ",
+        "CaseB": "4 ngôi sao ",
+        "CaseC": "5 ngôi sao ",
+        "CaseD": "6 ngôi sao ",
+        "Question": "Trong 7 viên ngọc rồng, viên ngọc của ông nội Sôngôku có mấy ngôi sao?",
+        "TrueCase": 2,
+        "_id": 88
+    },
+    {
+        "CaseA": "Xe đạp ",
+        "CaseB": "Xe lu ",
+        "CaseC": "Xe hơi ",
+        "CaseD": "Xe môtô ",
+        "Question": "Loại xe nào nặng hơn các loại xe còn lại?",
+        "TrueCase": 2,
+        "_id": 89
+    },
+    {
+        "CaseA": "Dòng dòng ",
+        "CaseB": "Đầm đìa ",
+        "CaseC": "Thầm thì ",
+        "CaseD": "Hết lòng ",
+        "Question": "Điền vào chỗ trống: \"Ai làm Nam Bắc phân kỳ, cho hai dòng lệ ... nhớ thương\"?",
+        "TrueCase": 2,
+        "_id": 90
+    },
+    {
+        "CaseA": "Tên ",
+        "CaseB": "Họ ",
+        "CaseC": "Tuổi ",
+        "CaseD": "Nước",
+        "Question": "Điền vào chỗ trống: \"Anh về bốn bể là nhà, người dưng khác ... vẫn là anh em\"?",
+        "TrueCase": 2,
+        "_id": 91
+    },
+    {
+        "CaseA": "Thái Nguyên ",
+        "CaseB": "Vĩnh Phúc ",
+        "CaseC": "Lạng Sơn ",
+        "CaseD": "Tuyên Quang ",
+        "Question": "Thành phố Thái Nguyên thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 92
+    },
+    {
+        "CaseA": "Hà Nam ",
+        "CaseB": "Thanh Hoá ",
+        "CaseC": "Nghệ An ",
+        "CaseD": "Hà Tĩnh ",
+        "Question": "Thị xã Hà Tĩnh trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 93
+    },
+    {
+        "CaseA": "9",
+        "CaseB": "6",
+        "CaseC": "1",
+        "CaseD": "5",
+        "Question": "Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Tốt?",
+        "TrueCase": 4,
+        "_id": 94
+    },
+    {
+        "CaseA": "Trung Quốc",
+        "CaseB": "Mỹ",
+        "CaseC": "Nga",
+        "CaseD": "Canada",
+        "Question": "Quốc gia có diện tích lớn nhất thế giới?",
+        "TrueCase": 3,
+        "_id": 95
+    },
+    {
+        "CaseA": "Sfone ",
+        "CaseB": "Viettel ",
+        "CaseC": "Vinaphone ",
+        "CaseD": "Mobiphone",
+        "Question": "\"Hãy nói theo cách của bạn\" là khẩu hiệu thuộc mạng di động nào?",
+        "TrueCase": 2,
+        "_id": 96
+    },
+    {
+        "CaseA": "Chanh ",
+        "CaseB": "Ớt",
+        "CaseC": "Mận ",
+        "CaseD": "Nhãn ",
+        "Question": "Trong các loại quả sau đây, quả nào có vị chua nhất?",
+        "TrueCase": 1,
+        "_id": 97
+    },
+    {
+        "CaseA": "Rắn ",
+        "CaseB": "Lỏng ",
+        "CaseC": "Khí ",
+        "CaseD": "Hơi ",
+        "Question": "Thuỷ ngân ở trạng thái nào trong điều kiện bình thường?",
+        "TrueCase": 2,
+        "_id": 98
+    },
+    {
+        "CaseA": "mm",
+        "CaseB": "km ",
+        "CaseC": "m ",
+        "CaseD": "dm",
+        "Question": "Đơn vị đo độ dài nào sau đây là dài nhất?",
+        "TrueCase": 2,
+        "_id": 99
+    },
+    {
+        "CaseA": "Cờ vua ",
+        "CaseB": "Cờ caro ",
+        "CaseC": "Cờ cá ngựa",
+        "CaseD": "Cờ tướng ",
+        "Question": "Trong thế giới cờ, quân Sĩ thuộc bộ cờ nào?",
+        "TrueCase": 4,
+        "_id": 100
+    },
+    {
+        "CaseA": "36",
+        "CaseB": "42 ",
+        "CaseC": "64",
+        "CaseD": "81 ",
+        "Question": "Bàn cờ Vua có tổng cộng bao nhiêu ô?",
+        "TrueCase": 3,
+        "_id": 101
+    },
+    {
+        "CaseA": "Bộ tài nguyên ",
+        "CaseB": "Bộ giáo dục  Đào tạo ",
+        "CaseC": "Bộ tài chính ",
+        "CaseD": "Bộ ngoại giao ",
+        "Question": "Trong các Bộ sau đây, Bộ nào quản lý ngân sách tài vụ trong cả nước?",
+        "TrueCase": 3,
+        "_id": 102
+    },
+    {
+        "CaseA": "Chichi ",
+        "CaseB": "Biden ",
+        "CaseC": "Bumma ",
+        "CaseD": "Rôbô Póc ",
+        "Question": "Ai là vợ của Cađíc trong truyện 7 viên ngọc rồng nổi tiếng?",
+        "TrueCase": 3,
+        "_id": 103
+    },
+    {
+        "CaseA": "Xe hơi ",
+        "CaseB": "Xe tải",
+        "CaseC": "Xe ngựa ",
+        "CaseD": "Xe lửa ",
+        "Question": "Loại xe nào sử dụng sức động vật để di chuyển?",
+        "TrueCase": 3,
+        "_id": 104
+    },
+    {
+        "CaseA": "Canh ",
+        "CaseB": "Cháo ",
+        "CaseC": "Cơm ",
+        "CaseD": "Mắm ",
+        "Question": "Điền vào chỗ trống: \"Ai ơi bưng bát ... đầy, dẻo thơm một hạt, đắng cay muôn phần\"?",
+        "TrueCase": 3,
+        "_id": 105
+    },
+    {
+        "CaseA": "Sang ",
+        "CaseB": "Hay ",
+        "CaseC": "Vui ",
+        "CaseD": "Cao ",
+        "Question": "Điền vào chỗ trống: \"Áo dài chớ tưởng là ..., bởi không áo ngắn mới mang áo dài\"?",
+        "TrueCase": 1,
+        "_id": 106
+    },
+    {
+        "CaseA": "Lạng Sơn ",
+        "CaseB": "Quảng Ninh ",
+        "CaseC": "Thái Nguyên ",
+        "CaseD": "Bắc Giang ",
+        "Question": "Thị xã Lạng Sơn thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 107
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "3",
+        "CaseC": "2",
+        "CaseD": "1",
+        "Question": "Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Pháo?",
+        "TrueCase": 3,
+        "_id": 108
+    },
+    {
+        "CaseA": "Canada",
+        "CaseB": "Trung quốc",
+        "CaseC": "Nga ",
+        "CaseD": "Mỹ",
+        "Question": "Quốc gia có diện tích lớn thứ 2 thế giới?",
+        "TrueCase": 1,
+        "_id": 109
+    },
+    {
+        "CaseA": "Mobiphone ",
+        "CaseB": "Viettel ",
+        "CaseC": "Sfone",
+        "CaseD": "Vinaphone ",
+        "Question": "\"Không ngừng vươn xa\" là khẩu hiệu của mạng di động nào?",
+        "TrueCase": 4,
+        "_id": 110
+    },
+    {
+        "CaseA": "Trực thăng ",
+        "CaseB": "Xe đạp ",
+        "CaseC": "Máy bay ",
+        "CaseD": "Tàu hoả",
+        "Question": "Trong các phương tiện sau đây, phương tiện nào đi xa nhanh nhất?",
+        "TrueCase": 3,
+        "_id": 111
+    },
+    {
+        "CaseA": "Hà Nội ",
+        "CaseB": "Tp.Hồ Chí Minh ",
+        "CaseC": "Gia Lai",
+        "CaseD": "Huế",
+        "Question": "Nơi nào ở Việt Nam, núi lửa từng hoạt động?",
+        "TrueCase": 3,
+        "_id": 112
+    },
+    {
+        "CaseA": "Milimet ",
+        "CaseB": "Kilomet ",
+        "CaseC": "Met ",
+        "CaseD": "Decimet ",
+        "Question": "Đơn vị đo độ dài nào sau đây nhỏ nhất?",
+        "TrueCase": 1,
+        "_id": 113
+    },
+    {
+        "CaseA": "Cờ tướng ",
+        "CaseB": "Cờ vua ",
+        "CaseC": "Cờ cá ngựa",
+        "CaseD": "Cờ vây ",
+        "Question": "Trong thế giới cờ, quân Hậu thuộc bộ cờ nào?",
+        "TrueCase": 2,
+        "_id": 114
+    },
+    {
+        "CaseA": "Gan ",
+        "CaseB": "Phổi ",
+        "CaseC": "Tim ",
+        "CaseD": "Thần kinh ",
+        "Question": "Uống rượu gây hại cho bộ phận nào nhất của cơ thể chúng ta?",
+        "TrueCase": 1,
+        "_id": 115
+    },
+    {
+        "CaseA": "Bộ văn hoá  thông tin ",
+        "CaseB": "Bộ tài chính ",
+        "CaseC": "Bộ ngoại giao ",
+        "CaseD": "Bộ nội vụ ",
+        "Question": "Trong các Bộ sau đây, bộ nào quản lý việc truyền tin, gửi và nhận tin tức?",
+        "TrueCase": 1,
+        "_id": 116
+    },
+    {
+        "CaseA": "Chichi ",
+        "CaseB": "Bumma ",
+        "CaseC": "Rôbô Póc ",
+        "CaseD": "Biden ",
+        "Question": "Ai là vợ của Krilin trong truyện 7 viên ngọc rồng nổi tiếng?",
+        "TrueCase": 3,
+        "_id": 117
+    },
+    {
+        "CaseA": "Xe lửa ",
+        "CaseB": "Xe điện ngầm ",
+        "CaseC": "Xe đạp ",
+        "CaseD": "Xe môtô",
+        "Question": "Loại xe nào thể hiện sự hiện đại của khoa học công nghiệp?",
+        "TrueCase": 2,
+        "_id": 118
+    },
+    {
+        "CaseA": "Phèn ",
+        "CaseB": "Đường ",
+        "CaseC": "Muối ",
+        "CaseD": "Tiêu ",
+        "Question": "Điền vào chỗ trống: \"Ai ơi chớ nghĩ mình hèn, nước kia dù đục, lòng ... cũng trong\"?",
+        "TrueCase": 1,
+        "_id": 119
+    },
+    {
+        "CaseA": "Vá ",
+        "CaseB": "May ",
+        "CaseC": "Khâu ",
+        "CaseD": "Sửa ",
+        "Question": "Điền vào chỗ trống: \"Áo anh đứt chỉ đường tà, vợ anh chưa có, mẹ già chưa ...\"?",
+        "TrueCase": 3,
+        "_id": 120
+    },
+    {
+        "CaseA": "Sơn La ",
+        "CaseB": "Lai Châu ",
+        "CaseC": "Hoà Bình ",
+        "CaseD": "Yên Bái ",
+        "Question": "Thị xã Sơn La thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 121
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "2",
+        "CaseC": "1",
+        "CaseD": "0",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân pháo?",
+        "TrueCase": 4,
+        "_id": 122
+    },
+    {
+        "CaseA": "Tiếng Việt",
+        "CaseB": "Tiếng Pháp ",
+        "CaseC": "Tiếng Anh",
+        "CaseD": "Tiếng Hoa",
+        "Question": "Ngoại ngữ chính thức của người dân Việt Nam là tiếng gì?",
+        "TrueCase": 3,
+        "_id": 123
+    },
+    {
+        "CaseA": "Tiền tuyến ",
+        "CaseB": "Tiền bạc ",
+        "CaseC": "Cửa tiền ",
+        "CaseD": "Mặt tiền",
+        "Question": "Yếu tố tiền: trong từ nào sau đây không cùng nghĩa với những yếu tố còn lại?",
+        "TrueCase": 2,
+        "_id": 124
+    },
+    {
+        "CaseA": "Chó ",
+        "CaseB": "Rắn ",
+        "CaseC": "Hổ ",
+        "CaseD": "Bò ",
+        "Question": "Con vật nào có đặc điểm ít giống với các con vật còn lại?",
+        "TrueCase": 2,
+        "_id": 125
+    },
+    {
+        "CaseA": "Kon Tum",
+        "CaseB": "Gia Lai ",
+        "CaseC": "Đắc Lắc ",
+        "CaseD": "Đắc Nông ",
+        "Question": "Thành phố Pleiku trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 2,
+        "_id": 126
+    },
+    {
+        "CaseA": "Nhị ",
+        "CaseB": "Lục ",
+        "CaseC": "Thất ",
+        "CaseD": "Thập ",
+        "Question": "Điền vào câu sau: \"Nhất Nam viết hữu, ... Nữ viết vô\"?",
+        "TrueCase": 4,
+        "_id": 127
+    },
+    {
+        "CaseA": "Cờ tướng ",
+        "CaseB": "Cờ cá ngựa ",
+        "CaseC": "Cờ vây ",
+        "CaseD": "Cờ vua và cờ tướng ",
+        "Question": "Trong thế giới cờ, cờ nào có 32 quân?",
+        "TrueCase": 4,
+        "_id": 128
+    },
+    {
+        "CaseA": "Da ",
+        "CaseB": "Móng ",
+        "CaseC": "Tóc ",
+        "CaseD": "Cả cơ thể ",
+        "Question": "Uống nước nhiều có lợi cho bộ phận nào?",
+        "TrueCase": 4,
+        "_id": 129
+    },
+    {
+        "CaseA": "Nhà văn ",
+        "CaseB": "Nhà báo ",
+        "CaseC": "Nhà xuất bản",
+        "CaseD": "Nhà tiên tri ",
+        "Question": "Bộ phận sản xuất ra sách báo tạp chí gọi là gì?",
+        "TrueCase": 3,
+        "_id": 130
+    },
+    {
+        "CaseA": "Bumma ",
+        "CaseB": "Chichi ",
+        "CaseC": "Biden ",
+        "CaseD": "Rôbô Póc ",
+        "Question": "Ai là vợ của Sôngôhan trong truyện 7 viên ngọc rồng nổi tiếng?",
+        "TrueCase": 3,
+        "_id": 131
+    },
+    {
+        "CaseA": "Tàu hoả ",
+        "CaseB": "Tàu chiến ",
+        "CaseC": "Tàu buôn ",
+        "CaseD": "Tàu lặn ",
+        "Question": "Loại tàu nào có thể xuống tận đáy biển để thám hiểm?",
+        "TrueCase": 4,
+        "_id": 132
+    },
+    {
+        "CaseA": "Hoa ",
+        "CaseB": "Bông ",
+        "CaseC": "Thân ",
+        "CaseD": "Cây ",
+        "Question": "Điền vào chỗ trống: \"Ai ơi đã quyết thì hành, đã đốn thì vác cả cành lẫn ...\"?",
+        "TrueCase": 4,
+        "_id": 133
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Tim người gồm bao nhiêu ngăn?",
+        "TrueCase": 4,
+        "_id": 134
+    },
+    {
+        "CaseA": "Hoà Bình ",
+        "CaseB": "Sơn La",
+        "CaseC": "Phú Thọ ",
+        "CaseD": "Thanh Hoá",
+        "Question": "Thành phố Việt Trì thuộc tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 135
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "3",
+        "CaseC": "2",
+        "CaseD": "1",
+        "Question": "Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Tướng?",
+        "TrueCase": 4,
+        "_id": 136
+    },
+    {
+        "CaseA": "Tổng thống",
+        "CaseB": "Chủ tịch nước",
+        "CaseC": "Quốc vương ",
+        "CaseD": "Thủ tướng",
+        "Question": "Người đứng đầu nhà nước Việt Nam được gọi là?",
+        "TrueCase": 2,
+        "_id": 137
+    },
+    {
+        "CaseA": "Nhà văn ",
+        "CaseB": "Nhà thơ ",
+        "CaseC": "Nhà báo ",
+        "CaseD": "Nghệ sĩ ",
+        "Question": "Từ nào sau đây đồng nghĩa với từ thi nhân?",
+        "TrueCase": 2,
+        "_id": 138
+    },
+    {
+        "CaseA": "12 giờ trưa ",
+        "CaseB": "12 giờ tối ",
+        "CaseC": "1 giờ sáng ",
+        "CaseD": "1 giờ tối",
+        "Question": "0 giờ là mấy giờ?",
+        "TrueCase": 2,
+        "_id": 139
+    },
+    {
+        "CaseA": "Voi ",
+        "CaseB": "Bạch tuộc khổng lồ ",
+        "CaseC": "Cá heo ",
+        "CaseD": "Cá voi xanh ",
+        "Question": "Loài động vật nào lớn nhất trên trái đất?",
+        "TrueCase": 4,
+        "_id": 140
+    },
+    {
+        "CaseA": "Hát quốc ca ",
+        "CaseB": "Treo quốc kỳ ",
+        "CaseC": "Tụ họp gia đình ",
+        "CaseD": "Chào cờ ",
+        "Question": "Ở Việt Nam, khi có quốc lễ, mỗi nhà phải làm gì?",
+        "TrueCase": 2,
+        "_id": 141
+    },
+    {
+        "CaseA": "30 ",
+        "CaseB": "31",
+        "CaseC": "32",
+        "CaseD": "33",
+        "Question": "Bộ cờ vua có bao nhiêu quân cờ?",
+        "TrueCase": 3,
+        "_id": 142
+    },
+    {
+        "CaseA": "7 viên ngọc rồng ",
+        "CaseB": "Dấu ấn rồng thiên ",
+        "CaseC": "Xác ước Ai Cập ",
+        "CaseD": "Doraemon",
+        "Question": "Pôcôlô - người Namếc da xanh tai nhọn, là một nhân vật trong bộ truyện tranh nào?",
+        "TrueCase": 1,
+        "_id": 143
+    },
+    {
+        "CaseA": "Thành ngữ ",
+        "CaseB": "Ca dao ",
+        "CaseC": "Tục ngữ ",
+        "CaseD": "Châm ngôn ",
+        "Question": "\"Chung lưng đấu cật\" thuộc thể loại gì?",
+        "TrueCase": 1,
+        "_id": 144
+    },
+    {
+        "CaseA": "Bumma ",
+        "CaseB": "Chichi ",
+        "CaseC": "Rôbô Póc ",
+        "CaseD": "Biden ",
+        "Question": "Ai là vợ của Sôngôku trong truyện 7 viên ngọc rồng nổi tiếng?",
+        "TrueCase": 2,
+        "_id": 145
+    },
+    {
+        "CaseA": "Tàu hoả ",
+        "CaseB": "Tàu lặn ",
+        "CaseC": "Tàu ngầm ",
+        "CaseD": "Tàu chiến ",
+        "Question": "Loại tàu này khác với các loại tàu còn lại?",
+        "TrueCase": 1,
+        "_id": 146
+    },
+    {
+        "CaseA": "Bạc ",
+        "CaseB": "Tiền ",
+        "CaseC": "Vàng ",
+        "CaseD": "Đồng ",
+        "Question": "Điền vào chỗ trống: \"Ai ơi đừng bỏ ruộng hoang, bao nhiêu tấc đất tấc ... bấy nhiêu\"?",
+        "TrueCase": 3,
+        "_id": 147
+    },
+    {
+        "CaseA": "Nhóm A ",
+        "CaseB": "Nhóm B ",
+        "CaseC": "Nhóm O ",
+        "CaseD": "Nhóm AB",
+        "Question": "Trong 4 nhóm máu của người thì nhóm máu nào có thể tiếp nhận tất cả các nhóm máu còn lại ? ",
+        "TrueCase": 4,
+        "_id": 148
+    },
+    {
+        "CaseA": "Phú Thọ ",
+        "CaseB": "Yên Bái ",
+        "CaseC": "Sơn La ",
+        "CaseD": "Hoà Bình ",
+        "Question": "Thị xã Phú Thọ thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 149
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Sĩ?",
+        "TrueCase": 1,
+        "_id": 150
+    },
+    {
+        "CaseA": "Sinh viên ",
+        "CaseB": "Học viên",
+        "CaseC": "Học viên",
+        "CaseD": "Giáo sinh",
+        "Question": "Người theo học đại học gọi là gì?",
+        "TrueCase": 1,
+        "_id": 151
+    },
+    {
+        "CaseA": "Nhỏ nhẻ ",
+        "CaseB": "Nho nhỏ ",
+        "CaseC": "Nhỏ nhắn ",
+        "CaseD": "Nhỏ nhặt",
+        "Question": "Nét nghĩa: nhỏ, xinh xắn, đáng yêu phù hợp với từ nào sau đây?",
+        "TrueCase": 3,
+        "_id": 152
+    },
+    {
+        "CaseA": "Đại học ",
+        "CaseB": "Trung học cơ sở ",
+        "CaseC": "Tiểu học",
+        "CaseD": " Cao học",
+        "Question": "Sau trung học phổ thông là gì?",
+        "TrueCase": 1,
+        "_id": 153
+    },
+    {
+        "CaseA": "Trời nắng ",
+        "CaseB": "Trời sắp mưa ",
+        "CaseC": "Trời râm ",
+        "CaseD": "Trời âm u ",
+        "Question": "Chuồn chuồn bay thấp báo hiệu điều gì?",
+        "TrueCase": 2,
+        "_id": 154
+    },
+    {
+        "CaseA": "Xuân ",
+        "CaseB": "Hạ ",
+        "CaseC": "Thu ",
+        "CaseD": "Đông",
+        "Question": "Ở Việt Nam, mùa nào đẹp nhất trong năm?",
+        "TrueCase": 3,
+        "_id": 155
+    },
+    {
+        "CaseA": "30 ",
+        "CaseB": "31",
+        "CaseC": "32",
+        "CaseD": "33",
+        "Question": "Bộ cờ tướng có bao nhiêu quân cờ?",
+        "TrueCase": 3,
+        "_id": 156
+    },
+    {
+        "CaseA": "Dấu ấn rồng thiêng ",
+        "CaseB": "Thám tử lừng danh Conan ",
+        "CaseC": "7 viên ngọc rồng ",
+        "CaseD": "Nhóc Marưko",
+        "Question": "Krilin là tên một nhân vật trong bộ truyện tranh nào? ",
+        "TrueCase": 3,
+        "_id": 157
+    },
+    {
+        "CaseA": "Tuỳ người ",
+        "CaseB": "Tuỳ cảnh ",
+        "CaseC": "Tuỳ tâm",
+        "CaseD": "Tuỳ tục ",
+        "Question": "Nhập gia.... Hãy điền từ thích hợp vào \"...\"?",
+        "TrueCase": 4,
+        "_id": 158
+    },
+    {
+        "CaseA": "Biden ",
+        "CaseB": "Bumma ",
+        "CaseC": "Chichi ",
+        "CaseD": "Rôbô Póc ",
+        "Question": "Ai là con gái rượu của nhà vô địch thế giới Santa tóc xù trong truyện 7 viên ngọc rồng nổi tiếng?",
+        "TrueCase": 1,
+        "_id": 159
+    },
+    {
+        "CaseA": "Xà lan ",
+        "CaseB": "Ghe chài ",
+        "CaseC": "Xuồng ",
+        "CaseD": "Tàu ngầm ",
+        "Question": "Loại phương tiện nào chạy nhanh nhất?",
+        "TrueCase": 4,
+        "_id": 160
+    },
+    {
+        "CaseA": "Vững ",
+        "CaseB": "Bền ",
+        "CaseC": "Tốt ",
+        "CaseD": "Chắc ",
+        "Question": "Điền vào chỗ trống: \"Ai ơi ở chí cho ..., dù ai xoay hướng đổi nền mặc ai\"?",
+        "TrueCase": 2,
+        "_id": 161
+    },
+    {
+        "CaseA": "66",
+        "CaseB": "88",
+        "CaseC": "96",
+        "CaseD": "99",
+        "Question": "Hãy tìm số có hai chữ số lớn nhất mà khi viết lên giấy và xoay ngược lại vẫn có giá trị không đổi ?",
+        "TrueCase": 3,
+        "_id": 162
+    },
+    {
+        "CaseA": "Tuyên Quang ",
+        "CaseB": "Thái Nguyên ",
+        "CaseC": "Vĩnh Phúc ",
+        "CaseD": "Thái Nguyên ",
+        "Question": "Thị xã Vĩnh Yên thuộc tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 163
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "3",
+        "CaseC": "2",
+        "CaseD": "1",
+        "Question": "Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Tượng?",
+        "TrueCase": 3,
+        "_id": 164
+    },
+    {
+        "CaseA": "Hồ Chí Minh",
+        "CaseB": "Phan Bội Châu",
+        "CaseC": "Nguyễn Trãi",
+        "CaseD": "Nguyễn Đình Chiểu",
+        "Question": "Tác giả tập thơ Nhật ký trong tù?",
+        "TrueCase": 1,
+        "_id": 165
+    },
+    {
+        "CaseA": "Ánh sáng ",
+        "CaseB": "Trông xa",
+        "CaseC": "Cúi xuống ",
+        "CaseD": "Cảm nghĩ ",
+        "Question": "Chữ \"vọng\" có nghĩa là gì trong những nghĩa sau đây?",
+        "TrueCase": 2,
+        "_id": 166
+    },
+    {
+        "CaseA": "3",
+        "CaseB": "4",
+        "CaseC": "5",
+        "CaseD": "6",
+        "Question": "Viên xúc sắc có mấy mặt?",
+        "TrueCase": 4,
+        "_id": 167
+    },
+    {
+        "CaseA": "53",
+        "CaseB": "54",
+        "CaseC": "51",
+        "CaseD": "52",
+        "Question": "Bộ bài Tây có tổng cộng bao nhiêu lá bài?",
+        "TrueCase": 4,
+        "_id": 168
+    },
+    {
+        "CaseA": "Màu đỏ ",
+        "CaseB": "Màu xanh ",
+        "CaseC": "Màu vàng ",
+        "CaseD": "Không đổi màu ",
+        "Question": "Khi nhúng quỳ tím vào nước tinh khiết, quỳ tím chuyển sang màu gì?",
+        "TrueCase": 4,
+        "_id": 169
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bàn cờ tướng có bao nhiêu quân Pháo?",
+        "TrueCase": 4,
+        "_id": 170
+    },
+    {
+        "CaseA": "7 viên ngọc rồng ",
+        "CaseB": "Nhóc Marưcô",
+        "CaseC": "Xác ướp Ai Cập",
+        "CaseD": "Dấu ấn rồng thiêng ",
+        "Question": "Bumma là tên một nhân vật trong bộ truyện tranh nào?",
+        "TrueCase": 1,
+        "_id": 171
+    },
+    {
+        "CaseA": "Thợ may ",
+        "CaseB": "Thợ mộc ",
+        "CaseC": "Thợ cắt tóc",
+        "CaseD": "Thợ điện",
+        "Question": "Cưa, bào là các động tác liên quan đến nghề nghiệp nào?",
+        "TrueCase": 2,
+        "_id": 172
+    },
+    {
+        "CaseA": "Chichi ",
+        "CaseB": "Sôngôku ",
+        "CaseC": "Bumma ",
+        "CaseD": "Cađíc ",
+        "Question": "Công ty điện tử Capsule của ai trong truyện 7 viên ngọc rồng nổi tiếng?",
+        "TrueCase": 3,
+        "_id": 173
+    },
+    {
+        "CaseA": "Xuồng ",
+        "CaseB": "Bo bo ",
+        "CaseC": "Xà lan ",
+        "CaseD": "Thuyền buồm ",
+        "Question": "Loại tàu thuyền nào sau đây sử dụng sức gió để di chuyển?",
+        "TrueCase": 4,
+        "_id": 174
+    },
+    {
+        "CaseA": "Hàm răng ",
+        "CaseB": "Làn môi ",
+        "CaseC": "Ánh mắt ",
+        "CaseD": "Bờ mi ",
+        "Question": "Điền vào chỗ trống: \"Mình về có nhớ ta chăng, ta về ta nhớ ... mình cười\"?",
+        "TrueCase": 1,
+        "_id": 175
+    },
+    {
+        "CaseA": "Philadelphia ",
+        "CaseB": "Los Angeles",
+        "CaseC": "New York ",
+        "CaseD": "Boston ",
+        "Question": "Trước Washington, thành phố nào đã từng là thủ đô của Mỹ?",
+        "TrueCase": 1,
+        "_id": 176
+    },
+    {
+        "CaseA": "Bắc Ninh ",
+        "CaseB": "Hưng Yên ",
+        "CaseC": "Hải Dương ",
+        "CaseD": "Bắc Giang ",
+        "Question": "Thị xã Bắc Ninh thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 177
+    },
+    {
+        "CaseA": "5",
+        "CaseB": "1",
+        "CaseC": "6",
+        "CaseD": "2",
+        "Question": "Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Mã?",
+        "TrueCase": 4,
+        "_id": 178
+    },
+    {
+        "CaseA": "Hàn Quốc",
+        "CaseB": "Nhật Bản",
+        "CaseC": "Triều Tiên",
+        "CaseD": "Trung Quốc",
+        "Question": "Người ta thường gọi quốc gia nào là Đất nước mặt trời mọc?",
+        "TrueCase": 2,
+        "_id": 179
+    },
+    {
+        "CaseA": "Trẻ con ",
+        "CaseB": "Trẻ em ",
+        "CaseC": "Trẻ tuổi ",
+        "CaseD": "Con trẻ ",
+        "Question": "Từ nào sau đây không cùng nghĩa với từ \"nhi đồng\"?",
+        "TrueCase": 4,
+        "_id": 180
+    },
+    {
+        "CaseA": "Đồ thủ công ",
+        "CaseB": "Gốm ",
+        "CaseC": "Tranh ",
+        "CaseD": "Lụa",
+        "Question": "Sản phẩm nào nổi tiếng ở Hà Đông?",
+        "TrueCase": 4,
+        "_id": 181
+    },
+    {
+        "CaseA": "Áo Dài ",
+        "CaseB": "Kimono ",
+        "CaseC": "Kimoana",
+        "CaseD": "Mimono",
+        "Question": "Trang phục truyền thống của Nhật Bản?",
+        "TrueCase": 2,
+        "_id": 182
+    },
+    {
+        "CaseA": "Màu vàng ",
+        "CaseB": "Màu xanh ",
+        "CaseC": "Màu đỏ ",
+        "CaseD": "Không đổi màu",
+        "Question": "Khi nhúng quỳ tím vào dung dịch muối ăn, quỳ tím chuyển sang màu gì?",
+        "TrueCase": 4,
+        "_id": 183
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bàn cờ tướng có bao nhiêu quân Sĩ?",
+        "TrueCase": 4,
+        "_id": 184
+    },
+    {
+        "CaseA": "Chúng ta",
+        "CaseB": "Các cháu ",
+        "CaseC": "Thế hệ trẻ ",
+        "CaseD": "Bộ đội ",
+        "Question": "Điền vào chỗ trống trong câu nói của Bác: \"Non sông Việt Nam có vẻ vang, sánh vai với các cường quốc năm châu hay không, đó là nhờ công lao học tập của ...\"?",
+        "TrueCase": 2,
+        "_id": 185
+    },
+    {
+        "CaseA": "Quyên ",
+        "CaseB": "Công ",
+        "CaseC": "Ngôi ",
+        "CaseD": "Sáu ",
+        "Question": "Con vật nào được nhắc đến trong câu Kiều sau: \"Dưới trăng ... đã gọi hè\"?",
+        "TrueCase": 1,
+        "_id": 186
+    },
+    {
+        "CaseA": "1 người gỗ ",
+        "CaseB": "1 người máy ",
+        "CaseC": "1 người bình thường ",
+        "CaseD": "1  con mèo bình thường ",
+        "Question": "Nhân vật Đôrêmon là một con mèo thông minh, đó là?",
+        "TrueCase": 2,
+        "_id": 187
+    },
+    {
+        "CaseA": "Tý ",
+        "CaseB": "Dặm ",
+        "CaseC": "Đời ",
+        "CaseD": "Trăm dặm ",
+        "Question": "Người ta thường nói:  \"Sai một ly, đi một ...\"?",
+        "TrueCase": 2,
+        "_id": 188
+    },
+    {
+        "CaseA": "Ruộng",
+        "CaseB": "Đường ",
+        "CaseC": "Cầu ",
+        "CaseD": "Đồng ",
+        "Question": "Điền vào chỗ trống: \"Ăn một bát cháo, chạy ba quãng ...\"?",
+        "TrueCase": 4,
+        "_id": 189
+    },
+    {
+        "CaseA": "NAV",
+        "CaseB": "Spybot Search and Destroy",
+        "CaseC": "Depraved Web Killer",
+        "CaseD": "D32",
+        "Question": "Cho biết phần mềm nào không dùng để diệt virus?",
+        "TrueCase": 3,
+        "_id": 190
+    },
+    {
+        "CaseA": "Bắc Ninh ",
+        "CaseB": "Bắc Giang ",
+        "CaseC": "Thái Nguyên ",
+        "CaseD": "Lạng Sơn ",
+        "Question": "Thị xã Bắc Giang thuộc tỉnh nào của nước ta?",
+        "TrueCase": 2,
+        "_id": 191
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Xe?",
+        "TrueCase": 2,
+        "_id": 192
+    },
+    {
+        "CaseA": "Vôn kế",
+        "CaseB": "Nhiệt kế",
+        "CaseC": "Lực kế",
+        "CaseD": "Ampe kế",
+        "Question": "Đơn vị đo cường độ dòng điện là gì?",
+        "TrueCase": 4,
+        "_id": 193
+    },
+    {
+        "CaseA": "Hồi hương ",
+        "CaseB": "Hồi hộp ",
+        "CaseC": "Hồi âm",
+        "CaseD": "Hồi cư",
+        "Question": "Chữ \"hồi\" nào trong các từ sau đây không cùng nghĩa với chữ \"hồi\" trong những từ còn lại?",
+        "TrueCase": 2,
+        "_id": 194
+    },
+    {
+        "CaseA": "Áp kế ",
+        "CaseB": "Ampe kế ",
+        "CaseC": "Vôn kế ",
+        "CaseD": "Nhiệt kế ",
+        "Question": "Dụng cụ nào đo thân nhiệt?",
+        "TrueCase": 4,
+        "_id": 195
+    },
+    {
+        "CaseA": "Dragon",
+        "CaseB": "Dracun ",
+        "CaseC": "Dracula ",
+        "CaseD": "Bracula ",
+        "Question": "Tên gọi của con quỷ chuyên hút máu?",
+        "TrueCase": 3,
+        "_id": 196
+    },
+    {
+        "CaseA": "Hồi hèn xung trận ",
+        "CaseB": "Khúc ca khải hoàn ",
+        "CaseC": "Áng thiên cổ hùng văn ",
+        "CaseD": "Bản tuyên ngôn độc lập ",
+        "Question": "Ở nước ta, bài thơ \"Sông núi nước Nam\" thường được gọi là gì?",
+        "TrueCase": 4,
+        "_id": 197
+    },
+    {
+        "CaseA": "8",
+        "CaseB": "10",
+        "CaseC": "12",
+        "CaseD": "14",
+        "Question": "Trong bàn cờ tướng có bao nhiêu quân Tốt?",
+        "TrueCase": 2,
+        "_id": 198
+    },
+    {
+        "CaseA": "Nobita",
+        "CaseB": "Chaien",
+        "CaseC": "Xêkô",
+        "CaseD": "ĐêKhi ",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào mập nhất?",
+        "TrueCase": 2,
+        "_id": 199
+    },
+    {
+        "CaseA": "Khúc côn cầu ",
+        "CaseB": "Bóng đá ",
+        "CaseC": "Bóng ném ",
+        "CaseD": "Bóng bầu dục ",
+        "Question": "Môn thể thao nào sau đây không có vị trí thủ môn?",
+        "TrueCase": 4,
+        "_id": 200
+    },
+    {
+        "CaseA": "Bumma ",
+        "CaseB": "Sôngôku ",
+        "CaseC": "Krilin ",
+        "CaseD": "Urôn ",
+        "Question": "Nhân vật nào xuất hiện đầu tiên trong truyện 7 viên ngọc rồng nổi tiếng?",
+        "TrueCase": 2,
+        "_id": 201
+    },
+    {
+        "CaseA": "Bò ",
+        "CaseB": "Ngựa ",
+        "CaseC": "Trâu ",
+        "CaseD": "Heo ",
+        "Question": "Người ta thường nói: \"Trật con tán, bán con ...\"?",
+        "TrueCase": 3,
+        "_id": 202
+    },
+    {
+        "CaseA": "Lãi ",
+        "CaseB": "Lỗ ",
+        "CaseC": "Bỏ ",
+        "CaseD": "Xin ",
+        "Question": "Điền vào chỗ trống: \"Ăn bữa giỗ, ... bữa cày\"?",
+        "TrueCase": 2,
+        "_id": 203
+    },
+    {
+        "CaseA": "Vladimir Ilits Ulianov",
+        "CaseB": "K. Tulin",
+        "CaseC": "Karpov",
+        "CaseD": "Tất cả đều đúng",
+        "Question": "Trong các tên sau đây , tên nào là từng là tên gọi của Lênin ?",
+        "TrueCase": 4,
+        "_id": 204
+    },
+    {
+        "CaseA": "Hải Phòng ",
+        "CaseB": "Hải Dương ",
+        "CaseC": "Quảng Ninh ",
+        "CaseD": "Bắc Giang ",
+        "Question": "Thành phố Hạ Long thuộc tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 205
+    },
+    {
+        "CaseA": "7",
+        "CaseB": "8",
+        "CaseC": "9",
+        "CaseD": "10",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Tốt?",
+        "TrueCase": 2,
+        "_id": 206
+    },
+    {
+        "CaseA": "Vôn kế",
+        "CaseB": "Lực kế",
+        "CaseC": "Ampe kế",
+        "CaseD": "Nhiệt kế",
+        "Question": "Dụng cụ để đo hiệu điện thế?",
+        "TrueCase": 1,
+        "_id": 207
+    },
+    {
+        "CaseA": "Li - hồi",
+        "CaseB": "Vấn - lai ",
+        "CaseC": "Thiếu - lão ",
+        "CaseD": "Tiểu - đại ",
+        "Question": "Cặp từ nào sau đây không phải là cặp từ đối?",
+        "TrueCase": 2,
+        "_id": 208
+    },
+    {
+        "CaseA": "Ngựa",
+        "CaseB": "Kangaroo",
+        "CaseC": "Dê",
+        "CaseD": "Hươu",
+        "Question": "Trong các con vật sau đây, con nào khác nhất so với các con còn lại?",
+        "TrueCase": 2,
+        "_id": 209
+    },
+    {
+        "CaseA": "Chất lỏng ",
+        "CaseB": "Chất khí ",
+        "CaseC": "Chân không ",
+        "CaseD": "Chất rắn ",
+        "Question": "Âm thanh không truyền đi được trong môi trường nào?",
+        "TrueCase": 3,
+        "_id": 210
+    },
+    {
+        "CaseA": "Cân ",
+        "CaseB": "Thước mét ",
+        "CaseC": "Xilanh ",
+        "CaseD": "Ống nghe bác sĩ",
+        "Question": "Dụng cụ nào dưới đây dùng để đo độ dài ?",
+        "TrueCase": 2,
+        "_id": 211
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ tướng có bao nhiêu quân Tượng?",
+        "TrueCase": 2,
+        "_id": 212
+    },
+    {
+        "CaseA": "Nobita ",
+        "CaseB": "Chaien ",
+        "CaseC": "Xêkô",
+        "CaseD": "Xuka",
+        "Question": " Trong các nhân vật sau đây, nhân vật nào là con gái?",
+        "TrueCase": 4,
+        "_id": 213
+    },
+    {
+        "CaseA": "7 viên ngọc rồng ",
+        "CaseB": "Doraemon ",
+        "CaseC": "Thám tử lừng danh ",
+        "CaseD": "Chú Thoòng",
+        "Question": "Xên Bọ Hung là tên một nhân vật nổi tiếng trong bộ truyện tranh nào?",
+        "TrueCase": 1,
+        "_id": 214
+    },
+    {
+        "CaseA": "Xe hơi ",
+        "CaseB": "Xe lu ",
+        "CaseC": "Xe lửa ",
+        "CaseD": "Xe điện ngầm ",
+        "Question": "Loại xe nào có thể cán nát đất đá, làm bằng phẳng mặt đường?",
+        "TrueCase": 2,
+        "_id": 215
+    },
+    {
+        "CaseA": "2009 ",
+        "CaseB": "2010 ",
+        "CaseC": "2011",
+        "CaseD": "2012",
+        "Question": "Thăng Long  Hà Nội tròn 1000 năm tuổi vào năm nào?",
+        "TrueCase": 2,
+        "_id": 216
+    },
+    {
+        "CaseA": "Vây",
+        "CaseB": "Đuôi ",
+        "CaseC": "Xương ",
+        "CaseD": "Mang ",
+        "Question": "Điền vào chỗ trống: \"Ăn cá nhả ..., ăn đường nuốt chậm\"?",
+        "TrueCase": 3,
+        "_id": 217
+    },
+    {
+        "CaseA": "Nước trọng lực ",
+        "CaseB": "Nước liên kết với chất vô cơ, hữu cơ",
+        "CaseC": "Nước liên kết trên bề mặt các hạt đất",
+        "CaseD": "Nước mao dẫn ",
+        "Question": "Dạng nước được cây xanh sử dụng nhiều nhất là?",
+        "TrueCase": 4,
+        "_id": 218
+    },
+    {
+        "CaseA": "Quảng Ninh ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Thái Bình ",
+        "CaseD": "Hải Dương ",
+        "Question": "Thị xã Cẩm Phả thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 219
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu ông Vua?",
+        "TrueCase": 1,
+        "_id": 220
+    },
+    {
+        "CaseA": "Lực kế",
+        "CaseB": "Nhiệt kế",
+        "CaseC": "Ampe kế",
+        "CaseD": "Vôn kế",
+        "Question": "Dụng cụ để đo nhiệt độ?",
+        "TrueCase": 2,
+        "_id": 221
+    },
+    {
+        "CaseA": "Trẻ - già ",
+        "CaseB": "Sáng - tối ",
+        "CaseC": "Sang - hèn ",
+        "CaseD": "Chạy - nhảy ",
+        "Question": "Cặp từ nào sau đây không phải là cặp từ trái nghĩa?",
+        "TrueCase": 4,
+        "_id": 222
+    },
+    {
+        "CaseA": "Dế ",
+        "CaseB": "Giun ",
+        "CaseC": "Cá ",
+        "CaseD": "Tôm",
+        "Question": "Nước mắm được chiết suất từ loài động vật nào sau đây?",
+        "TrueCase": 3,
+        "_id": 223
+    },
+    {
+        "CaseA": "Khỉ ",
+        "CaseB": "Vượn người ",
+        "CaseC": "Phoọc",
+        "CaseD": "Gorila ",
+        "Question": "Tổ tiên của loài người là?",
+        "TrueCase": 2,
+        "_id": 224
+    },
+    {
+        "CaseA": "Quả bóng cao su ",
+        "CaseB": "Sợi dây thun ",
+        "CaseC": "Cục đất sét ",
+        "CaseD": "Lò xo ",
+        "Question": "Vật nào sau đây không có tính đàn hồi?",
+        "TrueCase": 3,
+        "_id": 225
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ tướng có bao nhiêu quân Xe?",
+        "TrueCase": 2,
+        "_id": 226
+    },
+    {
+        "CaseA": "Chaien ",
+        "CaseB": "Đêkhi",
+        "CaseC": "Xuka ",
+        "CaseD": "Doraemon ",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào là người máy?",
+        "TrueCase": 4,
+        "_id": 227
+    },
+    {
+        "CaseA": "Dấu ấn rồng thiêng ",
+        "CaseB": "Rừng Nauy ",
+        "CaseC": "7 viên ngọc rồng ",
+        "CaseD": "Nhóc Marưkô",
+        "Question": "Ma Bư là tên một nhân vật nổi tiếng trong bộ truyện tranh nào?",
+        "TrueCase": 3,
+        "_id": 228
+    },
+    {
+        "CaseA": "Xe đạp ",
+        "CaseB": "Xe lu ",
+        "CaseC": "Xe điện ngầm ",
+        "CaseD": "Xe lửa ",
+        "Question": "Loại xe nào chạy bằng điện?",
+        "TrueCase": 3,
+        "_id": 229
+    },
+    {
+        "CaseA": "Nai ",
+        "CaseB": "Hươu ",
+        "CaseC": "Thiên nga ",
+        "CaseD": "Tuần lộc ",
+        "Question": "Ông già Noel cưỡi con gì để đi phát quà?",
+        "TrueCase": 4,
+        "_id": 230
+    },
+    {
+        "CaseA": "Uống ",
+        "CaseB": "Ngủ ",
+        "CaseC": "Ngồi ",
+        "CaseD": "Ăn ",
+        "Question": "Điền vào chỗ trống: \"... dầm, nằm dề\"?",
+        "TrueCase": 4,
+        "_id": 231
+    },
+    {
+        "CaseA": "Chu Lai ",
+        "CaseB": "Lỗ Tấn",
+        "CaseC": "Chu Tác Nhân ",
+        "CaseD": "Lỗ Thuỵ ",
+        "Question": "Chu Thụ Nhân là tên thật của nhà văn nào ?",
+        "TrueCase": 2,
+        "_id": 232
+    },
+    {
+        "CaseA": "Hải Dương ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Quảng Ninh ",
+        "CaseD": "Bắc Giang ",
+        "Question": "Thị xã Móng Cái thuộc tỉnh nào của nước ta?",
+        "TrueCase": 3,
+        "_id": 233
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Hậu?",
+        "TrueCase": 1,
+        "_id": 234
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Kế hoạch hoá gia đình của người Việt Nam, mỗi gia đình được phép có mấy con?",
+        "TrueCase": 2,
+        "_id": 235
+    },
+    {
+        "CaseA": "Tĩnh mịch - huyên náo",
+        "CaseB": "Đông đúc - thưa thớt ",
+        "CaseC": "Vắng lặng - ồn ào ",
+        "CaseD": "Lặng lẽ - ầm ĩ",
+        "Question": "Cặp từ trái nghĩa nào sau đây không gần nghĩa với cặp từ \"im lặng - ồn ào\"?",
+        "TrueCase": 2,
+        "_id": 236
+    },
+    {
+        "CaseA": "Hoa mười giờ ",
+        "CaseB": "Hoa hồng ",
+        "CaseC": "Hoa đồng tiền ",
+        "CaseD": "Hoa hướng dương",
+        "Question": "Loài hoa nào luôn hướng về phía mặt trời?",
+        "TrueCase": 4,
+        "_id": 237
+    },
+    {
+        "CaseA": "Suy nghĩ ",
+        "CaseB": "Đọc ",
+        "CaseC": "Viết ",
+        "CaseD": "Nói ",
+        "Question": "Từ nào ít giống nhất với các từ còn lại?",
+        "TrueCase": 1,
+        "_id": 238
+    },
+    {
+        "CaseA": "Khối lượng ",
+        "CaseB": "Độ dãn lò xo ",
+        "CaseC": "Chiều dài lò xo ",
+        "CaseD": "Lực ",
+        "Question": "Lực kế là dụng cụ dùng để đo: ",
+        "TrueCase": 4,
+        "_id": 239
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ tướng có bao nhiêu quân Mã?",
+        "TrueCase": 2,
+        "_id": 240
+    },
+    {
+        "CaseA": "Xêkô",
+        "CaseB": "Chaien ",
+        "CaseC": "Đêkhi",
+        "CaseD": "Nobita ",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào học giỏi và thông minh nhất?",
+        "TrueCase": 3,
+        "_id": 241
+    },
+    {
+        "CaseA": "Xác ướp Ai Cập ",
+        "CaseB": "Thám tử lừng danh ",
+        "CaseC": "Những người bạn ",
+        "CaseD": "7 viên ngọc rồng ",
+        "Question": "Fide đại đế là tên một nhân vật nổi tiếng trong bộ truyện tranh nào?",
+        "TrueCase": 4,
+        "_id": 242
+    },
+    {
+        "CaseA": "Ghe chài ",
+        "CaseB": "Tàu ngầm ",
+        "CaseC": "Tàu hoả ",
+        "CaseD": "Xà lan ",
+        "Question": "Loại phương tiện nào khác với các loại còn lại?",
+        "TrueCase": 3,
+        "_id": 243
+    },
+    {
+        "CaseA": "Chập tối",
+        "CaseB": "Đêm khuya ",
+        "CaseC": "Buổi trưa ",
+        "CaseD": "Nửa đêm ",
+        "Question": "Lúc nào thì ánh sáng có màu vàng?",
+        "TrueCase": 1,
+        "_id": 244
+    },
+    {
+        "CaseA": "Điên ",
+        "CaseB": "Rồ ",
+        "CaseC": "Dại ",
+        "CaseD": "Hâm",
+        "Question": "Điền vào chỗ trống: \"Ăn lắm thì hết miếng ngon, nói lắm thì hết lời khôn hoá ...\"?",
+        "TrueCase": 2,
+        "_id": 245
+    },
+    {
+        "CaseA": "Cao ",
+        "CaseB": "Thấp ",
+        "CaseC": "Bão hoà ",
+        "CaseD": "Bán bão hoà ",
+        "Question": "Độ ẩm của không khí như thế nào thì dẫn đến hiện tượng sương mù ?",
+        "TrueCase": 3,
+        "_id": 246
+    },
+    {
+        "CaseA": "Hải Phòng ",
+        "CaseB": "Quảng Ninh ",
+        "CaseC": "Thái Bình ",
+        "CaseD": "Hải Dương ",
+        "Question": "Thị xã Đồ Sơn trực thuộc thành phố nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 247
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "1",
+        "CaseC": "3",
+        "CaseD": "5",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Tượng trắng?",
+        "TrueCase": 2,
+        "_id": 248
+    },
+    {
+        "CaseA": "Châu Âu",
+        "CaseB": "Châu Mỹ",
+        "CaseC": "Châu Á",
+        "CaseD": "Châu Phi",
+        "Question": "Châu lục nào có diện tích lớn nhất thế giới?",
+        "TrueCase": 3,
+        "_id": 249
+    },
+    {
+        "CaseA": "Đeo nhạc cho mèo ",
+        "CaseB": "Thầy bói xem voi ",
+        "CaseC": "Đẽo cày giữa đường ",
+        "CaseD": "ếch ngồi đáy giếng",
+        "Question": "Thành ngữ nào sau đây có nghĩa là: ý tưởng viển vông, thiếu thực tế, thiếu tính khả thi?",
+        "TrueCase": 1,
+        "_id": 250
+    },
+    {
+        "CaseA": "5",
+        "CaseB": "6",
+        "CaseC": "7",
+        "CaseD": "8",
+        "Question": "Cầu vồng có bao nhiêu màu cơ bản?",
+        "TrueCase": 3,
+        "_id": 251
+    },
+    {
+        "CaseA": "Xe Bus",
+        "CaseB": "Xe hơi ",
+        "CaseC": "Tàu hoả ",
+        "CaseD": "Máy bay ",
+        "Question": "Phương tiện nào sau đây ít giống với những cái còn lại nhất?",
+        "TrueCase": 4,
+        "_id": 252
+    },
+    {
+        "CaseA": "Conan ",
+        "CaseB": "Ranna",
+        "CaseC": "Dekhi ",
+        "CaseD": "Shinichi ",
+        "Question": "Tên thật của nhân vật Conan trong bộ truyện tranh hấp dẫn Thám tử lừng danh Conan?",
+        "TrueCase": 4,
+        "_id": 253
+    },
+    {
+        "CaseA": "14",
+        "CaseB": "16",
+        "CaseC": "18",
+        "CaseD": "20",
+        "Question": "Trong bàn cờ vua có bao nhiêu quân Tốt?",
+        "TrueCase": 2,
+        "_id": 254
+    },
+    {
+        "CaseA": "Chaien ",
+        "CaseB": "Doraemon ",
+        "CaseC": "Xuka ",
+        "CaseD": "Xêkô",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào mỏ nhọn, hay khoe của?",
+        "TrueCase": 4,
+        "_id": 255
+    },
+    {
+        "CaseA": "Cađíc ",
+        "CaseB": "Sôngôku",
+        "CaseC": "Kakalốt",
+        "CaseD": "Krilin",
+        "Question": "Calích là con trai của ai trong truyện 7 viên ngọc rồng?",
+        "TrueCase": 1,
+        "_id": 256
+    },
+    {
+        "CaseA": "Xe hơi ",
+        "CaseB": "Xe môtô ",
+        "CaseC": "Xe tải ",
+        "CaseD": "Xe lu ",
+        "Question": "Loại xe nào sau đây dùng để tải nhiều hàng hoá?",
+        "TrueCase": 3,
+        "_id": 257
+    },
+    {
+        "CaseA": "Anh ",
+        "CaseB": "Pháp ",
+        "CaseC": "Đức ",
+        "CaseD": "Bỉ ",
+        "Question": "Bảng Anh là đơn vị tiền tệ đang lưu thông tại quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 258
+    },
+    {
+        "CaseA": "Vợ ",
+        "CaseB": "Tiền ",
+        "CaseC": "Chồng ",
+        "CaseD": "Đồ ",
+        "Question": "Điền vào chỗ trống: \"Ăn đong cho đáng ăn đong, lấy ... cho đáng hình dong con người\"?",
+        "TrueCase": 3,
+        "_id": 259
+    },
+    {
+        "CaseA": "World Cup ",
+        "CaseB": "Copa America",
+        "CaseC": "Conferderation Cup",
+        "CaseD": "Olympic ",
+        "Question": "Bộ sưu tập thành tích của bóng đá Brazil cho đến năm 2010 còn khuyết danh hiệu vô địch nào sau đây ? ",
+        "TrueCase": 4,
+        "_id": 260
+    },
+    {
+        "CaseA": "Hải Dương ",
+        "CaseB": "Hải Phòng ",
+        "CaseC": "Quảng Ninh ",
+        "CaseD": "Hưng Yên ",
+        "Question": "Thành phố Hải Dương trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 261
+    },
+    {
+        "CaseA": "1",
+        "CaseB": "2",
+        "CaseC": "3",
+        "CaseD": "4",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Tượng đen?",
+        "TrueCase": 1,
+        "_id": 262
+    },
+    {
+        "CaseA": "Nghệ An",
+        "CaseB": "Đắc Lắc",
+        "CaseC": "Kontum",
+        "CaseD": "Gia Lai",
+        "Question": "Tỉnh nào có diện tích lớn nhất nước ta (thời điểm chưa có tỉnh Đắc Nông)?",
+        "TrueCase": 2,
+        "_id": 263
+    },
+    {
+        "CaseA": "Trong sạch ",
+        "CaseB": "Cao cả ",
+        "CaseC": "Vắng vẻ ",
+        "CaseD": "Tươi tắn ",
+        "Question": "Nghĩa của từ thanh khiết là gì?",
+        "TrueCase": 1,
+        "_id": 264
+    },
+    {
+        "CaseA": "Vật lý ",
+        "CaseB": "Toán học ",
+        "CaseC": "Hoá học ",
+        "CaseD": "Văn học ",
+        "Question": "Công thức căn bậc 2 chúng ta đã học ở môn học nào?",
+        "TrueCase": 2,
+        "_id": 265
+    },
+    {
+        "CaseA": "Ớt ",
+        "CaseB": "Bắp cải ",
+        "CaseC": "Cà rốt ",
+        "CaseD": "Mướp ",
+        "Question": "Thỏ thích ăn quả gì?",
+        "TrueCase": 3,
+        "_id": 266
+    },
+    {
+        "CaseA": "7 viên ngọc rồng ",
+        "CaseB": "Doraemon ",
+        "CaseC": "Thám từ lừng danh ",
+        "CaseD": "Nhóc Marưcô",
+        "Question": "Xeko là tên nhân vật nổi tiếng trong bộ truyện tranh nào?",
+        "TrueCase": 2,
+        "_id": 267
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ vua có bao nhiêu quân Xe?",
+        "TrueCase": 2,
+        "_id": 268
+    },
+    {
+        "CaseA": "Chaien ",
+        "CaseB": "Xêkô",
+        "CaseC": "Xuka ",
+        "CaseD": "Doraemon ",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào là thế giới tương lai?",
+        "TrueCase": 4,
+        "_id": 269
+    },
+    {
+        "CaseA": "Sôngôku ",
+        "CaseB": "Sôngôhan ",
+        "CaseC": "Bumma ",
+        "CaseD": "Calích ",
+        "Question": "Sôngôtên là em trai của ai trong bộ truyện tranh 7 viên ngọc rồng?",
+        "TrueCase": 2,
+        "_id": 270
+    },
+    {
+        "CaseA": "Xe đạp ",
+        "CaseB": "Xe hơi ",
+        "CaseC": "Xe lu ",
+        "CaseD": "Xe lôi ",
+        "Question": "Loại xe nào sau đây có bánh không dùng lốp?",
+        "TrueCase": 3,
+        "_id": 271
+    },
+    {
+        "CaseA": "Hàn Quốc ",
+        "CaseB": "Nhật Bản ",
+        "CaseC": "Triều Tiên ",
+        "CaseD": "Trung Quốc ",
+        "Question": "Nhân dân tệ là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 4,
+        "_id": 272
+    },
+    {
+        "CaseA": "Tiên ",
+        "CaseB": "Phật ",
+        "CaseC": "Điên ",
+        "CaseD": "Hay ",
+        "Question": "Điền vào chỗ trống: Ăn được ngủ được là ..., không ăn không ngủ mất tiền thêm lo?",
+        "TrueCase": 1,
+        "_id": 273
+    },
+    {
+        "CaseA": "Cyprus ",
+        "CaseB": "Sicily ",
+        "CaseC": "Crete ",
+        "CaseD": "Rhode ",
+        "Question": "Đảo lớn nhất Địa Trung Hải là?",
+        "TrueCase": 2,
+        "_id": 274
+    },
+    {
+        "CaseA": "Bắc Nih ",
+        "CaseB": "Hải Dương ",
+        "CaseC": "Quảng Ninh",
+        "CaseD": "Hưng Yên ",
+        "Question": "Thị xã Hưng Yên trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 275
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "3",
+        "CaseC": "4",
+        "CaseD": "5",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Tượng?",
+        "TrueCase": 1,
+        "_id": 276
+    },
+    {
+        "CaseA": "Tp. Hồ Chí Minh",
+        "CaseB": "Tp. Hải Phòng",
+        "CaseC": "Tp. Đà Lạt",
+        "CaseD": "Tp. Huế",
+        "Question": "Thành phố nào được cho là thơ mộng nhất Việt Nam?",
+        "TrueCase": 3,
+        "_id": 277
+    },
+    {
+        "CaseA": "Đăm đăm ",
+        "CaseB": "Khang khác ",
+        "CaseC": "Xanh xanh ",
+        "CaseD": "Khấp khểnh ",
+        "Question": "Trong những từ sau đây, từ nào không phải là từ láy toàn bộ?",
+        "TrueCase": 4,
+        "_id": 278
+    },
+    {
+        "CaseA": "Giáo dục công dân ",
+        "CaseB": "Lịch sử ",
+        "CaseC": "Địa lý ",
+        "CaseD": "Văn học",
+        "Question": "Tác phẩm \"Dế mèn phiêu lưu kí\" ta đã biết qua môn học nào ở phổ thông?",
+        "TrueCase": 4,
+        "_id": 279
+    },
+    {
+        "CaseA": "Chó ",
+        "CaseB": "Mèo ",
+        "CaseC": "Sóc ",
+        "CaseD": "Thỏ ",
+        "Question": "Cà rốt là loại thức ăn mà con vật nào rất thích?",
+        "TrueCase": 4,
+        "_id": 280
+    },
+    {
+        "CaseA": "7 viên ngọc rồng ",
+        "CaseB": "Dấu ấn rồng thiêng ",
+        "CaseC": "Doraemon ",
+        "CaseD": "Chú Thoòng",
+        "Question": "Sôngôku là tên nhân vật nổi tiếng trong bộ truyện tranh nào?",
+        "TrueCase": 1,
+        "_id": 281
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ vua có bao nhiêu quân Tượng?",
+        "TrueCase": 2,
+        "_id": 282
+    },
+    {
+        "CaseA": "Xuka ",
+        "CaseB": "Chaiko ",
+        "CaseC": "Chaien ",
+        "CaseD": "Đôrêmi",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào là con trai?",
+        "TrueCase": 3,
+        "_id": 283
+    },
+    {
+        "CaseA": "Sôngôku ",
+        "CaseB": "Kakalốt ",
+        "CaseC": "Sôngôtên ",
+        "CaseD": "Cađíc ",
+        "Question": "Sôngôhan là anh trai của ai trong bộ tranh truyện 7 viên ngọc rồng?",
+        "TrueCase": 3,
+        "_id": 284
+    },
+    {
+        "CaseA": "Xe lu ",
+        "CaseB": "Xe hơi ",
+        "CaseC": "Xe lửa ",
+        "CaseD": "Xe đạp ",
+        "Question": "Loại xe nào sau đây có nhiều bánh xe?",
+        "TrueCase": 3,
+        "_id": 285
+    },
+    {
+        "CaseA": "Việt Nam ",
+        "CaseB": "Thái Lan ",
+        "CaseC": "Trung Quốc ",
+        "CaseD": "Ấn Độ ",
+        "Question": "Đồng là đơn vị tiền tệ đang lưu thông trên quốc gia nào?",
+        "TrueCase": 1,
+        "_id": 286
+    },
+    {
+        "CaseA": "Nói ",
+        "CaseB": "Cười ",
+        "CaseC": "Nghĩ",
+        "CaseD": "Lười ",
+        "Question": "Điền vào chỗ trống: \"Ăn sao cho được mà ..., thương sao cho được vợ người mà thương\"?",
+        "TrueCase": 2,
+        "_id": 287
+    },
+    {
+        "CaseA": "Tống Giang ",
+        "CaseB": "Hoa Vinh ",
+        "CaseC": "Lý Quỳ ",
+        "CaseD": "Lâm Xung ",
+        "Question": "'Báo Tử Đầu' là biệt danh của nhân vật nào trong Thủy Hử ? ",
+        "TrueCase": 4,
+        "_id": 288
+    },
+    {
+        "CaseA": "Hoà Bình ",
+        "CaseB": "Thái Nguyên",
+        "CaseC": "Hà Nam ",
+        "CaseD": "Phú Thọ ",
+        "Question": "Thị xã Hoà Bình trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 1,
+        "_id": 289
+    },
+    {
+        "CaseA": "4",
+        "CaseB": "3",
+        "CaseC": "2",
+        "CaseD": "1",
+        "Question": "Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Mã?",
+        "TrueCase": 3,
+        "_id": 290
+    },
+    {
+        "CaseA": "Bình Thuận",
+        "CaseB": "Lâm Đồng",
+        "CaseC": "Ninh Thuận",
+        "CaseD": "Khánh Hoà",
+        "Question": "Thung lũng tình yêu thuộc tỉnh nào của Việt Nam?",
+        "TrueCase": 2,
+        "_id": 291
+    },
+    {
+        "CaseA": "Thiên tử ",
+        "CaseB": "Phụ tử",
+        "CaseC": "Bất tử ",
+        "CaseD": "Hoàng tử ",
+        "Question": "Chữ \"tử\" trong những từ sau đây, chữ nào không có nghĩa là \"con\"?",
+        "TrueCase": 3,
+        "_id": 292
+    },
+    {
+        "CaseA": "Vật lý ",
+        "CaseB": "Địa lý ",
+        "CaseC": "Lịch sử ",
+        "CaseD": "Toán học",
+        "Question": "Động cơ đốt trong chúng ta đã học ở môn học nào?",
+        "TrueCase": 1,
+        "_id": 293
+    },
+    {
+        "CaseA": "T",
+        "CaseB": "S",
+        "CaseC": "V",
+        "CaseD": "U",
+        "Question": "Đứng trước W trong bảng chữ cái tiếng Anh là chữ nào?",
+        "TrueCase": 3,
+        "_id": 294
+    },
+    {
+        "CaseA": "Dấu ấn rồng thiêng ",
+        "CaseB": "Nhóc Marưcô",
+        "CaseC": "Thám tử lừng danh ",
+        "CaseD": "7 viên ngọc rồng ",
+        "Question": "Cađic là tên nhân vật nổi tiếng trong bộ truyện tranh nào?",
+        "TrueCase": 4,
+        "_id": 295
+    },
+    {
+        "CaseA": "2",
+        "CaseB": "4",
+        "CaseC": "6",
+        "CaseD": "8",
+        "Question": "Trong bàn cờ vua có bao nhiêu quân Tượng đen?",
+        "TrueCase": 1,
+        "_id": 296
+    },
+    {
+        "CaseA": "Nobita ",
+        "CaseB": "Đôrêmon ",
+        "CaseC": "Chaien ",
+        "CaseD": "Xêkô",
+        "Question": "Trong các nhân vật sau đây, nhân vật nào lười biếng, hậu đậu?",
+        "TrueCase": 1,
+        "_id": 297
+    },
+    {
+        "CaseA": "Krilin ",
+        "CaseB": "Thiênxinhăng",
+        "CaseC": "Calích ",
+        "CaseD": "Cađíc ",
+        "Question": "Bumma là vợ của ai trong bộ truyện tranh 7 viên ngọc rồng?",
+        "TrueCase": 4,
+        "_id": 298
+    },
+    {
+        "CaseA": "Xe hơi ",
+        "CaseB": "Xe ngựa ",
+        "CaseC": "Xe điện ngầm",
+        "CaseD": "Xe đạp ",
+        "Question": "Loại xe nào sau đây sử dụng sức người để di chuyển ",
+        "TrueCase": 4,
+        "_id": 299
+    },
+    {
+        "CaseA": "Bà nội",
+        "CaseB": "Bà ngoại ",
+        "CaseC": "Bà sơ ",
+        "CaseD": "Bà cố ",
+        "Question": "Mẹ ruột của cha chúng ta gọi là gì?",
+        "TrueCase": 1,
+        "_id": 300
+    },
+    {
+        "CaseA": "Lớn lao ",
+        "CaseB": "To to ",
+        "CaseC": "Cỏn con ",
+        "CaseD": "Lon ton ",
+        "Question": "Điền vào chỗ trống: \"Ăn thì ăn những miếng ngon, làm thì chọn việc ... mà làm\"?",
+        "TrueCase": 3,
+        "_id": 301
+    },
+    {
+        "CaseA": "The Beatles",
+        "CaseB": "John Lennon ",
+        "CaseC": "Elton John ",
+        "CaseD": "Anfield ",
+        "Question": "Sân bay quốc tế ở thành phố cảng Liverpool , miền trung nước Anh có tên là gì ?",
+        "TrueCase": 2,
+        "_id": 302
+    },
+    {
+        "CaseA": "Thái Bình ",
+        "CaseB": "Hà Nam ",
+        "CaseC": "Ninh Bình ",
+        "CaseD": "Nam Định ",
+        "Question": "Thành phố Nam Định trực thuộc tỉnh nào của nước ta?",
+        "TrueCase": 4,
+        "_id": 303
+    }
+]
