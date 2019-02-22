@@ -1,0 +1,81 @@
+{ 
+    "version": 1,
+    "author":{
+      "first_name": "Hai",
+      "last_name":"Dao"
+    },
+  
+    "ads":{
+      "offline_banner_ads":[
+        {
+          "url_offline_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+          "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+        },
+        {
+          "url_offline_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+          "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+        },
+        {
+          "url_offline_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+          "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+        }
+      ],
+  
+      "slide_ads":[
+          {
+            "url_slide_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+            "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+          },
+          {
+            "url_slide_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+            "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+          },
+          {
+            "url_slide_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+            "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+          }
+      ],
+  
+      "icon_ads": [
+          {
+            "url_ads_icon": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+            "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+          },
+          {
+            "url_ads_icon": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+            "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+          },
+          {
+            "url_ads_icon": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+            "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+          }
+        ],
+  
+      "fullscreen_ads": {
+          "time_interval_to_show_ads": [
+            "1 min",
+            "5 min",
+            "30 min",
+            "5 hour",
+            "24 hour",
+            "2 day"
+          ],
+  
+          "fullscreen_ads_list": [
+            {
+              "url_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+              "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+            },
+            {
+              "url_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+              "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+            },
+            {
+              "url_ads_image": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png",
+              "url_to_redirect": "https://cdn3.iconfinder.com/data/icons/food-113/154/watermelon-nice-food-512.png"
+            }
+          ]
+        }
+    }
+    
+  }
